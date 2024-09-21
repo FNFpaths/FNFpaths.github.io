@@ -1,0 +1,304 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap');
+@font-face {
+    font-family: 'Burbank Big Condensed';
+    src: url('burbankbigcondensed_bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+body {
+    font-family: 'Noto Sans', sans-serif; /* Use Noto Sans for body */
+    background-color: #1e1e1e; /* Dark background */
+    color: #e0e0e0; /* Light text color */
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 20px; /* Reduced padding */
+}
+
+.container {
+    max-width: 600px;
+    width: 100%;
+    padding: 20px;
+    background-color: #000000; /* Darker container */
+    border-radius: 12px;
+    border: 1px solid #333; /* Darker border */
+}
+
+h1 {
+    font-family: 'Burbank Big Condensed', sans-serif; /* Use Burbank for headings */
+    font-size: 42px; /* Increased from 28px */
+    color: #ffffff; /* Title color */
+    margin-bottom: 10px; /* Reduced margin */
+    text-align: center;
+}
+
+.search-box {
+    font-family: 'Burbank Big Condensed', sans-serif; /* Use Burbank font */
+    margin-bottom: 20px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+#song-search {
+    font-family: 'Burbank Big Condensed', sans-serif; /* Use Burbank font */
+    
+    width: 96%; /* Increased from 80% to 96% for 20% wider */
+    max-width: 480px; /* Increased from 400px to 480px */
+    padding: 12px 15px; /* Increased padding */
+    font-size: 27px; /* Increased from 18px */
+    border: 1px solid #800080; /* Purple border color */
+    border-radius: 20px;
+    background-color: #343a40; /* Dark purple input background */
+    color: #ffffff; /* Input text color */
+    text-align: center;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+    transition: all 0.3s ease;
+    outline: none;
+}
+
+#song-search::placeholder {
+    color: #e0e0e0; /* Light placeholder color */
+}
+
+#song-search:focus {
+    border-color: #c0bec0; /* Darker purple on focus */
+    box-shadow: 0px 4px 15px rgba(0, 123, 255, 0.2);
+}
+
+.suggestions {
+    border: 1px solid #800080; /* Purple border color for suggestions */
+    max-height: 600px; /* Increased height */
+    overflow-y: auto;
+    background-color: #1e1e1e; /* Suggestions background */
+    position: absolute;
+    top: 100%; /* Position below the search box */
+    left: 50%; /* Align to the center of the search bar */
+    transform: translateX(-50%); /* Center it */
+    width: 100%; /* Match the width of the search box */
+    max-width: 480px; /* Updated max-width to match the new width */
+    border-radius: 12px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.5);
+    z-index: 999; /* Ensure it appears above other content */
+    margin-top: 5px;
+    padding: 0; /* Remove padding if necessary */
+}
+
+.suggestions div {
+    padding: 15px 20px; /* Increased padding for more space */
+    cursor: pointer;
+    font-size: 27px; /* Increased from 18px */
+    transition: background-color 0.2s ease, color 0.2s ease;
+    border-bottom: 1px solid #444; /* Optional: separates each item */
+}
+
+.suggestions div:last-child {
+    border-bottom: none; /* Remove border from the last item */
+}
+
+.suggestions div:hover {
+    background-color: #800080; /* Highlight suggestion on hover */
+    color: #ffffff; /* Hover text color */
+}
+
+.song-details {
+    margin-top: 30px;
+}
+
+.gpath-box strong {
+    color: #800080; /* Gpath text color */
+    font-size: 22px; /* Increased from 15px */
+}
+
+.gpath-container {
+    position: relative; /* Ensure positioning context for the button */
+    margin-top: 20px;
+    text-align: center;
+}
+
+#toggle-g-image-btn {
+    position: relative; /* Adjust positioning to be relative to the container */
+    display: block;
+    margin-bottom: 10px; /* Space between button and image */
+    z-index: 10; /* Ensure button is on top of the image */
+}
+
+#g-image-box {
+    text-align: center;
+}
+
+.gpImage {
+    max-width: 100%;
+    height: auto;
+}
+
+.leaderboard-container {
+    margin-top: 20px;
+    position: relative;
+}
+
+.hiscore-box {
+    border: 2px solid #800080; /* Border color */
+    padding: 15px;
+    margin-top: 10px;
+    background-color: #1e1e1e; /* Dark background */
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.3);
+    border-radius: 12px;
+    overflow: hidden;
+    font-size: 36px; /* Increased font size */
+    font-family: 'Burbank Big Condensed', sans-serif; /* Use Burbank font */
+    color: #ffffff; /* Set text color to white */
+}
+
+.scrollable-table-container-b {
+    max-height: 550px; /* Increased height to accommodate at least 10 scores */
+    overflow-y: auto;
+    scrollbar-width: thin; /* For Firefox */
+    scrollbar-color: #800080 #1e1e1e; /* Thumb color and track color */
+}
+
+/* For WebKit browsers (Chrome, Safari) */
+.scrollable-table-container-b::-webkit-scrollbar {
+    width: 8px; /* Width of the scrollbar */
+}
+
+.scrollable-table-container-b::-webkit-scrollbar-track {
+    background: #1e1e1e; /* Track color */
+    border-radius: 10px; /* Rounded corners */
+}
+
+.scrollable-table-container-b::-webkit-scrollbar-thumb {
+    background-color: #800080; /* Thumb color */
+    border-radius: 10px; /* Rounded corners */
+}
+
+.scrollable-table-container-b::-webkit-scrollbar-thumb:hover {
+    background-color: #5b005b; /* Darker shade on hover */
+}
+
+#b-leaderboard-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 24px; /* Increased font size for the table */
+    font-family: 'Burbank Big Condensed', sans-serif; /* Use Burbank font */
+}
+
+#b-leaderboard-table th, #b-leaderboard-table td {
+    padding: 10px;
+    border-bottom: 1px solid #444; /* Darker table border */
+}
+
+#b-leaderboard-table th {
+    background-color: #800080; /* Header background */
+    color: #ffffff; /* Header text color */
+}
+
+.path-box {
+    font-family: 'Noto Sans', sans-serif; /* Use Noto Sans for path box */
+    font-size: 30px; /* Increased from 18px */
+    line-height: 1.7;
+    margin-top: 10px;
+    font-weight: regular; /* Make text bold */
+    color: #ffffff; /* Set font color to solid white */
+    letter-spacing: 0; /* Reset letter-spacing if necessary */
+}
+
+.guitar-text {
+    display: inline-block;
+    font-family: 'Burbank Big Condensed', sans-serif; /* Use Burbank font */
+    font-size: 36px; /* Increased from 24px */
+    font-weight: bold; /* Bold text */
+    text-decoration: underline;
+    margin-right: 15px; /* Increase space between Pro Lead text and score */
+}
+
+.score-box {
+    font-family: 'Burbank Big Condensed', sans-serif; /* Use Burbank font */
+    background-color: #800080; /* Purple color */
+    border-radius: 10px;
+    padding: 2px 5px; /* Adjust padding for width */
+    display: inline-block;
+    font-size: 30px; /* Increased from 24px */
+    font-weight: bold;
+    color: #fff;
+    vertical-align: middle;
+    min-width: 80px; /* Set a minimum width */
+    letter-spacing: 1.5px; /* Spread out the text */
+}
+
+.guitar-icon {
+    height: 36px; /* Increased from 24px */
+    width: auto;
+    vertical-align: middle;
+    margin-right: 10px; /* Space between image and text */
+}
+
+.note-r {
+    color: red;
+    font-weight: bold;
+}
+
+.note-g {
+    color: green;
+    font-weight: bold;
+}
+
+.note-y {
+    color: yellow;
+    font-weight: bold;
+}
+
+.note-b {
+    color: blue;
+    font-weight: bold;
+}
+
+.note-o {
+    color: orange;
+    font-weight: bold;
+}
+
+#go-to-top {
+    position: absolute; /* Keep it absolute for positioning */
+    top: 10px; /* Position it at the top of the container */
+    left: 50%; /* Position it in the center horizontally */
+    transform: translateX(-50%); /* Adjust to center it */
+    padding: 10px 15px;
+    background-color: #800080; /* Button color */
+    color: white; /* Text color */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: none; /* Initially hidden */
+    z-index: 1000; /* Ensure it appears above other content */
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.3); /* Add a shadow for depth */
+    transition: background-color 0.3s ease, transform 0.3s ease; /* Smooth transition */
+}
+
+#go-to-top:hover {
+    background-color: #660066; /* Darker shade on hover */
+    transform: translate(-50%, -2px); /* Slight lift effect on hover */
+}
+
+.button {
+    background-color: #800080; /* Purple background */
+    color: white; /* White text */
+    border: none; /* Remove border */
+    padding: 10px 20px; /* Adjusted padding for smaller width */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+    font-family: 'Burbank Big Condensed', sans-serif; /* Use the Burbank font */
+    font-size: 1.5em; /* Increase font size */
+    transition: background-color 0.3s ease; /* Smooth transition */
+    margin-bottom: 10px; /* Space between buttons */
+    width: 200px; /* Fixed width for buttons */
+}
+
+.button:hover {
+    background-color: #660066; /* Darker purple on hover */
+}
+
+.button:active {
+    transform: translateY(1px); /* Slightly pressed effect on active */
+}
