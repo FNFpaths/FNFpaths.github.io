@@ -65,7 +65,7 @@ def download_and_decrypt_dat(dat_url, key):
     
     # Run the decryption script
     try:
-        subprocess.run(['python3', 'fnf.py', '-d', dat_file], check=True)
+        subprocess.run(['python3', 'scripts/fnf.py', '-d', dat_file], check=True)
         
         original_mid_file = dat_file.replace('.dat', '.mid')
         renamed_mid_file = f"{key}.mid"
