@@ -151,9 +151,9 @@ for dir in "$parent_directory"/*/; do
             l_image : "'"${lead_path_image}"'",
             lscore : "'"$lead_score"'",
 
-            ppath : "'"$bass_path"'",
-            p_image : "'"${bass_path_image}"'",
-            pscore : "'"$bass_score"'",
+            mpath : "'"$bass_path"'",
+            m_image : "'"${bass_path_image}"'",
+            mscore : "'"$bass_score"'",
             } 
         },'
 
