@@ -1,0 +1,62 @@
+name: Generate Paths
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  run-script:
+    runs-on: macos-latest
+
+    steps:
+      # Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Install Qt 6
+      - name: Install Qt 6
+        run: |
+          brew install qt@6
+          echo 'export PATH="/opt/homebrew/opt/qt@6/bin:$PATH"' >> $GITHUB_ENV
+
+      # Install Python and pip
+      - name: Install Python
+        run: brew install python
+
+      # Create a virtual environment and install required Python modules
+      - name: Setup Python environment
+        run: |
+          python3 -m venv venv
+          source venv/bin/activate
+          pip install --upgrade pip
+          pip install requests mido pycryptodome
+
+      # Make the download script executable
+      - name: Make download script executable
+        run: chmod +x ./scripts/download.py
+
+      # Run the download script
+      - name: Run download script
+        run: |
+          source venv/bin/activate
+          python ./scripts/download.py
+
+      # Make the main script executable
+      - name: Make main script executable
+        run: chmod +x ./scripts/run_script.sh
+
+      # Run the main script
+      - name: Generate Paths
+        run: |
+          source venv/bin/activate
+          ./scripts/run_script.sh
+
+      # Add generated files to GitHub
+      - name: Add generated files to repo
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add paths/* fnfp.js
+          git commit -m "Add New Song Paths" || echo "No changes to commit"
+          git push
