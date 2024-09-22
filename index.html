@@ -3,21 +3,60 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fortnite Festival Paths [BETA]</title>
+    <title>Fortnite Festival Paths</title>
     <link rel="stylesheet" href="styles.css">
     <link href="https://fonts.googleapis.com/css2?family=Burbank+Big+Condensed:wght@400;700&family=Noto+Sans:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
+    
     <div class="container">
-        <h1>Fortnite Festival Paths [BETA]</h1>
+        <div class="credits-button" id="creditsButton">?</div>
+
+        <div class="modal" id="creditsModal">
+            <div class="modal-content">
+                <span class="close-button" id="closeButton">&times;</span>
+                <p style="line-height: 3.0;"> <!-- Adjust the value as needed -->
+                    <strong>Created by <a href="https://x.com/FregRB" target="_blank">Freg</a>.</strong><br>
+                    Paths generated using <a href="https://github.com/GenericMadScientist/CHOpt" target="_blank">CHOpt</a> by 
+                    GenericMadScientist.<br>
+                    Leaderboard data provided by <a href="https://fnlookup.github.io/festival/" target="_blank">FNLookup</a> by 
+                    tposejank.<br>
+                    Inspired by <a href="https://rbpv.online/" target="_blank">RBPV.online</a>.<br>
+                    Contact me on <a href="https://x.com/FregRB" target="_blank">Twitter</a> for any suggestions/bug reports.
+                </p>
+            </div>
+        </div>
+        <h1>Fortnite Festival Paths</h1>
         <div class="search-box">
             <label for="song-search" hidden>Enter song name:</label>
             <input type="text" id="song-search" placeholder="Search for a song..." oninput="showSuggestions()">
             <div class="suggestions" id="suggestions"></div>
         </div>
 
-        <button id="pro-lead-btn" class="button" style="display: none;">Pro Lead</button>
-        <button id="pro-bass-btn" class="button" style="display: none;">Pro Bass</button>
+            <!-- ADD NEW INSTRUMENTS HERE -->
+            <div class="instrument-buttons-container" style="display: none;">
+                <div class="instrument-buttons">
+                    <button id="vocals-btn" class="instrument-button" style="display: none;" data-instrument="vocals">
+                        <img src="img/vocals.png" alt="Vocals">
+                    </button>
+                    <button id="lead-btn" class="instrument-button" style="display: none;" data-instrument="lead">
+                        <img src="img/guitar.png" alt="Lead">
+                    </button>
+                    <button id="bass-btn" class="instrument-button" style="display: none;" data-instrument="bass">
+                        <img src="img/bass.png" alt="Bass">
+                    </button>
+                    <button id="drums-btn" class="instrument-button" style="display: none;" data-instrument="drums">
+                        <img src="img/drums.png" alt="Drums">
+                    </button>
+                    <button id="pro-lead-btn" class="instrument-button" style="display: none;" data-instrument="pro-lead">
+                        <img src="img/pro_guitar.png" alt="Pro Lead">
+                    </button>
+                    <button id="pro-bass-btn" class="instrument-button" style="display: none;" data-instrument="pro-bass">
+                        <img src="img/pro_bass.png" alt="Pro Bass">
+                    </button>
+                </div>
+            </div>
+
 
         <div id="song-details" class="song-details">
             <!-- Song details will be displayed here -->
@@ -57,6 +96,28 @@
 
     <script src="fnpv.js"></script>
     <script>
+        const creditsButton = document.getElementById('creditsButton');
+        const creditsModal = document.getElementById('creditsModal');
+        const closeButton = document.getElementById('closeButton');
+
+        creditsButton.addEventListener('click', (e) => {
+            e.stopPropagation(); // Prevent the click from closing the modal
+            creditsModal.style.display = 'flex';
+        });
+
+        closeButton.addEventListener('click', () => {
+            creditsModal.style.display = 'none';
+        });
+
+        document.addEventListener('click', () => {
+            creditsModal.style.display = 'none';
+        });
+
+        // Remove e.stopPropagation() here to allow clicks on the background to close the modal
+        creditsModal.addEventListener('click', () => {
+            creditsModal.style.display = 'none';
+        });
+
         const leaderboardContainer = document.querySelector('.scrollable-table-container-b');
         const goToTopButton = document.getElementById('go-to-top');
         
@@ -81,6 +142,9 @@
 
         const leaderboardBox = document.getElementById('b-hiscore-box');
         const leaderboardButton = document.getElementById('show-b-hiscore-btn');
+        const pathimageButton = document.getElementById('toggle-g-image-btn');
+
+        pathimageButton.textContent = 'Show Path Image';
 
         // Close the leaderboard if it's open
         if (leaderboardBox.style.display === 'block') {
@@ -91,6 +155,7 @@
     }
 });
 
+// ADD NEW INSTRUMENTS HERE
 document.getElementById('pro-bass-btn').addEventListener('click', () => {
     currentInstrument = 'b'; // Pro Bass
     if (selectedSong) {
@@ -99,6 +164,93 @@ document.getElementById('pro-bass-btn').addEventListener('click', () => {
 
         const leaderboardBox = document.getElementById('b-hiscore-box');
         const leaderboardButton = document.getElementById('show-b-hiscore-btn');
+        const pathimageButton = document.getElementById('toggle-g-image-btn');
+
+        pathimageButton.textContent = 'Show Path Image';
+
+        // Close the leaderboard if it's open
+        if (leaderboardBox.style.display === 'block') {
+            leaderboardBox.style.display = 'none';
+            leaderboardButton.textContent = 'Show Leaderboard';
+            goToTopButton.style.display = 'none'; // Hide "Go to Top" when leaderboard is hidden
+        }
+    }
+});
+
+document.getElementById('drums-btn').addEventListener('click', () => {
+    currentInstrument = 'd'; // Drums
+    if (selectedSong) {
+        selectSong(selectedSong); // Update if a song is selected
+        fetchLeaderboard(selectedSong.data.shortname); // Fetch leaderboard data for the selected song
+
+        const leaderboardBox = document.getElementById('b-hiscore-box');
+        const leaderboardButton = document.getElementById('show-b-hiscore-btn');
+        const pathimageButton = document.getElementById('toggle-g-image-btn');
+
+        pathimageButton.textContent = 'Show Path Image';
+
+        // Close the leaderboard if it's open
+        if (leaderboardBox.style.display === 'block') {
+            leaderboardBox.style.display = 'none';
+            leaderboardButton.textContent = 'Show Leaderboard';
+            goToTopButton.style.display = 'none'; // Hide "Go to Top" when leaderboard is hidden
+        }
+    }
+});
+
+document.getElementById('vocals-btn').addEventListener('click', () => {
+    currentInstrument = 'v'; // Vocals
+    if (selectedSong) {
+        selectSong(selectedSong); // Update if a song is selected
+        fetchLeaderboard(selectedSong.data.shortname); // Fetch leaderboard data for the selected song
+
+        const leaderboardBox = document.getElementById('b-hiscore-box');
+        const leaderboardButton = document.getElementById('show-b-hiscore-btn');
+        const pathimageButton = document.getElementById('toggle-g-image-btn');
+
+        pathimageButton.textContent = 'Show Path Image';
+
+        // Close the leaderboard if it's open
+        if (leaderboardBox.style.display === 'block') {
+            leaderboardBox.style.display = 'none';
+            leaderboardButton.textContent = 'Show Leaderboard';
+            goToTopButton.style.display = 'none'; // Hide "Go to Top" when leaderboard is hidden
+        }
+    }
+});
+
+document.getElementById('lead-btn').addEventListener('click', () => {
+    currentInstrument = 'l'; // Lead
+    if (selectedSong) {
+        selectSong(selectedSong); // Update if a song is selected
+        fetchLeaderboard(selectedSong.data.shortname); // Fetch leaderboard data for the selected song
+
+        const leaderboardBox = document.getElementById('b-hiscore-box');
+        const leaderboardButton = document.getElementById('show-b-hiscore-btn');
+        const pathimageButton = document.getElementById('toggle-g-image-btn');
+
+        pathimageButton.textContent = 'Show Path Image';
+
+        // Close the leaderboard if it's open
+        if (leaderboardBox.style.display === 'block') {
+            leaderboardBox.style.display = 'none';
+            leaderboardButton.textContent = 'Show Leaderboard';
+            goToTopButton.style.display = 'none'; // Hide "Go to Top" when leaderboard is hidden
+        }
+    }
+});
+
+document.getElementById('bass-btn').addEventListener('click', () => {
+    currentInstrument = 'm'; // Bass
+    if (selectedSong) {
+        selectSong(selectedSong); // Update if a song is selected
+        fetchLeaderboard(selectedSong.data.shortname); // Fetch leaderboard data for the selected song
+
+        const leaderboardBox = document.getElementById('b-hiscore-box');
+        const leaderboardButton = document.getElementById('show-b-hiscore-btn');
+        const pathimageButton = document.getElementById('toggle-g-image-btn');
+
+        pathimageButton.textContent = 'Show Path Image';
 
         // Close the leaderboard if it's open
         if (leaderboardBox.style.display === 'block') {
@@ -157,18 +309,47 @@ document.getElementById('pro-bass-btn').addEventListener('click', () => {
     const songDetailsDiv = document.getElementById('song-details');
     const suggestionsDiv = document.getElementById('suggestions');
     const searchBox = document.getElementById('song-search');
+    const instrumentButtonsContainer = document.querySelector('.instrument-buttons-container');
 
     searchBox.value = song.value;
     suggestionsDiv.innerHTML = '';
 
+    // Show the instrument buttons container
+    instrumentButtonsContainer.style.display = 'block';
+
     // Show instrument buttons
+    document.getElementById('vocals-btn').style.display = 'inline-block';
+    document.getElementById('lead-btn').style.display = 'inline-block';
+    document.getElementById('bass-btn').style.display = 'inline-block';
+    document.getElementById('drums-btn').style.display = 'inline-block';
     document.getElementById('pro-lead-btn').style.display = 'inline-block';
     document.getElementById('pro-bass-btn').style.display = 'inline-block';
+    
 
-    // Determine which instrument data to use based on the currentInstrument variable
-    const path = currentInstrument === 'g' ? song.data.gpath : song.data.bpath;
-    const score = currentInstrument === 'g' ? song.data.gscore : song.data.bscore;
-    const image = currentInstrument === 'g' ? song.data.g_image : song.data.b_image;
+// ADD NEW INSTRUMENTS HERE
+// Determine which instrument data to use based on the currentInstrument variable
+    const path = currentInstrument === 'g' ? song.data.gpath :
+                 currentInstrument === 'b' ? song.data.bpath :
+                 currentInstrument === 'd' ? song.data.dpath : // Add this line for drums
+                 currentInstrument === 'v' ? song.data.vpath :  // Add this line for Vocals
+                 currentInstrument === 'l' ? song.data.lpath :  // Add this line for Lead
+                 currentInstrument === 'm' ? song.data.mpath : ''; // Add this line for Bass
+
+    const score = currentInstrument === 'g' ? song.data.gscore :
+                  currentInstrument === 'b' ? song.data.bscore :
+                  currentInstrument === 'd' ? song.data.dscore :  // Add this line for drums
+                  currentInstrument === 'v' ? song.data.vscore :  // Add this line for Vocals
+                  currentInstrument === 'l' ? song.data.lscore :  // Add this line for Lead
+                  currentInstrument === 'm' ? song.data.mscore : ''; // Add this line for Bass
+
+
+    const image = currentInstrument === 'g' ? song.data.g_image :
+                  currentInstrument === 'b' ? song.data.b_image :
+                  currentInstrument === 'd' ? song.data.d_image :  // Add this line for drums
+                  currentInstrument === 'v' ? song.data.v_image :  // Add this line for Vocals
+                  currentInstrument === 'l' ? song.data.l_image :  // Add this line for Lead
+                  currentInstrument === 'm' ? song.data.m_image : ''; // Add this line for Bass
+                  
 
     // Format the path with colors
     const formattedPath = formatPath(path)
@@ -178,13 +359,17 @@ document.getElementById('pro-bass-btn').addEventListener('click', () => {
         .replace(/\s+/g, ' ');
 
     const scoreHtml = `<div class="score-box">${score}</div>`;
-    const pathHtml = `
-        <div class="path-box">
-            <img src="img/guitar_tp.png" alt="Pro ${currentInstrument === 'g' ? 'Lead' : 'Bass'}" class="guitar-icon">
-            <span class="guitar-text"><b><u>Pro ${currentInstrument === 'g' ? 'Lead' : 'Bass'}</u></b></span> ${scoreHtml} <br>
-            ${formattedPath}
-        </div>
-    `;
+    // ADD NEW INSTRUMENTS HERE
+    const instrumentImage = currentInstrument === 'g' ? 'pro_guitar.png' : currentInstrument === 'b' ? 'pro_bass.png' : currentInstrument === 'v' ? 'vocals.png' : currentInstrument === 'm' ? 'bass.png' : currentInstrument === 'l' ? 'guitar.png' : 'drums.png';
+    const instrumentText = currentInstrument === 'g' ? 'Pro Lead' : currentInstrument === 'b' ? 'Pro Bass' : currentInstrument === 'v' ? 'Vocals' : currentInstrument === 'm' ? 'Bass' : currentInstrument === 'l' ? 'Lead' : 'Drums';
+
+const pathHtml = `
+    <div class="path-box">
+        <img src="img/${instrumentImage}" alt="${instrumentText}" class="instrument-icon">
+        <span class="guitar-text"><b><u>${instrumentText}</u></b></span> ${scoreHtml} <br>
+        ${formattedPath}
+    </div>
+`;
 
     songDetailsDiv.innerHTML = pathHtml;
 
@@ -232,11 +417,26 @@ document.getElementById('pro-bass-btn').addEventListener('click', () => {
         
         async function fetchLeaderboard(songId) {
             try {
-                const url = `https://raw.githubusercontent.com/mattfreg/FNF_ProLeaderboards/main/leaderboards/season5/${songId}/Solo_Peripheral${currentInstrument === 'g' ? 'Guitar' : 'Bass'}_0.json`;
-        
+                let url;
+
+                if (currentInstrument === 'g' || currentInstrument === 'b') {
+                    // Use the current site for Pro Lead and Pro Bass
+                    url = `https://raw.githubusercontent.com/mattfreg/FNF_ProLeaderboards/main/leaderboards/season5/${songId}/Solo_Peripheral${currentInstrument === 'g' ? 'Guitar' : 'Bass'}_0.json`;
+                } else {
+                    // Use the alternative site for other instruments
+                    const instrumentMap = {
+                        v: 'Vocals',
+                        m: 'Bass',
+                        l: 'Guitar',
+                        d: 'Drums'
+                    };
+                    const selectedInstrument = instrumentMap[currentInstrument];
+                    url = `https://raw.githubusercontent.com/FNLookup/festival-leaderboards/refs/heads/main/leaderboards/season5/${songId}/Solo_${selectedInstrument}_0.json`;
+                }
+
                 const response = await fetch(url);
                 if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
-        
+
                 const data = await response.json();
                 if (Array.isArray(data.entries) && data.entries.length > 0) {
                     updateLeaderboardTable(data.entries);
@@ -248,7 +448,7 @@ document.getElementById('pro-bass-btn').addEventListener('click', () => {
                 updateLeaderboardTable([]); // Clear table on error
             }
         }
-        
+
         function updateLeaderboardTable(entries) {
             const tableBody = document.getElementById('b-hiscore-table');
             tableBody.innerHTML = '';
@@ -286,6 +486,7 @@ document.getElementById('pro-bass-btn').addEventListener('click', () => {
                 tableBody.appendChild(row);
             });
         }
+        
         </script>
 </body>
 </html>
