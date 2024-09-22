@@ -23,6 +23,7 @@ body {
     background-color: #000000; /* Darker container */
     border-radius: 12px;
     border: 1px solid #333; /* Darker border */
+    position: relative; /* For absolute positioning of credits button */
 }
 
 h1 {
@@ -40,7 +41,6 @@ h1 {
     display: flex;
     justify-content: center;
 }
-
 #song-search {
     font-family: 'Burbank Big Condensed', sans-serif; /* Use Burbank font */
     
@@ -226,14 +226,12 @@ h1 {
     min-width: 80px; /* Set a minimum width */
     letter-spacing: 1.5px; /* Spread out the text */
 }
-
-.guitar-icon {
+.instrument-icon {
     height: 36px; /* Increased from 24px */
     width: auto;
     vertical-align: middle;
     margin-right: 10px; /* Space between image and text */
 }
-
 .note-r {
     color: red;
     font-weight: bold;
@@ -301,4 +299,98 @@ h1 {
 
 .button:active {
     transform: translateY(1px); /* Slightly pressed effect on active */
+}
+.instrument-buttons {
+    display: flex;
+    justify-content: space-around; /* Adjust as needed */
+    border-radius: 25px; /* Rounded corners */
+    background-color: #333; /* Background color */
+    padding: 10px; /* Adjust padding if needed */
+    margin: 16px 0; /* Space around the rectangle */
+    transform: scale(0.8); /* Scale up to 130% of original size */
+    transform-origin: center; /* Ensure it scales from the center */
+}
+
+.instrument-button {
+    background: none; /* Remove default button styling */
+    border: none; /* Remove border */
+    cursor: pointer; /* Pointer cursor on hover */
+    transition: transform 0.2s; /* Smooth transform effect */
+}
+
+.instrument-button img {
+    width: 50%; /* Adjust width to fit the new size */
+    height: auto; /* Maintain aspect ratio */
+}
+
+.instrument-button:hover {
+    transform: scale(1.1); /* Slightly enlarge on hover */
+}
+.credits-box {
+    position: fixed; 
+    top: 50%; 
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    width: 400px; /* Adjust as needed */
+    height: 300px; /* Adjust as needed */
+    padding: 20px; 
+    background-color: rgba(0, 0, 0, 0.9); 
+    border-radius: 12px; 
+    color: #ffffff; 
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.5); 
+    z-index: 1001; 
+    display: none; 
+}
+.credits-button {
+    position: absolute;
+    top: 10px; /* Adjust this value to move it closer or further from the header */
+    right: 10px; /* Adjust this value as needed */
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: white;
+    color: black;
+    text-align: center;
+    line-height: 30px;
+    cursor: pointer;
+    font-weight: bold;
+    z-index: 1000; /* Ensure it appears above other content */
+}
+/* Modal Styles */
+.modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+    justify-content: center;
+    align-items: center;
+    z-index: 1000; /* Ensure it appears above other content */
+}
+
+.modal-content {
+    background-color: #222;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    position: relative;
+}
+
+.close-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+}
+.modal-content a {
+    color: #008cff; /* Change this to your desired color */
+    text-decoration: none; /* Remove underline if you want */
+}
+
+.modal-content a:visited {
+    color: #008cff; /* Keep the same color for visited links */
 }
