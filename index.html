@@ -274,26 +274,31 @@ document.getElementById('bass-btn').addEventListener('click', () => {
         });
         
         function showSuggestions(query) {
-            const suggestionsDiv = document.getElementById('suggestions');
-            suggestionsDiv.innerHTML = '';
-            if (!query) {
-                suggestionsDiv.style.display = 'none';
-                return;
-            }
-        
-            const filteredSongs = songs.filter(song => song.value.toLowerCase().includes(query.toLowerCase()));
-            if (filteredSongs.length > 0) {
-                filteredSongs.forEach(song => {
-                    const suggestionItem = document.createElement('div');
-                    suggestionItem.textContent = song.value;
-                    suggestionItem.onclick = () => selectSong(song);
-                    suggestionsDiv.appendChild(suggestionItem);
-                });
-                suggestionsDiv.style.display = 'block';
-            } else {
-                suggestionsDiv.style.display = 'none';
-            }
-        }
+    const suggestionsDiv = document.getElementById('suggestions');
+    suggestionsDiv.innerHTML = '';
+    
+    if (!query) {
+        suggestionsDiv.style.display = 'none';
+        return;
+    }
+
+    // Filter and sort the songs alphabetically by their 'value'
+    const filteredSongs = songs
+        .filter(song => song.value.toLowerCase().includes(query.toLowerCase()))
+        .sort((a, b) => a.value.localeCompare(b.value)); // Sort alphabetically
+
+    if (filteredSongs.length > 0) {
+        filteredSongs.forEach(song => {
+            const suggestionItem = document.createElement('div');
+            suggestionItem.textContent = song.value;
+            suggestionItem.onclick = () => selectSong(song);
+            suggestionsDiv.appendChild(suggestionItem);
+        });
+        suggestionsDiv.style.display = 'block';
+    } else {
+        suggestionsDiv.style.display = 'none';
+    }
+}
         
         let selectedSong = null;
         
