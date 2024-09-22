@@ -318,6 +318,25 @@ document.getElementById('bass-btn').addEventListener('click', () => {
     const searchBox = document.getElementById('song-search');
     const instrumentButtonsContainer = document.querySelector('.instrument-buttons-container');
 
+    const leaderboardBox = document.getElementById('b-hiscore-box');
+    const leaderboardButton = document.getElementById('show-b-hiscore-btn');
+    const pathImageBox = document.getElementById('g-image-box');
+    const pathImageButton = document.getElementById('toggle-g-image-btn');
+    const goToTopButton = document.getElementById('go-to-top');
+
+    // Hide the leaderboard
+    if (leaderboardBox.style.display === 'block') {
+        leaderboardBox.style.display = 'none';
+        leaderboardButton.textContent = 'Show Leaderboard';
+        goToTopButton.style.display = 'none'; // Hide "Go to Top" when leaderboard is hidden
+    }
+
+    // Hide the path image
+    if (pathImageBox.style.display === 'block') {
+        pathImageBox.style.display = 'none';
+        pathImageButton.textContent = 'Show Path Image';
+    }
+
     searchBox.value = song.value;
     suggestionsDiv.innerHTML = '';
 
@@ -397,7 +416,6 @@ const pathHtml = `
     imageElement.style.display = 'none';
 
     // Show the leaderboard button
-    const leaderboardButton = document.getElementById('show-b-hiscore-btn');
     leaderboardButton.style.display = 'block';
     leaderboardButton.setAttribute('data-song-id', song.data.shortname);
 
