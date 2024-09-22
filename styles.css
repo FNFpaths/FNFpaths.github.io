@@ -394,3 +394,13 @@ h1 {
 .modal-content a:visited {
     color: #008cff; /* Keep the same color for visited links */
 }
+/* Mobile-specific styles */
+@media (max-width: 550px) {
+    .instrument-buttons {
+        transform: scale(1.2); /* Increase size on mobile */
+    }
+    
+    .instrument-button img {
+        width: 60%; /* Increase image size on mobile */
+    }
+}
