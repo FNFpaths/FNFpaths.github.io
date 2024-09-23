@@ -24,7 +24,7 @@ const songs = [
             lscore : "119028",
 
             mpath : "1/8th R, 2/3rd R, 1/8th R, 3/NN, 1/4th Y, 1/6th R, 1/17th Y",
-            m_score : "'24k_magic_by_bruno_mars_bass.png'",
+            m_image : "'24k_magic_by_bruno_mars_bass.png'",
             mscore : "173941",
             } 
         },
@@ -53,7 +53,7 @@ const songs = [
             lscore : "137088",
 
             mpath : "3(+1)/9th R, 1/1st G, 1/1st G",
-            m_score : "'abcdefu_by_gayle_bass.png'",
+            m_image : "'abcdefu_by_gayle_bass.png'",
             mscore : "49554",
             } 
         },
@@ -82,7 +82,7 @@ const songs = [
             lscore : "177509",
 
             mpath : "1/5th Y, 1/3rd Y, 1/NN, 1/NN, 1/NN, 1/7th Y",
-            m_score : "'aint_no_rest_for_the_wicked_by_cage_the_elephant_bass.png'",
+            m_image : "'aint_no_rest_for_the_wicked_by_cage_the_elephant_bass.png'",
             mscore : "44070",
             } 
         },
@@ -111,7 +111,7 @@ const songs = [
             lscore : "169614",
 
             mpath : "1/2nd O, 2/2nd B, 1/2nd B, 1/NN, 1/2nd B, 2/4th B, 1/2nd Y, 1/NN",
-            m_score : "'all_of_me_tiestos_birthday_treatment_remix_by_john_legend_bass.png'",
+            m_image : "'all_of_me_tiestos_birthday_treatment_remix_by_john_legend_bass.png'",
             mscore : "143562",
             } 
         },
@@ -140,7 +140,7 @@ const songs = [
             lscore : "76560",
 
             mpath : "1/8th O, 1/NN, 1/3rd O, 1/NN, 1/3rd O, 1/NN",
-            m_score : "'all_the_good_girls_go_to_hell_by_billie_eilish_bass.png'",
+            m_image : "'all_the_good_girls_go_to_hell_by_billie_eilish_bass.png'",
             mscore : "82764",
             } 
         },
@@ -169,7 +169,7 @@ const songs = [
             lscore : "215804",
 
             mpath : "2/7th B, 1/NN, 1/7th B, 1/1st GY, 1/17th GY, 1/1st GY",
-            m_score : "'all_the_small_things_by_blink182_bass.png'",
+            m_image : "'all_the_small_things_by_blink182_bass.png'",
             mscore : "259164",
             } 
         },
@@ -198,7 +198,7 @@ const songs = [
             lscore : "76078",
 
             mpath : "4/NN, 1/2nd B, 1/1st R, 1/2nd B, 1/NN",
-            m_score : "'all_the_stars_by_kendrick_lamar_ft_sza_bass.png'",
+            m_image : "'all_the_stars_by_kendrick_lamar_ft_sza_bass.png'",
             mscore : "54618",
             } 
         },
@@ -227,7 +227,7 @@ const songs = [
             lscore : "228912",
 
             mpath : "2(+1)/5th R, 1/3rd R, 1/7th R, 1/NN, 1/NN, 1/NN, 1/7th R, 1/7th O, 1/NN",
-            m_score : "'american_idiot_by_green_day_bass.png'",
+            m_image : "'american_idiot_by_green_day_bass.png'",
             mscore : "160602",
             } 
         },
@@ -256,7 +256,7 @@ const songs = [
             lscore : "131984",
 
             mpath : "1/1st G, 3(+1)/6th O, 1/3rd O, 1/NN, 1/3rd B, 1(+1)/5th O",
-            m_score : "'applause_by_lady_gaga_bass.png'",
+            m_image : "'applause_by_lady_gaga_bass.png'",
             mscore : "93788",
             } 
         },
@@ -285,7 +285,7 @@ const songs = [
             lscore : "82416",
 
             mpath : "1/12th B, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
-            m_score : "'apple_by_charli_xcx_bass.png'",
+            m_image : "'apple_by_charli_xcx_bass.png'",
             mscore : "147969",
             } 
         },
@@ -314,7 +314,7 @@ const songs = [
             lscore : "30385",
 
             mpath : "3(+1)/5th R, 1/NN, 1/NN",
-            m_score : "'astronaut_in_the_ocean_by_masked_wolf_bass.png'",
+            m_image : "'astronaut_in_the_ocean_by_masked_wolf_bass.png'",
             mscore : "54267",
             } 
         },
@@ -343,7 +343,7 @@ const songs = [
             lscore : "23256",
 
             mpath : "1/5th G, 1/4th G, 1/1st Y, 1(+1)/6th B, 1/1st Y, 1/2nd Y, 2/3rd R",
-            m_score : "'bad_guy_by_billie_eilish_bass.png'",
+            m_image : "'bad_guy_by_billie_eilish_bass.png'",
             mscore : "98466",
             } 
         },
@@ -372,7 +372,7 @@ const songs = [
             lscore : "142566",
 
             mpath : "2(+1)/16th R, 1/NN, 2(+1)/16th R, 1/NN, 1/1st R, 1/NN, 1/NN",
-            m_score : "'bad_romance_by_lady_gaga_bass.png'",
+            m_image : "'bad_romance_by_lady_gaga_bass.png'",
             mscore : "380808",
             } 
         },
@@ -401,7 +401,7 @@ const songs = [
             lscore : "47740",
 
             mpath : "2/2nd G, 1/NN, 1/3rd B, 1/NN, 1/3rd Y",
-            m_score : "'bandit_by_don_toliver_bass.png'",
+            m_image : "'bandit_by_don_toliver_bass.png'",
             mscore : "48912",
             } 
         },
@@ -430,7 +430,7 @@ const songs = [
             lscore : "138258",
 
             mpath : "1/7th R, 1/2nd R, 1/1st R, 1/1st R, 1/2nd G, 1/2nd Y, 1/1st R",
-            m_score : "'barbie_girl_by_aqua_bass.png'",
+            m_image : "'barbie_girl_by_aqua_bass.png'",
             mscore : "108879",
             } 
         },
@@ -459,7 +459,7 @@ const songs = [
             lscore : "241848",
 
             mpath : "1/1st R, 1/7th B, 1/1st R, 1/1st B, 1/NN, 1/15th B, 1/4th Y, 1/NN, 1/4th R",
-            m_score : "'basket_case_by_green_day_bass.png'",
+            m_image : "'basket_case_by_green_day_bass.png'",
             mscore : "162798",
             } 
         },
@@ -488,7 +488,7 @@ const songs = [
             lscore : "344057",
 
             mpath : "3/3rd O, 1/NN, 1/1st O, 1/NN, 1/6th O, 1/7th O, 1/6th O, 1/8th G, 1/6th G, 1/6th B, 1/6th R, 1/NN, 1/NN, 1/8th G, 1/NN, 1/7th O, 1/6th O, 1/8th G, 1/4th B, 1/NN, 1/7th O",
-            m_score : "'battery_by_metallica_bass.png'",
+            m_image : "'battery_by_metallica_bass.png'",
             mscore : "332955",
             } 
         },
@@ -517,7 +517,7 @@ const songs = [
             lscore : "225464",
 
             mpath : "1/5th Y, 1/NN, 1/NN, 1/NN, 1/NN, 1/2nd Y, 1/NN, 4(+1)/7th B, 1/3rd R",
-            m_score : "'beautiful_day_by_u2_bass.png'",
+            m_image : "'beautiful_day_by_u2_bass.png'",
             mscore : "251034",
             } 
         },
@@ -546,7 +546,7 @@ const songs = [
             lscore : "287716",
 
             mpath : "1/17th G, 1/12th R, 1/NN, 2(+1)/6th R, 1/16th R, 1/4th Y, 1/2nd G, 1/2nd G, 4/11th R",
-            m_score : "'before_i_forget_by_slipknot_bass.png'",
+            m_image : "'before_i_forget_by_slipknot_bass.png'",
             mscore : "294288",
             } 
         },
@@ -575,7 +575,7 @@ const songs = [
             lscore : "178618",
 
             mpath : "1/8th B, 2/NN, 1/3rd B, 2/2nd Y, 1/2nd G, 3/13th Y",
-            m_score : "'beggin_by_maneskin_bass.png'",
+            m_image : "'beggin_by_maneskin_bass.png'",
             mscore : "119343",
             } 
         },
@@ -604,7 +604,7 @@ const songs = [
             lscore : "139976",
 
             mpath : "4(+1)/1st G, 1/2nd Y",
-            m_score : "'believer_by_imagine_dragons_bass.png'",
+            m_image : "'believer_by_imagine_dragons_bass.png'",
             mscore : "19423",
             } 
         },
@@ -633,7 +633,7 @@ const songs = [
             lscore : "140273",
 
             mpath : "2(+1)/1st Y, 3(+1)/1st Y, 1/9th B, 1/NN, 1/NN, 1/NN",
-            m_score : "'return_of_the_tiger_by_epic_games_bass.png'",
+            m_image : "'return_of_the_tiger_by_epic_games_bass.png'",
             mscore : "163008",
             } 
         },
@@ -662,7 +662,7 @@ const songs = [
             lscore : "140153",
 
             mpath : "1/8th Y, 1/NN, 2(+1)/7th B, 1/1st R, 1/NN, 1/NN, 1/NN, 1/1st Y, 1/2nd Y, 1/3rd B",
-            m_score : "'best_buds_by_epic_games_bass.png'",
+            m_image : "'best_buds_by_epic_games_bass.png'",
             mscore : "165264",
             } 
         },
@@ -691,7 +691,7 @@ const songs = [
             lscore : "77115",
 
             mpath : "2/4th G, 1(+1)/2nd R, 1/NN, 1/4th B, 1/NN",
-            m_score : "'eyes_closed_by_imagine_dragons_bass.png'",
+            m_image : "'eyes_closed_by_imagine_dragons_bass.png'",
             mscore : "97527",
             } 
         },
@@ -720,7 +720,7 @@ const songs = [
             lscore : "245444",
 
             mpath : "2/5th B, 1/NN, 1/2nd R, 1/NN, 1/NN",
-            m_score : "'better_now_by_post_malone_bass.png'",
+            m_image : "'better_now_by_post_malone_bass.png'",
             mscore : "66774",
             } 
         },
@@ -749,7 +749,7 @@ const songs = [
             lscore : "102447",
 
             mpath : "2(+1)/1st R, 1/NN, 1/NN, 1/NN, 1/NN, 1/11th B, 1/1st R, 1/NN, 1/NN, 1/NN",
-            m_score : "'better_off_alone_by_alice_deejay_bass.png'",
+            m_image : "'better_off_alone_by_alice_deejay_bass.png'",
             mscore : "267348",
             } 
         },
@@ -778,7 +778,7 @@ const songs = [
             lscore : "344212",
 
             mpath : "1/2nd O, 1/NN, 1/8th B, 1/1st B, 1/NN, 1/NN, 1/4th R, 1/9th R, 1/NN, 1/5th R, 4/2nd O, 1/NN, 1/2nd G",
-            m_score : "'beyond_the_flame_by_epic_games_bass.png'",
+            m_image : "'beyond_the_flame_by_epic_games_bass.png'",
             mscore : "349602",
             } 
         },
@@ -807,7 +807,7 @@ const songs = [
             lscore : "97254",
 
             mpath : "1/4th G, 1/1st G, 1/3rd G, 1/NN, 1/NN, 1/NN, 1/3rd G",
-            m_score : "'big_energy_by_latto_bass.png'",
+            m_image : "'big_energy_by_latto_bass.png'",
             mscore : "51804",
             } 
         },
@@ -836,7 +836,7 @@ const songs = [
             lscore : "110577",
 
             mpath : "1/3rd G, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
-            m_score : "'big_poppa_by_the_notorious_big_bass.png'",
+            m_image : "'big_poppa_by_the_notorious_big_bass.png'",
             mscore : "84366",
             } 
         },
@@ -865,7 +865,7 @@ const songs = [
             lscore : "135752",
 
             mpath : "2/8th G, 1/5th G, 1/5th G, 1/NN, 1/5th G, 1/NN, 1/6th G, 1/NN, 1/NN, 1/5th G, 1/NN",
-            m_score : "'black_beatles_by_rae_sremmurd_ft_gucci_mane_bass.png'",
+            m_image : "'black_beatles_by_rae_sremmurd_ft_gucci_mane_bass.png'",
             mscore : "106668",
             } 
         },
@@ -894,7 +894,7 @@ const songs = [
             lscore : "188269",
 
             mpath : "2/3rd B, 1/1st G, 4/9th R, 4(+1)/8th Y, 1/9th Y",
-            m_score : "'black_hole_sun_by_soundgarden_bass.png'",
+            m_image : "'black_hole_sun_by_soundgarden_bass.png'",
             mscore : "162213",
             } 
         },
@@ -923,7 +923,7 @@ const songs = [
             lscore : "104202",
 
             mpath : "2/2nd G, 1/2nd O, 1/2nd O, 1/2nd O, 1/2nd O, 1/4th O, 1/2nd O, 1/NN, 1/2nd O",
-            m_score : "'blinding_lights_by_the_weeknd_bass.png'",
+            m_image : "'blinding_lights_by_the_weeknd_bass.png'",
             mscore : "71207",
             } 
         },
@@ -952,7 +952,7 @@ const songs = [
             lscore : "189216",
 
             mpath : "1/NN, 1/NN, 1/4th Y, 1/2nd Y, 1/NN, 1/8th Y, 1/9th G, 1/6th Y, 1/19th G",
-            m_score : "'blitzkrieg_bop_by_ramones_bass.png'",
+            m_image : "'blitzkrieg_bop_by_ramones_bass.png'",
             mscore : "160848",
             } 
         },
@@ -981,7 +981,7 @@ const songs = [
             lscore : "101016",
 
             mpath : "1/10th Y, 1/NN, 2(+1)/17th G, 2(+1)/7th G, 1/NN",
-            m_score : "'bloody_mary_by_lady_gaga_bass.png'",
+            m_image : "'bloody_mary_by_lady_gaga_bass.png'",
             mscore : "169218",
             } 
         },
@@ -1010,7 +1010,7 @@ const songs = [
             lscore : "101694",
 
             mpath : "4(+1)/7.1 beats after 7th Y, 1/3rd R, 1/11th Y",
-            m_score : "'bloom_by_epic_games_bass.png'",
+            m_image : "'bloom_by_epic_games_bass.png'",
             mscore : "77895",
             } 
         },
@@ -1039,7 +1039,7 @@ const songs = [
             lscore : "59178",
 
             mpath : "1/9th Y, 1/2nd R, 1/1st Y, 1/2nd R, 1/NN",
-            m_score : "'blueberry_faygo_by_lil_mosey_bass.png'",
+            m_image : "'blueberry_faygo_by_lil_mosey_bass.png'",
             mscore : "65985",
             } 
         },
@@ -1068,7 +1068,7 @@ const songs = [
             lscore : "223564",
 
             mpath : "1/7th O, 1/NN, 1/NN, 1/13th Y, 1/NN, 1/NN, 1/3rd R, 2/11th Y, 1/NN",
-            m_score : "'born_this_way_by_lady_gaga_bass.png'",
+            m_image : "'born_this_way_by_lady_gaga_bass.png'",
             mscore : "237627",
             } 
         },
@@ -1097,7 +1097,7 @@ const songs = [
             lscore : "271242",
 
             mpath : "1/9th G, 1/NN, 2(+1)/11th G, 1/5th G, 2/NN, 1/NN",
-            m_score : "'boulevard_of_broken_dreams_by_green_day_bass.png'",
+            m_image : "'boulevard_of_broken_dreams_by_green_day_bass.png'",
             mscore : "145368",
             } 
         },
@@ -1126,7 +1126,7 @@ const songs = [
             lscore : "176268",
 
             mpath : "1/1st Y, 2/1st O, 1/3rd B, 1/NN, 1(+1)/3rd O, 2/2nd O, 3(+1)/5th G",
-            m_score : "'bouncin_back_by_epic_games_bass.png'",
+            m_image : "'bouncin_back_by_epic_games_bass.png'",
             mscore : "149838",
             } 
         },
@@ -1155,7 +1155,7 @@ const songs = [
             lscore : "94701",
 
             mpath : "1/3rd Y, 1/NN, 1/1st R, 1/NN",
-            m_score : "'boys_a_liar_pt_2_by_pinkpantheress__ice_spice_bass.png'",
+            m_image : "'boys_a_liar_pt_2_by_pinkpantheress__ice_spice_bass.png'",
             mscore : "64602",
             } 
         },
@@ -1184,7 +1184,7 @@ const songs = [
             lscore : "102722",
 
             mpath : "2(+1)/3rd R, 3/NN, 1/NN, 2/1st R",
-            m_score : "'brace_for_chaos_by_epic_games_bass.png'",
+            m_image : "'brace_for_chaos_by_epic_games_bass.png'",
             mscore : "106695",
             } 
         },
@@ -1213,7 +1213,7 @@ const songs = [
             lscore : "40668",
 
             mpath : "2/6th R, 1/NN, 2(+1)/1st Y, 1/1st Y",
-            m_score : "'breaking_me_by_topic_w_a7s_bass.png'",
+            m_image : "'breaking_me_by_topic_w_a7s_bass.png'",
             mscore : "65189",
             } 
         },
@@ -1242,7 +1242,7 @@ const songs = [
             lscore : "261014",
 
             mpath : "1/6th G, 1/25th Y, 1/12th G, 1/8th G, 1/34th Y, 1/12th G, 1/4th G, 1/2nd G, 1/4th Y, 1/12th G, 1/2nd G",
-            m_score : "'breed_by_nirvana_bass.png'",
+            m_image : "'breed_by_nirvana_bass.png'",
             mscore : "205065",
             } 
         },
@@ -1271,7 +1271,7 @@ const songs = [
             lscore : "248452",
 
             mpath : "1/30th R, 2/NN, 1/11th G, 2(+1)/24th R, 1/9th G, 1/NN",
-            m_score : "'bring_me_to_life_by_evanescence_bass.png'",
+            m_image : "'bring_me_to_life_by_evanescence_bass.png'",
             mscore : "171912",
             } 
         },
@@ -1300,7 +1300,7 @@ const songs = [
             lscore : "181744",
 
             mpath : "1/13th G, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
-            m_score : "'broccoli_by_dram_ft_lil_yachty_bass.png'",
+            m_image : "'broccoli_by_dram_ft_lil_yachty_bass.png'",
             mscore : "39324",
             } 
         },
@@ -1329,7 +1329,7 @@ const songs = [
             lscore : "184392",
 
             mpath : "1/NN, 1/2nd Y, 2/18th Y, 3/2nd Y",
-            m_score : "'buddy_holly_by_weezer_bass.png'",
+            m_image : "'buddy_holly_by_weezer_bass.png'",
             mscore : "160920",
             } 
         },
@@ -1358,7 +1358,7 @@ const songs = [
             lscore : "190038",
 
             mpath : "1/1st Y, 2/2nd G, 2(+1)/7th O, 2/14th R, 1/NN",
-            m_score : "'bulls_on_parade_by_rage_against_the_machine_bass.png'",
+            m_image : "'bulls_on_parade_by_rage_against_the_machine_bass.png'",
             mscore : "180330",
             } 
         },
@@ -1387,7 +1387,7 @@ const songs = [
             lscore : "150480",
 
             mpath : "1/4th G, 1/1st R, 1/4th B, 1/4th B, 1/14th R, 1/9th O, 1/1st B, 1/NN, 1/13th R, 1/5th G, 1/NN",
-            m_score : "'bust_a_move_by_young_mc_bass.png'",
+            m_image : "'bust_a_move_by_young_mc_bass.png'",
             mscore : "209508",
             } 
         },
@@ -1416,7 +1416,7 @@ const songs = [
             lscore : "89874",
 
             mpath : "1/6th O, 1/NN, 1(+1)/13th Y, 1/NN, 1/6th O, 1/10th O",
-            m_score : "'butter_by_bts_bass.png'",
+            m_image : "'butter_by_bts_bass.png'",
             mscore : "123282",
             } 
         },
@@ -1445,7 +1445,7 @@ const songs = [
             lscore : "96669",
 
             mpath : "1/15th Y, 1/2nd G, 1/15th Y, 1/2nd G, 1/2nd Y, 1/NN",
-            m_score : "'butter_barn_hoedown_by_epic_games_bass.png'",
+            m_image : "'butter_barn_hoedown_by_epic_games_bass.png'",
             mscore : "98136",
             } 
         },
@@ -1474,7 +1474,7 @@ const songs = [
             lscore : "44910",
 
             mpath : "1(+1)/4th O, 2/3rd G, 1/NN, 1/NN, 1/NN, 1/2nd R, 1/NN",
-            m_score : "'cairo_by_karol_g_ovy_on_the_drums_bass.png'",
+            m_image : "'cairo_by_karol_g_ovy_on_the_drums_bass.png'",
             mscore : "81396",
             } 
         },
@@ -1503,7 +1503,7 @@ const songs = [
             lscore : "201096",
 
             mpath : "4/1st Y, 1/NN, 1/NN, 1/NN, 1/NN",
-            m_score : "'cake_by_the_ocean_by_dnce_bass.png'",
+            m_image : "'cake_by_the_ocean_by_dnce_bass.png'",
             mscore : "183168",
             } 
         },
@@ -1532,7 +1532,7 @@ const songs = [
             lscore : "160232",
 
             mpath : "3(+1)/1st R, 1/2nd O, 1/6th G, 1/NN, 1/2nd G",
-            m_score : "'call_me_maybe_by_carly_rae_jepsen_bass.png'",
+            m_image : "'call_me_maybe_by_carly_rae_jepsen_bass.png'",
             mscore : "55203",
             } 
         },
@@ -1561,7 +1561,7 @@ const songs = [
             lscore : "60762",
 
             mpath : "4/3rd YB, 1/NN, 1/3rd YB, 1/3rd BO",
-            m_score : "'cant_feel_my_face_by_the_weeknd_bass.png'",
+            m_image : "'cant_feel_my_face_by_the_weeknd_bass.png'",
             mscore : "144243",
             } 
         },
@@ -1590,7 +1590,7 @@ const songs = [
             lscore : "147624",
 
             mpath : "1(+1)/14th R, 1/5th R, 1(+1)/14th R, 3/1st O, 1/1st B, 1/4th R",
-            m_score : "'cantina_band_by_john_williams_london_symphony_orchestra_bass.png'",
+            m_image : "'cantina_band_by_john_williams_london_symphony_orchestra_bass.png'",
             mscore : "126357",
             } 
         },
@@ -1619,7 +1619,7 @@ const songs = [
             lscore : "129450",
 
             mpath : "1/7th R, 1/1st O, 1/NN, 1/NN, 1/1st O, 1/NN, 1/NN, 1/NN, 1/NN",
-            m_score : "'cant_stop_the_feeling_by_justin_timberlake_bass.png'",
+            m_image : "'cant_stop_the_feeling_by_justin_timberlake_bass.png'",
             mscore : "144072",
             } 
         },
@@ -1648,7 +1648,7 @@ const songs = [
             lscore : "219428",
 
             mpath : "1/2nd R, 1/1.9 beats after 5th G, 2(+1)/4th O, 3/NN, 1/3rd R, 3/10th G, 1/1st O, 1/NN",
-            m_score : "'carry_on_wayward_son_by_kansas_bass.png'",
+            m_image : "'carry_on_wayward_son_by_kansas_bass.png'",
             mscore : "233857",
             } 
         },
@@ -1677,7 +1677,7 @@ const songs = [
             lscore : "154264",
 
             mpath : "1/5th G, 1/17th G, 1/NN, 1/NN, 1/6th G, 1/4th G, 1/7th G",
-            m_score : "'change_by_epic_games_bass.png'",
+            m_image : "'change_by_epic_games_bass.png'",
             mscore : "174720",
             } 
         },
@@ -1706,7 +1706,7 @@ const songs = [
             lscore : "139402",
 
             mpath : "1/2nd R, 1/1st B, 1/NN, 1/2nd G, 1/3rd Y, 1/1st B, 1/NN, 1/1st B, 1/1st B, 1/3rd Y, 1/3rd B, 1/NN",
-            m_score : "'changes_by_2pac_ft_talent_bass.png'",
+            m_image : "'changes_by_2pac_ft_talent_bass.png'",
             mscore : "98259",
             } 
         },
@@ -1735,7 +1735,7 @@ const songs = [
             lscore : "149904",
 
             mpath : "1/7th O, 1/NN, 1/NN, 1/NN",
-            m_score : "'cheap_thrills_by_sia_ft_sean_paul_bass.png'",
+            m_image : "'cheap_thrills_by_sia_ft_sean_paul_bass.png'",
             mscore : "81864",
             } 
         },
@@ -1764,7 +1764,7 @@ const songs = [
             lscore : "233332",
 
             mpath : "1/4th G, 1/3rd R, 1/4th G, 1/NN, 1/2nd Y, 1/NN, 1/6th Y, 1/5th Y, 1/2nd Y, 3(+1)/5th G, 1/2nd G, 1/2nd Y",
-            m_score : "'chihiro_by_billie_eilish_bass.png'",
+            m_image : "'chihiro_by_billie_eilish_bass.png'",
             mscore : "229306",
             } 
         },
@@ -1793,7 +1793,7 @@ const songs = [
             lscore : "157764",
 
             mpath : "1/4th R, 1/2nd R, 1/2nd R, 1/2nd R, 1/NN, 1/2nd R, 1/2nd R, 2/7th Y",
-            m_score : "'circles_by_post_malone_bass.png'",
+            m_image : "'circles_by_post_malone_bass.png'",
             mscore : "119646",
             } 
         },
@@ -1822,7 +1822,7 @@ const songs = [
             lscore : "132540",
 
             mpath : "1/7th RO, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
-            m_score : "'closer_by_the_chainsmokers_ft_halsey_bass.png'",
+            m_image : "'closer_by_the_chainsmokers_ft_halsey_bass.png'",
             mscore : "98280",
             } 
         },
@@ -1851,7 +1851,7 @@ const songs = [
             lscore : "152048",
 
             mpath : "4(+2)/5th B, 4(+1)/1st R",
-            m_score : "'come__go_by_juice_wrld_w_marshmello_bass.png'",
+            m_image : "'come__go_by_juice_wrld_w_marshmello_bass.png'",
             mscore : "85830",
             } 
         },
@@ -1880,7 +1880,7 @@ const songs = [
             lscore : "317928",
 
             mpath : "1/9th B, 1/8th Y, 1/11th B, 1/7th B, 1/4th Y, 1/2nd Y, 1/4th Y",
-            m_score : "'counting_stars_by_onerepublic_bass.png'",
+            m_image : "'counting_stars_by_onerepublic_bass.png'",
             mscore : "123405",
             } 
         },
@@ -1909,7 +1909,7 @@ const songs = [
             lscore : "81848",
 
             mpath : "2/3rd R, 1(+1)/2nd G, 1/NN",
-            m_score : "'cradles_by_sub_urban_bass.png'",
+            m_image : "'cradles_by_sub_urban_bass.png'",
             mscore : "34758",
             } 
         },
@@ -1938,7 +1938,7 @@ const songs = [
             lscore : "265104",
 
             mpath : "3/2nd Y, 1/3rd G, 1/NN, 3/1st B",
-            m_score : "'creatures_in_heaven_by_glass_animals_bass.png'",
+            m_image : "'creatures_in_heaven_by_glass_animals_bass.png'",
             mscore : "53823",
             } 
         },
@@ -1967,7 +1967,7 @@ const songs = [
             lscore : "55659",
 
             mpath : "1/2nd B, 4/1st R",
-            m_score : "'dakiti_by_bad_bunny_and_jhayco_bass.png'",
+            m_image : "'dakiti_by_bad_bunny_and_jhayco_bass.png'",
             mscore : "27042",
             } 
         },
@@ -1996,7 +1996,7 @@ const songs = [
             lscore : "166032",
 
             mpath : "1/4th RY, 1/4th RY, 1/13th G, 3(+1)/17th G",
-            m_score : "'day_n_nite_by_kid_cudi_bass.png'",
+            m_image : "'day_n_nite_by_kid_cudi_bass.png'",
             mscore : "70422",
             } 
         },
@@ -2025,7 +2025,7 @@ const songs = [
             lscore : "223905",
 
             mpath : "1/13th G, 1/NN, 1/1st R, 1/1st Y, 1(+1)/8th G, 1/1st G, 1/16th R, 1/9th O, 1/7th Y",
-            m_score : "'dirty_little_secret_by_the_allamerican_rejects_bass.png'",
+            m_image : "'dirty_little_secret_by_the_allamerican_rejects_bass.png'",
             mscore : "180864",
             } 
         },
@@ -2054,7 +2054,7 @@ const songs = [
             lscore : "323492",
 
             mpath : "4(+1)/2nd G",
-            m_score : "'dog_days_are_over_by_florence__the_machine_bass.png'",
+            m_image : "'dog_days_are_over_by_florence__the_machine_bass.png'",
             mscore : "20141",
             } 
         },
@@ -2083,7 +2083,7 @@ const songs = [
             lscore : "274228",
 
             mpath : "1/14th Y, 1/6th B, 1/NN, 2/16th Y, 1/5th G, 1/NN, 1/6th Y, 4/NN, 1/11th Y, 1/NN, 1/10th B, 1/3rd Y",
-            m_score : "'dont_fear_the_reaper_by_blue_oyster_cult_bass.png'",
+            m_image : "'dont_fear_the_reaper_by_blue_oyster_cult_bass.png'",
             mscore : "275889",
             } 
         },
@@ -2112,7 +2112,7 @@ const songs = [
             lscore : "110000",
 
             mpath : "2/4th Y, 3(+1)/3rd Y, 1/5th Y, 1/NN, 1/NN, 1/NN, 1/NN",
-            m_score : "'dont_let_me_down_by_the_chainsmokers_ft_daya_bass.png'",
+            m_image : "'dont_let_me_down_by_the_chainsmokers_ft_daya_bass.png'",
             mscore : "52252",
             } 
         },
@@ -2141,7 +2141,7 @@ const songs = [
             lscore : "183664",
 
             mpath : "2/2nd B, 4(+1)/1st B, 1/5th B, 1/NN",
-            m_score : "'dont_you_worry_child_by_swedish_house_mafia_ft_john_martin_bass.png'",
+            m_image : "'dont_you_worry_child_by_swedish_house_mafia_ft_john_martin_bass.png'",
             mscore : "101166",
             } 
         },
@@ -2170,7 +2170,7 @@ const songs = [
             lscore : "312444",
 
             mpath : "1/46th G, 1/NN, 1/NN, 1/43rd G, 1/NN, 1/NN, 4/1st Y",
-            m_score : "'down_with_the_sickness_by_disturbed_bass.png'",
+            m_image : "'down_with_the_sickness_by_disturbed_bass.png'",
             mscore : "278493",
             } 
         },
@@ -2199,7 +2199,7 @@ const songs = [
             lscore : "194041",
 
             mpath : "2/11th GY, 1/NN, 2/22nd GY, 1/NN, 1/2nd RB",
-            m_score : "'dragula_by_rob_zombie_bass.png'",
+            m_image : "'dragula_by_rob_zombie_bass.png'",
             mscore : "202080",
             } 
         },
@@ -2228,7 +2228,7 @@ const songs = [
             lscore : "121581",
 
             mpath : "1/3rd G, 1/2nd Y, 1/1 beats after 2nd Y, 1/8th R, 1/5th G, 1/2nd R, 1/1 beats after 1st Y, 1/5th R, 1/NN, 1/35th G",
-            m_score : "'dreamer_by_epic_games_bass.png'",
+            m_image : "'dreamer_by_epic_games_bass.png'",
             mscore : "191682",
             } 
         },
@@ -2257,7 +2257,7 @@ const songs = [
             lscore : "114332",
 
             mpath : "1/7th R, 1/5th G, 1/4th R, 1/1st G, 1/NN, 1/4th Y, 1/1st R, 1/1st G, 1/NN",
-            m_score : "'dynamite_by_bts__bass.png'",
+            m_image : "'dynamite_by_bts__bass.png'",
             mscore : "138186",
             } 
         },
@@ -2286,7 +2286,7 @@ const songs = [
             lscore : "253476",
 
             mpath : "1/1st YO, 1(+1)/1st YO, 1/NN, 2/1st YO, 1/NN, 1/NN, 2(+1)/1st YO, 1/NN, 1/NN",
-            m_score : "'the_edge_of_glory_by_lady_gaga_bass.png'",
+            m_image : "'the_edge_of_glory_by_lady_gaga_bass.png'",
             mscore : "264582",
             } 
         },
@@ -2315,7 +2315,7 @@ const songs = [
             lscore : "92592",
 
             mpath : "1/3rd G, 1/NN, 1/NN, 1/NN, 1/3rd Y, 1/2nd Y, 1/2nd Y, 1/4th G",
-            m_score : "'8bit_beat_by_epic_games_bass.png'",
+            m_image : "'8bit_beat_by_epic_games_bass.png'",
             mscore : "112938",
             } 
         },
@@ -2344,7 +2344,7 @@ const songs = [
             lscore : "158584",
 
             mpath : "1/0.42 beats after 8th Y, 1/4th O, 1/18th G, 1/1.4 beats after 4th B, 1/4th O, 1/3rd R, 1/13th G, 1/4th B, 1/2nd G, 1/2nd B, 2/2nd R, 1/5th B",
-            m_score : "'ella_baila_sola_by_eslabon_armado_peso_pluma__bass.png'",
+            m_image : "'ella_baila_sola_by_eslabon_armado_peso_pluma__bass.png'",
             mscore : "241074",
             } 
         },
@@ -2373,7 +2373,7 @@ const songs = [
             lscore : "179367",
 
             mpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/1st O, 1/NN, 2(+1)/3rd G",
-            m_score : "'emo_girl_by_mgk_ft_willow_bass.png'",
+            m_image : "'emo_girl_by_mgk_ft_willow_bass.png'",
             mscore : "170496",
             } 
         },
@@ -2402,7 +2402,7 @@ const songs = [
             lscore : "251128",
 
             mpath : "1/52nd G, 1/7th R, 1/1st R, 1/NN, 1/NN, 1/11th R, 1/NN, 1/23rd G, 1/20th G, 1/17th R, 1/NN, 1/4th G",
-            m_score : "'enter_sandman_by_metallica_bass.png'",
+            m_image : "'enter_sandman_by_metallica_bass.png'",
             mscore : "284205",
             } 
         },
@@ -2431,7 +2431,7 @@ const songs = [
             lscore : "77784",
 
             mpath : "1/1st Y, 1/NN, 2(+1)/10th G, 1/2nd O, 1/NN, 1/1st G",
-            m_score : "'espresso_by_sabrina_carpenter_bass.png'",
+            m_image : "'espresso_by_sabrina_carpenter_bass.png'",
             mscore : "110592",
             } 
         },
@@ -2460,7 +2460,7 @@ const songs = [
             lscore : "320928",
 
             mpath : "1/26th B, 1/NN, 1/NN, 1/1st R, 1/3rd G, 1/7th R, 1/NN, 1/NN, 1/32nd B, 3/9th R, 1/3rd G, 1/28th R",
-            m_score : "'everlong_by_foo_fighters_bass.png'",
+            m_image : "'everlong_by_foo_fighters_bass.png'",
             mscore : "264966",
             } 
         },
@@ -2489,7 +2489,7 @@ const songs = [
             lscore : "360284",
 
             mpath : "4(+1)/3rd R, 1/3rd R, 3(+1)/9th B, 1/3rd B, 1/1st O, 1/1st O, 1/1st O, 1/2nd O, 4(+1)/3rd B, 1/23rd G, 1/NN, 1/28th R",
-            m_score : "'fade_to_black_by_metallica_bass.png'",
+            m_image : "'fade_to_black_by_metallica_bass.png'",
             mscore : "399407",
             } 
         },
@@ -2518,7 +2518,7 @@ const songs = [
             lscore : "175268",
 
             mpath : "4(+1)/13th R, 1/6th R, 1/NN, 1/NN, 1/NN",
-            m_score : "'everybody_falls_chill_mix_by_epic_games_bass.png'",
+            m_image : "'everybody_falls_chill_mix_by_epic_games_bass.png'",
             mscore : "95025",
             } 
         },
@@ -2547,7 +2547,7 @@ const songs = [
             lscore : "121831",
 
             mpath : "3/NN, 1/2nd R, 1/4th G, 1/1st G, 1/2nd R, 1/4th G",
-            m_score : "'feel_good_inc_by_gorillaz_bass.png'",
+            m_image : "'feel_good_inc_by_gorillaz_bass.png'",
             mscore : "68820",
             } 
         },
@@ -2576,7 +2576,7 @@ const songs = [
             lscore : "65663",
 
             mpath : "1/4th O, 1/9th Y, 1/1st B, 3/3rd B, 1/7th O, 1/7th O, 1/7th B, 1/10th O",
-            m_score : "'feel_it_still_by_portugal_the_man_bass.png'",
+            m_image : "'feel_it_still_by_portugal_the_man_bass.png'",
             mscore : "124419",
             } 
         },
@@ -2605,7 +2605,7 @@ const songs = [
             lscore : "88380",
 
             mpath : "2(+2)/1st R, 1/3rd B, 1/NN, 1/4th R",
-            m_score : "'find_the_fury_by_epic_games_bass.png'",
+            m_image : "'find_the_fury_by_epic_games_bass.png'",
             mscore : "96915",
             } 
         },
@@ -2634,7 +2634,7 @@ const songs = [
             lscore : "173210",
 
             mpath : "1(+1)/5th R, 1/1st G, 3(+1)/1st O, 1/1st G",
-            m_score : "'fire_and_steel_by_epic_games_bass.png'",
+            m_image : "'fire_and_steel_by_epic_games_bass.png'",
             mscore : "107535",
             } 
         },
@@ -2663,7 +2663,7 @@ const songs = [
             lscore : "264608",
 
             mpath : "1/1st R, 1/7th Y, 1/7th Y, 1/1st R, 1/6th Y, 1/NN, 1/NN, 1/14th Y",
-            m_score : "'firework_by_katy_perry_bass.png'",
+            m_image : "'firework_by_katy_perry_bass.png'",
             mscore : "149826",
             } 
         },
@@ -2692,7 +2692,7 @@ const songs = [
             lscore : "80991",
 
             mpath : "1/18th G, 4(+1)/5th G",
-            m_score : "'flickering_flame_by_epic_games_bass.png'",
+            m_image : "'flickering_flame_by_epic_games_bass.png'",
             mscore : "95316",
             } 
         },
@@ -2721,7 +2721,7 @@ const songs = [
             lscore : "85039",
 
             mpath : "1/5th R, 1/4th G, 1/5th R, 1/NN, 1/7th G, 1/7th R, 1/3rd G, 1/7th G, 1/11th R",
-            m_score : "'flowers_by_miley_cyrus__bass.png'",
+            m_image : "'flowers_by_miley_cyrus__bass.png'",
             mscore : "136074",
             } 
         },
@@ -2750,7 +2750,7 @@ const songs = [
             lscore : "223684",
 
             mpath : "3/NN, 1/NN, 1/1st R, 1/1st G, 1/1st R, 1/NN, 1/3rd R",
-            m_score : "'fly_by_quavo_and_lenny_kravitz_bass.png'",
+            m_image : "'fly_by_quavo_and_lenny_kravitz_bass.png'",
             mscore : "69825",
             } 
         },
@@ -2779,7 +2779,7 @@ const songs = [
             lscore : "202852",
 
             mpath : "1/2nd G, 4(+2)/3rd O, 1/0.79 beats after 1st GR, 1/1st YO",
-            m_score : "'for_latveria_by_epic_games_bass.png'",
+            m_image : "'for_latveria_by_epic_games_bass.png'",
             mscore : "141681",
             } 
         },
@@ -2808,7 +2808,7 @@ const songs = [
             lscore : "223150",
 
             mpath : "1(+1)/17th Y, 1/11th Y, 1/1st Y, 1/6th G, 1/11th G, 1/NN, 1/2nd Y, 1/1st B, 3(+1)/15th R, 1/1st RB, 1/3rd RB",
-            m_score : "'for_whom_the_bell_tolls_by_metallica_bass.png'",
+            m_image : "'for_whom_the_bell_tolls_by_metallica_bass.png'",
             mscore : "253926",
             } 
         },
@@ -2837,7 +2837,7 @@ const songs = [
             lscore : "136984",
 
             mpath : "1/1st R, 1/NN, 1/7th Y, 1/NN, 1/NN, 1/8th Y, 1/2nd Y, 1/NN, 1/2nd Y, 1/6th G, 1/8th Y",
-            m_score : "'friday_im_in_love_by_the_cure_bass.png'",
+            m_image : "'friday_im_in_love_by_the_cure_bass.png'",
             mscore : "178365",
             } 
         },
@@ -2866,7 +2866,7 @@ const songs = [
             lscore : "273396",
 
             mpath : "1/15th B, 1/26th B, 1/28th B, 1/NN, 1/15th B, 1/24th B, 1/10th B, 2(+1)/17th B, 1/NN, 1/23rd Y",
-            m_score : "'fuel_by_metallica_bass.png'",
+            m_image : "'fuel_by_metallica_bass.png'",
             mscore : "351108",
             } 
         },
@@ -2895,7 +2895,7 @@ const songs = [
             lscore : "197360",
 
             mpath : "1/NN, 1/NN, 1/After 0.082 beats, 1/NN, 1/NN, 1/NN, 2/1st R, 1/NN, 1/NN, 1/NN",
-            m_score : "'gangnam_style_by_psy_bass.png'",
+            m_image : "'gangnam_style_by_psy_bass.png'",
             mscore : "199386",
             } 
         },
@@ -2924,7 +2924,7 @@ const songs = [
             lscore : "151262",
 
             mpath : "2/3rd Y, 1/2nd RO, 4/7th RB, 1/2nd Y, 1/NN",
-            m_score : "'get_him_back_by_olivia_rodrigo_bass.png'",
+            m_image : "'get_him_back_by_olivia_rodrigo_bass.png'",
             mscore : "93776",
             } 
         },
@@ -2953,7 +2953,7 @@ const songs = [
             lscore : "119112",
 
             mpath : "1/3rd B, 1/4th Y, 2/4th G, 1/NN, 1(+1)/4th G, 1/NN, 2/4th G, 1/NN, 1/4th G, 1/NN",
-            m_score : "'get_low_by_lil_jon__the_east_side_boyz_ft_ying_yang_twins_bass.png'",
+            m_image : "'get_low_by_lil_jon__the_east_side_boyz_ft_ying_yang_twins_bass.png'",
             mscore : "122079",
             } 
         },
@@ -2982,7 +2982,7 @@ const songs = [
             lscore : "102669",
 
             mpath : "2/1st G, 1/14th G, 1/2nd R, 1/14th G, 1/2nd R, 1/2nd Y, 1/1st Y, 1/2nd Y, 1/2nd Y",
-            m_score : "'gimme_the_light_by_sean_paul_bass.png'",
+            m_image : "'gimme_the_light_by_sean_paul_bass.png'",
             mscore : "86832",
             } 
         },
@@ -3011,7 +3011,7 @@ const songs = [
             lscore : "166172",
 
             mpath : "1/4th R, 1/NN, 1/NN, 1/NN, 1/1st Y, 1/NN, 1/19th Y",
-            m_score : "'give_me_everything_by_pitbull_ft_neyo_afrojack__nayer_bass.png'",
+            m_image : "'give_me_everything_by_pitbull_ft_neyo_afrojack__nayer_bass.png'",
             mscore : "79872",
             } 
         },
@@ -3040,7 +3040,7 @@ const songs = [
             lscore : "160756",
 
             mpath : "2/18th Y, 1/2nd G, 3/0.67 beats after 9th G, 3/5th G, 1/2nd O",
-            m_score : "'good_4_u_by_olivia_rodrigo_bass.png'",
+            m_image : "'good_4_u_by_olivia_rodrigo_bass.png'",
             mscore : "141852",
             } 
         },
@@ -3069,7 +3069,7 @@ const songs = [
             lscore : "229540",
 
             mpath : "1/NN, 1/3rd O, 1/6th G, 1/12th G, 1/NN, 1/NN, 1/16th G, 1/5th G, 1/NN, 1/21st B",
-            m_score : "'go_with_the_flow_by_queens_of_the_stone_age_bass.png'",
+            m_image : "'go_with_the_flow_by_queens_of_the_stone_age_bass.png'",
             mscore : "237546",
             } 
         },
@@ -3098,7 +3098,7 @@ const songs = [
             lscore : "113544",
 
             mpath : "3(+1)/1st Y, 4/3rd Y, 1/28th Y",
-            m_score : "'gwenpools_multiverse_by_epic_games_bass.png'",
+            m_image : "'gwenpools_multiverse_by_epic_games_bass.png'",
             mscore : "121485",
             } 
         },
@@ -3127,7 +3127,7 @@ const songs = [
             lscore : "265944",
 
             mpath : "1/8th Y, 3/2nd Y, 3/5th R, 1/2nd R, 1/NN, 2/4th G, 1/15th R",
-            m_score : "'hail_to_the_king_by_avenged_sevenfold_bass.png'",
+            m_image : "'hail_to_the_king_by_avenged_sevenfold_bass.png'",
             mscore : "193722",
             } 
         },
@@ -3156,7 +3156,7 @@ const songs = [
             lscore : "81456",
 
             mpath : "1/5th G, 1/2nd O, 1/2nd R, 1/NN, 1/1st O, 1/1st O, 1/NN, 1/1st G, 1/1st O, 1/3rd O",
-            m_score : "'happier_than_ever__edit_by_billie_eilish_bass.png'",
+            m_image : "'happier_than_ever__edit_by_billie_eilish_bass.png'",
             mscore : "57716",
             } 
         },
@@ -3185,7 +3185,7 @@ const songs = [
             lscore : "231174",
 
             mpath : "1/6th B, 1/2nd Y, 2/13th G, 1/NN, 1/5th G, 2/2nd R, 1/9th Y, 1/17th Y, 2/2nd G",
-            m_score : "'heartbreaker_by_pat_benatar_bass.png'",
+            m_image : "'heartbreaker_by_pat_benatar_bass.png'",
             mscore : "196806",
             } 
         },
@@ -3214,7 +3214,7 @@ const songs = [
             lscore : "110100",
 
             mpath : "2/12th B, 1/2nd G, 1/2nd O, 1/NN",
-            m_score : "'heathens_by_twenty_one_pilots_bass.png'",
+            m_image : "'heathens_by_twenty_one_pilots_bass.png'",
             mscore : "44892",
             } 
         },
@@ -3243,7 +3243,7 @@ const songs = [
             lscore : "193416",
 
             mpath : "1/5th O, 1/3rd B, 1/1st B, 1/2nd B, 1/1st B, 1/1st B",
-            m_score : "'heat_waves_by_glass_animals_bass.png'",
+            m_image : "'heat_waves_by_glass_animals_bass.png'",
             mscore : "49014",
             } 
         },
@@ -3272,7 +3272,7 @@ const songs = [
             lscore : "229816",
 
             mpath : "3(+1)/3rd Y, 1/17th Y, 4/NN, 1/NN",
-            m_score : "'hey_brother_by_avicii_bass.png'",
+            m_image : "'hey_brother_by_avicii_bass.png'",
             mscore : "157578",
             } 
         },
@@ -3301,7 +3301,7 @@ const songs = [
             lscore : "143820",
 
             mpath : "1/8th B, 1/5th O, 1(+1)/7th Y, 2(+1)/4th B, 1/5th Y, 1/2nd Y, 2/7th B",
-            m_score : "'high_hopes_by_panic_at_the_disco_bass.png'",
+            m_image : "'high_hopes_by_panic_at_the_disco_bass.png'",
             mscore : "118917",
             } 
         },
@@ -3330,7 +3330,7 @@ const songs = [
             lscore : "195206",
 
             mpath : "1/2nd R, 1/30th G, 1(+1)/5th B, 1/55th G, 1/6th R, 2/2nd R",
-            m_score : "'highway_tune_by_greta_van_fleet_bass.png'",
+            m_image : "'highway_tune_by_greta_van_fleet_bass.png'",
             mscore : "145053",
             } 
         },
@@ -3359,7 +3359,7 @@ const songs = [
             lscore : "122715",
 
             mpath : "1/6th Y, 1/4th G, 1/6th Y, 1/6th G",
-            m_score : "'hold_me_closer_by_elton_john__britney_spears_bass.png'",
+            m_image : "'hold_me_closer_by_elton_john__britney_spears_bass.png'",
             mscore : "107784",
             } 
         },
@@ -3388,7 +3388,7 @@ const songs = [
             lscore : "211998",
 
             mpath : "1/4th R, 1/6th Y, 1/1st Y, 1/NN, 1/5th B, 1/NN, 1/6th R, 1/4th B, 1/NN, 1/4th G, 1/16th Y, 1/NN, 1/20th Y",
-            m_score : "'holiday_by_green_day_bass.png'",
+            m_image : "'holiday_by_green_day_bass.png'",
             mscore : "218931",
             } 
         },
@@ -3417,7 +3417,7 @@ const songs = [
             lscore : "53616",
 
             mpath : "1/NN, 4(+1)/2nd G, 1/NN, 1/3rd B",
-            m_score : "'hollaback_girl_by_gwen_stefani_bass.png'",
+            m_image : "'hollaback_girl_by_gwen_stefani_bass.png'",
             mscore : "24960",
             } 
         },
@@ -3446,7 +3446,7 @@ const songs = [
             lscore : "99280",
 
             mpath : "1/NN, 1/NN, 1/NN, 1/1st R, 1/1st B, 1/NN, 2(+1)/17th B, 1/21st B, 1/NN",
-            m_score : "'hot_to_go_by_chappell_roan_bass.png'",
+            m_image : "'hot_to_go_by_chappell_roan_bass.png'",
             mscore : "212976",
             } 
         },
@@ -3475,7 +3475,7 @@ const songs = [
             lscore : "90460",
 
             mpath : "2/1st G, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/1st G, 1/NN, 1/1st G, 1/1st G",
-            m_score : "'humble_by_kendrick_lamar_bass.png'",
+            m_image : "'humble_by_kendrick_lamar_bass.png'",
             mscore : "105477",
             } 
         },
@@ -3504,7 +3504,7 @@ const songs = [
             lscore : "214392",
 
             mpath : "1/NN, 1/NN, 1/19th Y, 1/NN, 2/NN, 1/NN, 2/2nd G",
-            m_score : "'hysteria_by_muse_bass.png'",
+            m_image : "'hysteria_by_muse_bass.png'",
             mscore : "341676",
             } 
         },
@@ -3533,7 +3533,7 @@ const songs = [
             lscore : "197040",
 
             mpath : "1/9th Y, 2(+1)/5th Y, 1/1st Y, 2/NN, 1/5th G, 1/7th G, 1/NN, 1/NN",
-            m_score : "'i_by_kendrick_lamar_bass.png'",
+            m_image : "'i_by_kendrick_lamar_bass.png'",
             mscore : "170187",
             } 
         },
@@ -3562,7 +3562,7 @@ const songs = [
             lscore : "112520",
 
             mpath : "1/6th B, 1/11th R, 1/9th Y, 1/13th R, 1/10th Y, 1/9th Y, 1/2nd R, 1/7th Y, 1/5th B",
-            m_score : "'i_had_some_help_by_post_malone_ft_morgan_wallen_bass.png'",
+            m_image : "'i_had_some_help_by_post_malone_ft_morgan_wallen_bass.png'",
             mscore : "171426",
             } 
         },
@@ -3591,7 +3591,7 @@ const songs = [
             lscore : "130348",
 
             mpath : "3(+1)/2nd R, 1/7.2 beats after 2nd G, 1/4th GB, 1/3rd G, 1/NN, 1(+1)/2nd G, 1/4th G",
-            m_score : "'im_a_winner_by_epic_games_bass.png'",
+            m_image : "'im_a_winner_by_epic_games_bass.png'",
             mscore : "87468",
             } 
         },
@@ -3620,7 +3620,7 @@ const songs = [
             lscore : "86508",
 
             mpath : "1/1st Y, 3(+1)/16th R, 2/13th G",
-            m_score : "'inferno_island_molten_mix_by_epic_games_bass.png'",
+            m_image : "'inferno_island_molten_mix_by_epic_games_bass.png'",
             mscore : "109620",
             } 
         },
@@ -3649,7 +3649,7 @@ const songs = [
             lscore : "68604",
 
             mpath : "1/NN, 1/6th R, 1/8th Y, 1/NN, 2(+1)/12th B, 1/4th Y",
-            m_score : "'in_the_end_by_linkin_park_bass.png'",
+            m_image : "'in_the_end_by_linkin_park_bass.png'",
             mscore : "189072",
             } 
         },
@@ -3678,7 +3678,7 @@ const songs = [
             lscore : "187212",
 
             mpath : "1/2nd B, 1/NN, 1/12th Y, 1/1st B, 1/NN, 1/15th Y, 1/2nd B, 1/6th Y",
-            m_score : "'into_you_by_ariana_grande_bass.png'",
+            m_image : "'into_you_by_ariana_grande_bass.png'",
             mscore : "112965",
             } 
         },
@@ -3707,7 +3707,7 @@ const songs = [
             lscore : "132372",
 
             mpath : "1/2nd G, 1/12th O, 1/34th O, 1/3rd O, 1/NN, 1/18th O, 1/3rd O, 1/NN",
-            m_score : "'i_still_havent_found_what_im_looking_for_by_u2_bass.png'",
+            m_image : "'i_still_havent_found_what_im_looking_for_by_u2_bass.png'",
             mscore : "169368",
             } 
         },
@@ -3736,7 +3736,7 @@ const songs = [
             lscore : "136092",
 
             mpath : "2(+1)/4th Y, 2(+1)/1st R, 1/NN",
-            m_score : "'i_think_im_okay_by_mgk_yungblud__travis_barker_bass.png'",
+            m_image : "'i_think_im_okay_by_mgk_yungblud__travis_barker_bass.png'",
             mscore : "88149",
             } 
         },
@@ -3765,7 +3765,7 @@ const songs = [
             lscore : "41184",
 
             mpath : "3/1st Y, 1/3rd G, 1/NN, 1/NN, 1/NN",
-            m_score : "'it_takes_two_by_rob_base__dj_ez_rock_bass.png'",
+            m_image : "'it_takes_two_by_rob_base__dj_ez_rock_bass.png'",
             mscore : "21924",
             } 
         },
@@ -3794,7 +3794,7 @@ const songs = [
             lscore : "247320",
 
             mpath : "1(+1)/14th G, 1/1st G, 1/NN, 1/25th G",
-            m_score : "'i_wanna_get_better_by_bleachers_bass.png'",
+            m_image : "'i_wanna_get_better_by_bleachers_bass.png'",
             mscore : "154872",
             } 
         },
@@ -3823,7 +3823,7 @@ const songs = [
             lscore : "205398",
 
             mpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
-            m_score : "'i_wish_by_skeelo_bass.png'",
+            m_image : "'i_wish_by_skeelo_bass.png'",
             mscore : "253410",
             } 
         },
@@ -3852,7 +3852,7 @@ const songs = [
             lscore : "194658",
 
             mpath : "1/3rd B, 1/NN, 1/NN, 1/3rd G, 1/1st G, 1/NN, 1/3rd G, 1/1st G, 1/3rd G",
-            m_score : "'juicy_by_the_notorious_big_bass.png'",
+            m_image : "'juicy_by_the_notorious_big_bass.png'",
             mscore : "145179",
             } 
         },
@@ -3881,7 +3881,7 @@ const songs = [
             lscore : "205064",
 
             mpath : "1/1st Y, 1/4th Y, 1/4th R, 1/NN, 2(+1)/10th Y, 1/14th Y",
-            m_score : "'just_a_girl_by_no_doubt_bass.png'",
+            m_image : "'just_a_girl_by_no_doubt_bass.png'",
             mscore : "191025",
             } 
         },
@@ -3910,7 +3910,7 @@ const songs = [
             lscore : "94788",
 
             mpath : "2/1st G, 1/NN, 4(+1)/6th O, 1/NN, 1/NN",
-            m_score : "'just_dance_by_lady_gaga_ft_colby_odonis_bass.png'",
+            m_image : "'just_dance_by_lady_gaga_ft_colby_odonis_bass.png'",
             mscore : "134136",
             } 
         },
@@ -3939,7 +3939,7 @@ const songs = [
             lscore : "160658",
 
             mpath : "1/3rd R, 2/1st Y, 1/6th B, 1/6th B, 2/3.7 beats after NN, 1/10th Y, 1/10th Y",
-            m_score : "'keep_poppin_by_epic_games_bass.png'",
+            m_image : "'keep_poppin_by_epic_games_bass.png'",
             mscore : "116508",
             } 
         },
@@ -3968,7 +3968,7 @@ const songs = [
             lscore : "111640",
 
             mpath : "1/1st O, 1/5th B, 1/12th R, 1/12th G, 1/NN, 2/3rd R, 1/NN, 1/NN, 1/1st B, 1/NN, 1/11th G, 1/NN, 1/NN",
-            m_score : "'kids_by_mgmt_bass.png'",
+            m_image : "'kids_by_mgmt_bass.png'",
             mscore : "255366",
             } 
         },
@@ -3997,7 +3997,7 @@ const songs = [
             lscore : "301815",
 
             mpath : "2/4th B, 1/17th G, 1/22nd B, 1/9th R, 1/14th G, 4/NN, 1/52nd B",
-            m_score : "'killing_in_the_name_by_rage_against_the_machine_bass.png'",
+            m_image : "'killing_in_the_name_by_rage_against_the_machine_bass.png'",
             mscore : "294408",
             } 
         },
@@ -4026,7 +4026,7 @@ const songs = [
             lscore : "155376",
 
             mpath : "2(+1)/1st YO, 1/NN, 1/NN, 1/NN, 2/9th R",
-            m_score : "'kiss_me_more_by_doja_cat_ft_sza_bass.png'",
+            m_image : "'kiss_me_more_by_doja_cat_ft_sza_bass.png'",
             mscore : "66186",
             } 
         },
@@ -4055,7 +4055,7 @@ const songs = [
             lscore : "238772",
 
             mpath : "1/1st R, 1/NN, 1/4th O, 1/NN, 1/NN, 1/12th O, 1/NN, 1/NN, 1/6th R, 1/NN, 1/NN",
-            m_score : "'less_than_by_nine_inch_nails_bass.png'",
+            m_image : "'less_than_by_nine_inch_nails_bass.png'",
             mscore : "209628",
             } 
         },
@@ -4084,7 +4084,7 @@ const songs = [
             lscore : "76234",
 
             mpath : "3/4th Y, 1/NN, 1/NN",
-            m_score : "'let_you_down_by_nf_bass.png'",
+            m_image : "'let_you_down_by_nf_bass.png'",
             mscore : "30780",
             } 
         },
@@ -4113,7 +4113,7 @@ const songs = [
             lscore : "195948",
 
             mpath : "1(+1)/17th Y, 1/5th Y, 2/10th B, 1/NN, 1/10th B",
-            m_score : "'my_songs_know_what_you_did_in_the_dark_light_em_up_by_fall_out_boy_bass.png'",
+            m_image : "'my_songs_know_what_you_did_in_the_dark_light_em_up_by_fall_out_boy_bass.png'",
             mscore : "128874",
             } 
         },
@@ -4142,7 +4142,7 @@ const songs = [
             lscore : "81072",
 
             mpath : "2/4th Y, 1/NN, 1/NN, 1/NN, 1/NN",
-            m_score : "'like_a_g6_by_far_east_movement_ft_the_cataracs__dev_bass.png'",
+            m_image : "'like_a_g6_by_far_east_movement_ft_the_cataracs__dev_bass.png'",
             mscore : "65928",
             } 
         },
@@ -4171,7 +4171,7 @@ const songs = [
             lscore : "198982",
 
             mpath : "1/NN, 1/NN, 2/11th O, 1/5th G, 1(+1)/19th G, 2/5th R, 1/29th R, 1/3rd O",
-            m_score : "'lord_of_the_wasteland_by_epic_games_bass.png'",
+            m_image : "'lord_of_the_wasteland_by_epic_games_bass.png'",
             mscore : "265203",
             } 
         },
@@ -4200,7 +4200,7 @@ const songs = [
             lscore : "35280",
 
             mpath : "1/13th O, 1/1st Y, 1/1st B, 1/5th B, 1/2nd Y, 1/8th B",
-            m_score : "'lovin_on_me_by_jack_harlow_bass.png'",
+            m_image : "'lovin_on_me_by_jack_harlow_bass.png'",
             mscore : "80469",
             } 
         },
@@ -4229,7 +4229,7 @@ const songs = [
             lscore : "135480",
 
             mpath : "1/1st B, 1/3rd Y, 1/4th G, 1/NN, 1/4th G, 1/1st Y, 1/NN, 1/3rd Y, 1/NN",
-            m_score : "'lucid_dreams_by_juice_wrld_bass.png'",
+            m_image : "'lucid_dreams_by_juice_wrld_bass.png'",
             mscore : "83894",
             } 
         },
@@ -4258,7 +4258,7 @@ const songs = [
             lscore : "51268",
 
             mpath : "1/5th G, 1/4th G, 1/4th G, 1/1st Y, 1/4th Y, 1/3rd Y, 1/2nd Y, 1/2nd G, 1/2nd R, 1/1st R",
-            m_score : "'lunch_by_billie_eilish_bass.png'",
+            m_image : "'lunch_by_billie_eilish_bass.png'",
             mscore : "91386",
             } 
         },
@@ -4287,7 +4287,7 @@ const songs = [
             lscore : "253740",
 
             mpath : "2/17th R, 1/NN, 1/24th R, 1/2nd G, 1/NN, 1(+1)/22nd R, 1/9th R, 1/NN",
-            m_score : "'lux_aeterna_by_metallica_bass.png'",
+            m_image : "'lux_aeterna_by_metallica_bass.png'",
             mscore : "304668",
             } 
         },
@@ -4316,7 +4316,7 @@ const songs = [
             lscore : "209686",
 
             mpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/1st G, 1/NN, 1/14th Y, 1/14th Y",
-            m_score : "'makedamnsure_by_taking_back_sunday_bass.png'",
+            m_image : "'makedamnsure_by_taking_back_sunday_bass.png'",
             mscore : "208416",
             } 
         },
@@ -4345,7 +4345,7 @@ const songs = [
             lscore : "99832",
 
             mpath : "2(+1)/0.92 beats after 18th G, 1/1st O, 1/NN, 1/15th G, 1/NN, 1/1st O, 1/6th O",
-            m_score : "'make_it_known_by_epic_games_bass.png'",
+            m_image : "'make_it_known_by_epic_games_bass.png'",
             mscore : "93420",
             } 
         },
@@ -4374,7 +4374,7 @@ const songs = [
             lscore : "118539",
 
             mpath : "2/3rd R, 1/NN, 1/5th G, 1/NN, 1/NN, 1/NN",
-            m_score : "'maps_by_maroon_5_bass.png'",
+            m_image : "'maps_by_maroon_5_bass.png'",
             mscore : "107136",
             } 
         },
@@ -4403,7 +4403,7 @@ const songs = [
             lscore : "227860",
 
             mpath : "2(+1)/9th G, 1/NN, 3/1st G, 1/NN, 1/NN, 1/5th G, 1/3rd G",
-            m_score : "'march_of_the_pigs_by_nine_inch_nails_bass.png'",
+            m_image : "'march_of_the_pigs_by_nine_inch_nails_bass.png'",
             mscore : "322056",
             } 
         },
@@ -4432,7 +4432,7 @@ const songs = [
             lscore : "524372",
 
             mpath : "1/20th Y, 1/3rd G, 1/NN, 1/1st R, 1/2nd R, 3(+1)/21st G, 1/NN, 1/NN, 1/1st Y, 4(+1)/4th Y, 1/NN, 1/7th B, 1/NN, 1/NN, 1/1st R, 1/NN, 1/11th R, 1/9th B, 1/3rd G, 1/8th B, 1/3rd R, 1/NN, 1/NN, 4(+1)/4th G",
-            m_score : "'master_of_puppets_by_metallica_bass.png'",
+            m_image : "'master_of_puppets_by_metallica_bass.png'",
             mscore : "655632",
             } 
         },
@@ -4461,7 +4461,7 @@ const songs = [
             lscore : "37030",
 
             mpath : "1/NN, 1/NN, 1/3rd G, 1/3rd G, 1/7th R, 1/12th G, 1(+1)/3rd R",
-            m_score : "'me_too_by_meghan_trainor_bass.png'",
+            m_image : "'me_too_by_meghan_trainor_bass.png'",
             mscore : "161946",
             } 
         },
@@ -4490,7 +4490,7 @@ const songs = [
             lscore : "71685",
 
             mpath : "2(+1)/6th G, 2(+1)/4th G",
-            m_score : "'mi_gente_by_j_balvin__willy_william_bass.png'",
+            m_image : "'mi_gente_by_j_balvin__willy_william_bass.png'",
             mscore : "33849",
             } 
         },
@@ -4519,7 +4519,7 @@ const songs = [
             lscore : "209328",
 
             mpath : "1/NN, 1/16th Y, 1/2nd G, 1/12th Y, 1/12th R, 1/9th Y, 1/3rd G, 3(+1)/6th R, 1/NN, 1/12th Y",
-            m_score : "'misery_business_by_paramore_bass.png'",
+            m_image : "'misery_business_by_paramore_bass.png'",
             mscore : "202806",
             } 
         },
@@ -4548,7 +4548,7 @@ const songs = [
             lscore : "96228",
 
             mpath : "2/3rd B, 1/2nd G, 2/1st R, 1/1st G",
-            m_score : "'mood_by_24kgoldn_ft_iann_dior_bass.png'",
+            m_image : "'mood_by_24kgoldn_ft_iann_dior_bass.png'",
             mscore : "60867",
             } 
         },
@@ -4577,7 +4577,7 @@ const songs = [
             lscore : "216224",
 
             mpath : "1/2nd G, 1/NN, 1/1st R, 1/NN, 4(+2)/6th Y",
-            m_score : "'moves_like_jagger_by_maroon_5_ft_christina_aguilera_bass.png'",
+            m_image : "'moves_like_jagger_by_maroon_5_ft_christina_aguilera_bass.png'",
             mscore : "154224",
             } 
         },
@@ -4606,7 +4606,7 @@ const songs = [
             lscore : "182384",
 
             mpath : "1/1st B, 1/19th R, 1/NN, 1/NN, 1/NN, 1/9th B, 2/9th Y, 1/NN, 1/1st R, 1/10th G",
-            m_score : "'mr_brightside_by_the_killers_bass.png'",
+            m_image : "'mr_brightside_by_the_killers_bass.png'",
             mscore : "225300",
             } 
         },
@@ -4635,7 +4635,7 @@ const songs = [
             lscore : "102792",
 
             mpath : "2/9th Y, 2(+1)/1st B, 1/9th B",
-            m_score : "'my_exs_best_friend_by_mgk__blackbear_bass.png'",
+            m_image : "'my_exs_best_friend_by_mgk__blackbear_bass.png'",
             mscore : "83121",
             } 
         },
@@ -4664,7 +4664,7 @@ const songs = [
             lscore : "99222",
 
             mpath : "2/1st R, 1/NN, 1/1st O, 1/NN, 1/2nd O, 1/NN",
-            m_score : "'my_oh_my_by_ava_max_bass.png'",
+            m_image : "'my_oh_my_by_ava_max_bass.png'",
             mscore : "65076",
             } 
         },
@@ -4693,7 +4693,7 @@ const songs = [
             lscore : "88848",
 
             mpath : "3/1st R, 1/NN, 1/NN, 1/NN, 1/NN, 1/1st Y, 1/NN",
-            m_score : "'never_back_down_by_nickeh30_bass.png'",
+            m_image : "'never_back_down_by_nickeh30_bass.png'",
             mscore : "58167",
             } 
         },
@@ -4722,7 +4722,7 @@ const songs = [
             lscore : "237584",
 
             mpath : "1/NN, 1/NN, 2(+1)/3rd G, 1/9th R, 4(+2)/7th B, 1(+1)/5th G, 1/5th Y, 1/NN, 1/1st O",
-            m_score : "'next_semester_by_twenty_one_pilots_bass.png'",
+            m_image : "'next_semester_by_twenty_one_pilots_bass.png'",
             mscore : "208968",
             } 
         },
@@ -4751,7 +4751,7 @@ const songs = [
             lscore : "252533",
 
             mpath : "3(+1)/4th Y, 2/2nd G, 1/3rd O, 1/2nd Y, 1/2nd O, 1/5th R, 1/2nd G, 1/2nd G",
-            m_score : "'nothing_else_matters_by_metallica_bass.png'",
+            m_image : "'nothing_else_matters_by_metallica_bass.png'",
             mscore : "128589",
             } 
         },
@@ -4780,7 +4780,7 @@ const songs = [
             lscore : "81804",
 
             mpath : "2(+1)/2nd R, 1(+1)/7th G, 1/NN, 1/NN",
-            m_score : "'nothings_alright_by_witchgang_bass.png'",
+            m_image : "'nothings_alright_by_witchgang_bass.png'",
             mscore : "61155",
             } 
         },
@@ -4809,7 +4809,7 @@ const songs = [
             lscore : "252064",
 
             mpath : "1/13th Y, 1/7th Y, 1/1st Y, 1/1st Y, 1/NN, 1/1st Y, 1/1st Y, 1/NN, 1/1st Y, 1/NN, 1/1st Y, 1/NN, 1/1st Y, 1/1st Y, 1/NN, 1/1st Y",
-            m_score : "'notorious_thugs_by_the_notorious_big_bass.png'",
+            m_image : "'notorious_thugs_by_the_notorious_big_bass.png'",
             mscore : "145932",
             } 
         },
@@ -4838,7 +4838,7 @@ const songs = [
             lscore : "57525",
 
             mpath : "3/1st R, 1/NN, 1(+1)/4th G, 1/NN",
-            m_score : "'numb_by_linkin_park_bass.png'",
+            m_image : "'numb_by_linkin_park_bass.png'",
             mscore : "43695",
             } 
         },
@@ -4867,7 +4867,7 @@ const songs = [
             lscore : "80812",
 
             mpath : "1/11th G, 1/1st Y, 1/3rd G, 1/2nd O, 4(+1)/9th R, 1/2nd B",
-            m_score : "'og_future_remix_by_epic_games_bass.png'",
+            m_image : "'og_future_remix_by_epic_games_bass.png'",
             mscore : "102312",
             } 
         },
@@ -4896,7 +4896,7 @@ const songs = [
             lscore : "73332",
 
             mpath : "1/7th B, 1/2nd B, 1/3rd B, 1/1st O, 1/NN, 1/1st O",
-            m_score : "'oki_doki_by_karol_g_bass.png'",
+            m_image : "'oki_doki_by_karol_g_bass.png'",
             mscore : "42741",
             } 
         },
@@ -4925,7 +4925,7 @@ const songs = [
             lscore : "463947",
 
             mpath : "1/7th B, 1/15th B, 1/3rd B, 1/11th B, 1/8th B, 1/4th Y, 1/2nd G, 1/3rd R, 3(+1)/9th G, 2/59th G, 3/5th Y, 1/NN, 1/NN",
-            m_score : "'one_by_metallica_bass.png'",
+            m_image : "'one_by_metallica_bass.png'",
             mscore : "500964",
             } 
         },
@@ -4954,7 +4954,7 @@ const songs = [
             lscore : "143892",
 
             mpath : "1/5th Y, 1/1st B, 1/1st B, 3(+1)/1st Y, 1/1st B",
-            m_score : "'orbital_overload_by_epic_games_bass.png'",
+            m_image : "'orbital_overload_by_epic_games_bass.png'",
             mscore : "58542",
             } 
         },
@@ -4983,7 +4983,7 @@ const songs = [
             lscore : "147600",
 
             mpath : "2/3rd R, 1/6th R, 1/3rd R, 1/6th R, 1/3rd R, 1/6th R, 1/6th R, 1/6th R",
-            m_score : "'oxytocin_by_billie_eilish_bass.png'",
+            m_image : "'oxytocin_by_billie_eilish_bass.png'",
             mscore : "124947",
             } 
         },
@@ -5012,7 +5012,7 @@ const songs = [
             lscore : "127390",
 
             mpath : "2/9th R, 3/1st G, 3/1st G",
-            m_score : "'paint_the_town_red_by_doja_cat_bass.png'",
+            m_image : "'paint_the_town_red_by_doja_cat_bass.png'",
             mscore : "55329",
             } 
         },
@@ -5041,7 +5041,7 @@ const songs = [
             lscore : "165984",
 
             mpath : "3/NN, 1/7th G, 1/7th G, 1/7th G, 1/7th G, 1/7th G, 1/7th G, 1/7th G, 1/7th G, 1/7th G",
-            m_score : "'panda_by_desiigner_bass.png'",
+            m_image : "'panda_by_desiigner_bass.png'",
             mscore : "82122",
             } 
         },
@@ -5070,7 +5070,7 @@ const songs = [
             lscore : "405492",
 
             mpath : "1(+1)/4th G, 1/NN, 2/1st Y, 3/1st G, 1/NN, 1/3rd O, 1/2nd G, 1/NN, 1/11th Y, 1/7th Y, 1/6th R, 1/3rd Y, 1/NN, 1/12th Y, 1/9th Y, 1/8th Y, 1/NN, 1/NN",
-            m_score : "'paradise_city_by_guns_n_roses_bass.png'",
+            m_image : "'paradise_city_by_guns_n_roses_bass.png'",
             mscore : "413661",
             } 
         },
@@ -5099,7 +5099,7 @@ const songs = [
             lscore : "201024",
 
             mpath : "2(+1)/1st G, 3(+1)/1st G, 2/NN, 1/NN, 1/NN, 1/NN",
-            m_score : "'party_rock_anthem_by_lmfao_ft_lauren_bennett__goonrock_bass.png'",
+            m_image : "'party_rock_anthem_by_lmfao_ft_lauren_bennett__goonrock_bass.png'",
             mscore : "157248",
             } 
         },
@@ -5128,7 +5128,7 @@ const songs = [
             lscore : "145281",
 
             mpath : "1/5th R, 4(+1)/3rd G, 1/NN, 1/3rd G, 1/1st Y, 1/3rd G, 1/NN",
-            m_score : "'pea_like_me_by_epic_games_bass.png'",
+            m_image : "'pea_like_me_by_epic_games_bass.png'",
             mscore : "145479",
             } 
         },
@@ -5157,7 +5157,7 @@ const songs = [
             lscore : "53946",
 
             mpath : "1/9th B, 1/NN, 1/10th R, 1/6th R, 1/NN, 1/NN, 1(+1)/5th R, 1/NN, 1/NN, 1/NN",
-            m_score : "'poison_by_bell_biv_devoe_bass.png'",
+            m_image : "'poison_by_bell_biv_devoe_bass.png'",
             mscore : "176904",
             } 
         },
@@ -5186,7 +5186,7 @@ const songs = [
             lscore : "112332",
 
             mpath : "1/NN, 1/NN, 1/3rd B, 1/NN, 1/NN, 1/2nd B, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
-            m_score : "'poker_face_by_lady_gaga___bass.png'",
+            m_image : "'poker_face_by_lady_gaga___bass.png'",
             mscore : "229176",
             } 
         },
@@ -5215,7 +5215,7 @@ const songs = [
             lscore : "242032",
 
             mpath : "3/1st R, 1/2nd B, 1/1st R, 1(+1)/11th R, 1/1st R",
-            m_score : "'pompeii_by_bastille_bass.png'",
+            m_image : "'pompeii_by_bastille_bass.png'",
             mscore : "162702",
             } 
         },
@@ -5244,7 +5244,7 @@ const songs = [
             lscore : "74908",
 
             mpath : "3(+1)/14th Y, 1/2nd B, 1/NN, 1/NN",
-            m_score : "'popular__by_the_weeknd_madonna__playboi_carti_bass.png'",
+            m_image : "'popular__by_the_weeknd_madonna__playboi_carti_bass.png'",
             mscore : "45552",
             } 
         },
@@ -5273,7 +5273,7 @@ const songs = [
             lscore : "97983",
 
             mpath : "2/6th G, 1/2nd Y, 1/1st Y, 1/1st Y, 1/1st Y, 1/NN, 1/1st Y, 1/2nd Y",
-            m_score : "'positions_by_ariana_grande_bass.png'",
+            m_image : "'positions_by_ariana_grande_bass.png'",
             mscore : "65733",
             } 
         },
@@ -5302,7 +5302,7 @@ const songs = [
             lscore : "68880",
 
             mpath : "3/1st Y, 2(+1)/1st G, 1/1st Y",
-            m_score : "'provenza_remix_by_karol_g_ft_tiesto_bass.png'",
+            m_image : "'provenza_remix_by_karol_g_ft_tiesto_bass.png'",
             mscore : "88605",
             } 
         },
@@ -5331,7 +5331,7 @@ const songs = [
             lscore : "72432",
 
             mpath : "2/1st B, 1/3rd O, 1/NN, 1/3rd Y, 1/NN",
-            m_score : "'qlona_by_karol_g_ft_peso_pluma_bass.png'",
+            m_image : "'qlona_by_karol_g_ft_peso_pluma_bass.png'",
             mscore : "45498",
             } 
         },
@@ -5360,7 +5360,7 @@ const songs = [
             lscore : "84936",
 
             mpath : "2/1st B, 3(+1)/9th B, 1/4th B, 1/4th B",
-            m_score : "'rain_on_me_by_lady_gaga__ariana_grande_bass.png'",
+            m_image : "'rain_on_me_by_lady_gaga__ariana_grande_bass.png'",
             mscore : "99135",
             } 
         },
@@ -5389,7 +5389,7 @@ const songs = [
             lscore : "192528",
 
             mpath : "3(+1)/7th G, 1/1st Y",
-            m_score : "'replay_by_iyaz_bass.png'",
+            m_image : "'replay_by_iyaz_bass.png'",
             mscore : "25332",
             } 
         },
@@ -5418,7 +5418,7 @@ const songs = [
             lscore : "505366",
 
             mpath : "1/11th G, 1/6th G, 1/2nd O, 1/6th B, 1/8th G, 3/18th R, 1/2nd O, 1/10th Y, 1/6th B, 4(+1)/54th G, 1/NN, 1/4th O, 1/5th Y, 2/3rd GO, 1/10th G, 1/NN, 1/7th Y, 1/8th Y, 1/NN, 1/6th O",
-            m_score : "'ride_the_lightning_by_metallica_bass.png'",
+            m_image : "'ride_the_lightning_by_metallica_bass.png'",
             mscore : "588480",
             } 
         },
@@ -5447,7 +5447,7 @@ const songs = [
             lscore : "428964",
 
             mpath : "2/1st Y, 1/1st B, 1/3rd B, 1/1st B, 1/7th B, 3/3rd R, 1/2nd B, 1/3rd B, 1/1st B, 1/3rd B",
-            m_score : "'ride_wit_me_by_nelly_ft_city_spud_bass.png'",
+            m_image : "'ride_wit_me_by_nelly_ft_city_spud_bass.png'",
             mscore : "125520",
             } 
         },
@@ -5476,7 +5476,7 @@ const songs = [
             lscore : "75978",
 
             mpath : "1/8th R, 1/4th R, 1/NN, 1/4th R, 1/NN, 1/NN, 1/NN, 1/8th R, 1/NN",
-            m_score : "'roses_imanbek_remix_by_saint_jhn__bass.png'",
+            m_image : "'roses_imanbek_remix_by_saint_jhn__bass.png'",
             mscore : "116208",
             } 
         },
@@ -5505,7 +5505,7 @@ const songs = [
             lscore : "244156",
 
             mpath : "2(+1)/2nd O, 1/NN, 2/4th Y, 1/1st Y, 1/6th O, 1/3rd O, 1/1st Y, 1/3rd Y",
-            m_score : "'ruby_soho_by_rancid_bass.png'",
+            m_image : "'ruby_soho_by_rancid_bass.png'",
             mscore : "142104",
             } 
         },
@@ -5534,7 +5534,7 @@ const songs = [
             lscore : "140700",
 
             mpath : "2(+1)/6th R, 1/NN, 1/2nd R, 1/NN, 1/NN, 1/NN",
-            m_score : "'runaway_by_witchgang_bass.png'",
+            m_image : "'runaway_by_witchgang_bass.png'",
             mscore : "46083",
             } 
         },
@@ -5563,7 +5563,7 @@ const songs = [
             lscore : "51609",
 
             mpath : "1/10th R, 1/4th R, 1/NN, 1/10th R, 1/8th R, 1/3rd R, 1/11th G",
-            m_score : "'run_it_by_epic_games_bass.png'",
+            m_image : "'run_it_by_epic_games_bass.png'",
             mscore : "63731",
             } 
         },
@@ -5592,7 +5592,7 @@ const songs = [
             lscore : "199656",
 
             mpath : "1/29th R, 1/NN, 1/36th R, 1/2nd G, 1/NN, 1/NN, 1/56th R",
-            m_score : "'sabotage_by_beastie_boys_bass.png'",
+            m_image : "'sabotage_by_beastie_boys_bass.png'",
             mscore : "218214",
             } 
         },
@@ -5621,7 +5621,7 @@ const songs = [
             lscore : "286066",
 
             mpath : "1/5th G, 1/7th B, 1/2nd O, 1/6th G, 1/9th R, 1/2nd G, 1/2nd O, 1/16th B, 1/4th R, 1/8th G, 1/4th B",
-            m_score : "'sad_but_true_by_metallica_bass.png'",
+            m_image : "'sad_but_true_by_metallica_bass.png'",
             mscore : "246805",
             } 
         },
@@ -5650,7 +5650,7 @@ const songs = [
             lscore : "211680",
 
             mpath : "3(+1)/46th Y, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
-            m_score : "'sandstorm_by_darude_bass.png'",
+            m_image : "'sandstorm_by_darude_bass.png'",
             mscore : "328752",
             } 
         },
@@ -5679,7 +5679,7 @@ const songs = [
             lscore : "116954",
 
             mpath : "1/24th Y, 1/10th Y, 1/0.5 beats after 6th R, 1/2nd Y, 1/5th Y, 1/5th R, 1/1st O",
-            m_score : "'santeria_by_sublime_bass.png'",
+            m_image : "'santeria_by_sublime_bass.png'",
             mscore : "183180",
             } 
         },
@@ -5708,7 +5708,7 @@ const songs = [
             lscore : "83056",
 
             mpath : "2/2nd B, 2/4th B, 1/7th G, 1/4th G, 1/2nd B",
-            m_score : "'savage_by_megan_thee_stallion_bass.png'",
+            m_image : "'savage_by_megan_thee_stallion_bass.png'",
             mscore : "50472",
             } 
         },
@@ -5737,7 +5737,7 @@ const songs = [
             lscore : "128192",
 
             mpath : "1/NN, 1/NN, 1/NN, 1/1st R, 1/4th Y, 1/NN, 1/5th Y, 1/NN, 1/4th Y, 1/2nd O",
-            m_score : "'save_your_tears_by_the_weeknd_bass.png'",
+            m_image : "'save_your_tears_by_the_weeknd_bass.png'",
             mscore : "197208",
             } 
         },
@@ -5766,7 +5766,7 @@ const songs = [
             lscore : "198376",
 
             mpath : "1/5th R, 1(+1)/3rd G, 1/NN, 1(+1)/1st GB, 1(+1)/1st GB, 1/NN, 1/6th Y",
-            m_score : "'say_it_proud_by_epic_games_bass.png'",
+            m_image : "'say_it_proud_by_epic_games_bass.png'",
             mscore : "185805",
             } 
         },
@@ -5795,7 +5795,7 @@ const songs = [
             lscore : "159492",
 
             mpath : "1/5th G, 1/4th Y, 1/4th G, 1/NN, 1/NN, 1/1st Y, 1/NN, 1/4th G, 1/3rd Y",
-            m_score : "'say_so_by_doja_cat_bass.png'",
+            m_image : "'say_so_by_doja_cat_bass.png'",
             mscore : "95811",
             } 
         },
@@ -5824,7 +5824,7 @@ const songs = [
             lscore : "51474",
 
             mpath : "2/3rd R, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/2nd G, 1/NN, 1/2nd G, 1/NN",
-            m_score : "'scenario_by_a_tribe_called_quest_ft_leaders_of_the_new_school_bass.png'",
+            m_image : "'scenario_by_a_tribe_called_quest_ft_leaders_of_the_new_school_bass.png'",
             mscore : "94362",
             } 
         },
@@ -5853,7 +5853,7 @@ const songs = [
             lscore : "404128",
 
             mpath : "1/4th G, 1/NN, 1/35th G, 1/9th B, 1/7th Y, 3(+1)/9th B, 1/18th G, 1/NN, 1/NN, 1/1st G, 3(+1)/16th G, 1/4th B, 1/7th B, 1/7th Y, 1/7th R, 1/27th G, 1/1st B, 1/7th G, 1/NN",
-            m_score : "'seek__destroy_by_metallica_bass.png'",
+            m_image : "'seek__destroy_by_metallica_bass.png'",
             mscore : "494803",
             } 
         },
@@ -5882,7 +5882,7 @@ const songs = [
             lscore : "219016",
 
             mpath : "1/7th Y, 1/8th Y, 1/8th Y, 1/8th Y, 1/3rd Y, 1/9th G, 1/7th G, 1/9th R, 1/7th R, 1/1st Y, 1/9th G",
-            m_score : "'september_by_earth_wind__fire_bass.png'",
+            m_image : "'september_by_earth_wind__fire_bass.png'",
             mscore : "180600",
             } 
         },
@@ -5911,7 +5911,7 @@ const songs = [
             lscore : "78720",
 
             mpath : "1/1 beats after 6th G, 1(+1)/15th B, 2(+1)/5th G, 1/15th B, 1/NN, 1/NN, 1/3rd Y",
-            m_score : "'seven_nation_army_by_the_white_stripes_bass.png'",
+            m_image : "'seven_nation_army_by_the_white_stripes_bass.png'",
             mscore : "147756",
             } 
         },
@@ -5940,7 +5940,7 @@ const songs = [
             lscore : "50832",
 
             mpath : "1/6th R, 1/NN, 1/NN, 1/NN, 1/5th G, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
-            m_score : "'sexy_and_i_know_it_by_lmfao_bass.png'",
+            m_image : "'sexy_and_i_know_it_by_lmfao_bass.png'",
             mscore : "254448",
             } 
         },
@@ -5969,7 +5969,7 @@ const songs = [
             lscore : "118496",
 
             mpath : "3(+1)/8th O, 1/2nd Y, 1/NN, 1/6th B, 1/1st G, 1/3rd G, 1/6th Y",
-            m_score : "'shivers_by_ed_sheeran_bass.png'",
+            m_image : "'shivers_by_ed_sheeran_bass.png'",
             mscore : "83868",
             } 
         },
@@ -5998,7 +5998,7 @@ const songs = [
             lscore : "63778",
 
             mpath : "1/3rd Y, 1/7th G, 1/6th O, 1/NN, 1/3rd O, 1/3rd Y, 1/3rd O, 1/6th O",
-            m_score : "'show_them_who_we_are_by_epic_games_bass.png'",
+            m_image : "'show_them_who_we_are_by_epic_games_bass.png'",
             mscore : "100725",
             } 
         },
@@ -6027,7 +6027,7 @@ const songs = [
             lscore : "132048",
 
             mpath : "1/4th G, 1(+1)/2nd R, 1/NN, 1(+1)/2nd R, 1/NN, 1(+1)/2nd R",
-            m_score : "'side_to_side_by_ariana_grande_ft_nicki_minaj_bass.png'",
+            m_image : "'side_to_side_by_ariana_grande_ft_nicki_minaj_bass.png'",
             mscore : "123504",
             } 
         },
@@ -6056,7 +6056,7 @@ const songs = [
             lscore : "45210",
 
             mpath : "3(+1)/3rd O, 1/NN",
-            m_score : "'silly_bros_by_epic_games_bass.png'",
+            m_image : "'silly_bros_by_epic_games_bass.png'",
             mscore : "31779",
             } 
         },
@@ -6085,7 +6085,7 @@ const songs = [
             lscore : "87512",
 
             mpath : "1/10th Y, 1/NN, 1/NN, 1/2nd R, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
-            m_score : "'single_soon_by_selena_gomez_bass.png'",
+            m_image : "'single_soon_by_selena_gomez_bass.png'",
             mscore : "221418",
             } 
         },
@@ -6114,7 +6114,7 @@ const songs = [
             lscore : "159658",
 
             mpath : "1/2nd Y, 1/NN, 1/NN, 1/NN, 1(+1)/1st R, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1(+1)/18th Y, 1/NN, 1/NN, 1/NN, 1/17th Y, 1/8th G",
-            m_score : "'sky_surfer_neon_rush_remix_by_epic_games_bass.png'",
+            m_image : "'sky_surfer_neon_rush_remix_by_epic_games_bass.png'",
             mscore : "574191",
             } 
         },
@@ -6143,7 +6143,7 @@ const songs = [
             lscore : "259318",
 
             mpath : "2(+1)/3rd Y, 1/4th R, 1/22nd G, 1/4th B, 1/NN, 1/9th G, 2(+1)/9th G, 1/14th R, 1/1st O, 1/12th G",
-            m_score : "'somp_by_epic_games_bass.png'",
+            m_image : "'somp_by_epic_games_bass.png'",
             mscore : "243732",
             } 
         },
@@ -6172,7 +6172,7 @@ const songs = [
             lscore : "167032",
 
             mpath : "1/4th O, 1/10th O, 1/6th O, 1/9th Y, 1/1st O",
-            m_score : "'song_2_by_blur_bass.png'",
+            m_image : "'song_2_by_blur_bass.png'",
             mscore : "78498",
             } 
         },
@@ -6201,7 +6201,7 @@ const songs = [
             lscore : "214615",
 
             mpath : "1/4th G, 1/NN, 1/NN, 1/2nd G, 1/2nd G, 1/NN, 1/NN, 1(+1)/21st G, 1/NN, 1/9th Y",
-            m_score : "'so_what_by_pnk_bass.png'",
+            m_image : "'so_what_by_pnk_bass.png'",
             mscore : "164013",
             } 
         },
@@ -6230,7 +6230,7 @@ const songs = [
             lscore : "154608",
 
             mpath : "1/6th Y, 1/1st O, 1/NN, 1/2nd O, 1/NN, 1/6th B, 2/1st O, 1/3rd O, 1/1st O, 1/3rd O",
-            m_score : "'starships_by_nicki_minaj_bass.png'",
+            m_image : "'starships_by_nicki_minaj_bass.png'",
             mscore : "124140",
             } 
         },
@@ -6259,7 +6259,7 @@ const songs = [
             lscore : "178856",
 
             mpath : "1/4th G, 2/13th R",
-            m_score : "'stick_season_by_noah_kahan_bass.png'",
+            m_image : "'stick_season_by_noah_kahan_bass.png'",
             mscore : "68424",
             } 
         },
@@ -6288,7 +6288,7 @@ const songs = [
             lscore : "244050",
 
             mpath : "1/7th B, 1/1st G, 2(+1)/4th Y, 1/NN",
-            m_score : "'stitches_by_shawn_mendes_bass.png'",
+            m_image : "'stitches_by_shawn_mendes_bass.png'",
             mscore : "83664",
             } 
         },
@@ -6317,7 +6317,7 @@ const songs = [
             lscore : "89942",
 
             mpath : "2/12th B, 1/NN, 2(+1)/6th G, 1/15th R",
-            m_score : "'streets_ignite_by_epic_games_bass.png'",
+            m_image : "'streets_ignite_by_epic_games_bass.png'",
             mscore : "111708",
             } 
         },
@@ -6346,7 +6346,7 @@ const songs = [
             lscore : "63376",
 
             mpath : "1(+1)/2nd G, 2(+1)/7th B, 1/13th B",
-            m_score : "'stressed_out_by_twenty_one_pilots_bass.png'",
+            m_image : "'stressed_out_by_twenty_one_pilots_bass.png'",
             mscore : "86301",
             } 
         },
@@ -6375,7 +6375,7 @@ const songs = [
             lscore : "325204",
 
             mpath : "1/6th R, 1/NN, 1/NN, 2(+1)/5th R, 2/11th R, 1/NN, 2/8th B",
-            m_score : "'stronger_what_doesnt_kill_you_by_kelly_clarkson_bass.png'",
+            m_image : "'stronger_what_doesnt_kill_you_by_kelly_clarkson_bass.png'",
             mscore : "242568",
             } 
         },
@@ -6404,7 +6404,7 @@ const songs = [
             lscore : "28464",
 
             mpath : "1/1st Y, 1/NN, 3(+1)/18th Y, 1/NN, 3(+1)/18th Y, 1(+1)/18th Y",
-            m_score : "'stupid_love_by_lady_gaga_bass.png'",
+            m_image : "'stupid_love_by_lady_gaga_bass.png'",
             mscore : "285228",
             } 
         },
@@ -6433,7 +6433,7 @@ const songs = [
             lscore : "142500",
 
             mpath : "2/2nd G, 2(+1)/7th Y, 3/1st RB",
-            m_score : "'sucker_by_jonas_brothers_bass.png'",
+            m_image : "'sucker_by_jonas_brothers_bass.png'",
             mscore : "128088",
             } 
         },
@@ -6462,7 +6462,7 @@ const songs = [
             lscore : "198018",
 
             mpath : "1/4th B, 1/NN, 1/2nd R, 1/NN, 2(+1)/11th Y",
-            m_score : "'suddenly_i_see_by_kt_tunstall_bass.png'",
+            m_image : "'suddenly_i_see_by_kt_tunstall_bass.png'",
             mscore : "181728",
             } 
         },
@@ -6491,7 +6491,7 @@ const songs = [
             lscore : "169652",
 
             mpath : "1/4th O, 1/1st O, 1/13th B, 1/1st GO, 1/1st O, 1/1st O, 1/3rd O, 1/1st B, 1/1st O, 1/8th O",
-            m_score : "'super_freak_by_rick_james_bass.png'",
+            m_image : "'super_freak_by_rick_james_bass.png'",
             mscore : "134017",
             } 
         },
@@ -6520,7 +6520,7 @@ const songs = [
             lscore : "142088",
 
             mpath : "3(+1)/1st R, 1/1st G, 1/8th R, 4(+1)/8th R, 1/6th R, 1/5th R",
-            m_score : "'surround_sound_by_jid_ft_21_savage__baby_tate_bass.png'",
+            m_image : "'surround_sound_by_jid_ft_21_savage__baby_tate_bass.png'",
             mscore : "103143",
             } 
         },
@@ -6549,7 +6549,7 @@ const songs = [
             lscore : "234668",
 
             mpath : "2/2nd O, 1/8th R, 1/11th R, 1/9th Y, 1/15th B, 1/8th R, 1/8th Y, 1/5th R, 1/4th Y, 1/4th Y, 1/NN, 1/3rd Y, 1/10th G, 1/5th R, 2/1st Y, 1/2nd G",
-            m_score : "'sweet_child_o_mine_by_guns_n_roses__bass.png'",
+            m_image : "'sweet_child_o_mine_by_guns_n_roses__bass.png'",
             mscore : "298494",
             } 
         },
@@ -6578,7 +6578,7 @@ const songs = [
             lscore : "127864",
 
             mpath : "1/6.7 beats after 2nd G, 1/1st R, 1/1st Y, 1/NN, 1/NN, 1/5th Y, 1/1st Y, 1/2nd Y, 1/1st O",
-            m_score : "'sweet_victory_by_epic_games_bass.png'",
+            m_image : "'sweet_victory_by_epic_games_bass.png'",
             mscore : "147999",
             } 
         },
@@ -6607,7 +6607,7 @@ const songs = [
             lscore : "123756",
 
             mpath : "1/NN, 1(+1)/2nd R, 2(+1)/7th O, 1/5th YO, 1/4th R, 1/6th Y",
-            m_score : "'swim_free_by_epic_games_bass.png'",
+            m_image : "'swim_free_by_epic_games_bass.png'",
             mscore : "176586",
             } 
         },
@@ -6636,7 +6636,7 @@ const songs = [
             lscore : "112264",
 
             mpath : "2(+1)/5th Y, 1/1st Y, 1/NN, 1/NN, 1/2nd B, 1/2nd O, 1/1st Y, 1/1st Y",
-            m_score : "'switch_up_by_epic_games_bass.png'",
+            m_image : "'switch_up_by_epic_games_bass.png'",
             mscore : "76956",
             } 
         },
@@ -6665,7 +6665,7 @@ const songs = [
             lscore : "175203",
 
             mpath : "2/3rd R, 1/4th Y, 1/1st B, 1/2nd R, 1/3rd Y, 1/4th Y, 1/NN, 1/2nd R, 1/6th Y",
-            m_score : "'take_me_higher_by_epic_games_bass.png'",
+            m_image : "'take_me_higher_by_epic_games_bass.png'",
             mscore : "88242",
             } 
         },
@@ -6694,7 +6694,7 @@ const songs = [
             lscore : "172188",
 
             mpath : "2/4th B, 1(+1)/6th B, 1/NN, 1/NN, 1/1st B, 3/10th B",
-            m_score : "'take_my_breath_by_the_weeknd_bass.png'",
+            m_image : "'take_my_breath_by_the_weeknd_bass.png'",
             mscore : "102330",
             } 
         },
@@ -6723,7 +6723,7 @@ const songs = [
             lscore : "233644",
 
             mpath : "1/1st B, 1/NN, 1/NN, 1/NN, 2(+1)/6th Y",
-            m_score : "'take_over_control_by_afrojack_ft_eva_simmons_bass.png'",
+            m_image : "'take_over_control_by_afrojack_ft_eva_simmons_bass.png'",
             mscore : "119448",
             } 
         },
@@ -6752,7 +6752,7 @@ const songs = [
             lscore : "76674",
 
             mpath : "2/6th Y, 1/NN, 1/2nd O, 1/10th G, 1/7th Y, 1/5th G",
-            m_score : "'the_boy_is_mine_by_ariana_grande_bass.png'",
+            m_image : "'the_boy_is_mine_by_ariana_grande_bass.png'",
             mscore : "72036",
             } 
         },
@@ -6781,7 +6781,7 @@ const songs = [
             lscore : "233674",
 
             mpath : "1/9th R, 1/12th Y, 1/9th B, 1/2nd Y, 1/6th R, 1/8th B, 1/1st GO, 1/11th O, 1/12th G, 1/3rd Y, 1/16th Y, 1/3rd B, 1/10th R, 1/18th R, 1/NN, 1/15th B, 1/5th O",
-            m_score : "'the_boys_are_back_in_town_by_thin_lizzy_bass.png'",
+            m_image : "'the_boys_are_back_in_town_by_thin_lizzy_bass.png'",
             mscore : "347918",
             } 
         },
@@ -6810,7 +6810,7 @@ const songs = [
             lscore : "163520",
 
             mpath : "3/2nd G, 1/2nd B, 3/2nd R, 1/1st B, 1/NN, 1/2nd G, 2/3rd R",
-            m_score : "'the_claw_by_epic_games_bass.png'",
+            m_image : "'the_claw_by_epic_games_bass.png'",
             mscore : "134679",
             } 
         },
@@ -6839,7 +6839,7 @@ const songs = [
             lscore : "99258",
 
             mpath : "3(+1)/1st O, 3/NN",
-            m_score : "'the_diner_by_billie_eilish_bass.png'",
+            m_image : "'the_diner_by_billie_eilish_bass.png'",
             mscore : "53263",
             } 
         },
@@ -6868,7 +6868,7 @@ const songs = [
             lscore : "261642",
 
             mpath : "1(+1)/8th R, 1/NN, 1/7th Y, 1/NN, 1/NN, 1/NN, 1/NN, 1/24th B, 1/NN, 1/NN, 1/NN, 1/1st R, 1/NN",
-            m_score : "'the_final_countdown_by_europe_bass.png'",
+            m_image : "'the_final_countdown_by_europe_bass.png'",
             mscore : "381267",
             } 
         },
@@ -6897,7 +6897,7 @@ const songs = [
             lscore : "157036",
 
             mpath : "1/NN, 2/20th B, 1/16th B, 1(+1)/1st G, 1/4th B, 4/20th B",
-            m_score : "'the_hand_that_feeds_by_nine_inch_nails_bass.png'",
+            m_image : "'the_hand_that_feeds_by_nine_inch_nails_bass.png'",
             mscore : "172368",
             } 
         },
@@ -6926,7 +6926,7 @@ const songs = [
             lscore : "85401",
 
             mpath : "1/2nd RB, 4/1st BO, 1/NN",
-            m_score : "'the_hills_by_the_weeknd_bass.png'",
+            m_image : "'the_hills_by_the_weeknd_bass.png'",
             mscore : "106386",
             } 
         },
@@ -6955,7 +6955,7 @@ const songs = [
             lscore : "115369",
 
             mpath : "2(+1)/19th Y, 1/NN, 3/13th Y, 1/NN, 1/NN",
-            m_score : "'the_hunting_ground_by_epic_games_bass.png'",
+            m_image : "'the_hunting_ground_by_epic_games_bass.png'",
             mscore : "92244",
             } 
         },
@@ -6984,7 +6984,7 @@ const songs = [
             lscore : "104442",
 
             mpath : "3(+1)/2nd B, 1(+1)/2nd B",
-            m_score : "'the_middle_by_zedd_maren_morris__grey_bass.png'",
+            m_image : "'the_middle_by_zedd_maren_morris__grey_bass.png'",
             mscore : "54177",
             } 
         },
@@ -7013,7 +7013,7 @@ const songs = [
             lscore : "235428",
 
             mpath : "1/1st G, 1/15th Y, 1/NN, 1/15th Y, 1/6th G, 1/NN, 1/1st R, 1/1st B, 1/15th Y, 1/NN",
-            m_score : "'the_middle_by_jimmy_eat_world_bass.png'",
+            m_image : "'the_middle_by_jimmy_eat_world_bass.png'",
             mscore : "200625",
             } 
         },
@@ -7042,7 +7042,7 @@ const songs = [
             lscore : "97816",
 
             mpath : "1/7th G, 1/7th Y, 1/3rd G, 1/7th R, 1/3rd Y, 3(+1)/4th R, 1/8th R",
-            m_score : "'the_night_porter_by_epic_games_bass.png'",
+            m_image : "'the_night_porter_by_epic_games_bass.png'",
             mscore : "148701",
             } 
         },
@@ -7071,7 +7071,7 @@ const songs = [
             lscore : "135540",
 
             mpath : "2/3rd R, 3/1st Y",
-            m_score : "'the_nights_by_avicii_bass.png'",
+            m_image : "'the_nights_by_avicii_bass.png'",
             mscore : "53868",
             } 
         },
@@ -7100,7 +7100,7 @@ const songs = [
             lscore : "44064",
 
             mpath : "1/15th Y, 2/1st R, 1/NN, 1(+1)/11th R, 1/1st R",
-            m_score : "'therefore_i_am_by_billie_eilish_bass.png'",
+            m_image : "'therefore_i_am_by_billie_eilish_bass.png'",
             mscore : "109098",
             } 
         },
@@ -7129,7 +7129,7 @@ const songs = [
             lscore : "87192",
 
             mpath : "1/2nd Y, 1/NN, 1/8th Y, 3/1st Y, 1/NN, 1/1st R, 1/1st R",
-            m_score : "'the_search_by_nf_bass.png'",
+            m_image : "'the_search_by_nf_bass.png'",
             mscore : "150354",
             } 
         },
@@ -7158,7 +7158,7 @@ const songs = [
             lscore : "235690",
 
             mpath : "3/3rd Y, 1/2nd Y, 1/6th Y, 2/NN, 1/9th Y, 1/1st Y, 1/4th Y, 2(+1)/1st B, 1/10th B, 1/2nd R, 1/1.9 beats after 7th Y, 1/2nd Y, 1/2nd O, 1/2nd O, 1/2nd B",
-            m_score : "'the_unforgiven_by_metallica_bass.png'",
+            m_image : "'the_unforgiven_by_metallica_bass.png'",
             mscore : "220569",
             } 
         },
@@ -7187,7 +7187,7 @@ const songs = [
             lscore : "129092",
 
             mpath : "2(+1)/5th Y, 1/NN",
-            m_score : "'the_way_life_goes_by_lil_uzi_vert_ft_oh_wonder_bass.png'",
+            m_image : "'the_way_life_goes_by_lil_uzi_vert_ft_oh_wonder_bass.png'",
             mscore : "16238",
             } 
         },
@@ -7216,7 +7216,7 @@ const songs = [
             lscore : "78188",
 
             mpath : "1/14th G, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/3rd G, 1/NN",
-            m_score : "'this_is_how_we_do_it_by_montell_jordan_bass.png'",
+            m_image : "'this_is_how_we_do_it_by_montell_jordan_bass.png'",
             mscore : "99012",
             } 
         },
@@ -7245,7 +7245,7 @@ const songs = [
             lscore : "71196",
 
             mpath : "1/4th RB, 1/NN, 1(+1)/1st YO, 2(+1)/1st YO",
-            m_score : "'thunder_by_imagine_dragons_bass.png'",
+            m_image : "'thunder_by_imagine_dragons_bass.png'",
             mscore : "177441",
             } 
         },
@@ -7274,7 +7274,7 @@ const songs = [
             lscore : "48960",
 
             mpath : "1/2nd R, 1(+1)/7th G, 1/NN",
-            m_score : "'timeless_by_witchgang_bass.png'",
+            m_image : "'timeless_by_witchgang_bass.png'",
             mscore : "68457",
             } 
         },
@@ -7303,7 +7303,7 @@ const songs = [
             lscore : "66876",
 
             mpath : "3(+1)/6th G, 1/1st R, 1/4th G, 1/1st B, 1/NN, 1/NN",
-            m_score : "'titi_me_pregunto_by_bad_bunny_bass.png'",
+            m_image : "'titi_me_pregunto_by_bad_bunny_bass.png'",
             mscore : "74745",
             } 
         },
@@ -7332,7 +7332,7 @@ const songs = [
             lscore : "96492",
 
             mpath : "1/4th R, 1/NN, 1/NN, 1/NN, 1/4th O, 1/4th B, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/5th R",
-            m_score : "'too_sweet_by_hozier_bass.png'",
+            m_image : "'too_sweet_by_hozier_bass.png'",
             mscore : "139374",
             } 
         },
@@ -7361,7 +7361,7 @@ const songs = [
             lscore : "244260",
 
             mpath : "1/18th B, 1/NN, 1/3rd Y, 1/12th B, 1/11th O, 1/19th R, 2/2nd O, 1/NN, 1/4th Y, 1/12th B, 1/11th O",
-            m_score : "'toxicity_by_system_of_a_down_bass.png'",
+            m_image : "'toxicity_by_system_of_a_down_bass.png'",
             mscore : "279072",
             } 
         },
@@ -7390,7 +7390,7 @@ const songs = [
             lscore : "94068",
 
             mpath : "1/1st G, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/1st Y, 1/NN, 1/NN, 1/NN",
-            m_score : "'t_r_a_n_s_p_a_r_e_n_t_s_o_u_l_by_willow_ft_travis_barker_bass.png'",
+            m_image : "'t_r_a_n_s_p_a_r_e_n_t_s_o_u_l_by_willow_ft_travis_barker_bass.png'",
             mscore : "158976",
             } 
         },
@@ -7419,7 +7419,7 @@ const songs = [
             lscore : "68832",
 
             mpath : "1/7th B, 1/1st G, 1/1st G, 1/3rd O, 1/1st G, 1/4th G, 1/2nd Y",
-            m_score : "'tusa_by_karol_g_ft_nicki_minaj_bass.png'",
+            m_image : "'tusa_by_karol_g_ft_nicki_minaj_bass.png'",
             mscore : "88647",
             } 
         },
@@ -7448,7 +7448,7 @@ const songs = [
             lscore : "364516",
 
             mpath : "1/4th Y, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 4(+1)/3rd G",
-            m_score : "'unsainted_by_slipknot_bass.png'",
+            m_image : "'unsainted_by_slipknot_bass.png'",
             mscore : "375840",
             } 
         },
@@ -7477,7 +7477,7 @@ const songs = [
             lscore : "147072",
 
             mpath : "2(+1)/8th R, 1/6th R, 1/2nd G, 1/2nd B, 1/7th R, 2/9th R, 1/13th R, 1/16th Y",
-            m_score : "'uptown_funk_by_mark_ronson_ft_bruno_mars_bass.png'",
+            m_image : "'uptown_funk_by_mark_ronson_ft_bruno_mars_bass.png'",
             mscore : "169956",
             } 
         },
@@ -7506,7 +7506,7 @@ const songs = [
             lscore : "195312",
 
             mpath : "2/13th Y, 1/2nd B, 1/NN, 1/1st Y, 1/1st R, 1/1st R, 1/1st B, 1/NN, 1/10th G",
-            m_score : "'vampire_by_olivia_rodrigo_bass.png'",
+            m_image : "'vampire_by_olivia_rodrigo_bass.png'",
             mscore : "158937",
             } 
         },
@@ -7535,7 +7535,7 @@ const songs = [
             lscore : "124248",
 
             mpath : "1/6th G, 1/NN, 1/4th O, 1/2nd G, 1/NN, 1/5th O",
-            m_score : "'walk_em_down_by_nle_choppa_ft_roddy_ricch_bass.png'",
+            m_image : "'walk_em_down_by_nle_choppa_ft_roddy_ricch_bass.png'",
             mscore : "71151",
             } 
         },
@@ -7564,7 +7564,7 @@ const songs = [
             lscore : "132586",
 
             mpath : "1/4th G, 1/18th R, 1/7th R, 1/21st R, 1/7th R, 1/3rd R",
-            m_score : "'way_too_fast_by_epic_games_bass.png'",
+            m_image : "'way_too_fast_by_epic_games_bass.png'",
             mscore : "85968",
             } 
         },
@@ -7593,7 +7593,7 @@ const songs = [
             lscore : "303672",
 
             mpath : "1/13th B, 1/NN, 1/12th G, 2/NN, 1/NN, 1/12th G, 2/14th G, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/16th B",
-            m_score : "'welcome_to_paradise_by_green_day_bass.png'",
+            m_image : "'welcome_to_paradise_by_green_day_bass.png'",
             mscore : "306576",
             } 
         },
@@ -7622,7 +7622,7 @@ const songs = [
             lscore : "237476",
 
             mpath : "1/2nd B, 1/17th B, 1/8th B, 1/10th G, 1/NN, 1/17th B, 1/3 beats after 5th B, 4(+1)/1st G, 1/6th B, 1/6th B",
-            m_score : "'welcome_to_the_jungle_by_guns_n_roses_bass.png'",
+            m_image : "'welcome_to_the_jungle_by_guns_n_roses_bass.png'",
             mscore : "308262",
             } 
         },
@@ -7651,7 +7651,7 @@ const songs = [
             lscore : "131904",
 
             mpath : "2/5th B, 1/NN, 1/NN, 1/NN, 1/NN, 1/3rd G, 1/NN, 2(+1)/1st G, 1/NN",
-            m_score : "'we_like_to_party_the_vengabus_by_vengaboys_bass.png'",
+            m_image : "'we_like_to_party_the_vengabus_by_vengaboys_bass.png'",
             mscore : "97433",
             } 
         },
@@ -7680,7 +7680,7 @@ const songs = [
             lscore : "90778",
 
             mpath : "1/5th O, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
-            m_score : "'what_do_you_mean?_by_justin_bieber_bass.png'",
+            m_image : "'what_do_you_mean?_by_justin_bieber_bass.png'",
             mscore : "59148",
             } 
         },
@@ -7709,7 +7709,7 @@ const songs = [
             lscore : "144764",
 
             mpath : "1/NN, 1/NN, 3(+1)/3rd G, 1/NN",
-            m_score : "'what_i_got_by_sublime_bass.png'",
+            m_image : "'what_i_got_by_sublime_bass.png'",
             mscore : "143874",
             } 
         },
@@ -7738,7 +7738,7 @@ const songs = [
             lscore : "166684",
 
             mpath : "1/8th Y, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
-            m_score : "'what_is_love_by_haddaway_bass.png'",
+            m_image : "'what_is_love_by_haddaway_bass.png'",
             mscore : "157680",
             } 
         },
@@ -7767,7 +7767,7 @@ const songs = [
             lscore : "146208",
 
             mpath : "1/5th Y, 1/0.92 beats after 4th Y, 1/1st R, 1/1st Y, 1/NN, 1/6th R, 1/9th R, 1/29th B",
-            m_score : "'whats_my_age_again?_by_blink182_bass.png'",
+            m_image : "'whats_my_age_again?_by_blink182_bass.png'",
             mscore : "157074",
             } 
         },
@@ -7796,7 +7796,7 @@ const songs = [
             lscore : "88922",
 
             mpath : "3(+1)/1st Y, 1/NN, 1/NN, 2/3rd O",
-            m_score : "'whats_poppin_by_jack_harlow_bass.png'",
+            m_image : "'whats_poppin_by_jack_harlow_bass.png'",
             mscore : "30888",
             } 
         },
@@ -7825,7 +7825,7 @@ const songs = [
             lscore : "201798",
 
             mpath : "2/11th G, 2(+1)/13th R, 2/NN, 1/1st Y",
-            m_score : "'whenever_wherever_by_shakira_bass.png'",
+            m_image : "'whenever_wherever_by_shakira_bass.png'",
             mscore : "143106",
             } 
         },
@@ -7854,7 +7854,7 @@ const songs = [
             lscore : "156486",
 
             mpath : "1/NN, 1/NN, 1/1st Y, 1/15th R, 1/15th R, 1/1st R, 1/1st R",
-            m_score : "'when_i_come_around_by_green_day_bass.png'",
+            m_image : "'when_i_come_around_by_green_day_bass.png'",
             mscore : "196524",
             } 
         },
@@ -7883,7 +7883,7 @@ const songs = [
             lscore : "277437",
 
             mpath : "1(+1)/27th G, 3(+1)/9th R, 1/6th G, 1/NN, 3/4th G, 1/7th B, 1/4th R, 1/17th G, 1/NN, 1/5th B, 1/1st B, 1/1st G, 1/NN, 1/2nd B, 1/8th B",
-            m_score : "'wherever_i_may_roam_by_metallica_bass.png'",
+            m_image : "'wherever_i_may_roam_by_metallica_bass.png'",
             mscore : "331326",
             } 
         },
@@ -7912,7 +7912,7 @@ const songs = [
             lscore : "96198",
 
             mpath : "1/6th G, 1/6th B, 1/4th B, 1/1st O, 1/5th B, 1/2nd O, 1/1st O, 1/1st O, 1/1st O",
-            m_score : "'winterfest_wish_by_epic_games_bass.png'",
+            m_image : "'winterfest_wish_by_epic_games_bass.png'",
             mscore : "108084",
             } 
         },
@@ -7941,7 +7941,7 @@ const songs = [
             lscore : "162472",
 
             mpath : "1/NN, 1/1st Y, 1/1st Y, 1/1st Y, 1/NN, 1/1st Y, 1/NN, 1/NN, 1/NN, 1/19 beats after 4th G, 1/NN, 1/NN",
-            m_score : "'with_or_without_you_by_u2_bass.png'",
+            m_image : "'with_or_without_you_by_u2_bass.png'",
             mscore : "253302",
             } 
         },
@@ -7970,7 +7970,7 @@ const songs = [
             lscore : "110136",
 
             mpath : "1/11th R, 1/NN, 4(+1)/1st G, 1/NN",
-            m_score : "'wolves_by_selena_gomez_w_marshmello_bass.png'",
+            m_image : "'wolves_by_selena_gomez_w_marshmello_bass.png'",
             mscore : "117726",
             } 
         },
@@ -7999,7 +7999,7 @@ const songs = [
             lscore : "72486",
 
             mpath : "2/2nd Y, 1/2nd G, 1/1st G, 1/1st G, 1/2nd R, 1/1st G, 1/2nd G",
-            m_score : "'woman_by_doja_cat_bass.png'",
+            m_image : "'woman_by_doja_cat_bass.png'",
             mscore : "57654",
             } 
         },
@@ -8028,7 +8028,7 @@ const songs = [
             lscore : "195597",
 
             mpath : "1/NN, 1/24th G, 1/12th Y, 1/NN, 1/9th G, 1/NN, 1/14th G, 1/NN, 1/NN, 1/9th Y",
-            m_score : "'would?_by_alice_in_chains_bass.png'",
+            m_image : "'would?_by_alice_in_chains_bass.png'",
             mscore : "312156",
             } 
         },
@@ -8057,7 +8057,7 @@ const songs = [
             lscore : "96052",
 
             mpath : "3/1st Y, 1/3rd G, 1/2nd B, 1/4th B, 1/2nd B, 1/4th B",
-            m_score : "'x_gon_give_it_to_ya_by_dmx_bass.png'",
+            m_image : "'x_gon_give_it_to_ya_by_dmx_bass.png'",
             mscore : "70674",
             } 
         },
@@ -8086,7 +8086,7 @@ const songs = [
             lscore : "109125",
 
             mpath : "2/0.17 beats after 4th Y, 1/3rd R, 1/3rd R, 1/1st R, 2/NN, 1/1st Y, 1/3rd R, 1/9th Y",
-            m_score : "'xo_tour_llif3__by_lil_uzi_vert_bass.png'",
+            m_image : "'xo_tour_llif3__by_lil_uzi_vert_bass.png'",
             mscore : "94630",
             } 
         },
@@ -8115,7 +8115,7 @@ const songs = [
             lscore : "112156",
 
             mpath : "1/1st Y, 1/NN, 1/6th G, 1/NN, 1/NN, 1/9th Y, 1/NN, 1/1st R",
-            m_score : "'yes_and?_by_ariana_grande_bass.png'",
+            m_image : "'yes_and?_by_ariana_grande_bass.png'",
             mscore : "106308",
             } 
         },
@@ -8144,7 +8144,7 @@ const songs = [
             lscore : "144000",
 
             mpath : "1/4th G, 1/1st G, 1/3rd Y, 1/2nd Y, 4/1st R, 1/8th G, 1/1st G",
-            m_score : "'you_dont_know_me_by_epic_games_bass.png'",
+            m_image : "'you_dont_know_me_by_epic_games_bass.png'",
             mscore : "126945",
             } 
         },
@@ -8173,7 +8173,7 @@ const songs = [
             lscore : "177972",
 
             mpath : "1/6th O, 1/5th O, 1/2nd B, 1/2nd B, 1/1st O, 1/4th Y, 1/8th Y, 3(+1)/15th Y, 1/8th R",
-            m_score : "'you_dont_know_what_youve_got_by_blink182_bass.png'",
+            m_image : "'you_dont_know_what_youve_got_by_blink182_bass.png'",
             mscore : "175995",
             } 
         },
@@ -8202,7 +8202,7 @@ const songs = [
             lscore : "148137",
 
             mpath : "1/6th B, 1/NN, 1/3rd R, 1/NN, 1/NN, 1/1st Y, 1/NN",
-            m_score : "'youngblood_by_5_seconds_of_summer_bass.png'",
+            m_image : "'youngblood_by_5_seconds_of_summer_bass.png'",
             mscore : "124101",
             } 
         },
@@ -8231,7 +8231,7 @@ const songs = [
             lscore : "179016",
 
             mpath : "1/13th R, 1(+1)/13th R, 1/3rd R, 1/6th G, 1/9th R, 1/6th R, 1/3rd G, 1(+1)/6th Y, 1/14th R, 1/2nd G, 1/NN, 1/14th G",
-            m_score : "'youre_all_mine_by_epic_games_bass.png'",
+            m_image : "'youre_all_mine_by_epic_games_bass.png'",
             mscore : "170430",
             } 
         },
@@ -8260,7 +8260,7 @@ const songs = [
             lscore : "58110",
 
             mpath : "3/NN, 3/3rd O, 1/3rd O",
-            m_score : "'your_love_9pm_by_atb_topic_a7s_bass.png'",
+            m_image : "'your_love_9pm_by_atb_topic_a7s_bass.png'",
             mscore : "62873",
             } 
         },
@@ -8289,7 +8289,7 @@ const songs = [
             lscore : "216048",
 
             mpath : "1/30th Y, 1/NN, 1/8th Y, 1/5th Y, 1/NN, 1/9th Y, 1/5th G, 1/15th B",
-            m_score : "'zombie_by_the_cranberries_bass.png'",
+            m_image : "'zombie_by_the_cranberries_bass.png'",
             mscore : "232209",
             } 
         },
