@@ -3,6 +3,9 @@ name: Generate Paths
 on:
   schedule:
     - cron: "00 19 * * 4"  # Every Thursday at 7:00 PM UTC (Friday 5:00 AM AEST/AEDT)
+  push:
+    branches:
+      - main
 
 jobs:
   run-script:
