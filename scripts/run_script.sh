@@ -143,17 +143,17 @@ for dir in "$parent_directory"/*/; do
             g_image : "'"${guitar_path_image}"'",
             gscore : "'"$guitar_score"'",
 
-            bpath : "'"$mbass_path"'",
-            b_image : "'"${mbass_path_image}"'",
-            bscore : "'"$mbass_score"'",
+            bpath : "'"$bass_path"'",
+            b_image : "'"${bass_path_image}"'",
+            bscore : "'"$bass_score"'",
 
             lpath : "'"$lead_path"'",
             l_image : "'"${lead_path_image}"'",
             lscore : "'"$lead_score"'",
 
-            mpath : "'"$bass_path"'",
-            m_image : "'"${bass_path_image}"'",
-            mscore : "'"$bass_score"'",
+            mpath : "'"$mbass_path"'",
+            m_image : "'"${mbass_path_image}"'",
+            mscore : "'"$mbass_score"'",
             } 
         },'
 
