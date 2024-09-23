@@ -45,17 +45,37 @@ jobs:
       - name: Make main script executable
         run: chmod +x ./scripts/run_script.sh
 
+      # Remove the old fnfp.js before running the script
+      - name: Remove old fnfp.js
+        run: rm -f fnfp.js
+
       # Run the main script
       - name: Generate Paths
         run: |
           source venv/bin/activate
           ./scripts/run_script.sh
 
-      # Add generated files to GitHub
-      - name: Add generated files to repo
+      # Stash any local changes before pulling the latest code
+      - name: Stash changes before pull
+        run: git stash
+
+      # Pull the latest changes from the remote repository
+      - name: Pull latest changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
+
+      # Apply the stashed changes
+      - name: Apply stashed changes
+        run: git stash pop || echo "No changes to apply"
+
+      # Add generated files to GitHub
+      - name: Add generated files to repo
+        run: |
           git add paths/* fnfp.js
           git commit -m "Add New Song Paths" || echo "No changes to commit"
-          git push
+
+      # Push changes to the remote repository
+      - name: Push changes
+        run: git push origin main
