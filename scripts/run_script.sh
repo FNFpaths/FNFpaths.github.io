@@ -50,19 +50,19 @@ for dir in "$parent_directory"/*/; do
         clean_title_artist=$(echo "$title_artist" | iconv -f utf-8 -t ascii//TRANSLIT | sed -e 's/[^[:alnum:]?[:space:]]//g' -e 's/ /_/g' | tr '[:upper:]' '[:lower:]')
 
         # Guitar output file name
-        guitar_output="${clean_title_artist}_guitar.png"
+        guitar_output="${shortname}_guitar.png"
         # Bass output file name
-        bass_output="${clean_title_artist}_bass.png"
+        bass_output="${shortname}_bass.png"
 
         # Drums output file name
-        drums_output="${clean_title_artist}_drums.png"
+        drums_output="${shortname}_drums.png"
         # Pad Bass output file name
-        mbass_output="${clean_title_artist}_mbass.png"
+        mbass_output="${shortname}_mbass.png"
 
         # Lead output file name
-        lead_output="${clean_title_artist}_lead.png"
+        lead_output="${shortname}_lead.png"
         # Pad Bass output file name
-        vocals_output="${clean_title_artist}_vocals.png"
+        vocals_output="${shortname}_vocals.png"
 
         #### PRO LEAD #####
         guitar_path=$( ../scripts/cli/fnf_chopt -f *_pro.mid --lazy 1000000 --squeeze 40 --early-whammy 0 --no-image --engine rb  | \
