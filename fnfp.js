@@ -2580,6 +2580,35 @@ const songs = [
             mscore : "124203",
             } 
         },
+{ value : "Fighter by Christina Aguilera", 
+            data : {
+            shortname : "fighter",
+
+            dpath : "1/3rd GO, 1/NN, 1/NN, 1/7th GO, 1/NN, 1/2nd GO, 1/3rd GO, 1/13th GO",
+            d_image : "'fighter_drums.png'",
+            dscore : "134352",
+
+            vpath : "1/13th B, 1/4th G, 1/4th R, 1/0.5 beats after 4th B, 1/4th G, 1/NN, 1/6th G, 1/11th Y, 1/3rd G",
+            v_image : "'fighter_vocals.png'",
+            vscore : "220770",
+
+            gpath : "1/2 beats after 2nd R, 1/1st RO, 1/NN, 2/12th R, 2/6th R, 1/3rd RO, 1/1st RO",
+            g_image : "'fighter_guitar.png'",
+            gscore : "162535",
+
+            bpath : "1/13th Y, 1/1st Y, 1/NN, 1/17th Y, 1/1st Y, 1/1st G, 1/2nd G, 1/4th B, 1/8th G, 1/1st Y",
+            b_image : "'fighter_bass.png'",
+            bscore : "158319",
+
+            lpath : "1/2 beats after 2nd R, 1/1st GO, 1/NN, 2/6th Y, 2/8th Y, 1/3rd RB, 1/1st RB",
+            l_image : "'fighter_lead.png'",
+            lscore : "159715",
+
+            mpath : "1/4th Y, 1/1st Y, 1/NN, 1/5th Y, 1/1st Y, 1/1st G, 1/2nd G, 1/7th R, 1/8th G, 1/1st Y",
+            m_image : "'fighter_mbass.png'",
+            mscore : "157269",
+            } 
+        },
 { value : "Find the Fury by Epic Games", 
             data : {
             shortname : "findthefury",
@@ -5944,6 +5973,35 @@ const songs = [
             mscore : "231120",
             } 
         },
+{ value : "SexyBack by Justin Timberlake ft. Timbaland", 
+            data : {
+            shortname : "sexyback",
+
+            dpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            d_image : "'sexyback_drums.png'",
+            dscore : "205056",
+
+            vpath : "2/12th R, 1/NN, 2(+1)/18th R, 2/15th R, 1/NN",
+            v_image : "'sexyback_vocals.png'",
+            vscore : "200862",
+
+            gpath : "3/8th B, 3(+1)/1st R, 2/12th B, 1/NN",
+            g_image : "'sexyback_guitar.png'",
+            gscore : "141696",
+
+            bpath : "1/6th R, 1/4th R, 1/2nd R, 1/1st R, 1/1st R, 1/NN, 1/NN, 1/2nd R, 1/NN, 1/2nd G",
+            b_image : "'sexyback_bass.png'",
+            bscore : "66360",
+
+            lpath : "3/8th B, 3(+1)/1st R, 2/12th B, 1/NN",
+            l_image : "'sexyback_lead.png'",
+            lscore : "141696",
+
+            mpath : "1/6th Y, 1/4th Y, 1/2nd Y, 1/1st Y, 1/1st Y, 1/NN, 1/NN, 1/2nd Y, 1/NN, 1/2nd G",
+            m_image : "'sexyback_mbass.png'",
+            mscore : "66360",
+            } 
+        },
 { value : "Shivers by Ed Sheeran", 
             data : {
             shortname : "shivers",
@@ -7334,6 +7392,35 @@ const songs = [
             mpath : "1/4th R, 1/NN, 1/NN, 2/3rd R, 1/4th B, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/5th R",
             m_image : "'toosweet_mbass.png'",
             mscore : "138672",
+            } 
+        },
+{ value : "Toxic by Britney Spears", 
+            data : {
+            shortname : "toxic",
+
+            dpath : "2/1st GY, 2/NN, 1/NN, 3(+1)/NN, 2(+1)/1st GO",
+            d_image : "'toxic_drums.png'",
+            dscore : "118368",
+
+            vpath : "1/6th R, 1/1st B, 2/NN, 1/7th R, 1/1st B, 2/NN, 1/NN, 1/3rd B, 1/7th O",
+            v_image : "'toxic_vocals.png'",
+            vscore : "110001",
+
+            gpath : "1/1st GY, 1/1st GY, 1/1st GY, 1/NN, 1/1st YB, 1/1st GY, 1/1st GY, 1/NN, 1/1st YB, 2/1st YB, 1/NN",
+            g_image : "'toxic_guitar.png'",
+            gscore : "186772",
+
+            bpath : "1/2nd O, 1/2nd O, 1/6th R, 1/4th B, 1/7th R, 1/2nd O, 1/4th B, 1/3rd Y, 1/6th R, 1/6th R",
+            b_image : "'toxic_bass.png'",
+            bscore : "128577",
+
+            lpath : "1/1st GY, 1/1st GY, 1/1st GY, 1/NN, 1/1st RB, 1/1st GY, 1/1st GY, 1/NN, 1/1st RB, 2/1st RB, 1/NN",
+            l_image : "'toxic_lead.png'",
+            lscore : "181764",
+
+            mpath : "1/2nd O, 1/2nd O, 1/2nd G, 1/4th B, 1/7th R, 1/2nd O, 1/4th B, 1/4th R, 1/2nd G, 1/2nd G",
+            m_image : "'toxic_mbass.png'",
+            mscore : "113535",
             } 
         },
 { value : "Toxicity by System Of A Down", 
