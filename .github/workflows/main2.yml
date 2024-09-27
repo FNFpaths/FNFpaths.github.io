@@ -1,8 +1,8 @@
-name: Generate Paths (API Update)
+name: Generate Paths (Shop Refresh)
 
 on:
   schedule:
-    - cron: "00 14 * * 4"  # Every Thursday at 2:00 PM UTC - When API is usually updated.
+    - cron: "00 00 * * 5"  # Every Friday at 12:00 AM UTC - When Item Shop Refreshes.
   push:
     branches:
       - main
