@@ -1,11 +1,9 @@
 name: Generate Paths (API Update)
 
 on:
-  schedule:
+    workflow_dispatch:
+    schedule:
     - cron: "00 14 * * 4"  # Every Thursday at 2:00 PM UTC - When API is usually updated.
-  push:
-    branches:
-      - main
 
 jobs:
   run-script:
