@@ -2261,6 +2261,35 @@ const songs = [
             mscore : "138186",
             } 
         },
+{ value : "Dynamite by Taio Cruz", 
+            data : {
+            shortname : "dynamite2",
+
+            dpath : "1/7th O, 1/1st RY, 1/17th O, 1/1st RY, 1/NN, 1(+1)/1st GO, 1/22nd G",
+            d_image : "'dynamite2_drums.png'",
+            dscore : "111744",
+
+            vpath : "1/2nd B, 1/3rd G, 1/NN, 1/NN, 2/11th B, 1/1st O, 1/2nd R",
+            v_image : "'dynamite2_vocals.png'",
+            vscore : "127134",
+
+            gpath : "1/3rd RB, 1/1st RB, 4/NN, 1/1st RB, 1/NN",
+            g_image : "'dynamite2_guitar.png'",
+            gscore : "172920",
+
+            bpath : "1/NN, 1/8th Y, 1/NN, 1/8th G, 1/NN, 2(+1)/15th G",
+            b_image : "'dynamite2_bass.png'",
+            bscore : "135774",
+
+            lpath : "1/3rd RB, 1/1st RB, 4/NN, 1/1st RB, 1/NN",
+            l_image : "'dynamite2_lead.png'",
+            lscore : "172920",
+
+            mpath : "1/NN, 1/8th Y, 1/NN, 1/8th G, 1/NN, 2(+1)/15th G",
+            m_image : "'dynamite2_mbass.png'",
+            mscore : "135774",
+            } 
+        },
 { value : "The Edge of Glory by Lady Gaga", 
             data : {
             shortname : "edgeofglory",
@@ -5335,6 +5364,35 @@ const songs = [
             mscore : "84366",
             } 
         },
+{ value : "Pump Up The Jam by Technotronic", 
+            data : {
+            shortname : "pumpupthejam",
+
+            dpath : "1/NN, 1/NN, 1/4th RB, 1/NN, 1/NN, 1/8th RB, 1/2nd RB, 1/3rd GB, 1/NN, 1/1st RB, 1/4th RB, 1/3rd RB",
+            d_image : "'pumpupthejam_drums.png'",
+            dscore : "310320",
+
+            vpath : "1/1st G, 1/NN, 1/11th R, 1/1st G, 1/1st O, 1/NN, 1/2nd O, 1/5th B, 1/NN",
+            v_image : "'pumpupthejam_vocals.png'",
+            vscore : "130014",
+
+            gpath : "2/5th RYB, 3/3rd GR, 1/NN, 1/3rd YBO, 1/1st YB",
+            g_image : "'pumpupthejam_guitar.png'",
+            gscore : "79496",
+
+            bpath : "2/2nd Y, 1/2nd Y, 1/1st Y, 1/1st Y, 1/2nd Y, 1/1st Y, 1/1st Y, 1/1st Y, 1/1st Y, 1/1st Y",
+            b_image : "'pumpupthejam_bass.png'",
+            bscore : "125751",
+
+            lpath : "2/5th RB, 3/3rd GY, 1/NN, 1/3rd RO, 1/1st RB",
+            l_image : "'pumpupthejam_lead.png'",
+            lscore : "69920",
+
+            mpath : "2/2nd Y, 1/2nd Y, 1/1st Y, 1/1st Y, 1/2nd Y, 1/1st Y, 1/1st Y, 1/1st Y, 1/1st Y, 1/1st Y",
+            m_image : "'pumpupthejam_mbass.png'",
+            mscore : "125751",
+            } 
+        },
 { value : "QLONA by Karol G ft. Peso Pluma", 
             data : {
             shortname : "qlona",
@@ -6756,7 +6814,7 @@ const songs = [
             mscore : "102330",
             } 
         },
-{ value : "Take Over Control by Afrojack ft. Eva Simmons", 
+{ value : "Take Over Control by Afrojack ft. Eva Simons", 
             data : {
             shortname : "takeovercontrol",
 
@@ -6841,6 +6899,35 @@ const songs = [
             mpath : "1/8th R, 1/9th Y, 1/9th B, 1/2nd Y, 1/6th R, 1/8th B, 1/1st GO, 1/11th O, 1/12th G, 1/3rd Y, 1/19th Y, 1/2nd B, 1/9th R, 1/17th R, 1/NN, 1/12th B, 1/5th O",
             m_image : "'theboysareback_mbass.png'",
             mscore : "347720",
+            } 
+        },
+{ value : "The Business by Tiësto", 
+            data : {
+            shortname : "thebusiness",
+
+            dpath : "2/1st GO, 1/3rd O, 1/2nd RO, 2/1st GO",
+            d_image : "'thebusiness_drums.png'",
+            dscore : "67824",
+
+            vpath : "2/5th Y, 1/9th Y, 1/3rd R, 2/4th O, 1/4th G, 1/4th G",
+            v_image : "'thebusiness_vocals.png'",
+            vscore : "95799",
+
+            gpath : "2/2nd RY, 1/2nd G, 3/1st YB",
+            g_image : "'thebusiness_guitar.png'",
+            gscore : "79434",
+
+            bpath : "2/7th Y, 1/NN, 1/NN, 2(+1)/8th Y, 1/NN",
+            b_image : "'thebusiness_bass.png'",
+            bscore : "105042",
+
+            lpath : "2/2nd RY, 1/NN, 3/1st RB",
+            l_image : "'thebusiness_lead.png'",
+            lscore : "77850",
+
+            mpath : "2/7th Y, 1/NN, 1/NN, 2(+1)/8th Y, 1/NN",
+            m_image : "'thebusiness_mbass.png'",
+            mscore : "105042",
             } 
         },
 { value : "The Claw by Epic Games", 
