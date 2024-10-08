@@ -4900,6 +4900,35 @@ const songs = [
             mscore : "42381",
             } 
         },
+{ value : "Ocean Breeze Beats by Epic Games", 
+            data : {
+            shortname : "oceanbreezebeats",
+
+            dpath : "1/8th R, 1/NN, 1/6th R, 1/NN, 1/9th B, 1/5th B, 1/10th Y, 1/4th GB, 1/11th O, 1/7th O, 1/9th O",
+            d_image : "'oceanbreezebeats_drums.png'",
+            dscore : "202896",
+
+            vpath : "1/9th B, 1/NN, 1/7th G, 2(+1)/1st Y, 1/27th G",
+            v_image : "'oceanbreezebeats_vocals.png'",
+            vscore : "125001",
+
+            gpath : "1/3rd B, 1/NN, 1/NN, 1/4th R, 1/3rd R, 1/NN, 1/12th R, 1/2nd B",
+            g_image : "'oceanbreezebeats_guitar.png'",
+            gscore : "78858",
+
+            bpath : "1/13th Y, 1/NN, 1/NN, 3(+1)/22nd Y, 1/NN, 1/NN, 1/19th R, 1/32nd Y",
+            b_image : "'oceanbreezebeats_bass.png'",
+            bscore : "243060",
+
+            lpath : "1/3rd Y, 1/NN, 1/NN, 1/3rd G, 1/3rd G, 1/NN, 1/11th G, 1/2nd G",
+            l_image : "'oceanbreezebeats_lead.png'",
+            lscore : "78906",
+
+            mpath : "1/11th R, 1/NN, 1/NN, 3(+1)/19th Y, 1/NN, 1/NN, 1/28th R, 1/23rd Y",
+            m_image : "'oceanbreezebeats_mbass.png'",
+            mscore : "243060",
+            } 
+        },
 { value : "OG (Future Remix) by Epic Games", 
             data : {
             shortname : "ogfutureremix",
@@ -6640,7 +6669,7 @@ const songs = [
             mscore : "103143",
             } 
         },
-{ value : "Sweet Child O' Mine by Guns N' Roses ", 
+{ value : "Sweet Child O' Mine by Guns N' Roses", 
             data : {
             shortname : "sweetchildomine",
 
