@@ -1362,6 +1362,35 @@ const songs = [
             mscore : "172698",
             } 
         },
+{ value : "bury a friend by Billie Eilish", 
+            data : {
+            shortname : "buryafriend",
+
+            dpath : "1/1st RO, 1/1st RO, 1/3rd RO, 2/2nd RO, 1/9th RO, 1/1st RO, 1/3rd RO, 1/17th RO",
+            d_image : "'buryafriend_drums.png'",
+            dscore : "133344",
+
+            vpath : "1/7th R, 1/NN, 1/2nd B, 2/11th R, 1/NN, 1/3rd Y, 1/2nd B, 1/NN",
+            v_image : "'buryafriend_vocals.png'",
+            vscore : "133839",
+
+            gpath : "2/1st B, 1/NN, 1/1st GR, 2/1st GRB",
+            g_image : "'buryafriend_guitar.png'",
+            gscore : "67572",
+
+            bpath : "1(+1)/18th Y, 1/5th G, 1/NN, 1/NN, 1/5th Y, 1/9th Y, 1/1st G",
+            b_image : "'buryafriend_bass.png'",
+            bscore : "72432",
+
+            lpath : "2/1st O, 1/NN, 1/1st GY, 1/2nd G, 1/1st GB",
+            l_image : "'buryafriend_lead.png'",
+            lscore : "58596",
+
+            mpath : "1(+1)/18th Y, 1/5th G, 1/NN, 1/NN, 1/5th Y, 1/9th Y, 1/1st G",
+            m_image : "'buryafriend_mbass.png'",
+            mscore : "72432",
+            } 
+        },
 { value : "Bust A Move by Young MC", 
             data : {
             shortname : "bustamove",
@@ -2609,6 +2638,35 @@ const songs = [
             mscore : "124203",
             } 
         },
+{ value : "Fell On Black Days by Soundgarden", 
+            data : {
+            shortname : "fellonblackdays",
+
+            dpath : "1/1st RY, 1/1st RY, 1/2nd Y, 1/10th Y, 1/1st RY, 1/1st RY, 1/4th RB, 1/21st RY, 1/6th RB, 1/NN, 1/11th GB",
+            d_image : "'fellonblackdays_drums.png'",
+            dscore : "254160",
+
+            vpath : "1/NN, 1/4th Y, 1/NN, 1/1st O, 2/4th G, 1/1st R, 1/NN, 1/4th O, 1/9th Y",
+            v_image : "'fellonblackdays_vocals.png'",
+            vscore : "124620",
+
+            gpath : "1/3rd GY, 1/1st GY, 1/3rd GY, 1/1st GY, 1/5th GY, 1/7th GY, 1/1st GY, 1/13th RY, 1/NN, 1/2nd B, 1/4th R",
+            g_image : "'fellonblackdays_guitar.png'",
+            gscore : "246432",
+
+            bpath : "1/6th B, 1/NN, 2(+1)/1st YB, 4(+1)/4th RB",
+            b_image : "'fellonblackdays_bass.png'",
+            bscore : "198252",
+
+            lpath : "1/2nd GB, 1/10th R, 1/2nd GB, 1/1st GB, 1/1st GB, 1/2nd GB, 1/2nd GB, 1/13th RY, 1/1st B, 1/2nd B, 1/4th Y",
+            l_image : "'fellonblackdays_lead.png'",
+            lscore : "217512",
+
+            mpath : "1/6th B, 1/NN, 2(+1)/1st RB, 4(+1)/4th RY",
+            m_image : "'fellonblackdays_mbass.png'",
+            mscore : "196848",
+            } 
+        },
 { value : "Fighter by Christina Aguilera", 
             data : {
             shortname : "fighter",
@@ -3216,6 +3274,35 @@ const songs = [
             mpath : "1/5th G, 1/2nd O, 1/2nd R, 1/NN, 1/1st O, 1/1st O, 1/NN, 1/1st G, 1/1st O, 1/3rd O",
             m_image : "'happierthanever_mbass.png'",
             mscore : "55973",
+            } 
+        },
+{ value : "Happy by Pharrell Williams", 
+            data : {
+            shortname : "happy",
+
+            dpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1(+1)/1st O, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            d_image : "'happy_drums.png'",
+            dscore : "172368",
+
+            vpath : "1/13th Y, 1/3rd R, 1/2nd B, 1/12th Y, 1/NN, 1/3rd Y, 1/4th G, 1/5th B, 1/1st R, 1/8th R, 1/9th R, 1/18th R",
+            v_image : "'happy_vocals.png'",
+            vscore : "183862",
+
+            gpath : "1/1st RYB, 1/1st RYB, 1/NN, 1/1st RYB, 1/1st RYB, 1/1st RYB, 1/1st RYB, 1/1st RYB, 1/1st RYB, 1/1st RYB",
+            g_image : "'happy_guitar.png'",
+            gscore : "149340",
+
+            bpath : "1/2nd Y, 1/1st O, 2/1st O, 1/1st O, 1/1st O, 1/2nd O, 1/1st O, 1/1st O, 1/1st O",
+            b_image : "'happy_bass.png'",
+            bscore : "147348",
+
+            lpath : "1/1st GO, 1/1st GO, 1/NN, 1/1st GO, 1/1st GO, 1/1st GO, 1/1st GO, 1/1st GO, 1/1st GO, 1/1st GO",
+            l_image : "'happy_lead.png'",
+            lscore : "135504",
+
+            mpath : "1/2nd Y, 1/1st O, 2/1st O, 1/1st O, 1/1st O, 1/2nd O, 1/1st O, 1/1st O, 1/1st O",
+            m_image : "'happy_mbass.png'",
+            mscore : "147348",
             } 
         },
 { value : "Heartbreaker by Pat Benatar", 
@@ -5857,6 +5944,35 @@ const songs = [
             mscore : "187488",
             } 
         },
+{ value : "Say It Ain't So by Weezer", 
+            data : {
+            shortname : "sayitaintso",
+
+            dpath : "1/1st GY, 1/1st GY, 1/NN, 1/5th GY, 1/NN, 1/2nd GB, 1/11th GY, 1/9th RY, 1/5th GY, 1/9th GY, 1/9th RY, 1/4th GO, 1/1st RY",
+            d_image : "'sayitaintso_drums.png'",
+            dscore : "174240",
+
+            vpath : "2(+1)/5th Y, 1/1st O, 1/5th R, 1/NN, 1/1st O, 1/1st RO, 1/5th Y, 1/2nd Y, 1/6th Y",
+            v_image : "'sayitaintso_vocals.png'",
+            vscore : "95601",
+
+            gpath : "1/NN, 1/6th GY, 1/NN, 1/1st YB, 1/NN, 1/1st GB, 1/4th YO, 1/5th GY, 1/1st RBO, 1/4th GY, 1/6th B, 1/1.4 beats after 2nd GY, 1/5th GY",
+            g_image : "'sayitaintso_guitar.png'",
+            gscore : "187356",
+
+            bpath : "1/3rd O, 1/2nd O, 1/1st O, 1/1st O, 1/3rd Y, 1/2nd Y, 1/NN, 1/2.9 beats after 3rd G, 1/6th R, 1/4th G, 1/5th G, 1/1st Y, 1/3rd B",
+            b_image : "'sayitaintso_bass.png'",
+            bscore : "124313",
+
+            lpath : "1/1st GB, 1/7th GB, 1/NN, 1/1st RB, 1/NN, 1/1st GB, 1/4th RO, 1/5th GY, 1/4th RB, 1/4th GY, 1/5th B, 1/2nd GY, 1/5th GY",
+            l_image : "'sayitaintso_lead.png'",
+            lscore : "174254",
+
+            mpath : "1/3rd O, 1/2nd O, 1/1st O, 1/1st B, 1/3rd Y, 1/2nd Y, 1/NN, 1/2.9 beats after 3rd G, 1/6th R, 1/4th G, 1/5th G, 1/1st Y, 1/3rd B",
+            m_image : "'sayitaintso_mbass.png'",
+            mscore : "123737",
+            } 
+        },
 { value : "Say It Proud by Epic Games", 
             data : {
             shortname : "sayitproud",
@@ -7624,6 +7740,35 @@ const songs = [
             mpath : "1/7th B, 1/1st G, 1/1st G, 1/1st G, 1/1st G, 1/NN, 1/1st G",
             m_image : "'tusa_mbass.png'",
             mscore : "84891",
+            } 
+        },
+{ value : "Undone - The Sweater Song by Weezer", 
+            data : {
+            shortname : "undone",
+
+            dpath : "1/5th GB, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 4(+1)/6th RY",
+            d_image : "'undone_drums.png'",
+            dscore : "229536",
+
+            vpath : "1/7th B, 1/NN, 1/7th R, 1/1st G, 1/NN, 1/5th R, 1/3rd O, 1/After 0.42 beats, 1/3rd O, 1/After 0.42 beats, 1/2nd G, 1/NN, 1/1st R, 1/3rd R",
+            v_image : "'undone_vocals.png'",
+            vscore : "134331",
+
+            gpath : "3(+1)/1st GYB, 2/1st RYB, 1/1st GB, 1/1st GB, 2/1st RO, 1/NN, 1/5th GB, 1/3rd GB, 2/6th R, 1/NN, 1/NN, 1/2nd O, 1/2nd R, 1/1st G",
+            g_image : "'undone_guitar.png'",
+            gscore : "269531",
+
+            bpath : "1/5th Y, 1/NN, 1/5th Y, 1/1st G, 1/1st G, 1/1st G, 1/1st G, 1/5th Y, 1/9th O, 1/5th Y, 1/15th Y, 1/3rd Y, 4(+2)/8th Y",
+            b_image : "'undone_bass.png'",
+            bscore : "238536",
+
+            lpath : "3(+1)/1st GB, 1/NN, 1/1st GB, 1/NN, 1/NN, 1/6th G, 1/1st RB, 1/NN, 1/5th GB, 1/NN, 2/11th G, 1/NN, 1/NN, 1/2nd O, 1/NN, 1/1st G",
+            l_image : "'undone_lead.png'",
+            lscore : "214952",
+
+            mpath : "1/2nd G, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/5th Y, 1/9th O, 1/NN, 1/15th Y, 1/3rd Y, 4(+2)/8th Y",
+            m_image : "'undone_mbass.png'",
+            mscore : "204336",
             } 
         },
 { value : "Unsainted by Slipknot", 
