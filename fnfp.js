@@ -3769,6 +3769,35 @@ const songs = [
             mscore : "109620",
             } 
         },
+{ value : "Inferno Island by Epic Games", 
+            data : {
+            shortname : "infernoisland2",
+
+            dpath : "1/NN, 1(+1)/1st GY, 1/9th GY, 1/14th B, 1/3rd GB, 1/8th Y, 1/19th G, 1/3rd GO",
+            d_image : "'infernoisland2_drums.png'",
+            dscore : "178128",
+
+            vpath : "2(+1)/1st R, 1/1st GY, 1/After 2 beats",
+            v_image : "'infernoisland2_vocals.png'",
+            vscore : "44904",
+
+            gpath : "3(+1)/1st YO, 1/NN, 1/NN, 2/NN",
+            g_image : "'infernoisland2_guitar.png'",
+            gscore : "97740",
+
+            bpath : "1/1st Y, 3(+1)/16th R, 2/13th G",
+            b_image : "'infernoisland2_bass.png'",
+            bscore : "109620",
+
+            lpath : "3(+1)/1st GB, 1/NN, 1/NN, 2/NN",
+            l_image : "'infernoisland2_lead.png'",
+            lscore : "86508",
+
+            mpath : "1/1st Y, 3(+1)/12th Y, 2/13th G",
+            m_image : "'infernoisland2_mbass.png'",
+            mscore : "109620",
+            } 
+        },
 { value : "In The End by Linkin Park", 
             data : {
             shortname : "intheend",
@@ -4871,6 +4900,35 @@ const songs = [
             mscore : "208140",
             } 
         },
+{ value : "Nightmare's Choice by Epic Games", 
+            data : {
+            shortname : "nightmareschoice",
+
+            dpath : "1/2nd G, 1/NN, 1/7th G, 1/1st Y, 1/7th R, 1/NN, 1/19th O, 1/16th O, 1/13th O, 1/3rd G, 1/8th G",
+            d_image : "'nightmareschoice_drums.png'",
+            dscore : "115920",
+
+            vpath : "1/11th Y, 1/NN, 1/9th G, 1(+1)/10th Y, 1/NN, 1/6th B, 1/2nd B, 1/3rd G, 1/1st G, 1(+1)/10th G",
+            v_image : "'nightmareschoice_vocals.png'",
+            vscore : "180510",
+
+            gpath : "1/5th Y, 1/2nd Y, 1/4th G, 1/5.4 beats after 4th B, 4(+1)/8th RY, 1/3rd O, 1/2nd G, 1/1st Y",
+            g_image : "'nightmareschoice_guitar.png'",
+            gscore : "153614",
+
+            bpath : "1/0.42 beats after 4th Y, 1/NN, 1/After 0.42 beats, 1/1st O, 1/NN, 3(+1)/4th O, 1/6th R",
+            b_image : "'nightmareschoice_bass.png'",
+            bscore : "105676",
+
+            lpath : "1/4th B, 1/1st Y, 1/4th G, 1/5.4 beats after 3rd B, 4(+1)/7th GY, 1/7th B, 1/2nd G, 1/1st Y",
+            l_image : "'nightmareschoice_lead.png'",
+            lscore : "152205",
+
+            mpath : "1/0.42 beats after 4th Y, 1/NN, 1/After 0.42 beats, 1/1st O, 1/NN, 3(+1)/4th O, 1/6th R",
+            m_image : "'nightmareschoice_mbass.png'",
+            mscore : "105676",
+            } 
+        },
 { value : "Nothing Else Matters by Metallica", 
             data : {
             shortname : "nothingelsematters",
@@ -5246,6 +5304,35 @@ const songs = [
             mpath : "1(+1)/4th G, 1/NN, 2/1st Y, 3/1st G, 1/NN, 1/3rd O, 1/1st R, 1/NN, 1/11th B, 1/7th B, 1/3rd Y, 1/3rd B, 1/NN, 1/14th B, 1/9th B, 1/8th B, 1/NN, 1/NN",
             m_image : "'paradisecity_mbass.png'",
             mscore : "413445",
+            } 
+        },
+{ value : "Paradise Pulse by Epic Games", 
+            data : {
+            shortname : "paradisepulse",
+
+            dpath : "2/1st O, 1/NN, 1/NN, 1/NN, 4/NN, 4/9th R",
+            d_image : "'paradisepulse_drums.png'",
+            dscore : "254736",
+
+            vpath : "1/NN, 1/NN, 1/NN, 1/1st RO, 1/NN, 1/NN, 1/1st RO, 1/NN, 1/NN, 1/NN, 1/NN, 1/1st RO",
+            v_image : "'paradisepulse_vocals.png'",
+            vscore : "221400",
+
+            gpath : "2(+1)/1st B, 1/NN, 1/NN, 4(+1)/3rd G, 1/NN",
+            g_image : "'paradisepulse_guitar.png'",
+            gscore : "84816",
+
+            bpath : "1/2nd Y, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/1st O, 1/NN, 1/NN, 1/NN, 1/9th Y",
+            b_image : "'paradisepulse_bass.png'",
+            bscore : "113766",
+
+            lpath : "2(+1)/1st B, 1/NN, 1/NN, 4(+1)/3rd G, 1/NN",
+            l_image : "'paradisepulse_lead.png'",
+            lscore : "84816",
+
+            mpath : "1/2nd R, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/1st O, 1/NN, 1/NN, 1/NN, 1/9th R",
+            m_image : "'paradisepulse_mbass.png'",
+            mscore : "113766",
             } 
         },
 { value : "Party Rock Anthem by LMFAO ft. Lauren Bennett & GoonRock", 
@@ -6348,6 +6435,35 @@ const songs = [
             mpath : "1/10th Y, 1/NN, 1/NN, 1/2nd R, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
             m_image : "'singlesoon_mbass.png'",
             mscore : "221418",
+            } 
+        },
+{ value : "Sizzlin' Sunshine by Epic Games", 
+            data : {
+            shortname : "sizzlinsunshine",
+
+            dpath : "1/13th GY, 2/8th GY, 1/1st Y, 1/1st GY, 1/14th GY, 1/1st GO, 1/5th GY, 1/1st Y, 1/3rd GY, 1/5th GY, 1/3rd GY, 1/2nd GY",
+            d_image : "'sizzlinsunshine_drums.png'",
+            dscore : "312336",
+
+            vpath : "3/6th R, 1/NN, 3(+1)/1st RO, 1/NN, 1/3rd GY, 1/1st G, 2/NN",
+            v_image : "'sizzlinsunshine_vocals.png'",
+            vscore : "124530",
+
+            gpath : "1/4th GRY, 1/NN, 1/NN, 1/NN, 2(+1)/10th B, 4(+1)/1st RYB, 1/NN",
+            g_image : "'sizzlinsunshine_guitar.png'",
+            gscore : "267544",
+
+            bpath : "1/8th B, 1/4th R, 1/NN, 4(+1)/1st R, 1/6th R, 1/3rd B, 1/2nd B, 1/NN, 1/NN",
+            b_image : "'sizzlinsunshine_bass.png'",
+            bscore : "223452",
+
+            lpath : "1/5th RB, 1/NN, 1/NN, 1/NN, 2(+1)/5th R, 4(+1)/1st RB, 1/NN",
+            l_image : "'sizzlinsunshine_lead.png'",
+            lscore : "199720",
+
+            mpath : "1/7th B, 1/3rd G, 1/NN, 4(+1)/2nd G, 1/6th Y, 1/3rd B, 1/2nd B, 1/NN, 1/NN",
+            m_image : "'sizzlinsunshine_mbass.png'",
+            mscore : "223452",
             } 
         },
 { value : "Sky Surfer (Neon Rush Remix) by Epic Games", 
@@ -7711,6 +7827,35 @@ const songs = [
             mpath : "1/1st G, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/1st Y, 1/NN, 1/NN, 1/NN",
             m_image : "'transparentsoul_mbass.png'",
             mscore : "158976",
+            } 
+        },
+{ value : "Tropical Heat by Epic Games", 
+            data : {
+            shortname : "tropicalheat",
+
+            dpath : "1/1st Y, 4(+1)/16th RB, 1/6th GB, 1/1st RB, 1/1st RB, 1/1st RB, 1/1st RB, 1/21st RB",
+            d_image : "'tropicalheat_drums.png'",
+            dscore : "388368",
+
+            vpath : "4(+1)/4th R, 1/NN, 1/1st O, 1/NN, 2/1st O, 1/NN, 1/NN, 1/7th O",
+            v_image : "'tropicalheat_vocals.png'",
+            vscore : "130800",
+
+            gpath : "3/0.75 beats after 2nd Y, 4(+1)/1st YO, 1/NN, 1/1st YO, 1/NN, 1/NN",
+            g_image : "'tropicalheat_guitar.png'",
+            gscore : "224248",
+
+            bpath : "2/3rd B, 1/NN, 1/NN, 2(+1)/2nd R, 1/1st R, 1/NN, 1/NN",
+            b_image : "'tropicalheat_bass.png'",
+            bscore : "227994",
+
+            lpath : "4(+1)/33rd Y, 2(+1)/1st RB, 1/1st RB, 1/1st RB, 1/NN, 1/NN",
+            l_image : "'tropicalheat_lead.png'",
+            lscore : "195144",
+
+            mpath : "2/3rd B, 1/NN, 1/NN, 2(+1)/2nd R, 1/1st R, 1/NN, 1/NN",
+            m_image : "'tropicalheat_mbass.png'",
+            mscore : "227994",
             } 
         },
 { value : "Tusa by Karol G ft. Nicki Minaj", 
