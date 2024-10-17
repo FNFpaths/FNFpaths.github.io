@@ -2580,6 +2580,35 @@ const songs = [
             mscore : "95025",
             } 
         },
+{ value : "Feather by Sabrina Carpenter", 
+            data : {
+            shortname : "feather",
+
+            dpath : "1/NN, 1/4th RY, 1/2nd RY, 1/4th RY, 1/3rd RY, 1/11th RY, 1/8th RY, 1/1st RO, 1/NN",
+            d_image : "'feather_drums.png'",
+            dscore : "174672",
+
+            vpath : "1/5th R, 1/8th O, 1/5th R, 1/1st G, 1/2nd B, 1/1st RB, 1/6th R, 1/3rd B, 1/NN, 1/5th R",
+            v_image : "'feather_vocals.png'",
+            vscore : "147969",
+
+            gpath : "1/1st GYB, 1/4th RYO, 1/1st GRB, 1/1st RYB, 1/NN, 1/NN, 1/2nd GRB, 1/NN, 1/3rd B, 1/2nd RYB",
+            g_image : "'feather_guitar.png'",
+            gscore : "116811",
+
+            bpath : "1/3rd O, 1/2nd G, 1/2nd G, 1/1st G, 1/3rd O, 1(+1)/1st RO, 1/6th B, 1/8th G",
+            b_image : "'feather_bass.png'",
+            bscore : "107703",
+
+            lpath : "3/2.5 beats after NN, 1/3.5 beats after 1st RB, 1/NN, 1/NN, 1/2nd GY, 1/NN, 1/3rd R, 1/2nd RB",
+            l_image : "'feather_lead.png'",
+            lscore : "88426",
+
+            mpath : "1/3rd O, 1/3rd G, 1/2nd G, 1/2nd G, 1/3rd O, 1(+1)/1st RO, 1/3rd R, 1/10th G",
+            m_image : "'feather_mbass.png'",
+            mscore : "107703",
+            } 
+        },
 { value : "Feel Good Inc by Gorillaz", 
             data : {
             shortname : "feelgoodinc",
@@ -3773,29 +3802,29 @@ const songs = [
             data : {
             shortname : "infernoisland2",
 
-            dpath : "1/NN, 1(+1)/1st GY, 1/9th GY, 1/14th B, 1/3rd GB, 1/8th Y, 1/19th G, 1/3rd GO",
+            dpath : "1/11th GB, 1/NN, 1/NN, 1/1st GB, 1/NN, 1/19th G, 1/NN, 1/1st GO, 1/1st GB, 1/NN, 1/NN, 1/5th G",
             d_image : "'infernoisland2_drums.png'",
-            dscore : "178128",
+            dscore : "221904",
 
-            vpath : "2(+1)/1st R, 1/1st GY, 1/After 2 beats",
+            vpath : "3(+1)/0.5 beats after 19th O, 3(+1)/1st O",
             v_image : "'infernoisland2_vocals.png'",
-            vscore : "44904",
+            vscore : "118914",
 
-            gpath : "3(+1)/1st YO, 1/NN, 1/NN, 2/NN",
+            gpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/1st O, 1/5th G, 1/2nd G",
             g_image : "'infernoisland2_guitar.png'",
-            gscore : "97740",
+            gscore : "127728",
 
-            bpath : "1/1st Y, 3(+1)/16th R, 2/13th G",
+            bpath : "1/3rd R, 1/7th Y, 1/NN, 1/NN, 1/NN, 3(+1)/1st G, 1/NN",
             b_image : "'infernoisland2_bass.png'",
-            bscore : "109620",
+            bscore : "199722",
 
-            lpath : "3(+1)/1st GB, 1/NN, 1/NN, 2/NN",
+            lpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/1st O, 1/9th Y, 1/5th Y",
             l_image : "'infernoisland2_lead.png'",
-            lscore : "86508",
+            lscore : "127728",
 
-            mpath : "1/1st Y, 3(+1)/12th Y, 2/13th G",
+            mpath : "1/3rd R, 1/9th B, 1/NN, 1/NN, 1/NN, 3(+1)/1st G, 1/NN",
             m_image : "'infernoisland2_mbass.png'",
-            mscore : "109620",
+            mscore : "199722",
             } 
         },
 { value : "In The End by Linkin Park", 
