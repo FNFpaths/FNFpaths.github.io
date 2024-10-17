@@ -3769,6 +3769,35 @@ const songs = [
             mscore : "87468",
             } 
         },
+{ value : "I'm Not Okay (I Promise) by My Chemical Romance", 
+            data : {
+            shortname : "imnotokay",
+
+            dpath : "2(+1)/2nd RY, 1/9th GY, 1/2nd RB, 1/3rd RY, 1/3rd RY, 1/1st RB, 1/4th RB, 1/NN, 1(+1)/11th GO, 1/4th GB, 1/26th B",
+            d_image : "'imnotokay_drums.png'",
+            dscore : "255744",
+
+            vpath : "1/3rd G, 1/1st RO, 1/2nd R, 1/4th G, 1/1st RO, 2/3rd G, 1/1st RO, 1/3rd R, 1/1st GB, 1/1st RO",
+            v_image : "'imnotokay_vocals.png'",
+            vscore : "105102",
+
+            gpath : "1/NN, 1/NN, 2(+1)/1st BO, 1/NN, 2/NN, 1/NN, 4(+1)/NN",
+            g_image : "'imnotokay_guitar.png'",
+            gscore : "294236",
+
+            bpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/1st O, 1/NN, 2/6th Y, 1/NN, 2/NN",
+            b_image : "'imnotokay_bass.png'",
+            bscore : "237852",
+
+            lpath : "1/NN, 1/NN, 2(+1)/1st RO, 1/NN, 2/NN, 1/NN, 4(+1)/NN",
+            l_image : "'imnotokay_lead.png'",
+            lscore : "275328",
+
+            mpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/1st O, 1/NN, 2/6th Y, 1/NN, 2/NN",
+            m_image : "'imnotokay_mbass.png'",
+            mscore : "237420",
+            } 
+        },
 { value : "Inferno Island (Molten Mix) by Epic Games", 
             data : {
             shortname : "infernoisland",
@@ -4927,6 +4956,35 @@ const songs = [
             mpath : "1/NN, 1/NN, 2(+1)/3rd G, 1/6th G, 4(+2)/7th B, 1(+1)/5th G, 1/5th R, 1/NN, 1/7th Y",
             m_image : "'nextsemester_mbass.png'",
             mscore : "208140",
+            } 
+        },
+{ value : "Nightmare by Avenged Sevenfold", 
+            data : {
+            shortname : "nightmare",
+
+            dpath : "1/1st GY, 2/26th O, 1(+1)/3rd GO, 2/5th R, 2/26th B, 1/4th RB, 1/1st RY, 1/3rd GB, 1/7th RY, 3(+1)/11th GB, 1/4th O",
+            d_image : "'nightmare_drums.png'",
+            dscore : "409248",
+
+            vpath : "1/33rd B, 1/3rd G, 2(+1)/23rd B, 1/NN, 1/NN, 1/NN, 1/1st Y, 1/1st GB, 1/5th B, 1/2nd B, 1/4th Y, 1/NN",
+            v_image : "'nightmare_vocals.png'",
+            vscore : "172944",
+
+            gpath : "3/3rd RY, 1/11th B, 1/10th R, 1/2nd RY, 1/3rd RY, 1/5th B, 1/1st RYB, 1/1st RB, 2/NN, 1/5th GR, 1/14th G, 1/17th GR, 4/1st YB",
+            g_image : "'nightmare_guitar.png'",
+            gscore : "375172",
+
+            bpath : "2/11th G, 1/3rd B, 2/2nd R, 1/2nd G, 1/1st B, 2/2nd G, 3/9th G, 1/40th G, 1/9th G, 1/9th Y, 1/NN, 2/16th R",
+            b_image : "'nightmare_bass.png'",
+            bscore : "341634",
+
+            lpath : "3/3rd RY, 1/6th O, 1/9th RO, 1/2nd RY, 1/3rd RY, 1/3rd O, 1/1st GO, 1/4th RO, 2/NN, 1/5th GY, 1/14th G, 1/17th GY, 4/6th GO",
+            l_image : "'nightmare_lead.png'",
+            lscore : "347724",
+
+            mpath : "2/10th G, 1/3rd O, 2/11th Y, 1/2nd G, 1/1st O, 2/2nd G, 3/4th Y, 1/15th Y, 1/4th Y, 1/8th Y, 1/NN, 2/9th B",
+            m_image : "'nightmare_mbass.png'",
+            mscore : "339162",
             } 
         },
 { value : "Nightmare's Choice by Epic Games", 
@@ -6524,6 +6582,35 @@ const songs = [
             mscore : "574191",
             } 
         },
+{ value : "Somebody Told Me by The Killers", 
+            data : {
+            shortname : "somebodytoldme",
+
+            dpath : "1/13th GB, 1/6th GB, 1/1st RB, 4/1st GO, 1/1st GO, 1/3rd GY, 1/17th GY",
+            d_image : "'somebodytoldme_drums.png'",
+            dscore : "236160",
+
+            vpath : "2/NN, 1/2nd G, 1/3rd Y, 1/4th G, 1/4th B, 1/16th B, 1/1st G, 1/14th R",
+            v_image : "'somebodytoldme_vocals.png'",
+            vscore : "125847",
+
+            gpath : "1/NN, 3/4th RYB, 2/4th RYB, 2/4th RYO, 1/4th RYB, 1/11th RYO",
+            g_image : "'somebodytoldme_guitar.png'",
+            gscore : "314652",
+
+            bpath : "2/1st Y, 1/2nd Y, 1/NN, 1/30th Y, 1/7th R, 1/9th R, 1/NN, 2/3rd B",
+            b_image : "'somebodytoldme_bass.png'",
+            bscore : "176997",
+
+            lpath : "1/NN, 1/NN, 1/1st GY, 1/NN, 1/NN, 1/9th GY, 2/4th RO, 1/4th RB, 1/11th RO",
+            l_image : "'somebodytoldme_lead.png'",
+            lscore : "262824",
+
+            mpath : "2/1st G, 1/5th O, 1/NN, 1/26th R, 1/1st G, 1/9th R, 1/NN, 2/3rd B",
+            m_image : "'somebodytoldme_mbass.png'",
+            mscore : "174459",
+            } 
+        },
 { value : "S.O.M.P. by Epic Games", 
             data : {
             shortname : "somp",
@@ -7566,6 +7653,35 @@ const songs = [
             mpath : "1/2nd Y, 1/NN, 1/8th Y, 3/1st Y, 1/NN, 1/1st R, 1/1st R",
             m_image : "'thesearch_mbass.png'",
             mscore : "150354",
+            } 
+        },
+{ value : "The Sound of Silence by Disturbed", 
+            data : {
+            shortname : "thesoundofsilence",
+
+            dpath : "2/1st O, 1/1st B",
+            d_image : "'thesoundofsilence_drums.png'",
+            dscore : "14181",
+
+            vpath : "2/6th G, 1/NN, 1/4th G, 1/5th G, 1/3rd G, 1/1st GY, 1/NN",
+            v_image : "'thesoundofsilence_vocals.png'",
+            vscore : "89060",
+
+            gpath : "1/2nd Y, 4(+1)/4th Y, 1(+1)/11th R",
+            g_image : "'thesoundofsilence_guitar.png'",
+            gscore : "176699",
+
+            bpath : "2(+1)/4th BO, 1/5th Y, 1/NN",
+            b_image : "'thesoundofsilence_bass.png'",
+            bscore : "59085",
+
+            lpath : "1/2nd Y, 4(+1)/4th Y, 1/1st G, 1/1st RB",
+            l_image : "'thesoundofsilence_lead.png'",
+            lscore : "127171",
+
+            mpath : "2(+1)/4th RO, 1/5th B, 1/NN",
+            m_image : "'thesoundofsilence_mbass.png'",
+            mscore : "59085",
             } 
         },
 { value : "The Unforgiven by Metallica", 
