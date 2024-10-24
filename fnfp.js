@@ -4755,6 +4755,35 @@ const songs = [
             mscore : "203238",
             } 
         },
+{ value : "MONTERO (Call Me By Your Name) by Lil Nas X", 
+            data : {
+            shortname : "montero",
+
+            dpath : "1/10th RB, 1/1st RY, 1/5th O, 2(+1)/1st GO, 1/6th RY",
+            d_image : "'montero_drums.png'",
+            dscore : "76752",
+
+            vpath : "1/9th G, 1/3rd G, 1/4th B, 1/3rd G, 1/8th B, 1/NN, 1/NN, 1/1st G, 1/4th B, 1/2nd O",
+            v_image : "'montero_vocals.png'",
+            vscore : "123528",
+
+            gpath : "2/2nd G, 1/NN, 1/NN, 1/2nd RO, 1/NN, 1/1.9 beats after 1st GY, 1/NN, 1/NN, 1/1st O",
+            g_image : "'montero_guitar.png'",
+            gscore : "73356",
+
+            bpath : "2/5th R, 1/1st O, 1/2nd R, 2/2nd G",
+            b_image : "'montero_bass.png'",
+            bscore : "29055",
+
+            lpath : "2/2nd G, 1/NN, 1/NN, 1/2nd RO, 1/NN, 1/1.9 beats after 1st GY, 1/NN, 1/NN, 1/1st O",
+            l_image : "'montero_lead.png'",
+            lscore : "73344",
+
+            mpath : "2/5th R, 1/1st O, 1/2nd R, 2/2nd G",
+            m_image : "'montero_mbass.png'",
+            mscore : "28659",
+            } 
+        },
 { value : "Mood by 24kGoldn ft. iann dior", 
             data : {
             shortname : "mood",
@@ -6698,6 +6727,35 @@ const songs = [
             mscore : "164013",
             } 
         },
+{ value : "Stargazing by Myles Smith", 
+            data : {
+            shortname : "stargazing",
+
+            dpath : "3(+1)/1st RO, 1/NN",
+            d_image : "'stargazing_drums.png'",
+            dscore : "97236",
+
+            vpath : "1/4th Y, 1/9th R, 1/5th Y, 1/5th Y, 1/6th R, 1/3rd B",
+            v_image : "'stargazing_vocals.png'",
+            vscore : "89580",
+
+            gpath : "2/2nd GYB, 1/NN, 1/1st YBO, 1/3rd GYB, 1/3rd GYB",
+            g_image : "'stargazing_guitar.png'",
+            gscore : "264582",
+
+            bpath : "1(+1)/10th R, 1/NN, 1/1st Y, 1/9th G",
+            b_image : "'stargazing_bass.png'",
+            bscore : "78243",
+
+            lpath : "1/NN, 1/4th RY, 1/NN, 1/1st GB, 1/3rd RY, 1/1st GO",
+            l_image : "'stargazing_lead.png'",
+            lscore : "150048",
+
+            mpath : "1(+1)/10th R, 1/NN, 1/1st Y, 1/9th G",
+            m_image : "'stargazing_mbass.png'",
+            mscore : "78243",
+            } 
+        },
 { value : "Starships by Nicki Minaj", 
             data : {
             shortname : "starships",
@@ -7684,6 +7742,35 @@ const songs = [
             mscore : "59085",
             } 
         },
+{ value : "The Spins by Mac Miller, Empire of the Sun", 
+            data : {
+            shortname : "thespins",
+
+            dpath : "1/NN, 1/6th R, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            d_image : "'thespins_drums.png'",
+            dscore : "148464",
+
+            vpath : "1/11th B, 1/5th G, 1/4th O, 2/2nd Y, 1/6th B, 1/1st R, 1/1st B, 1/4th R, 1/1st Y",
+            v_image : "'thespins_vocals.png'",
+            vscore : "142033",
+
+            gpath : "3(+1)/1st YO, 1/NN, 3/1st RB, 1/12th RB, 1/3rd GR",
+            g_image : "'thespins_guitar.png'",
+            gscore : "150338",
+
+            bpath : "1/NN, 1/NN, 1/7th B, 1/NN, 1/18th O, 1/NN, 1/7th B, 1/7th B, 1/8th B, 1/17th O, 1/7th B",
+            b_image : "'thespins_bass.png'",
+            bscore : "229824",
+
+            lpath : "3(+1)/1st RO, 1/NN, 3/5th RB, 1/12th RB, 1/3rd GY",
+            l_image : "'thespins_lead.png'",
+            lscore : "150338",
+
+            mpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/7th B, 1/8th B, 1/NN, 1/NN",
+            m_image : "'thespins_mbass.png'",
+            mscore : "214056",
+            } 
+        },
 { value : "The Unforgiven by Metallica", 
             data : {
             shortname : "theunforgiven",
@@ -8059,6 +8146,35 @@ const songs = [
             mpath : "1/2nd G, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/5th Y, 1/9th O, 1/NN, 1/15th Y, 1/3rd Y, 4(+2)/8th Y",
             m_image : "'undone_mbass.png'",
             mscore : "204336",
+            } 
+        },
+{ value : "Unholy by Sam Smith w/ Kim Petras", 
+            data : {
+            shortname : "unholy",
+
+            dpath : "1/2nd RY, 1/NN, 1/3rd RY, 1/2nd RY, 1/5th RY, 1/NN, 1/3rd RY",
+            d_image : "'unholy_drums.png'",
+            dscore : "60336",
+
+            vpath : "1/3rd R, 1/10th R, 3/3rd Y, 1/8th Y, 1/4th G, 1/4th RB",
+            v_image : "'unholy_vocals.png'",
+            vscore : "128031",
+
+            gpath : "4/3rd B, 1/6th B",
+            g_image : "'unholy_guitar.png'",
+            gscore : "38748",
+
+            bpath : "1/1st G, 1/4th R, 1/2nd R, 1/2nd R, 1/4th R, 1/6th R, 1/2nd R, 1/2nd R",
+            b_image : "'unholy_bass.png'",
+            bscore : "79590",
+
+            lpath : "4/3rd B, 1/6th B",
+            l_image : "'unholy_lead.png'",
+            lscore : "37596",
+
+            mpath : "1/1st G, 1/4th R, 1/6th R, 1/2nd R, 1/4th R, 1/6th R, 1/2nd R, 1/2nd R",
+            m_image : "'unholy_mbass.png'",
+            mscore : "77754",
             } 
         },
 { value : "Unsainted by Slipknot", 
