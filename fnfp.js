@@ -376,6 +376,35 @@ const songs = [
             mscore : "380808",
             } 
         },
+{ value : "Ballin' by Mustard ft. Roddy Ricch", 
+            data : {
+            shortname : "ballin",
+
+            dpath : "3/3rd Y, 1/8th Y, 1/2nd Y, 1/11th Y, 1/1st GO",
+            d_image : "'ballin_drums.png'",
+            dscore : "111600",
+
+            vpath : "2/9th R, 1/2nd B, 1/1st Y, 1/1st G, 1/9th B, 1/NN",
+            v_image : "'ballin_vocals.png'",
+            vscore : "185955",
+
+            gpath : "1/4th RYO, 1/NN, 1/NN, 1/4th RYB, 1/1st BO, 1/NN, 1/1st BO",
+            g_image : "'ballin_guitar.png'",
+            gscore : "125964",
+
+            bpath : "4(+1)/NN, 1/3rd Y",
+            b_image : "'ballin_bass.png'",
+            bscore : "30000",
+
+            lpath : "1/2nd RO, 1/3rd RB, 1/0.96 beats after 1st GB, 1/1st RO, 1/3rd GB, 1/NN, 1/1st GO",
+            l_image : "'ballin_lead.png'",
+            lscore : "89201",
+
+            mpath : "4(+1)/NN, 1/3rd B",
+            m_image : "'ballin_mbass.png'",
+            mscore : "30000",
+            } 
+        },
 { value : "Bandit by Don Toliver", 
             data : {
             shortname : "bandit",
@@ -490,6 +519,35 @@ const songs = [
             mpath : "3/3rd O, 1/NN, 1/1st O, 1/NN, 1/6th O, 1/7th O, 1/6th O, 1/8th G, 1/6th G, 1/6th B, 1/6th Y, 1/NN, 1/NN, 1/8th G, 1/NN, 1/7th O, 1/6th O, 1/8th G, 1/4th B, 1/NN, 1/7th O",
             m_image : "'battery_mbass.png'",
             mscore : "331356",
+            } 
+        },
+{ value : "Beautiful by Snoop Dogg ft. Pharrell & Uncle Charlie Wilson", 
+            data : {
+            shortname : "beautiful",
+
+            dpath : "1/3rd GY, 1/3rd GY, 1/1st RY, 1/1st RY, 1/1st GY, 1/3rd GY, 1/1st RY, 1/1st RY, 1/3rd GY, 1/1st GY, 1/1st RY, 1/1st RY",
+            d_image : "'beautiful_drums.png'",
+            dscore : "264816",
+
+            vpath : "1/9th B, 1/13th Y, 1/6th Y, 1/15th Y, 1/18th R, 3(+1)/4th B, 1/1st O, 1/11th Y, 1/2nd Y",
+            v_image : "'beautiful_vocals.png'",
+            vscore : "233318",
+
+            gpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/4th RB, 1/NN, 1/NN, 1/NN",
+            g_image : "'beautiful_guitar.png'",
+            gscore : "232080",
+
+            bpath : "1/2nd Y, 1/4th R, 1/NN, 1/NN, 1/1st Y, 1/4th R, 1/NN, 1/NN, 2/NN, 1/NN",
+            b_image : "'beautiful_bass.png'",
+            bscore : "159894",
+
+            lpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/4th RB, 1/NN, 1/NN, 1/NN",
+            l_image : "'beautiful_lead.png'",
+            lscore : "231744",
+
+            mpath : "1/2nd R, 1/4th G, 1/NN, 1/NN, 1/1st R, 1/4th G, 1/NN, 1/NN, 2/NN, 1/NN",
+            m_image : "'beautiful_mbass.png'",
+            mscore : "159894",
             } 
         },
 { value : "Beautiful Day by U2", 
@@ -1101,6 +1159,35 @@ const songs = [
             mscore : "141048",
             } 
         },
+{ value : "Bounce Back by Big Sean", 
+            data : {
+            shortname : "bounceback",
+
+            dpath : "1/1st GY, 1(+1)/NN, 1/1st GY, 1/1st GY, 1/NN, 1/1st RY, 1/1st Y, 1/NN, 1/NN, 1/3rd GY",
+            d_image : "'bounceback_drums.png'",
+            dscore : "194544",
+
+            vpath : "4(+1)/15th R, 1/2nd R, 3(+1)/17th R, 1/13th B, 1/2nd Y, 1/NN, 1/1st O",
+            v_image : "'bounceback_vocals.png'",
+            vscore : "224469",
+
+            gpath : "1(+1)/12th G, 1/3rd G, 1/NN, 1/3rd Y, 1/NN, 1/NN, 1/3rd G, 4(+1)/1st GY, 1/2nd RB",
+            g_image : "'bounceback_guitar.png'",
+            gscore : "112639",
+
+            bpath : "2/7th R, 1/7th R, 1/NN, 1(+1)/2nd R, 1/1st Y, 1/6th R, 2/11th R, 1/1st B, 1/1.4 beats after 4th G",
+            b_image : "'bounceback_bass.png'",
+            bscore : "88182",
+
+            lpath : "1(+1)/12th G, 1/3rd G, 1/NN, 1/3rd R, 1/NN, 1/NN, 1/3rd G, 4(+1)/1st GY, 1/2nd RB",
+            l_image : "'bounceback_lead.png'",
+            lscore : "110983",
+
+            mpath : "2/7th R, 1/7th R, 1/NN, 1(+1)/2nd R, 1/1st Y, 1/6th R, 2/11th R, 1/1st B, 1/1.4 beats after 4th G",
+            m_image : "'bounceback_mbass.png'",
+            mscore : "88182",
+            } 
+        },
 { value : "Bouncin' Back by Epic Games", 
             data : {
             shortname : "bouncinback",
@@ -1360,6 +1447,35 @@ const songs = [
             mpath : "1/1st R, 2/2nd G, 2(+1)/7th O, 2/1st B, 1/NN",
             m_image : "'bullsonparade_mbass.png'",
             mscore : "172698",
+            } 
+        },
+{ value : "Bunny Bounce (Murda Beatz Remix) by Epic Games ft. Murda Beatz", 
+            data : {
+            shortname : "bunnybouncemurdabeatz",
+
+            dpath : "1/2nd GO, 1/1st GO, 1/1st GO, 1/2nd GO",
+            d_image : "'bunnybouncemurdabeatz_drums.png'",
+            dscore : "78048",
+
+            vpath : "1/3rd O, 1/5th O, 1/NN, 1/9th R, 2/NN, 1/NN",
+            v_image : "'bunnybouncemurdabeatz_vocals.png'",
+            vscore : "125514",
+
+            gpath : "1/2nd R, 2/2nd R, 2/1st GY, 1/2nd G",
+            g_image : "'bunnybouncemurdabeatz_guitar.png'",
+            gscore : "82176",
+
+            bpath : "1/5th R, 1/NN, 1/NN, 1/8th R, 1/NN, 1/5th R, 1/5th R",
+            b_image : "'bunnybouncemurdabeatz_bass.png'",
+            bscore : "96912",
+
+            lpath : "1/6th GB, 1/NN, 1/6th GB, 2/1st GY, 1/2nd G",
+            l_image : "'bunnybouncemurdabeatz_lead.png'",
+            lscore : "74592",
+
+            mpath : "1/5th G, 1/NN, 1/NN, 1/8th G, 1/NN, 1/5th G, 1/5th G",
+            m_image : "'bunnybouncemurdabeatz_mbass.png'",
+            mscore : "96912",
             } 
         },
 { value : "bury a friend by Billie Eilish", 
@@ -1942,6 +2058,35 @@ const songs = [
             mscore : "33660",
             } 
         },
+{ value : "Crank That (Soulja Boy) by Soulja Boy Tell 'Em", 
+            data : {
+            shortname : "crankthat",
+
+            dpath : "2(+1)/1st GY, 3(+1)/1st GY, 3(+1)/1st GY, 1/8th O, 1/NN, 1/NN",
+            d_image : "'crankthat_drums.png'",
+            dscore : "133920",
+
+            vpath : "1/NN, 1/NN, 1/7th Y, 1/12th Y, 1/NN, 1/NN, 1/2nd Y, 1/1st B, 1/NN, 1/NN, 1/14th Y, 1/3rd Y, 1/NN, 1/NN",
+            v_image : "'crankthat_vocals.png'",
+            vscore : "248286",
+
+            gpath : "1/3rd R, 1(+1)/2nd GB, 1/2nd B, 1/2nd B, 1(+1)/2nd GB, 1/2nd B, 1/2nd B, 1(+1)/2nd GB, 3/2nd GB",
+            g_image : "'crankthat_guitar.png'",
+            gscore : "72144",
+
+            bpath : "3/1st G, 2/NN, 2/NN, 2/NN, 2/NN",
+            b_image : "'crankthat_bass.png'",
+            bscore : "46845",
+
+            lpath : "1/3rd R, 1(+1)/2nd GO, 1/2nd O, 1/2nd O, 1(+1)/2nd GO, 1/2nd O, 1/2nd O, 1(+1)/2nd GO, 3/2nd GO",
+            l_image : "'crankthat_lead.png'",
+            lscore : "72144",
+
+            mpath : "3/1st G, 2/NN, 2/NN, 2/NN, 2/NN",
+            m_image : "'crankthat_mbass.png'",
+            mscore : "46845",
+            } 
+        },
 { value : "Creatures In Heaven by Glass Animals", 
             data : {
             shortname : "creaturesinheaven",
@@ -2259,6 +2404,35 @@ const songs = [
             mpath : "1/4th G, 1/7th R, 1/1 beats after 2nd Y, 1/7th R, 1/5th G, 1/1st R, 1/1 beats after 1st Y, 1/7th R, 1/NN, 1/27th Y",
             m_image : "'dreamer_mbass.png'",
             mscore : "187653",
+            } 
+        },
+{ value : "Drop It Like It's Hot by Snoop Dogg ft. Pharrell", 
+            data : {
+            shortname : "dropitlikeitshot",
+
+            dpath : "1/1st RY, 1/28th O, 1/1st RY, 1/1st RY, 1/1st RY, 1/1st RY, 1/5th RO, 1/2nd RY, 1/1st RY, 1/1st RY",
+            d_image : "'dropitlikeitshot_drums.png'",
+            dscore : "131040",
+
+            vpath : "1/12th Y, 1/13th Y, 1/10th Y, 1/NN, 1/1st B, 1/21st Y, 2(+1)/24th Y",
+            v_image : "'dropitlikeitshot_vocals.png'",
+            vscore : "236094",
+
+            gpath : "1/1st O, 1/1st YO, 1/5.7 beats after 1st G, 1/6.5 beats after 2nd G, 1/NN, 1/NN, 1/1st YO, 1/After 2.2 beats",
+            g_image : "'dropitlikeitshot_guitar.png'",
+            gscore : "51064",
+
+            bpath : "1/NN, 1/NN, 1/3.5 beats after 1st G, 1/NN, 1/27th Y, 1/NN, 1/NN, 1/2.5 beats after 1st G, 1/NN, 1/3.5 beats after 1st G",
+            b_image : "'dropitlikeitshot_bass.png'",
+            bscore : "109482",
+
+            lpath : "1/1st O, 1/1st RO, 1/6 beats after NN, 1/6.7 beats after 2nd G, 1/NN, 1/NN, 1/1st RO, 1/After 2.2 beats",
+            l_image : "'dropitlikeitshot_lead.png'",
+            lscore : "50536",
+
+            mpath : "1/NN, 1/NN, 1/3.5 beats after 1st G, 1/NN, 1/27th Y, 1/NN, 1/NN, 1/2.5 beats after 1st G, 1/NN, 1/3.5 beats after 1st G",
+            m_image : "'dropitlikeitshot_mbass.png'",
+            mscore : "109482",
             } 
         },
 { value : "Dynamite by BTS ", 
@@ -2874,9 +3048,9 @@ const songs = [
             data : {
             shortname : "fly",
 
-            dpath : "1/29th Y, 1/3rd GO, 1/2nd GO, 1/3rd GO, 1/NN, 1/NN, 1/1st RY, 1/3rd GO, 1/3rd GO, 1/2nd GO",
+            dpath : "1/29th Y, 1/7th GY, 1/2nd GY, 1/3rd GY, 1/10th GY, 1/1st GB, 1/1st GY, 1/7th GY, 1/5th GY, 1/2nd GY",
             d_image : "'fly_drums.png'",
-            dscore : "89712",
+            dscore : "170928",
 
             vpath : "2/6th R, 1/5th G, 2(+1)/3rd R, 1/2nd B, 2/1st B, 1/7th B",
             v_image : "'fly_vocals.png'",
@@ -4262,6 +4436,35 @@ const songs = [
             mscore : "66186",
             } 
         },
+{ value : "Larry's Place by Epic Games", 
+            data : {
+            shortname : "larrysplace",
+
+            dpath : "2/3rd Y, 1/NN, 2/1st GY, 1/10th GY, 1/NN, 1/NN",
+            d_image : "'larrysplace_drums.png'",
+            dscore : "158256",
+
+            vpath : "1/7th G, 1/3rd R",
+            v_image : "'larrysplace_vocals.png'",
+            vscore : "22905",
+
+            gpath : "1/1st O, 1/8th R, 1/After 1.7 beats, 2/1st R, 1/2nd O",
+            g_image : "'larrysplace_guitar.png'",
+            gscore : "94720",
+
+            bpath : "1(+1)/14th R, 2/8th R, 1/4th R",
+            b_image : "'larrysplace_bass.png'",
+            bscore : "47850",
+
+            lpath : "1/1st O, 1/8th R, 1/After 1.7 beats, 2/1st R, 1/2nd O",
+            l_image : "'larrysplace_lead.png'",
+            lscore : "94720",
+
+            mpath : "1(+1)/13th R, 2/5th R, 1/1st Y",
+            m_image : "'larrysplace_mbass.png'",
+            mscore : "47850",
+            } 
+        },
 { value : "Less Than by Nine Inch Nails", 
             data : {
             shortname : "lessthan",
@@ -4376,6 +4579,35 @@ const songs = [
             mpath : "2/4th Y, 1/NN, 1/NN, 1/NN, 1/NN",
             m_image : "'likeag6_mbass.png'",
             mscore : "65928",
+            } 
+        },
+{ value : "Limitless (Murda Beatz Remix) by Epic Games ft. Murda Beatz", 
+            data : {
+            shortname : "limitlessmurdabeatz",
+
+            dpath : "1/2nd GO, 1/3rd GO, 1/1st GO, 1/2nd GO, 1/3rd GO, 1/1st RY, 1/2nd GO, 1/3rd GO",
+            d_image : "'limitlessmurdabeatz_drums.png'",
+            dscore : "218448",
+
+            vpath : "1/11th R, 1/13th B, 1/9th G, 1/5th O, 1/NN, 1/4th Y, 1/19th R, 1/NN, 1/3rd R",
+            v_image : "'limitlessmurdabeatz_vocals.png'",
+            vscore : "139566",
+
+            gpath : "1/2nd O, 1/3rd O, 1/NN, 1/1st G, 1/NN, 1/NN, 1/1st G, 1/NN, 1/NN",
+            g_image : "'limitlessmurdabeatz_guitar.png'",
+            gscore : "103054",
+
+            bpath : "3/NN, 1/1st R, 1/1st R, 1/1st R, 1/1st R, 1/1st Y, 1/1st R",
+            b_image : "'limitlessmurdabeatz_bass.png'",
+            bscore : "67176",
+
+            lpath : "1/2nd O, 1/3rd O, 1/NN, 1/1st G, 1/NN, 1/NN, 1/1st G, 1/NN, 1/NN",
+            l_image : "'limitlessmurdabeatz_lead.png'",
+            lscore : "103054",
+
+            mpath : "3/3rd R, 1/1st R, 1/1st R, 1/1st R, 1/1st R, 1/1st R, 1/1st R",
+            m_image : "'limitlessmurdabeatz_mbass.png'",
+            mscore : "60549",
             } 
         },
 { value : "Lord of the Wasteland by Epic Games", 
@@ -4521,6 +4753,35 @@ const songs = [
             mpath : "2/21st R, 1/NN, 1/30th R, 1/2nd G, 1/NN, 1(+1)/22nd R, 1/11th R, 1/NN",
             m_image : "'luxaeterna_mbass.png'",
             mscore : "301236",
+            } 
+        },
+{ value : "Magenta Ride by Epic Games", 
+            data : {
+            shortname : "magentaride",
+
+            dpath : "1/5th G, 1/18th G, 1/3rd R, 1/23rd G, 1/2nd O, 1/8th G, 1/NN",
+            d_image : "'magentaride_drums.png'",
+            dscore : "121680",
+
+            vpath : "2/7th RB, 1/7th GY, 1/7th RB, 1/1st GY, 1/2nd RY, 1/6th GY",
+            v_image : "'magentaride_vocals.png'",
+            vscore : "163806",
+
+            gpath : "1/8th B, 1/3rd R, 1/11th B, 1/15th R, 2/9th Y, 1/12th B",
+            g_image : "'magentaride_guitar.png'",
+            gscore : "119486",
+
+            bpath : "1/1st B, 1/1st R, 1/5th G, 1/2nd B, 1/1.5 beats after 2nd B, 1/1.2 beats after 2nd R, 1/1st G",
+            b_image : "'magentaride_bass.png'",
+            bscore : "85245",
+
+            lpath : "1/1st O, 1/1st G, 1/2nd Y, 1/14th Y, 2/7th Y, 1/7th B",
+            l_image : "'magentaride_lead.png'",
+            lscore : "113625",
+
+            mpath : "1/1st B, 1/1st R, 1/5th G, 1/2nd B, 1/1.5 beats after 2nd B, 1/1.2 beats after 2nd R, 1/1st G",
+            m_image : "'magentaride_mbass.png'",
+            mscore : "85245",
             } 
         },
 { value : "MakeDamnSure by Taking Back Sunday", 
@@ -5144,17 +5405,17 @@ const songs = [
             v_image : "'numb_vocals.png'",
             vscore : "99096",
 
-            gpath : "1/14th Y, 1/NN, 1/NN, 1/1st GY, 1(+1)/3rd RY, 1/NN",
+            gpath : "1/1st RBO, 1/NN, 1/NN, 1/1st GY, 1(+1)/3rd RY, 1/3rd GRB",
             g_image : "'numb_guitar.png'",
-            gscore : "61281",
+            gscore : "73713",
 
             bpath : "3/1st R, 1/NN, 1(+1)/4th G, 1/NN",
             b_image : "'numb_bass.png'",
             bscore : "43695",
 
-            lpath : "1/14th R, 1/NN, 1/NN, 1/5th R, 1(+1)/4th RB, 1/NN",
+            lpath : "1/15th R, 1/NN, 1/NN, 1/5th R, 1(+1)/4th RB, 1/3rd GO",
             l_image : "'numb_lead.png'",
-            lscore : "57525",
+            lscore : "67437",
 
             mpath : "3/1st R, 1/NN, 1/2nd Y, 1/1st O, 1/NN",
             m_image : "'numb_mbass.png'",
@@ -5770,6 +6031,35 @@ const songs = [
             mscore : "99135",
             } 
         },
+{ value : "Regulate by Warren G ft. Nate Dogg", 
+            data : {
+            shortname : "regulate",
+
+            dpath : "1/NN, 1/2nd GY, 1/10th GY, 1/7th GY, 1/NN, 1/10th GY, 1/NN",
+            d_image : "'regulate_drums.png'",
+            dscore : "320544",
+
+            vpath : "1/8th B, 1/8th G, 1/4th G, 1/1st G, 1/NN, 1/NN, 1/4th Y, 1/10th B",
+            v_image : "'regulate_vocals.png'",
+            vscore : "189904",
+
+            gpath : "1/2nd B, 1/NN, 1/2nd B, 1/1st B, 1/2nd B, 3/8th Y",
+            g_image : "'regulate_guitar.png'",
+            gscore : "133950",
+
+            bpath : "1/6th B, 1/4th B, 1/4th B, 1/5th B, 1/5th B, 1/NN, 1/6th B",
+            b_image : "'regulate_bass.png'",
+            bscore : "122124",
+
+            lpath : "1/NN, 1/1st RB, 1/3.2 beats after 4th GB, 1/1st B, 4/1st RY",
+            l_image : "'regulate_lead.png'",
+            lscore : "112214",
+
+            mpath : "1/4th B, 1/4th B, 1/4th B, 1/4th B, 1/4th B, 1/NN, 1/4th B",
+            m_image : "'regulate_mbass.png'",
+            mscore : "122124",
+            } 
+        },
 { value : "Replay by Iyaz", 
             data : {
             shortname : "replay",
@@ -5855,6 +6145,35 @@ const songs = [
             mpath : "2/1st Y, 1/1st B, 1/3rd B, 1/1st B, 1/7th B, 3/3rd R, 1/2nd B, 1/3rd B, 1/1st B, 1/3rd B",
             m_image : "'ridewitme_mbass.png'",
             mscore : "125520",
+            } 
+        },
+{ value : "Robbery by Juice WRLD", 
+            data : {
+            shortname : "robbery",
+
+            dpath : "1/5th RY, 1/NN, 1/5th RY, 1/2nd RY, 1/14th RY, 1/1st RY, 1/7th RY, 1/8th RY, 2(+1)/10th RY, 1/8th RY, 1/7th RY, 1/2nd RY",
+            d_image : "'robbery_drums.png'",
+            dscore : "229104",
+
+            vpath : "1/4th O, 1/NN, 1/5th R, 1/7th R, 1/1st R, 3(+1)/3rd G, 1/NN, 1/1st R, 1/3rd R, 1/NN",
+            v_image : "'robbery_vocals.png'",
+            vscore : "144996",
+
+            gpath : "1/1st GR, 1/1st GR, 1/1st GR, 1/1st YB, 1/1st RY, 1/1.4 beats after 2nd GY, 1/NN, 1/1st YB, 1/1st GR, 1/1st GR, 1/3rd GR, 1/1st GR, 1/NN, 1/1st GY, 1/1st GR, 1/1st RY, 1/1st GR",
+            g_image : "'robbery_guitar.png'",
+            gscore : "184022",
+
+            bpath : "4(+1)/1st G, 1/NN, 1/1st R, 1/1st G",
+            b_image : "'robbery_bass.png'",
+            bscore : "42126",
+
+            lpath : "1/1st GY, 1/1st GY, 1/1st GY, 1/1st RB, 1/1st GB, 1/1.4 beats after 2nd RY, 1/NN, 1/1st RB, 1/1st GY, 1/1st GY, 1/3rd GY, 1/1st GY, 1/NN, 1/1st RY, 1/1st GY, 1/1st GB, 1/1st GY",
+            l_image : "'robbery_lead.png'",
+            lscore : "184022",
+
+            mpath : "4(+1)/1st G, 1/NN, 1/1st R, 1/1st G",
+            m_image : "'robbery_mbass.png'",
+            mscore : "42126",
             } 
         },
 { value : "Roses (Imanbek Remix) by SAINt JHN ", 
@@ -6725,6 +7044,64 @@ const songs = [
             mpath : "1/2nd G, 1/NN, 1/NN, 1/1st G, 1/1st G, 1/NN, 1/NN, 1(+1)/21st G, 1/NN, 1/12th Y",
             m_image : "'sowhat_mbass.png'",
             mscore : "164013",
+            } 
+        },
+{ value : "Spies! (Marshmello Remix) by Epic Games ft. Marshmello", 
+            data : {
+            shortname : "spiesmarshmello",
+
+            dpath : "1/NN, 1/3rd GB, 1/NN, 2/4th RB, 1/8th GB, 1/NN",
+            d_image : "'spiesmarshmello_drums.png'",
+            dscore : "149616",
+
+            vpath : "1/4th B, 1/0.42 beats after 3rd B, 1/9th O, 1/NN",
+            v_image : "'spiesmarshmello_vocals.png'",
+            vscore : "26136",
+
+            gpath : "1/5th YO, 1/1st YO, 1/NN, 2/3rd GY, 1/NN, 1/6th GR",
+            g_image : "'spiesmarshmello_guitar.png'",
+            gscore : "78966",
+
+            bpath : "4(+1)/14th Y, 1/1st O, 1/1st Y",
+            b_image : "'spiesmarshmello_bass.png'",
+            bscore : "49845",
+
+            lpath : "1/5th GO, 1/1st GO, 1/NN, 2/3rd GB, 1/NN, 1/6th GY",
+            l_image : "'spiesmarshmello_lead.png'",
+            lscore : "75930",
+
+            mpath : "4(+1)/14th Y, 1/1st O, 1/1st Y",
+            m_image : "'spiesmarshmello_mbass.png'",
+            mscore : "49845",
+            } 
+        },
+{ value : "Spies! (Murda Beatz Remix) by Epic Games ft. Murda Beatz", 
+            data : {
+            shortname : "spiesmurdabeatz",
+
+            dpath : "1/1st GY, 1/3rd GY, 1/1st Y, 1/1st GY, 1/9th Y, 1/3rd GY, 1/16th O, 1/1st GY",
+            d_image : "'spiesmurdabeatz_drums.png'",
+            dscore : "188208",
+
+            vpath : "1/4th Y, 1/3rd G, 1/5th Y, 1/NN, 1/8th G, 1/1st G, 1/3rd Y",
+            v_image : "'spiesmurdabeatz_vocals.png'",
+            vscore : "163748",
+
+            gpath : "3/1st O, 1/2nd RY, 1/NN, 1/1st RY, 1/1.6 beats after 3rd R, 1/2nd Y",
+            g_image : "'spiesmurdabeatz_guitar.png'",
+            gscore : "83181",
+
+            bpath : "1/21st G, 1/3rd G, 1/5th G, 1/3rd G, 1/3rd G, 1/2nd G",
+            b_image : "'spiesmurdabeatz_bass.png'",
+            bscore : "71862",
+
+            lpath : "2/2 beats after 2nd O, 1/2nd GY, 1/2nd RY, 1/NN, 1/1st RY, 1/1.3 beats after 5th R, 1/2nd R",
+            l_image : "'spiesmurdabeatz_lead.png'",
+            lscore : "74717",
+
+            mpath : "1/21st G, 1/3rd G, 1/5th G, 1/3rd G, 1/3rd G, 1/2nd G",
+            m_image : "'spiesmurdabeatz_mbass.png'",
+            mscore : "71862",
             } 
         },
 { value : "Stargazing by Myles Smith", 
@@ -8090,6 +8467,35 @@ const songs = [
             mscore : "227994",
             } 
         },
+{ value : "Turn Up by Epic Games", 
+            data : {
+            shortname : "turnup",
+
+            dpath : "1/1st RY, 1/1st RY, 1/1st RY, 1/11th GY, 1/NN, 1/NN, 1/1st RY, 1/1st RY",
+            d_image : "'turnup_drums.png'",
+            dscore : "172656",
+
+            vpath : "1/6th Y, 1/1st B, 2(+1)/4th B",
+            v_image : "'turnup_vocals.png'",
+            vscore : "56610",
+
+            gpath : "1/NN, 3(+1)/4th RY, 2(+1)/5th O",
+            g_image : "'turnup_guitar.png'",
+            gscore : "132180",
+
+            bpath : "1/8th B, 1/3rd O, 1/2nd R, 1/4th B, 1/4th B, 1/3rd O, 1/2nd R, 1/6th B",
+            b_image : "'turnup_bass.png'",
+            bscore : "97050",
+
+            lpath : "1/NN, 3(+1)/4th RY, 2(+1)/6th O",
+            l_image : "'turnup_lead.png'",
+            lscore : "132180",
+
+            mpath : "1/8th B, 1/3rd O, 1/2nd R, 1/4th B, 1/4th B, 1/3rd O, 1/2nd R, 1/6th B",
+            m_image : "'turnup_mbass.png'",
+            mscore : "97050",
+            } 
+        },
 { value : "Tusa by Karol G ft. Nicki Minaj", 
             data : {
             shortname : "tusa",
@@ -8958,6 +9364,35 @@ const songs = [
             mpath : "1/6th B, 1/NN, 1/3rd R, 1/NN, 1/NN, 1/1st Y, 1/NN",
             m_image : "'youngblood_mbass.png'",
             mscore : "124101",
+            } 
+        },
+{ value : "Young, Wild & Free by Snoop Dogg & Wiz Khalifa ft. Bruno Mars", 
+            data : {
+            shortname : "youngwildandfree",
+
+            dpath : "1/1st GY, 1/1st GY, 1/1st GY, 1/NN, 1/6th GY, 1/1st GY, 1/1st GY",
+            d_image : "'youngwildandfree_drums.png'",
+            dscore : "190944",
+
+            vpath : "1/11th B, 1/NN, 1/11th B, 1/2nd Y, 1/NN, 1/30th Y, 1/NN",
+            v_image : "'youngwildandfree_vocals.png'",
+            vscore : "165109",
+
+            gpath : "1/1st YB, 1/6th O, 1/4th YB, 1/4th YB, 1/1st BO, 1/4th YB, 1/4th YB",
+            g_image : "'youngwildandfree_guitar.png'",
+            gscore : "136164",
+
+            bpath : "3/4th G, 2/8th G, 1/NN, 1/4th G",
+            b_image : "'youngwildandfree_bass.png'",
+            bscore : "100767",
+
+            lpath : "1/1st RB, 1/6th O, 1/4th RB, 1/4th RB, 1/1st RO, 1/4th RB, 1/4th RB",
+            l_image : "'youngwildandfree_lead.png'",
+            lscore : "136164",
+
+            mpath : "3/4th G, 2/8th G, 1/NN, 1/4th G",
+            m_image : "'youngwildandfree_mbass.png'",
+            mscore : "100767",
             } 
         },
 { value : "You're All Mine by Epic Games", 
