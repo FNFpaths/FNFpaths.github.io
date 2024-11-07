@@ -3102,6 +3102,35 @@ const songs = [
             mscore : "141681",
             } 
         },
+{ value : "For The Night by Pop Smoke w/ Lil Baby & DaBaby", 
+            data : {
+            shortname : "forthenight",
+
+            dpath : "1/11th GY, 1/1st Y, 1/NN, 1/3rd GY, 1/7th GY, 1/3rd GY, 1/NN, 1/NN",
+            d_image : "'forthenight_drums.png'",
+            dscore : "104544",
+
+            vpath : "1/5th B, 1/3rd G, 3(+1)/11th B, 1/2nd O, 2(+1)/12th B",
+            v_image : "'forthenight_vocals.png'",
+            vscore : "182115",
+
+            gpath : "1/4th B, 1/2nd O, 1/2nd B, 2/1st O, 1/1st O, 1/4th B, 1/2nd R, 1/1st O, 1/3rd G",
+            g_image : "'forthenight_guitar.png'",
+            gscore : "91158",
+
+            bpath : "2(+1)/1st B, 1/4th R, 1/NN, 1/NN, 1/1st R, 1/NN, 1/2nd B",
+            b_image : "'forthenight_bass.png'",
+            bscore : "54909",
+
+            lpath : "1/4th B, 1/2nd O, 1/2nd B, 2/1st O, 1/1st O, 1/4th B, 1/2nd Y, 1/1st O, 1/3rd G",
+            l_image : "'forthenight_lead.png'",
+            lscore : "91158",
+
+            mpath : "2(+1)/1st B, 1/4th R, 1/3rd B, 1/NN, 1/1st R, 1/3rd B, 1/2nd B",
+            m_image : "'forthenight_mbass.png'",
+            mscore : "53636",
+            } 
+        },
 { value : "For Whom The Bell Tolls by Metallica", 
             data : {
             shortname : "forwhomthebelltolls",
@@ -3970,6 +3999,35 @@ const songs = [
             mpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/1st O, 1/NN, 2/6th Y, 1/NN, 2/NN",
             m_image : "'imnotokay_mbass.png'",
             mscore : "237420",
+            } 
+        },
+{ value : "Industry Baby by Lil Nas X ft. Jack Harlow", 
+            data : {
+            shortname : "industrybaby",
+
+            dpath : "2/9th RY, 1/2nd GY, 1/6th Y, 2(+1)/13th RY, 1/6th Y, 1/9th RY, 1/4th RY, 1/5th Y, 1/2nd RY, 1/6th GY",
+            d_image : "'industrybaby_drums.png'",
+            dscore : "193824",
+
+            vpath : "2/NN, 1/2nd O, 1/16th Y, 1/18th Y, 1/3rd O, 1/2nd O, 1/15th R, 1/4th Y, 1/4th R, 1/NN, 1/NN, 1/3rd O",
+            v_image : "'industrybaby_vocals.png'",
+            vscore : "194775",
+
+            gpath : "1/2nd G, 1/NN, 1/2nd G, 1/NN, 1/4th G, 1/NN, 1/2nd G, 1/NN, 1/2.4 beats after 3rd G, 1/2nd G, 3/3rd O",
+            g_image : "'industrybaby_guitar.png'",
+            gscore : "94676",
+
+            bpath : "1/3.7 beats after 1st O, 1/2nd G, 1/4th G, 1/3rd G, 1/1st Y, 1/1st G, 1/3rd G, 3/1st G, 2/2nd B",
+            b_image : "'industrybaby_bass.png'",
+            bscore : "72888",
+
+            lpath : "1/2nd G, 1/NN, 1/2nd G, 1/NN, 1/4th G, 1/NN, 1/2nd G, 1/NN, 1/2.4 beats after 3rd G, 1/2nd G, 3/4th O",
+            l_image : "'industrybaby_lead.png'",
+            lscore : "93416",
+
+            mpath : "1/3.7 beats after 1st O, 1/2nd G, 1/4th G, 1/3rd G, 1/1st Y, 1/1st G, 1/3rd G, 3/1st G, 2/2nd B",
+            m_image : "'industrybaby_mbass.png'",
+            mscore : "72888",
             } 
         },
 { value : "Inferno Island (Molten Mix) by Epic Games", 
@@ -4985,6 +5043,35 @@ const songs = [
             mpath : "2(+1)/6th G, 2(+1)/4th G",
             m_image : "'migente_mbass.png'",
             mscore : "33849",
+            } 
+        },
+{ value : "MILLION DOLLAR BABY by Tommy Richman", 
+            data : {
+            shortname : "milliondollarbaby",
+
+            dpath : "1/1st GY, 1/1st GY, 1/1st GY, 1/1st GY, 1/1st GY, 1/1st GY",
+            d_image : "'milliondollarbaby_drums.png'",
+            dscore : "122112",
+
+            vpath : "1/5th Y, 1/7th R, 1/9th B, 2/3rd O, 1/2nd O, 1/NN",
+            v_image : "'milliondollarbaby_vocals.png'",
+            vscore : "93609",
+
+            gpath : "1/5th GRY, 1/1st YBO, 1/NN, 1/1st YBO, 1/1st YBO, 1/NN, 1/3rd O",
+            g_image : "'milliondollarbaby_guitar.png'",
+            gscore : "72700",
+
+            bpath : "2/7th G, 1/2nd Y, 1/2nd Y, 1(+1)/5th O, 1/9th B",
+            b_image : "'milliondollarbaby_bass.png'",
+            bscore : "67716",
+
+            lpath : "1(+1)/1st GO, 1/NN, 1/NN, 1/NN, 1/NN, 1/3rd O",
+            l_image : "'milliondollarbaby_lead.png'",
+            lscore : "53908",
+
+            mpath : "2/7th G, 1/NN, 1/NN, 1(+1)/5th O, 1/6th B",
+            m_image : "'milliondollarbaby_mbass.png'",
+            mscore : "66852",
             } 
         },
 { value : "Misery Business by Paramore", 
@@ -7394,6 +7481,35 @@ const songs = [
             mscore : "180663",
             } 
         },
+{ value : "Super Bass by Nicki Minaj", 
+            data : {
+            shortname : "superbass",
+
+            dpath : "1/13th G, 1/6th RY, 1/14th R, 1/9th RY, 1/2nd RO, 1/12th R, 1/NN, 1/2nd GO, 1/12th R",
+            d_image : "'superbass_drums.png'",
+            dscore : "142293",
+
+            vpath : "1/10th R, 1/NN, 2/13th O, 1/10th G, 1/2nd GY, 1/5th R, 2/2nd GO",
+            v_image : "'superbass_vocals.png'",
+            vscore : "214026",
+
+            gpath : "1/1st R, 1/8th R, 1/6th Y, 2/0.67 beats after 18th R, 1/5th Y, 1/1st G, 1/2nd R, 1/7th Y",
+            g_image : "'superbass_guitar.png'",
+            gscore : "104685",
+
+            bpath : "2/0.42 beats after 5th Y, 1/1st Y, 1/1st Y, 1/2nd Y, 1/2nd Y",
+            b_image : "'superbass_bass.png'",
+            bscore : "41441",
+
+            lpath : "1/1st R, 1/8th R, 1/6th R, 2/0.67 beats after 18th R, 1/5th R, 1/1st G, 1/2nd R, 1/7th R",
+            l_image : "'superbass_lead.png'",
+            lscore : "104685",
+
+            mpath : "2/0.42 beats after 5th Y, 1/1st Y, 1/1st Y, 1/2nd Y, 1/2nd Y",
+            m_image : "'superbass_mbass.png'",
+            mscore : "41441",
+            } 
+        },
 { value : "Super Freak by Rick James", 
             data : {
             shortname : "superfreak",
@@ -8697,6 +8813,35 @@ const songs = [
             mpath : "1/6th G, 1/NN, 1/4th O, 1/2nd G, 1/NN, 1/5th O",
             m_image : "'walkemdown_mbass.png'",
             mscore : "71151",
+            } 
+        },
+{ value : "Walk This Way by Run DMC ft. Aerosmith", 
+            data : {
+            shortname : "walkthisway",
+
+            dpath : "1/NN, 1/12th RY, 1/NN, 1/NN, 1/NN, 2/1st GO, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            d_image : "'walkthisway_drums.png'",
+            dscore : "333504",
+
+            vpath : "1/6th Y, 1/4th R, 2/10th Y, 1/6th Y, 1/5th Y, 1/4th Y",
+            v_image : "'walkthisway_vocals.png'",
+            vscore : "139488",
+
+            gpath : "1/1st YB, 1/1st B, 1/4th G, 2/2nd B, 1/4th Y, 1/1st YB, 2/1st O, 2/4th B, 4/3rd RB",
+            g_image : "'walkthisway_guitar.png'",
+            gscore : "293404",
+
+            bpath : "1/4th O, 1/NN, 1/8th Y, 1/NN, 2/1st R, 1/7th Y, 1/3rd Y",
+            b_image : "'walkthisway_bass.png'",
+            bscore : "78774",
+
+            lpath : "1/1st RO, 1/1st B, 1/4th G, 2/2nd B, 1/4th R, 1/1st G, 2/2nd O, 2/4th B, 4/3rd RB",
+            l_image : "'walkthisway_lead.png'",
+            lscore : "272808",
+
+            mpath : "1/4th O, 1/NN, 1/8th Y, 1/NN, 2/1st R, 1/7th Y, 1/3rd Y",
+            m_image : "'walkthisway_mbass.png'",
+            mscore : "77910",
             } 
         },
 { value : "Way Too Fast by Epic Games", 
