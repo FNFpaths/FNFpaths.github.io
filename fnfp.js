@@ -86,6 +86,35 @@ const songs = [
             mscore : "44070",
             } 
         },
+{ value : "All I Do Is Win by DJ Khaled ft. T-Pain, Ludacris, Snoop Dogg & Rick Ross", 
+            data : {
+            shortname : "allidoiswin",
+
+            dpath : "1/NN, 1/6th O, 1/5th O, 1/NN, 1/NN, 1/NN, 1/12th O, 1/9th O, 1/NN, 1/NN, 1/8th O, 1/11th O, 1/NN, 1/NN",
+            d_image : "'allidoiswin_drums.png'",
+            dscore : "150768",
+
+            vpath : "2/2nd Y, 1/NN, 1/2nd R, 1/12th Y, 1/10th B, 1/6th O, 1/12th Y, 1/16th Y, 1/10th B, 1/6th O, 1/2nd B, 1/3rd O, 1/3rd O, 1/10th B",
+            v_image : "'allidoiswin_vocals.png'",
+            vscore : "231714",
+
+            gpath : "1/7th YB, 1/2nd YB, 1/3rd YB, 1(+1)/1st RB, 1/7th YB, 1/1st RYO, 1/1st YB, 1/NN, 1/5th YB, 1/3rd YB, 1/NN, 1/2nd YB, 1/15th YB",
+            g_image : "'allidoiswin_guitar.png'",
+            gscore : "187890",
+
+            bpath : "2(+1)/3rd B, 1/NN, 2(+1)/3rd B, 1/NN, 1/3rd O, 1/1st B, 1/1st B, 1/NN, 1/2nd O, 1/8th B",
+            b_image : "'allidoiswin_bass.png'",
+            bscore : "119601",
+
+            lpath : "1/NN, 1/NN, 1/7th RO, 1(+1)/1st RY, 1/NN, 1/1st GB, 1/NN, 1/NN, 1/NN, 1/8th RO, 1/NN, 1/NN, 1/NN",
+            l_image : "'allidoiswin_lead.png'",
+            lscore : "166866",
+
+            mpath : "2(+1)/3rd B, 1/NN, 1/1st Y, 1(+1)/3rd O, 1/NN, 1/3rd O, 1/1st B, 1/1st B, 1/NN, 1/2nd O, 1/8th B",
+            m_image : "'allidoiswin_mbass.png'",
+            mscore : "118419",
+            } 
+        },
 { value : "All Of Me (Tiësto's Birthday Treatment Remix) by John Legend", 
             data : {
             shortname : "allofme",
@@ -4088,6 +4117,35 @@ const songs = [
             mscore : "199722",
             } 
         },
+{ value : "In Ha Mood by Ice Spice", 
+            data : {
+            shortname : "inhamood",
+
+            dpath : "1/2nd GO, 2/1st GO, 1/NN, 2/1st GO, 1/NN",
+            d_image : "'inhamood_drums.png'",
+            dscore : "93024",
+
+            vpath : "1/5th B, 3/4th Y, 1/6th Y, 1/1st G, 1/4th Y",
+            v_image : "'inhamood_vocals.png'",
+            vscore : "117990",
+
+            gpath : "2(+1)/4th RYO, 1/NN, 1/NN, 1/2nd RYO, 1/1st RYO",
+            g_image : "'inhamood_guitar.png'",
+            gscore : "49131",
+
+            bpath : "2/14th G, 2(+1)/4th G, 1/9th G",
+            b_image : "'inhamood_bass.png'",
+            bscore : "42543",
+
+            lpath : "2(+1)/4th RO, 1/1st GY, 1/NN, 1/2nd RO, 1/NN",
+            l_image : "'inhamood_lead.png'",
+            lscore : "37772",
+
+            mpath : "2/14th G, 2(+1)/4th G, 1/9th G",
+            m_image : "'inhamood_mbass.png'",
+            mscore : "42525",
+            } 
+        },
 { value : "In The End by Linkin Park", 
             data : {
             shortname : "intheend",
@@ -4521,6 +4579,35 @@ const songs = [
             mpath : "1(+1)/13th R, 2/5th R, 1/1st Y",
             m_image : "'larrysplace_mbass.png'",
             mscore : "47850",
+            } 
+        },
+{ value : "Lean Back by Terror Squad ft. Remy & Fat Joe", 
+            data : {
+            shortname : "leanback",
+
+            dpath : "1/1st RY, 1/NN, 1/9th RY, 1/1st RY, 1/1st RY, 1/5th RY, 1/NN, 1/NN, 1/NN, 1/1st RY",
+            d_image : "'leanback_drums.png'",
+            dscore : "194400",
+
+            vpath : "2/3rd Y, 1/NN, 1/11th R, 1/NN, 1(+1)/14th Y, 1/9th B, 1/NN, 1/NN",
+            v_image : "'leanback_vocals.png'",
+            vscore : "225012",
+
+            gpath : "1/1st RB, 1/NN, 1/NN, 1/4th RB, 1/3rd RB, 1/2nd RB, 1/2nd RB, 1/1st RB, 1/4th RB, 1/4th RB",
+            g_image : "'leanback_guitar.png'",
+            gscore : "210840",
+
+            bpath : "1/5th G, 1/4th G, 1/3rd G, 1/4th G, 1/4th G, 1/4th G, 1/2nd G",
+            b_image : "'leanback_bass.png'",
+            bscore : "78195",
+
+            lpath : "1/1st RB, 1/NN, 1/NN, 1/4th RB, 1/3rd RB, 1/2nd RB, 1/2nd RB, 1/1st RB, 1/4th RB, 1/4th RB",
+            l_image : "'leanback_lead.png'",
+            lscore : "207672",
+
+            mpath : "1/5th G, 1/4th G, 1/3rd G, 1/4th G, 1/4th G, 1/4th G, 1/2nd G",
+            m_image : "'leanback_mbass.png'",
+            mscore : "78195",
             } 
         },
 { value : "Less Than by Nine Inch Nails", 
@@ -5567,6 +5654,35 @@ const songs = [
             mscore : "102096",
             } 
         },
+{ value : "Oh Shhh... by Ice Spice ft. Travis Scott", 
+            data : {
+            shortname : "ohshhh",
+
+            dpath : "2/6th RY, 1/7th GY, 1/3rd RY, 1/1st GY, 1/7th GY, 1/4th RY, 1/11th GY",
+            d_image : "'ohshhh_drums.png'",
+            dscore : "171072",
+
+            vpath : "2(+1)/16th Y, 1/5th G, 1/8th Y, 1/NN, 1/3rd G, 1/NN",
+            v_image : "'ohshhh_vocals.png'",
+            vscore : "141444",
+
+            gpath : "1/NN, 1/8th B, 1/5th B, 1/NN, 1/NN, 1/NN, 1/5th Y, 1/1st B",
+            g_image : "'ohshhh_guitar.png'",
+            gscore : "81964",
+
+            bpath : "1/15th R, 1/2nd R, 1/5th R, 1/2nd R, 1/5th R, 1/4th R, 1/7th R, 1/11th R",
+            b_image : "'ohshhh_bass.png'",
+            bscore : "66974",
+
+            lpath : "1/NN, 1/8th O, 1/5th O, 1/NN, 1/NN, 1/NN, 1/5th Y, 1/1st O",
+            l_image : "'ohshhh_lead.png'",
+            lscore : "81964",
+
+            mpath : "1/15th R, 1/2nd R, 1/5th R, 1/2nd R, 1/5th R, 1/4th R, 1/7th R, 1/11th R",
+            m_image : "'ohshhh_mbass.png'",
+            mscore : "66974",
+            } 
+        },
 { value : "OKI DOKI by Karol G", 
             data : {
             shortname : "okidoki",
@@ -6232,6 +6348,35 @@ const songs = [
             mpath : "2/1st Y, 1/1st B, 1/3rd B, 1/1st B, 1/7th B, 3/3rd R, 1/2nd B, 1/3rd B, 1/1st B, 1/3rd B",
             m_image : "'ridewitme_mbass.png'",
             mscore : "125520",
+            } 
+        },
+{ value : "Right Round by Flo Rida, Kesha", 
+            data : {
+            shortname : "rightround",
+
+            dpath : "1/2nd RO, 1/NN, 1/NN, 2/1st GY, 1/NN, 1/NN, 1/1st RO, 1/9th GY, 1/NN",
+            d_image : "'rightround_drums.png'",
+            dscore : "132192",
+
+            vpath : "2/NN, 1/2nd O, 1/4th G, 1/1st B, 1/13th R, 1/1st G, 1/4th G, 1/1st B, 1/4th B, 1/3rd B",
+            v_image : "'rightround_vocals.png'",
+            vscore : "206934",
+
+            gpath : "1/3.6 beats after 3rd RY, 1/NN, 1/1st O, 2/2nd G, 1/NN, 1/1st O, 2/2nd G, 2/13th O",
+            g_image : "'rightround_guitar.png'",
+            gscore : "119930",
+
+            bpath : "3/NN, 1/1st Y, 2/NN, 3/1st R",
+            b_image : "'rightround_bass.png'",
+            bscore : "56534",
+
+            lpath : "1/3.6 beats after 3rd GB, 1/NN, 1/1st O, 2/2nd G, 1/NN, 1/1st O, 2/2nd G, 2/16th O",
+            l_image : "'rightround_lead.png'",
+            lscore : "119930",
+
+            mpath : "3/NN, 1/1st Y, 1(+1)/1st B, 3/NN",
+            m_image : "'rightround_mbass.png'",
+            mscore : "52952",
             } 
         },
 { value : "Robbery by Juice WRLD", 
