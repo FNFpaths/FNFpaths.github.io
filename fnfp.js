@@ -318,6 +318,35 @@ const songs = [
             mscore : "147969",
             } 
         },
+{ value : "Armed And Dangerous by Juice WRLD", 
+            data : {
+            shortname : "armedanddangerous",
+
+            dpath : "1/6th RY, 1/1st RY, 1/NN, 1/1st RY, 1/5th RY, 1/4th RY, 1/1st RY, 1/4th RY, 1/6th RY",
+            d_image : "'armedanddangerous_drums.png'",
+            dscore : "135504",
+
+            vpath : "1(+1)/12th B, 1/After 0.42 beats, 1/10th R, 1/10th B, 3/1st B",
+            v_image : "'armedanddangerous_vocals.png'",
+            vscore : "123240",
+
+            gpath : "1/5th Y, 1/NN, 1/NN, 1/3rd G, 1/NN, 1/NN, 1/NN, 1/6th Y, 1/2.9 beats after 1st G, 1/1st Y",
+            g_image : "'armedanddangerous_guitar.png'",
+            gscore : "64716",
+
+            bpath : "4/1st R, 1/1st Y, 1/1st Y, 1/2nd Y, 1/1st O",
+            b_image : "'armedanddangerous_bass.png'",
+            bscore : "25152",
+
+            lpath : "1/5th Y, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/2.9 beats after 1st G, 1/2nd Y",
+            l_image : "'armedanddangerous_lead.png'",
+            lscore : "63176",
+
+            mpath : "4/1st R, 1/1st Y, 1/1st Y, 1/2nd Y, 1/1st O",
+            m_image : "'armedanddangerous_mbass.png'",
+            mscore : "25152",
+            } 
+        },
 { value : "Astronaut In The Ocean by Masked Wolf", 
             data : {
             shortname : "astronoutintheocean",
@@ -606,6 +635,35 @@ const songs = [
             mpath : "1/5th Y, 1/NN, 1/NN, 1/NN, 1/NN, 1/2nd Y, 1/NN, 4(+1)/6th B, 1/3rd R",
             m_image : "'beautifulday_mbass.png'",
             mscore : "250818",
+            } 
+        },
+{ value : "Beautiful Things by Benson Boone", 
+            data : {
+            shortname : "beautifulthings",
+
+            dpath : "1/6th RB, 1/1st Y, 1/NN, 1/2nd Y, 1/1st RB, 1/5th GB",
+            d_image : "'beautifulthings_drums.png'",
+            dscore : "85968",
+
+            vpath : "1/1st O, 1/NN, 1/1st R, 1/3rd R, 1/5th R, 1/6th Y, 1/3rd R, 1/2nd R",
+            v_image : "'beautifulthings_vocals.png'",
+            vscore : "98241",
+
+            gpath : "1/3rd G, 4(+1)/2nd GYB, 1/1st RB, 1/2nd O",
+            g_image : "'beautifulthings_guitar.png'",
+            gscore : "135491",
+
+            bpath : "2(+1)/4th B, 1/9th Y, 1/3rd Y, 1/7th R",
+            b_image : "'beautifulthings_bass.png'",
+            bscore : "84009",
+
+            lpath : "3(+1)/14th Y, 1/2nd RB, 1/NN, 1/1st GO, 1/NN",
+            l_image : "'beautifulthings_lead.png'",
+            lscore : "112509",
+
+            mpath : "4(+1)/7th B, 1/7th R",
+            m_image : "'beautifulthings_mbass.png'",
+            mscore : "79851",
             } 
         },
 { value : "Before I Forget by Slipknot", 
@@ -5335,6 +5393,35 @@ const songs = [
             mscore : "82761",
             } 
         },
+{ value : "My House by Flo Rida", 
+            data : {
+            shortname : "myhouse",
+
+            dpath : "1/6th GY, 1/NN, 1/3rd RY, 1/4th RY, 1/NN, 1/NN, 1/NN, 1/1st GO",
+            d_image : "'myhouse_drums.png'",
+            dscore : "175248",
+
+            vpath : "1/3rd O, 1/1st G, 2/4th R, 1/0.5 beats after 14th O, 1/4th R, 1/1st O, 1/0.5 beats after 6th Y",
+            v_image : "'myhouse_vocals.png'",
+            vscore : "142689",
+
+            gpath : "1(+1)/2nd RO, 1/NN, 1(+1)/2nd RO, 1/NN, 2/4th B",
+            g_image : "'myhouse_guitar.png'",
+            gscore : "80036",
+
+            bpath : "2(+1)/9th R, 1/NN, 1/NN",
+            b_image : "'myhouse_bass.png'",
+            bscore : "36750",
+
+            lpath : "1(+1)/2nd RY, 1/NN, 1(+1)/2nd RY, 1/NN, 2/2nd B",
+            l_image : "'myhouse_lead.png'",
+            lscore : "78636",
+
+            mpath : "2(+1)/9th R, 1/NN, 1/NN",
+            m_image : "'myhouse_mbass.png'",
+            mscore : "36750",
+            } 
+        },
 { value : "My Oh My by Ava Max", 
             data : {
             shortname : "myohmy",
@@ -9364,6 +9451,35 @@ const songs = [
             mpath : "1/6th G, 1/4th B, 1/4th B, 1/1st O, 1/4th B, 1/2nd O, 1/1st O, 1/1st O, 1/1st O",
             m_image : "'winterfestwish_mbass.png'",
             mscore : "106266",
+            } 
+        },
+{ value : "Wishing Well by Juice WRLD", 
+            data : {
+            shortname : "wishingwell",
+
+            dpath : "1/1st GB, 1(+1)/1st GY, 1/1st GB, 1/NN, 1(+1)/1st GY, 1(+1)/1st GY, 1/NN",
+            d_image : "'wishingwell_drums.png'",
+            dscore : "174240",
+
+            vpath : "1/1st B, 1/12th Y, 1/2nd O, 2/1st Y, 1/NN, 1/1st Y, 1/1st R, 1/2nd R, 1/3rd R, 1/1st Y",
+            v_image : "'wishingwell_vocals.png'",
+            vscore : "144936",
+
+            gpath : "1/NN, 2(+1)/2nd RB, 3(+1)/1st RB, 1/NN, 1(+1)/1st RB, 1/1st GB",
+            g_image : "'wishingwell_guitar.png'",
+            gscore : "213356",
+
+            bpath : "2(+1)/2nd G, 1/2.4 beats after 4th B, 1/1st R, 1/After 2.9 beats, 1(+1)/5th B, 1/2nd B, 1/2.9 beats after 1st B, 1/2.4 beats after 4th B, 1/5th B",
+            b_image : "'wishingwell_bass.png'",
+            bscore : "86741",
+
+            lpath : "1/NN, 3/1st RO, 3(+1)/2nd RY, 1/NN, 1(+1)/1st RY, 1/1st GO",
+            l_image : "'wishingwell_lead.png'",
+            lscore : "212492",
+
+            mpath : "2(+1)/2nd G, 1/2.4 beats after 4th B, 1/1st R, 1/After 2.9 beats, 1(+1)/5th B, 1/2nd B, 1/2.9 beats after 1st B, 1/2.4 beats after 4th B, 1/5th B",
+            m_image : "'wishingwell_mbass.png'",
+            mscore : "86741",
             } 
         },
 { value : "With Or Without You by U2", 
