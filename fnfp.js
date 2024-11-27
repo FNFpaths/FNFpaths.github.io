@@ -86,6 +86,35 @@ const songs = [
             mscore : "44070",
             } 
         },
+{ value : "All Eyez On Me by 2Pac ft. Big Syke", 
+            data : {
+            shortname : "alleyezonme",
+
+            dpath : "1/1st RY, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            d_image : "'alleyezonme_drums.png'",
+            dscore : "281808",
+
+            vpath : "1/6th R, 1/5th B, 1/11th Y, 1/4th O, 1/NN, 1/8th Y, 1/8th G, 1/14th R, 1/15th B, 1/2nd R, 1/3rd B, 1/8th Y, 1/NN",
+            v_image : "'alleyezonme_vocals.png'",
+            vscore : "311736",
+
+            gpath : "1/1st RY, 1/1st RY, 1/1st RY, 1/NN, 1/1st RY, 1/1st RY, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/1st RY",
+            g_image : "'alleyezonme_guitar.png'",
+            gscore : "165060",
+
+            bpath : "2/5th G, 1/1st R, 1/1st R, 1/11th O, 1/NN, 1(+1)/3rd R, 1/NN, 1/1st O, 1/1st R, 1/7th O, 1/5th O",
+            b_image : "'alleyezonme_bass.png'",
+            bscore : "124851",
+
+            lpath : "1/1st RY, 1/1st RY, 1/1st RY, 1/NN, 1/1st RY, 1/1st RY, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/1st RY",
+            l_image : "'alleyezonme_lead.png'",
+            lscore : "165060",
+
+            mpath : "2/5th G, 1/1st R, 1/1st R, 1/11th O, 1/NN, 1(+1)/3rd R, 1/NN, 1/1st O, 1/1st R, 1/7th O, 1/5th O",
+            m_image : "'alleyezonme_mbass.png'",
+            mscore : "124869",
+            } 
+        },
 { value : "All I Do Is Win by DJ Khaled ft. T-Pain, Ludacris, Snoop Dogg & Rick Ross", 
             data : {
             shortname : "allidoiswin",
@@ -374,6 +403,35 @@ const songs = [
             mpath : "3(+1)/5th R, 1/NN, 1/NN",
             m_image : "'astronoutintheocean_mbass.png'",
             mscore : "54267",
+            } 
+        },
+{ value : "Everybody (Backstreet's Back) by Backstreet Boys", 
+            data : {
+            shortname : "backstreetsback",
+
+            dpath : "1/NN, 1/NN, 1/NN, 1/12th RY, 1/NN, 1/NN, 1/1st GO, 1/NN",
+            d_image : "'backstreetsback_drums.png'",
+            dscore : "184539",
+
+            vpath : "1/3rd Y, 1/1st GY, 1/11th R, 1/2nd GY, 1/9th B, 1/3rd R, 1/NN, 1/2nd B",
+            v_image : "'backstreetsback_vocals.png'",
+            vscore : "134687",
+
+            gpath : "1/1st RY, 2(+1)/1st RY, 2/2nd R, 1/NN, 1/NN",
+            g_image : "'backstreetsback_guitar.png'",
+            gscore : "102096",
+
+            bpath : "1/4th B, 1/NN, 1(+1)/3rd B, 1(+1)/8th O, 1/NN, 1/NN",
+            b_image : "'backstreetsback_bass.png'",
+            bscore : "103020",
+
+            lpath : "1/1st RY, 2(+1)/1st RY, 2/2nd R, 1/NN, 1/NN",
+            l_image : "'backstreetsback_lead.png'",
+            lscore : "102096",
+
+            mpath : "1/4th B, 1/NN, 1(+1)/6th R, 1(+1)/8th O, 1/NN, 1/NN",
+            m_image : "'backstreetsback_mbass.png'",
+            mscore : "103020",
             } 
         },
 { value : "bad guy by Billie Eilish", 
@@ -3276,6 +3334,35 @@ const songs = [
             mscore : "178365",
             } 
         },
+{ value : "FTCU by Nicki Minaj", 
+            data : {
+            shortname : "ftcu",
+
+            dpath : "1/5th GO, 1/2nd GO, 1/NN, 1/1st GO, 1/2nd GO, 1/9th R, 3/1st R",
+            d_image : "'ftcu_drums.png'",
+            dscore : "128736",
+
+            vpath : "2/4th G, 1/1st O, 1/NN, 1/2nd Y, 2/NN, 1/5th G",
+            v_image : "'ftcu_vocals.png'",
+            vscore : "114423",
+
+            gpath : "1/7th Y, 1/NN, 1/NN, 1/NN",
+            g_image : "'ftcu_guitar.png'",
+            gscore : "26743",
+
+            bpath : "3/1st R, 1/5th G, 1/5th G, 1/NN, 1/6th R, 1/NN, 1/5th R",
+            b_image : "'ftcu_bass.png'",
+            bscore : "86841",
+
+            lpath : "1/7th Y, 1/NN, 1/NN, 1/NN",
+            l_image : "'ftcu_lead.png'",
+            lscore : "26743",
+
+            mpath : "3/1st Y, 1/5th G, 1/5th G, 1/NN, 1/6th Y, 1/NN, 1/5th Y",
+            m_image : "'ftcu_mbass.png'",
+            mscore : "86841",
+            } 
+        },
 { value : "Fuel by Metallica", 
             data : {
             shortname : "fuel",
@@ -3738,6 +3825,35 @@ const songs = [
             mpath : "3(+1)/3rd Y, 1/17th Y, 4/NN, 1/NN",
             m_image : "'heybrother_mbass.png'",
             mscore : "157578",
+            } 
+        },
+{ value : "Hey Ya! by Outkast", 
+            data : {
+            shortname : "heyya",
+
+            dpath : "1/3rd R, 1/1st R, 1/NN, 1/5th R, 1/5th R, 1/1st R, 1/NN, 1/NN, 1/NN, 1/NN, 1/1st R, 1/NN, 1/NN, 1/1st R, 1/NN, 1/NN, 1/NN",
+            d_image : "'heyya_drums.png'",
+            dscore : "134928",
+
+            vpath : "1/0.92 beats after 6th B, 1/4th Y, 3(+1)/2nd B, 1/4th R, 4(+1)/1st B, 1/3rd G, 1/24th R, 1/7th Y, 1/2nd O, 1/NN",
+            v_image : "'heyya_vocals.png'",
+            vscore : "188449",
+
+            gpath : "1/NN, 1/1st RY, 1/1st RY, 2/1st RY, 1/12th GY, 1/1st GY, 1/3rd R, 1/4th R, 4(+1)/1st GY",
+            g_image : "'heyya_guitar.png'",
+            gscore : "217360",
+
+            bpath : "1/10th B, 1/3rd G, 1/NN, 1/NN, 1/NN, 1/2nd B, 1/1st R, 1/NN, 1/5th B, 1/1st G, 1/4th Y, 1/3rd O, 1/NN, 1/4th G, 1/2nd R, 1/3rd O, 1/NN",
+            b_image : "'heyya_bass.png'",
+            bscore : "184242",
+
+            lpath : "1/NN, 1/1st GB, 1/1st GB, 2/1st GB, 1/12th GY, 1/1st GY, 1/3rd R, 1/4th R, 4(+1)/1st GY",
+            l_image : "'heyya_lead.png'",
+            lscore : "217348",
+
+            mpath : "1/11th B, 1/3rd G, 1/NN, 1/NN, 1/NN, 1/2nd B, 1/1st R, 1/NN, 1/5th B, 1/1st G, 1/4th Y, 1/3rd O, 1/NN, 1/4th G, 1/4th R, 1/3rd O, 1/NN",
+            m_image : "'heyya_mbass.png'",
+            mscore : "184080",
             } 
         },
 { value : "High Hopes by Panic! at the Disco", 
@@ -4666,6 +4782,35 @@ const songs = [
             mpath : "1/5th G, 1/4th G, 1/3rd G, 1/4th G, 1/4th G, 1/4th G, 1/2nd G",
             m_image : "'leanback_mbass.png'",
             mscore : "78195",
+            } 
+        },
+{ value : "Lean Wit Me by Juice WRLD", 
+            data : {
+            shortname : "leanwitme",
+
+            dpath : "1/1st RY, 1/1st RY, 1/2nd RY, 1/2nd RY, 1/6th R, 1/4th RY, 1/3rd RY, 1/3rd RY, 1/5th O",
+            d_image : "'leanwitme_drums.png'",
+            dscore : "109296",
+
+            vpath : "1/3rd Y, 1/13th Y, 1/5th O, 1/1st R, 1/1st O, 1/4th Y, 2/9th R, 1/10th R, 1/2nd Y, 1/NN",
+            v_image : "'leanwitme_vocals.png'",
+            vscore : "125964",
+
+            gpath : "1/3rd Y, 1/2nd Y, 1/1st RB, 1(+1)/6th Y, 1/3rd Y, 1/4th Y, 1/4th Y, 1/3rd Y, 1/2nd Y, 1/1st R, 1/6th Y",
+            g_image : "'leanwitme_guitar.png'",
+            gscore : "101368",
+
+            bpath : "3/1st O, 1/NN, 1/4th B, 1/2nd R, 1/NN, 1/NN, 1/2nd R, 1/2nd R, 1/NN",
+            b_image : "'leanwitme_bass.png'",
+            bscore : "80382",
+
+            lpath : "1/1st GB, 1/1st GB, 1/1st GB, 1/1st GB, 1/NN, 1/3rd B, 1/1st GB, 1/1st GB, 1/1st GB, 1/1st GB, 1/1st R, 1/1st GB",
+            l_image : "'leanwitme_lead.png'",
+            lscore : "96156",
+
+            mpath : "3/1st O, 1/NN, 1/2nd R, 1/2nd R, 1/2nd R, 1/2nd R, 1/2nd R, 1/2nd R, 1/NN",
+            m_image : "'leanwitme_mbass.png'",
+            mscore : "75738",
             } 
         },
 { value : "Less Than by Nine Inch Nails", 
@@ -9422,6 +9567,35 @@ const songs = [
             mpath : "1(+1)/28th G, 3(+1)/9th R, 1/6th G, 1/NN, 3/4th G, 1/7th B, 1/4th R, 1/17th G, 1/NN, 1/5th B, 1/1st B, 1/6th R, 1/NN, 1/2nd B, 1/8th B",
             m_image : "'whereverimayroam_mbass.png'",
             mscore : "330777",
+            } 
+        },
+{ value : "Wild Ones by Flo Rida ft. Sia", 
+            data : {
+            shortname : "wildones",
+
+            dpath : "1/1st RY, 2/14th RY, 2/6th RY, 3/2nd RY, 1/11th G",
+            d_image : "'wildones_drums.png'",
+            dscore : "178704",
+
+            vpath : "2/4th B, 1/3rd R, 2/11th Y, 1/1st R, 1/1st R, 1/5th Y, 1/10th B, 1/2nd G, 1/1.9 beats after 4th B, 1/12th Y",
+            v_image : "'wildones_vocals.png'",
+            vscore : "196242",
+
+            gpath : "1/1st GB, 1/NN, 1/28th RB, 4/NN, 1/NN, 1/1st YB, 1/1st YB, 1/NN, 1/NN",
+            g_image : "'wildones_guitar.png'",
+            gscore : "199156",
+
+            bpath : "1/11th B, 1/9th B, 1/NN, 1/11th B, 1/NN, 1/NN, 1/2nd B, 1/NN, 1/NN, 1/NN, 1/NN",
+            b_image : "'wildones_bass.png'",
+            bscore : "203970",
+
+            lpath : "1/1st GB, 1/NN, 1/28th RB, 4/NN, 1/NN, 1/1st RY, 1/1st RY, 1/NN, 1/NN",
+            l_image : "'wildones_lead.png'",
+            lscore : "198884",
+
+            mpath : "1/11th B, 1/2nd B, 1/NN, 1/11th B, 1/NN, 1/NN, 1/2nd B, 1/NN, 1/NN, 1/NN, 1/5th B",
+            m_image : "'wildones_mbass.png'",
+            mscore : "200778",
             } 
         },
 { value : "Winterfest Wish by Epic Games", 
