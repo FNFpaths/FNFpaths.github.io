@@ -1478,6 +1478,35 @@ const songs = [
             mscore : "65189",
             } 
         },
+{ value : "Break The Curse by Epic Games", 
+            data : {
+            shortname : "breakthecurse",
+
+            dpath : "1/11th O, 1/25th R, 1/NN, 1/13th O, 1/7th O, 1/7th R, 1/45th R, 1/7th O, 1/2nd B, 1/NN, 1/5th R, 1/14th R, 1/20th O, 1/1st RB",
+            d_image : "'breakthecurse_drums.png'",
+            dscore : "209520",
+
+            vpath : "2/4th B, 3(+1)/NN, 1/6th R, 3(+1)/2nd B, 1/4th G",
+            v_image : "'breakthecurse_vocals.png'",
+            vscore : "156360",
+
+            gpath : "1/4th Y, 1/2nd O, 1/8th R, 2/1st R, 4/4th R, 1/1st YB, 1/NN, 1/NN, 1/1st O",
+            g_image : "'breakthecurse_guitar.png'",
+            gscore : "140318",
+
+            bpath : "1/3rd O, 4/5th G, 2(+1)/12th R, 1/3rd Y, 1/NN, 1/6th R, 1/NN, 1/2nd R, 1/12th G",
+            b_image : "'breakthecurse_bass.png'",
+            bscore : "218949",
+
+            lpath : "1/1st O, 1(+1)/8th R, 2/1st R, 4/2nd R, 1/1st RB, 1/NN, 1/NN, 1/1st O",
+            l_image : "'breakthecurse_lead.png'",
+            lscore : "136398",
+
+            mpath : "1/3rd O, 4/5th G, 2(+1)/12th R, 1/2nd Y, 1/NN, 1/6th R, 1/NN, 1/3rd R, 1/12th G",
+            m_image : "'breakthecurse_mbass.png'",
+            mscore : "218823",
+            } 
+        },
 { value : "Breed by Nirvana", 
             data : {
             shortname : "breed",
@@ -1969,6 +1998,35 @@ const songs = [
             mpath : "1/2nd Y, 1/4th B, 2(+1)/4th O, 3/NN, 1/3rd R, 3/10th G, 1/NN, 1/NN",
             m_image : "'carryonwaywardson_mbass.png'",
             mscore : "227811",
+            } 
+        },
+{ value : "Cat's Prowl by Epic Games", 
+            data : {
+            shortname : "catsprowl",
+
+            dpath : "1/5th GY, 4/1st GO, 1/NN, 1/NN, 1/2nd GY, 1/1st RY",
+            d_image : "'catsprowl_drums.png'",
+            dscore : "228528",
+
+            vpath : "1/6th Y, 1/3rd O, 1/9th B, 1/3rd B, 1/1st O, 1/3rd Y, 1/6th Y, 1/3rd Y",
+            v_image : "'catsprowl_vocals.png'",
+            vscore : "143310",
+
+            gpath : "1/9th Y, 1/4th Y, 1/5th Y, 1/NN, 1/NN, 1/7th Y, 3/1st BO",
+            g_image : "'catsprowl_guitar.png'",
+            gscore : "92344",
+
+            bpath : "1/8th G, 1/5th G, 1/8th G, 1/5th G, 1/NN, 1/NN, 1/9th G, 1/8th G",
+            b_image : "'catsprowl_bass.png'",
+            bscore : "82296",
+
+            lpath : "1/7th Y, 1/3rd Y, 1/4th Y, 1/NN, 1/NN, 1/5th Y, 3/1st RO",
+            l_image : "'catsprowl_lead.png'",
+            lscore : "84172",
+
+            mpath : "1/8th G, 1/5th G, 1/8th G, 1/5th G, 1/NN, 1/NN, 1/9th G, 1/8th G",
+            m_image : "'catsprowl_mbass.png'",
+            mscore : "82296",
             } 
         },
 { value : "Change by Epic Games", 
@@ -5768,6 +5826,35 @@ const songs = [
             mpath : "1/0.42 beats after 4th Y, 1/NN, 1/After 0.42 beats, 1/1st O, 1/NN, 3(+1)/4th O, 1/6th R",
             m_image : "'nightmareschoice_mbass.png'",
             mscore : "105676",
+            } 
+        },
+{ value : "Night Rose's Song by Epic Games", 
+            data : {
+            shortname : "nightrosessong",
+
+            dpath : "1/20th Y, 1(+1)/1st GY, 1/3rd G, 1/15th Y, 2/6th O, 1/NN, 2/17th B, 1/22nd O",
+            d_image : "'nightrosessong_drums.png'",
+            dscore : "224496",
+
+            vpath : "1/32nd Y, 1/12th Y, 3(+1)/3rd B, 1/2nd Y, 2/7th R, 1/4th Y",
+            v_image : "'nightrosessong_vocals.png'",
+            vscore : "145548",
+
+            gpath : "1/1st O, 2(+1)/37th Y, 1/NN, 3(+1)/13th R, 1/NN",
+            g_image : "'nightrosessong_guitar.png'",
+            gscore : "209248",
+
+            bpath : "1/NN, 2(+1)/2nd R, 1/1st Y, 1/3rd G, 3(+1)/4th R, 1/9th B",
+            b_image : "'nightrosessong_bass.png'",
+            bscore : "147006",
+
+            lpath : "1/1st O, 2(+1)/15th G, 1/NN, 3(+1)/13th R, 1/NN",
+            l_image : "'nightrosessong_lead.png'",
+            lscore : "209248",
+
+            mpath : "3(+1)/2nd R, 1/1st Y, 1/3rd G, 3(+1)/4th R, 1/9th B",
+            m_image : "'nightrosessong_mbass.png'",
+            mscore : "145992",
             } 
         },
 { value : "Nothing Else Matters by Metallica", 
