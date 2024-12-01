@@ -550,6 +550,35 @@ const songs = [
             mscore : "48912",
             } 
         },
+{ value : "Barbarian by Juice WRLD", 
+            data : {
+            shortname : "barbarian",
+
+            dpath : "1/1st RY, 1/6th RY, 1/6th RY, 1/12th RY, 1/4th RY, 1/6th RY, 1/NN",
+            d_image : "'barbarian_drums.png'",
+            dscore : "148896",
+
+            vpath : "1/9th Y, 1/3rd O, 1/1st B, 1/8th Y, 1/NN, 1/4th Y, 1/NN, 1/15th Y",
+            v_image : "'barbarian_vocals.png'",
+            vscore : "184056",
+
+            gpath : "1/6th B, 1/2nd B, 1/14th Y, 1/NN, 1/6th B, 1/5th B, 1/7th B, 2/NN",
+            g_image : "'barbarian_guitar.png'",
+            gscore : "94520",
+
+            bpath : "2/8th Y, 1/NN, 1/NN, 1/7th Y, 1/2nd Y, 1/After 0.082 beats",
+            b_image : "'barbarian_bass.png'",
+            bscore : "48474",
+
+            lpath : "1/6th B, 1/2nd B, 1/14th Y, 1/NN, 1/6th B, 1/5th B, 1/7th B, 2/NN",
+            l_image : "'barbarian_lead.png'",
+            lscore : "94520",
+
+            mpath : "2/8th Y, 1/NN, 1/NN, 1/7th Y, 1/2nd Y, 1/After 0.082 beats",
+            m_image : "'barbarian_mbass.png'",
+            mscore : "48474",
+            } 
+        },
 { value : "Barbie Girl by Aqua", 
             data : {
             shortname : "barbiegirl",
@@ -2752,6 +2781,35 @@ const songs = [
             mpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/1st O, 1/NN, 2(+1)/3rd G",
             m_image : "'emogirl_mbass.png'",
             mscore : "170442",
+            } 
+        },
+{ value : "Empty Out Your Pockets by Juice WRLD", 
+            data : {
+            shortname : "emptyoutyourpockets",
+
+            dpath : "1/15th RY, 1/16th RY, 1/1st RY, 2/4th RY",
+            d_image : "'emptyoutyourpockets_drums.png'",
+            dscore : "145440",
+
+            vpath : "1/8th G, 1/NN, 1/14th B, 1/1st G, 1/28th G",
+            v_image : "'emptyoutyourpockets_vocals.png'",
+            vscore : "121938",
+
+            gpath : "1/3rd GYB, 1/NN, 1/1st GYB, 1/1st GYB, 1/NN, 1/2nd GYB",
+            g_image : "'emptyoutyourpockets_guitar.png'",
+            gscore : "94212",
+
+            bpath : "2/2nd B, 1/NN, 1/NN",
+            b_image : "'emptyoutyourpockets_bass.png'",
+            bscore : "40413",
+
+            lpath : "1/2nd RB, 1/NN, 1/NN, 1/NN, 1/NN, 1/1st RB",
+            l_image : "'emptyoutyourpockets_lead.png'",
+            lscore : "88236",
+
+            mpath : "2/2nd O, 1/NN, 1/NN",
+            m_image : "'emptyoutyourpockets_mbass.png'",
+            mscore : "40413",
             } 
         },
 { value : "Enter Sandman by Metallica", 
