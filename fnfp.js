@@ -550,6 +550,35 @@ const songs = [
             mscore : "48912",
             } 
         },
+{ value : "Bang Bang by Jessie J, Nicki Minaj, Ariana Grande", 
+            data : {
+            shortname : "bangbang",
+
+            dpath : "1/3rd RY, 1/NN, 1/7th RO, 1/2nd GO, 1/12th R, 1/2nd RO, 1/3rd RO, 1/NN, 1/1st RY, 1/NN, 1/10th R, 1/NN, 1/5th RO",
+            d_image : "'bangbang_drums.png'",
+            dscore : "157104",
+
+            vpath : "1/17th R, 1/1.4 beats after 2nd O, 1/1.4 beats after 2nd O, 1/22nd R, 1/5th G, 2/3rd R, 1/6th B, 1/13th Y, 1/After 0.42 beats, 1/1.4 beats after 4th O, 1/1st O, 1/1.4 beats after 2nd O",
+            v_image : "'bangbang_vocals.png'",
+            vscore : "205503",
+
+            gpath : "1/3rd B, 1/1st B, 1/3rd B, 1/2nd B, 1/3rd B, 1/NN, 1/1st RB, 2/1st YO, 1/6th G",
+            g_image : "'bangbang_guitar.png'",
+            gscore : "54664",
+
+            bpath : "1/1st R, 1/1st G, 1/5th Y, 2/1st G, 1/1st Y, 1/4th G, 1/1st Y",
+            b_image : "'bangbang_bass.png'",
+            bscore : "61427",
+
+            lpath : "1/3rd R, 1/1st O, 1/3rd O, 1/1st G, 1/NN, 1/NN, 1/1st GB, 2/1st RO, 1/6th G",
+            l_image : "'bangbang_lead.png'",
+            lscore : "48932",
+
+            mpath : "1/1st R, 1/1st G, 1/5th Y, 2/1st G, 1/1st Y, 1/4th G, 1/1st Y",
+            m_image : "'bangbang_mbass.png'",
+            mscore : "61427",
+            } 
+        },
 { value : "Barbarian by Juice WRLD", 
             data : {
             shortname : "barbarian",
@@ -3595,6 +3624,35 @@ const songs = [
             mscore : "122079",
             } 
         },
+{ value : "Ghost by Justin Bieber", 
+            data : {
+            shortname : "ghost",
+
+            dpath : "1/4th RY, 1/NN, 1(+1)/1st GO",
+            d_image : "'ghost_drums.png'",
+            dscore : "70416",
+
+            vpath : "1/3rd Y, 1/3rd G, 1/9th Y, 1/1st B, 1/1st B, 1/NN",
+            v_image : "'ghost_vocals.png'",
+            vscore : "79581",
+
+            gpath : "2/1st RB, 1/1st YB, 1/NN, 1/NN, 1/1st YB, 1/1st YB",
+            g_image : "'ghost_guitar.png'",
+            gscore : "131154",
+
+            bpath : "1/NN, 1/NN, 1/7th O, 1/1st O, 1/NN, 1/NN",
+            b_image : "'ghost_bass.png'",
+            bscore : "114330",
+
+            lpath : "2/1st RB, 1/1st RO, 1/NN, 1/NN, 1/1st RO, 1/1st RO",
+            l_image : "'ghost_lead.png'",
+            lscore : "124224",
+
+            mpath : "1/NN, 1/NN, 1/7th O, 1/1st O, 1/NN, 1/NN",
+            m_image : "'ghost_mbass.png'",
+            mscore : "114330",
+            } 
+        },
 { value : "Gimme The Light by Sean Paul", 
             data : {
             shortname : "gimmethelight",
@@ -5768,6 +5826,35 @@ const songs = [
             mpath : "1/NN, 1/NN, 2(+1)/3rd G, 1/6th G, 4(+2)/7th B, 1(+1)/5th G, 1/5th R, 1/NN, 1/7th Y",
             m_image : "'nextsemester_mbass.png'",
             mscore : "208140",
+            } 
+        },
+{ value : "NIGHT DANCER by imase", 
+            data : {
+            shortname : "nightdancer",
+
+            dpath : "1/7th Y, 2/1st GY, 1/12th O, 1/14th O, 1/1st B, 1/1st RB, 1/3rd O, 1/NN, 1/NN",
+            d_image : "'nightdancer_drums.png'",
+            dscore : "172944",
+
+            vpath : "1/4th G, 1/NN, 1/5th O, 1/2nd G, 1/13th Y, 1/3rd O, 1/2nd G, 1/5th O, 1/7th G",
+            v_image : "'nightdancer_vocals.png'",
+            vscore : "145989",
+
+            gpath : "1/3rd RY, 3/2nd RYO, 3(+1)/2nd YBO, 1/NN, 1/NN",
+            g_image : "'nightdancer_guitar.png'",
+            gscore : "145706",
+
+            bpath : "3/2nd O, 1/6th R, 1/1st G, 1/3rd O, 1/2nd O, 1/2nd R, 1/NN",
+            b_image : "'nightdancer_bass.png'",
+            bscore : "100962",
+
+            lpath : "1/3rd RY, 3/2nd RB, 3(+1)/2nd RB, 1/NN, 1/NN",
+            l_image : "'nightdancer_lead.png'",
+            lscore : "128264",
+
+            mpath : "3/2nd O, 1/6th R, 1/1st G, 1/3rd O, 1/2nd O, 1/2nd R, 1/NN",
+            m_image : "'nightdancer_mbass.png'",
+            mscore : "100962",
             } 
         },
 { value : "Nightmare by Avenged Sevenfold", 
@@ -8264,6 +8351,35 @@ const songs = [
             mscore : "102330",
             } 
         },
+{ value : "Take On Me by a-ha", 
+            data : {
+            shortname : "takeonme",
+
+            dpath : "1/15th GO, 1/5th GO, 1/1st GO, 1/3rd RO, 1/4th RO, 1/7th R, 1/5th RO, 1/NN, 1/NN, 1/2nd R, 1/17th GO, 1/NN, 1/7th GO, 1/3rd RO, 1/3rd RO, 1/1st RO, 1/7th RO",
+            d_image : "'takeonme_drums.png'",
+            dscore : "279792",
+
+            vpath : "1/4th R, 1/3rd R, 1/7th Y, 1/NN, 1/2nd R, 1/1st R, 1/2nd G, 1/2.9 beats after NN, 1/NN, 1/1st O, 1/NN, 1/1st O",
+            v_image : "'takeonme_vocals.png'",
+            vscore : "85470",
+
+            gpath : "1/4th Y, 1/NN, 1/13th B, 1/1st Y, 1/NN, 1/5th Y, 1/5th B, 2/5.9 beats after NN, 1/NN, 1/NN, 1/9th B, 1/1st Y, 1/1st Y, 1/2nd YO, 1/NN, 1/NN",
+            g_image : "'takeonme_guitar.png'",
+            gscore : "192680",
+
+            bpath : "1/11th O, 1/NN, 1/4th O, 1/2nd G, 1/4th B, 1/5th O, 1/7th B, 1/5th O, 1/NN, 1/6th O, 1/5th O, 1/2nd G, 1/6th G, 1/2nd G, 1/2nd G, 1/6th G",
+            b_image : "'takeonme_bass.png'",
+            bscore : "176256",
+
+            lpath : "1/5th Y, 1/NN, 1/13th G, 1/1st R, 1/NN, 1/4th B, 1/5th G, 2/1st B, 1/NN, 1/NN, 1/9th G, 1/1st R, 1/1st R, 1/2nd RO, 1/NN, 1/NN",
+            l_image : "'takeonme_lead.png'",
+            lscore : "191348",
+
+            mpath : "1/11th O, 1/NN, 1/4th O, 1/2nd G, 1/4th B, 1/5th O, 1/7th B, 1/5th O, 1/NN, 1/6th O, 1/5th O, 1/2nd G, 1/6th G, 1/2nd G, 1/2nd G, 1/6th G",
+            m_image : "'takeonme_mbass.png'",
+            mscore : "176256",
+            } 
+        },
 { value : "Take Over Control by Afrojack ft. Eva Simons", 
             data : {
             shortname : "takeovercontrol",
@@ -8349,6 +8465,35 @@ const songs = [
             mpath : "1/8th R, 1/9th Y, 1/9th B, 1/2nd Y, 1/6th R, 1/8th B, 1/1st GO, 1/11th O, 1/12th G, 1/3rd Y, 1/19th Y, 1/2nd B, 1/9th R, 1/17th R, 1/NN, 1/12th B, 1/5th O",
             m_image : "'theboysareback_mbass.png'",
             mscore : "347720",
+            } 
+        },
+{ value : "The Brave by YOASOBI", 
+            data : {
+            shortname : "thebrave",
+
+            dpath : "1/8th RO, 2/1st GO, 1/1st GO, 1/1st GY, 2/1st Y, 1/9th O, 1/15th Y",
+            d_image : "'thebrave_drums.png'",
+            dscore : "174576",
+
+            vpath : "1/1st G, 1/6th G, 1/8th B, 1/2nd Y, 1/15th R, 1/9th G, 1/13th B, 1/2nd G, 1/8th B",
+            v_image : "'thebrave_vocals.png'",
+            vscore : "220360",
+
+            gpath : "1/1st B, 1/18th R, 1/NN, 2/6th G, 1/9th G, 1/7th O, 1/NN, 1/1st GYB",
+            g_image : "'thebrave_guitar.png'",
+            gscore : "176820",
+
+            bpath : "1/8th Y, 1/1st B, 2/1st B, 1/6th B, 2(+1)/2nd G, 1/1st R",
+            b_image : "'thebrave_bass.png'",
+            bscore : "189666",
+
+            lpath : "1/1st R, 1/1st GB, 1/NN, 2/10th R, 1/11th G, 1/5th G, 1/NN, 1/4th G",
+            l_image : "'thebrave_lead.png'",
+            lscore : "169692",
+
+            mpath : "1/8th R, 1/1st B, 2/1st B, 1/6th B, 2(+1)/1st G, 1/1st R",
+            m_image : "'thebrave_mbass.png'",
+            mscore : "189666",
             } 
         },
 { value : "The Business by Tiësto", 
