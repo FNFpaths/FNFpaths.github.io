@@ -1101,6 +1101,35 @@ const songs = [
             mscore : "84366",
             } 
         },
+{ value : "BIRDS OF A FEATHER by Billie Eilish", 
+            data : {
+            shortname : "birdsofafeather",
+
+            dpath : "1/NN, 1/5th GY, 1/9th RY, 1/9th RY, 1/NN, 1/NN, 1/1st GY, 1/NN, 1/NN",
+            d_image : "'birdsofafeather_drums.png'",
+            dscore : "325152",
+
+            vpath : "2/NN, 1/2nd B, 1/5th Y, 1/13th B, 1/NN, 1/1st G, 1/6th B",
+            v_image : "'birdsofafeather_vocals.png'",
+            vscore : "99213",
+
+            gpath : "1/1st GYB, 1/1st GYB, 1/1st GYB, 1/NN, 2(+1)/1st GYB, 1/8th R, 1/18th Y",
+            g_image : "'birdsofafeather_guitar.png'",
+            gscore : "99156",
+
+            bpath : "1/NN, 1/NN, 1/NN, 4(+1)/1st B",
+            b_image : "'birdsofafeather_bass.png'",
+            bscore : "176661",
+
+            lpath : "1/NN, 1/1st GY, 1/1st GY, 1/NN, 3(+1)/16th R, 1/18th Y",
+            l_image : "'birdsofafeather_lead.png'",
+            lscore : "92160",
+
+            mpath : "1/NN, 1/NN, 1/NN, 4(+1)/1st B",
+            m_image : "'birdsofafeather_mbass.png'",
+            mscore : "176661",
+            } 
+        },
 { value : "Black Beatles by Rae Sremmurd ft. Gucci Mane", 
             data : {
             shortname : "blackbeatles",
@@ -2406,6 +2435,35 @@ const songs = [
             mscore : "27042",
             } 
         },
+{ value : "Dancing in the Flames by The Weeknd", 
+            data : {
+            shortname : "dancingintheflames",
+
+            dpath : "1/6th GY, 1/6th RY, 1/NN, 1/6th GY, 1/NN, 1/7th RY, 1/7th RY, 1/5th RY",
+            d_image : "'dancingintheflames_drums.png'",
+            dscore : "242784",
+
+            vpath : "1/10th R, 1/3rd Y, 1/2nd G, 1/1st O, 1/NN, 2/2nd G, 1/9th Y, 1/7th Y, 1/1st G",
+            v_image : "'dancingintheflames_vocals.png'",
+            vscore : "106059",
+
+            gpath : "1/NN, 1/NN, 2(+1)/9th G, 1/5th Y, 1/9th Y, 1/NN, 1/3rd Y, 1/9th Y",
+            g_image : "'dancingintheflames_guitar.png'",
+            gscore : "182088",
+
+            bpath : "1/7th O, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            b_image : "'dancingintheflames_bass.png'",
+            bscore : "184392",
+
+            lpath : "1/NN, 1/NN, 2(+1)/9th G, 1/5th B, 1/9th B, 1/NN, 1/3rd B, 1/9th B",
+            l_image : "'dancingintheflames_lead.png'",
+            lscore : "175464",
+
+            mpath : "1/2nd B, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            m_image : "'dancingintheflames_mbass.png'",
+            mscore : "184392",
+            } 
+        },
 { value : "Day 'N' Nite by Kid Cudi", 
             data : {
             shortname : "daynnite",
@@ -2462,6 +2520,35 @@ const songs = [
             mpath : "1/13th G, 1/NN, 1/1st R, 1/1st Y, 1(+1)/8th G, 1/1st G, 1/16th R, 1/9th O, 1/7th Y",
             m_image : "'dirtylittlesecret_mbass.png'",
             mscore : "180108",
+            } 
+        },
+{ value : "Disease by Lady Gaga", 
+            data : {
+            shortname : "disease",
+
+            dpath : "1/8th R, 1/NN, 1/NN, 2/1st GY, 1/3rd RY, 1/NN, 1/1st RY, 1/NN",
+            d_image : "'disease_drums.png'",
+            dscore : "190656",
+
+            vpath : "2(+1)/5th O, 2(+1)/7th O, 1/9th Y, 1/NN, 1/6th B, 1/NN",
+            v_image : "'disease_vocals.png'",
+            vscore : "151693",
+
+            gpath : "2(+1)/3rd B, 3(+1)/21st R, 1(+1)/2nd GR",
+            g_image : "'disease_guitar.png'",
+            gscore : "259488",
+
+            bpath : "1/4th B, 1/2nd B, 1(+1)/1st RB, 1/2nd B, 1/NN, 3/8th Y",
+            b_image : "'disease_bass.png'",
+            bscore : "165474",
+
+            lpath : "2(+1)/3rd B, 3(+1)/21st R, 1(+1)/2nd GY",
+            l_image : "'disease_lead.png'",
+            lscore : "259488",
+
+            mpath : "1/11th RB, 1/NN, 1(+1)/1st RB, 1/NN, 1/NN, 1/NN, 1/3rd B, 1/5th G",
+            m_image : "'disease_mbass.png'",
+            mscore : "157506",
             } 
         },
 { value : "Dog Days Are Over by Florence + The Machine", 
