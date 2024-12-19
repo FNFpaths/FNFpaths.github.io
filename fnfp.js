@@ -57,6 +57,35 @@ const songs = [
             mscore : "49554",
             } 
         },
+{ value : "Africa by Toto", 
+            data : {
+            shortname : "africa",
+
+            dpath : "1/NN, 1/NN, 1/1st GY, 1/NN, 1/1st GY, 1/NN, 2/1st GO, 1/1st GO",
+            d_image : "'africa_drums.png'",
+            dscore : "330624",
+
+            vpath : "1/4th Y, 1/5th G, 1/7th Y, 1/5th G, 2/6th G",
+            v_image : "'africa_vocals.png'",
+            vscore : "109920",
+
+            gpath : "1/NN, 2/21st R, 2(+1)/1st RYB, 2/1st RYB, 1/1st RYB",
+            g_image : "'africa_guitar.png'",
+            gscore : "218914",
+
+            bpath : "1/12th Y, 1/4th B, 1/13th Y, 1/8th B, 1/1st B, 2/6th G, 1/13th Y, 1/NN",
+            b_image : "'africa_bass.png'",
+            bscore : "174789",
+
+            lpath : "1/6th RB, 2/13th Y, 2(+1)/0.96 beats after 8th RY, 2/1st GB, 1/1st RB",
+            l_image : "'africa_lead.png'",
+            lscore : "194880",
+
+            mpath : "1/12th Y, 1/4th B, 1/6th R, 1/8th B, 1/1st B, 2/6th G, 1/10th Y, 1/NN",
+            m_image : "'africa_mbass.png'",
+            mscore : "174753",
+            } 
+        },
 { value : "Ain't No Rest For The Wicked by Cage The Elephant", 
             data : {
             shortname : "aintnorestforthewicked",
@@ -3334,6 +3363,35 @@ const songs = [
             mscore : "106905",
             } 
         },
+{ value : "Fireball  by Pitbull ft. John Ryan", 
+            data : {
+            shortname : "fireball",
+
+            dpath : "1/11th RY, 1/NN, 1/30th R, 1/2nd R, 1/NN, 1/25th R, 1/NN, 1/NN, 1/NN, 1/13th R",
+            d_image : "'fireball_drums.png'",
+            dscore : "174960",
+
+            vpath : "2/3rd O, 4(+1)/10th B, 1/NN, 1/1st R",
+            v_image : "'fireball_vocals.png'",
+            vscore : "210348",
+
+            gpath : "1/NN, 1/1st GYB, 1/1st GYB, 1/1st GYB, 2/1st GB, 1/NN, 1/1st GB, 1/1st GB, 1/7th Y",
+            g_image : "'fireball_guitar.png'",
+            gscore : "280476",
+
+            bpath : "1/3rd R, 1/6th G, 1/7th G, 1/NN, 1/11th G, 1/NN, 1(+1)/9th G",
+            b_image : "'fireball_bass.png'",
+            bscore : "185274",
+
+            lpath : "1/1st RO, 1/1st RO, 1/1st RO, 1/1st RO, 2/1st GB, 1/1st GB, 1/1st GB, 1/1st GB, 1/7th Y",
+            l_image : "'fireball_lead.png'",
+            lscore : "242604",
+
+            mpath : "1/3rd Y, 1/6th G, 1/7th G, 1/NN, 1/11th G, 1/NN, 1(+1)/9th G",
+            m_image : "'fireball_mbass.png'",
+            mscore : "185274",
+            } 
+        },
 { value : "Firework by Katy Perry", 
             data : {
             shortname : "firework",
@@ -3651,6 +3709,35 @@ const songs = [
             mpath : "1/NN, 1/NN, 1/After 0.082 beats, 1/NN, 1/NN, 1/NN, 2/1st R, 1/NN, 1/NN, 1/NN",
             m_image : "'gangnamstyle_mbass.png'",
             mscore : "199386",
+            } 
+        },
+{ value : "Get Busy by Sean Paul", 
+            data : {
+            shortname : "getbusy",
+
+            dpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            d_image : "'getbusy_drums.png'",
+            dscore : "275472",
+
+            vpath : "1/3rd B, 2/5th Y, 2/4th B, 1/1st O, 1/24th G, 1/1st O, 1/4th O",
+            v_image : "'getbusy_vocals.png'",
+            vscore : "228420",
+
+            gpath : "1/7th B, 1/NN, 4(+1)/1st RB, 1/NN, 1/1st B",
+            g_image : "'getbusy_guitar.png'",
+            gscore : "156513",
+
+            bpath : "1/25th Y, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            b_image : "'getbusy_bass.png'",
+            bscore : "95472",
+
+            lpath : "1/10th R, 1/NN, 4(+1)/1st RB, 1/NN, 1/4th G",
+            l_image : "'getbusy_lead.png'",
+            lscore : "154785",
+
+            mpath : "1/25th Y, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            m_image : "'getbusy_mbass.png'",
+            mscore : "95472",
             } 
         },
 { value : "get him back! by Olivia Rodrigo", 
@@ -4173,6 +4260,35 @@ const songs = [
             mpath : "1/2nd R, 1/30th G, 1(+1)/4th O, 1/55th G, 1/6th Y, 2/2nd R",
             m_image : "'highwaytune_mbass.png'",
             mscore : "144621",
+            } 
+        },
+{ value : "Hips Don't Lie by Shakira ft. Wyclef Jean", 
+            data : {
+            shortname : "hipsdontlie",
+
+            dpath : "1/27th O, 1/1st GO, 1/NN, 1/NN, 1/21st O, 1/5th Y, 1/13th Y, 1/8th R, 1/9th O",
+            d_image : "'hipsdontlie_drums.png'",
+            dscore : "173232",
+
+            vpath : "2(+1)/11th G, 1/1st O, 1/17th R, 1/16th B, 1/7th G, 1/3rd O, 1/NN, 1/5th G",
+            v_image : "'hipsdontlie_vocals.png'",
+            vscore : "215709",
+
+            gpath : "2/2 beats after 3rd B, 1/1st Y, 1(+1)/1st YB, 2/2nd YB, 1/1st G",
+            g_image : "'hipsdontlie_guitar.png'",
+            gscore : "125338",
+
+            bpath : "2/2nd GB, 1/NN, 1/3rd GB, 1/2nd GB, 1/6th G, 1/23rd G, 1/12th G, 1/1 beats after 1st G",
+            b_image : "'hipsdontlie_bass.png'",
+            bscore : "119487",
+
+            lpath : "2/2 beats after 3rd B, 1/1st R, 1(+1)/1st RO, 2/2nd RO, 1/1st G",
+            l_image : "'hipsdontlie_lead.png'",
+            lscore : "125338",
+
+            mpath : "2/2nd GB, 1/NN, 1/3rd GB, 1/2nd GB, 1/6th G, 1/23rd G, 1/12th G, 1/1 beats after 1st G",
+            m_image : "'hipsdontlie_mbass.png'",
+            mscore : "119037",
             } 
         },
 { value : "Hold Me Closer by Elton John & Britney Spears", 
@@ -8639,6 +8755,35 @@ const songs = [
             mpath : "3/3rd G, 1/2nd B, 3/2nd R, 1/1st B, 1/NN, 1/2nd G, 2/5th R",
             m_image : "'theclaw_mbass.png'",
             mscore : "134229",
+            } 
+        },
+{ value : "The Diary Of Jane by Breaking Benjamin", 
+            data : {
+            shortname : "thediaryofjane",
+
+            dpath : "1/5th RY, 2/3rd GO, 1/2nd GY, 2/4th GO, 1/2nd R, 1/9th R, 1/1st RO, 1/2nd Y, 1/1st GB, 1/2nd B, 1/2nd R, 1/NN",
+            d_image : "'thediaryofjane_drums.png'",
+            dscore : "174960",
+
+            vpath : "1/2nd G, 1/1st Y, 1/1st B, 1/3rd B, 1/1st Y, 1/1st Y, 1/3rd O, 1/3rd R, 1/3rd B, 1/2nd G",
+            v_image : "'thediaryofjane_vocals.png'",
+            vscore : "83814",
+
+            gpath : "3(+1)/10th GR, 1/2nd Y, 1(+1)/5th GR, 1/NN, 1/NN, 2/NN, 1/1st R, 1/1st Y, 1/1st Y",
+            g_image : "'thediaryofjane_guitar.png'",
+            gscore : "164584",
+
+            bpath : "1/16th G, 1/2nd O, 1/7th G, 2(+1)/6th Y, 1/5th G, 1/7th Y, 1/NN, 1/10th G, 3(+1)/16th B",
+            b_image : "'thediaryofjane_bass.png'",
+            bscore : "189096",
+
+            lpath : "3(+1)/11th GY, 1/2nd R, 1(+1)/6th GY, 1/NN, 1/NN, 2/NN, 1/1st Y, 1/1st R, 1/1st R",
+            l_image : "'thediaryofjane_lead.png'",
+            lscore : "163776",
+
+            mpath : "1/16th G, 1/2nd O, 1/7th G, 2(+1)/6th Y, 1/5th G, 1/7th Y, 1/NN, 1/10th G, 3(+1)/15th B",
+            m_image : "'thediaryofjane_mbass.png'",
+            mscore : "188016",
             } 
         },
 { value : "THE DINER by Billie Eilish", 
