@@ -173,6 +173,35 @@ const songs = [
             mscore : "118419",
             } 
         },
+{ value : "All I Want For Christmas Is You by Mariah Carey", 
+            data : {
+            shortname : "alliwantforchristmas",
+
+            dpath : "1(+1)/2nd Y, 1/NN, 1/NN, 1/7th GB, 1/NN, 1/5th GB, 1/NN, 1/1st GO, 1/NN, 1/2nd B, 1/5th GB",
+            d_image : "'alliwantforchristmas_drums.png'",
+            dscore : "172074",
+
+            vpath : "1/6th B, 1/4.2 beats after 3rd R, 1/7th R, 1/6th R, 1/2nd R, 1/3rd G, 1/4th R, 1/5th Y, 1/1st B, 1/12th R, 1/After 1.6 beats, 1/12th B",
+            v_image : "'alliwantforchristmas_vocals.png'",
+            vscore : "191693",
+
+            gpath : "1(+1)/1st RY, 1/1st YB, 1/1st RY, 1/NN, 2/1st RY, 1/NN, 1/1st YB, 2/5th GB, 1/7th YB",
+            g_image : "'alliwantforchristmas_guitar.png'",
+            gscore : "319085",
+
+            bpath : "3/8th B, 1/5th R, 1/NN, 1/NN, 1/1st R, 1/11th O, 1/9th G, 1/3rd Y, 1/NN, 1/5th B",
+            b_image : "'alliwantforchristmas_bass.png'",
+            bscore : "140235",
+
+            lpath : "1(+1)/2nd GY, 2/1st GY, 1/NN, 2/1st GY, 1/NN, 1/NN, 2/NN, 1/19th B",
+            l_image : "'alliwantforchristmas_lead.png'",
+            lscore : "241590",
+
+            mpath : "3/8th O, 1/5th R, 1/NN, 1/NN, 1/1st R, 1/11th O, 1/9th G, 1/2nd B, 1/NN, 1/6th B",
+            m_image : "'alliwantforchristmas_mbass.png'",
+            mscore : "140235",
+            } 
+        },
 { value : "All Of Me (Tiësto's Birthday Treatment Remix) by John Legend", 
             data : {
             shortname : "allofme",
@@ -7189,6 +7218,35 @@ const songs = [
             mpath : "1/10th R, 1/4th R, 1/NN, 1/10th R, 1/8th R, 1/3rd R, 1/11th G",
             m_image : "'runit_mbass.png'",
             mscore : "63431",
+            } 
+        },
+{ value : "Run It Up by Epic Games", 
+            data : {
+            shortname : "runitup",
+
+            dpath : "1/1st GY, 1/7th GY, 1/1st GO, 1/NN, 1/7th GY, 1/1st GY, 1/9th GY, 1/2nd GY, 1/7th GY",
+            d_image : "'runitup_drums.png'",
+            dscore : "179280",
+
+            vpath : "2/9th R, 1/7th R, 1/5th B, 1/1st G, 1/22nd R, 1/2nd G, 1/1st R, 1/1st G, 1/2nd Y, 1/12th Y",
+            v_image : "'runitup_vocals.png'",
+            vscore : "160848",
+
+            gpath : "1/3rd RY, 1/4th Y, 1/1st Y, 1/1st R, 1/7th O, 1/3rd BO, 1/NN, 1/1st B, 1/7th R, 1/1st GY, 1/2nd B",
+            g_image : "'runitup_guitar.png'",
+            gscore : "104596",
+
+            bpath : "1/7th O, 1/NN, 3/1st O, 1/4th O, 1/2nd O, 1/1st O, 1/2nd G, 1/1st O",
+            b_image : "'runitup_bass.png'",
+            bscore : "117165",
+
+            lpath : "1/3rd RY, 1/3rd Y, 1/1st Y, 1/1st R, 1/7th O, 1/3rd RO, 1/NN, 1/1st B, 1/8th R, 1/1st GY, 1/1st R",
+            l_image : "'runitup_lead.png'",
+            lscore : "103984",
+
+            mpath : "1/10th Y, 1/3rd B, 3/1st O, 1/NN, 1/3rd R, 1/1st O, 1/2nd G, 1/1st O",
+            m_image : "'runitup_mbass.png'",
+            mscore : "108726",
             } 
         },
 { value : "Sabotage by Beastie Boys", 
