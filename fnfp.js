@@ -2145,6 +2145,35 @@ const songs = [
             mscore : "82296",
             } 
         },
+{ value : "Centuries by Fall Out Boy", 
+            data : {
+            shortname : "centuries",
+
+            dpath : "2/9th R, 1/NN, 2/7th Y, 1/NN, 1/4th RY, 1/6th O",
+            d_image : "'centuries_drums.png'",
+            dscore : "113328",
+
+            vpath : "1/16th O, 1/3rd Y, 2/2nd G, 1/2nd G, 1/4th R, 2/2nd G, 1/2nd G",
+            v_image : "'centuries_vocals.png'",
+            vscore : "154848",
+
+            gpath : "1/1st YB, 1/NN, 2/NN, 2/1st G, 1(+1)/1st G",
+            g_image : "'centuries_guitar.png'",
+            gscore : "139476",
+
+            bpath : "1/8th R, 1/NN, 1/11th R, 1/9th R, 1/8th R, 1/5th R, 1/NN",
+            b_image : "'centuries_bass.png'",
+            bscore : "142038",
+
+            lpath : "1/1st RB, 1/NN, 2/NN, 1/NN, 1/2nd Y, 1(+1)/1st G",
+            l_image : "'centuries_lead.png'",
+            lscore : "138468",
+
+            mpath : "1/8th R, 1/NN, 1/9th R, 1/1st G, 1/8th R, 1/9th R, 1/3rd G",
+            m_image : "'centuries_mbass.png'",
+            mscore : "129420",
+            } 
+        },
 { value : "Change by Epic Games", 
             data : {
             shortname : "change",
@@ -5130,6 +5159,35 @@ const songs = [
             mpath : "2(+1)/1st RO, 1/NN, 1/NN, 1/NN, 2/9th R",
             m_image : "'kissmemore_mbass.png'",
             mscore : "66186",
+            } 
+        },
+{ value : "Kryptonite by 3 Doors Down", 
+            data : {
+            shortname : "kryptonite",
+
+            dpath : "1/50th R, 1/4th GO, 1/NN, 4(+1)/26th R, 1/5th GO",
+            d_image : "'kryptonite_drums.png'",
+            dscore : "197856",
+
+            vpath : "2/NN, 1/7th B, 1/NN, 1/NN, 1/NN, 1/4th GY",
+            v_image : "'kryptonite_vocals.png'",
+            vscore : "109389",
+
+            gpath : "2/6th B, 2/5th BO, 1/9th R, 1/5th Y, 2(+1)/10th Y",
+            g_image : "'kryptonite_guitar.png'",
+            gscore : "193239",
+
+            bpath : "3(+1)/5th O, 3(+1)/18th O, 1/5th G",
+            b_image : "'kryptonite_bass.png'",
+            bscore : "123966",
+
+            lpath : "3(+1)/1st RO, 1/6th G, 1/20th R, 2(+1)/22nd R",
+            l_image : "'kryptonite_lead.png'",
+            lscore : "188559",
+
+            mpath : "3(+1)/5th O, 3(+1)/6th Y, 1/NN",
+            m_image : "'kryptonite_mbass.png'",
+            mscore : "121374",
             } 
         },
 { value : "Larry's Place by Epic Games", 
@@ -8351,6 +8409,35 @@ const songs = [
             mscore : "180663",
             } 
         },
+{ value : "Sugar, We're Goin Down by Fall Out Boy", 
+            data : {
+            shortname : "sugarweregoindown",
+
+            dpath : "2/1st GY, 1/11th GY, 1/1st GO, 1/7th RB, 1/12th R, 2/1st GY, 1/NN, 1/8th RB, 1/7th GB, 1/1st RY, 1/5th RB",
+            d_image : "'sugarweregoindown_drums.png'",
+            dscore : "206496",
+
+            vpath : "1(+1)/4th G, 1/3rd G, 1/1st Y, 2/1st G, 1/7th Y, 1/1st O, 1/2nd Y, 1/3rd O, 1/6th O",
+            v_image : "'sugarweregoindown_vocals.png'",
+            vscore : "145068",
+
+            gpath : "1/1st YB, 1/NN, 2(+1)/1st GR, 1/NN, 1/7th G, 2(+1)/1st GR, 1(+1)/1st YB, 2/14th YB",
+            g_image : "'sugarweregoindown_guitar.png'",
+            gscore : "277984",
+
+            bpath : "1/13th B, 1/NN, 1/1st O, 1/NN, 1/1st R, 1/8th O, 1/NN, 1/1st R, 1/2nd R, 2(+1)/18th R",
+            b_image : "'sugarweregoindown_bass.png'",
+            bscore : "214200",
+
+            lpath : "1/1st RB, 1/NN, 2(+1)/1st GY, 1/NN, 3(+1)/1st GY, 1(+1)/1st RB, 2/14th RB",
+            l_image : "'sugarweregoindown_lead.png'",
+            lscore : "273820",
+
+            mpath : "1/14th B, 1/1st B, 1/NN, 1/1st B, 1/NN, 1/6th R, 1/NN, 1/2nd G, 1/2nd R, 2(+1)/18th R",
+            m_image : "'sugarweregoindown_mbass.png'",
+            mscore : "209790",
+            } 
+        },
 { value : "Super Bass by Nicki Minaj", 
             data : {
             shortname : "superbass",
@@ -9279,6 +9366,35 @@ const songs = [
             mscore : "16025",
             } 
         },
+{ value : "This Ain't A Scene, It's An Arms Race by Fall Out Boy", 
+            data : {
+            shortname : "thisaintascene",
+
+            dpath : "1/1st O, 1/1st R, 1/1st RY, 1/19th O, 1/2nd GO, 1/1st GO, 1/1st RY, 1/18th O",
+            d_image : "'thisaintascene_drums.png'",
+            dscore : "171072",
+
+            vpath : "1/10th O, 1/5th B, 1/NN, 1/3rd Y, 1/12th B, 1/9th O, 1/NN",
+            v_image : "'thisaintascene_vocals.png'",
+            vscore : "133542",
+
+            gpath : "2/1st R, 1/1st YO, 3/NN, 3/2nd Y",
+            g_image : "'thisaintascene_guitar.png'",
+            gscore : "321420",
+
+            bpath : "1(+1)/17th B, 1/17th B, 1/NN, 1/NN, 1/NN, 1(+1)/17th B",
+            b_image : "'thisaintascene_bass.png'",
+            bscore : "234171",
+
+            lpath : "2/1st R, 1/1st RO, 2/1st RB, 1/NN, 3/2nd R",
+            l_image : "'thisaintascene_lead.png'",
+            lscore : "310692",
+
+            mpath : "1(+1)/17th Y, 1/17th Y, 1/NN, 1/NN, 1/NN, 1(+1)/17th Y",
+            m_image : "'thisaintascene_mbass.png'",
+            mscore : "234171",
+            } 
+        },
 { value : "This Is How We Do It by Montell Jordan", 
             data : {
             shortname : "thisishowwedoit",
@@ -9538,6 +9654,35 @@ const songs = [
             mpath : "2/3rd B, 1/NN, 1/NN, 2(+1)/2nd R, 1/1st R, 1/NN, 1/NN",
             m_image : "'tropicalheat_mbass.png'",
             mscore : "227994",
+            } 
+        },
+{ value : "Tubthumping by Chumbawamba", 
+            data : {
+            shortname : "tubthumping",
+
+            dpath : "1/2nd RO, 1/NN, 1(+1)/2nd RO, 2(+1)/1st G, 1/3rd GO, 1/3rd GO, 1/2nd GO",
+            d_image : "'tubthumping_drums.png'",
+            dscore : "196992",
+
+            vpath : "2/1.1 beats after 1st R, 1/3rd B, 1(+1)/1.1 beats after 6th R, 1/NN, 1/NN, 1/NN, 1/NN",
+            v_image : "'tubthumping_vocals.png'",
+            vscore : "185382",
+
+            gpath : "2/1st YO, 2(+1)/7th RO, 1/3rd YO, 1/1st GR, 1/6th RB, 1/2nd Y, 1/2nd R",
+            g_image : "'tubthumping_guitar.png'",
+            gscore : "151770",
+
+            bpath : "1(+1)/5th G, 1/3rd Y, 1/3rd Y, 1/3rd Y, 1/NN, 1/3rd Y, 1/NN",
+            b_image : "'tubthumping_bass.png'",
+            bscore : "100656",
+
+            lpath : "2/1st RO, 2(+1)/7th GO, 1/3rd RO, 1/1st GY, 1/6th RY, 1/2nd R, 1/2nd R",
+            l_image : "'tubthumping_lead.png'",
+            lscore : "151782",
+
+            mpath : "1(+1)/5th G, 1/3rd Y, 1/3rd Y, 1/3rd Y, 1/NN, 1/3rd Y, 1/NN",
+            m_image : "'tubthumping_mbass.png'",
+            mscore : "100656",
             } 
         },
 { value : "Turn Up by Epic Games", 
