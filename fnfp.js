@@ -1391,6 +1391,35 @@ const songs = [
             mscore : "65985",
             } 
         },
+{ value : "Bones by Imagine Dragons", 
+            data : {
+            shortname : "bones",
+
+            dpath : "1/2nd GO, 1/NN, 1/NN, 1/2nd R, 1(+1)/1st GO, 1/2nd GO",
+            d_image : "'bones_drums.png'",
+            dscore : "66096",
+
+            vpath : "1/1st G, 1/3rd O, 1/3rd R, 2/4th Y, 1/NN, 1/NN, 1/4th B",
+            v_image : "'bones_vocals.png'",
+            vscore : "125595",
+
+            gpath : "3(+2)/1.5 beats after 1st RB, 2/5th O",
+            g_image : "'bones_guitar.png'",
+            gscore : "61087",
+
+            bpath : "2/4th R, 2(+1)/2nd Y, 1(+1)/5th B",
+            b_image : "'bones_bass.png'",
+            bscore : "68694",
+
+            lpath : "3(+2)/1.5 beats after 1st GB, 2/7th O",
+            l_image : "'bones_lead.png'",
+            lscore : "61295",
+
+            mpath : "2/4th R, 2(+1)/2nd Y, 1(+1)/5th B",
+            m_image : "'bones_mbass.png'",
+            mscore : "64020",
+            } 
+        },
 { value : "Born This Way by Lady Gaga", 
             data : {
             shortname : "bornthisway",
@@ -2580,6 +2609,35 @@ const songs = [
             mscore : "70392",
             } 
         },
+{ value : "Demons by Imagine Dragons", 
+            data : {
+            shortname : "demons",
+
+            dpath : "1/NN, 1/NN, 1/NN, 1/NN",
+            d_image : "'demons_drums.png'",
+            dscore : "55872",
+
+            vpath : "1/2nd O, 1/8th G, 1/8th G, 1/7th G, 1/1st G, 1/2nd G, 1/1st G",
+            v_image : "'demons_vocals.png'",
+            vscore : "96960",
+
+            gpath : "1/13th B, 3/2nd O, 1/9th R, 1/NN, 1/NN",
+            g_image : "'demons_guitar.png'",
+            gscore : "85656",
+
+            bpath : "1/1st O, 1/NN, 1/NN",
+            b_image : "'demons_bass.png'",
+            bscore : "81234",
+
+            lpath : "1/14th O, 3/2nd O, 1/7th R, 1/NN, 1/NN",
+            l_image : "'demons_lead.png'",
+            lscore : "85080",
+
+            mpath : "1/NN, 1/NN, 1/NN",
+            m_image : "'demons_mbass.png'",
+            mscore : "79722",
+            } 
+        },
 { value : "Dirty Little Secret by The All-American Rejects", 
             data : {
             shortname : "dirtylittlesecret",
@@ -3216,6 +3274,35 @@ const songs = [
             mpath : "4(+1)/13th R, 1/6th R, 1/NN, 1/NN, 1/NN",
             m_image : "'fallguys_mbass.png'",
             mscore : "95019",
+            } 
+        },
+{ value : "Fat Lip by Sum 41", 
+            data : {
+            shortname : "fatlip",
+
+            dpath : "1/6th Y, 1/3rd GO, 1/6th Y, 1/NN, 1/1st GO, 1/NN, 1/20th O",
+            d_image : "'fatlip_drums.png'",
+            dscore : "145728",
+
+            vpath : "1/NN, 1/8th O, 2(+1)/10th R, 1/NN",
+            v_image : "'fatlip_vocals.png'",
+            vscore : "136200",
+
+            gpath : "2/1st RO, 1/7th GY, 1/5th G, 3/NN, 1/NN",
+            g_image : "'fatlip_guitar.png'",
+            gscore : "192033",
+
+            bpath : "1/3rd O, 2/NN, 2(+1)/18th G, 1/NN",
+            b_image : "'fatlip_bass.png'",
+            bscore : "156603",
+
+            lpath : "2/5th RO, 1/7th GY, 1/14th GB, 3/NN, 1/NN",
+            l_image : "'fatlip_lead.png'",
+            lscore : "180081",
+
+            mpath : "1/3rd O, 2/NN, 2(+1)/18th G, 1/NN",
+            m_image : "'fatlip_mbass.png'",
+            mscore : "156603",
             } 
         },
 { value : "Feather by Sabrina Carpenter", 
@@ -5422,6 +5509,35 @@ const songs = [
             mscore : "60507",
             } 
         },
+{ value : "Lonely Boy by The Black Keys", 
+            data : {
+            shortname : "lonelyboy",
+
+            dpath : "1/NN, 1/3rd GY, 1/6th GY, 1/NN, 1/NN, 1/NN, 1/NN, 1/4th GY, 1/3rd GY, 1/NN, 1/NN, 1/NN, 1/NN",
+            d_image : "'lonelyboy_drums.png'",
+            dscore : "275184",
+
+            vpath : "1/17th Y, 1/NN, 1/3rd Y, 1/2nd R, 1/10th Y, 1/NN, 1/3rd Y, 1/NN",
+            v_image : "'lonelyboy_vocals.png'",
+            vscore : "71067",
+
+            gpath : "4(+1)/1st RB, 4(+1)/1st RB, 3(+1)/1st RB",
+            g_image : "'lonelyboy_guitar.png'",
+            gscore : "252888",
+
+            bpath : "2(+1)/8th G, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 2/1st Y, 1/NN",
+            b_image : "'lonelyboy_bass.png'",
+            bscore : "88386",
+
+            lpath : "4(+1)/2nd RB, 4(+1)/1st RB, 3(+1)/1st RB",
+            l_image : "'lonelyboy_lead.png'",
+            lscore : "255624",
+
+            mpath : "2(+1)/8th G, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 2/1st O, 1/NN",
+            m_image : "'lonelyboy_mbass.png'",
+            mscore : "88386",
+            } 
+        },
 { value : "Lord of the Wasteland by Epic Games", 
             data : {
             shortname : "lordofthewasteland",
@@ -6957,6 +7073,35 @@ const songs = [
             mpath : "2/1st B, 1/3rd O, 1/NN, 1/3rd Y, 1/NN",
             m_image : "'qlona_mbass.png'",
             mscore : "45480",
+            } 
+        },
+{ value : "Radioactive by Imagine Dragons", 
+            data : {
+            shortname : "radioactive",
+
+            dpath : "1/2nd RY, 1/3rd RY, 1/1st R, 1/3rd RY, 1/3rd RY, 1/6th RY, 1/3rd RY, 1/1st R",
+            d_image : "'radioactive_drums.png'",
+            dscore : "51840",
+
+            vpath : "4/NN, 1/3rd Y, 1/3rd B, 1/5th Y, 1/NN, 1/NN, 1/4th Y, 1/NN",
+            v_image : "'radioactive_vocals.png'",
+            vscore : "110954",
+
+            gpath : "2/2nd O, 2(+1)/3rd O, 1/NN, 1/14th G, 1/NN, 1/1st R, 1/5th G",
+            g_image : "'radioactive_guitar.png'",
+            gscore : "99453",
+
+            bpath : "1/6th O, 1/NN, 2(+1)/9th B, 1/2nd B, 1/6th R, 1/NN",
+            b_image : "'radioactive_bass.png'",
+            bscore : "137347",
+
+            lpath : "2/2nd O, 2(+1)/4th O, 1/NN, 1/14th G, 1/NN, 1/1st R, 1/5th G",
+            l_image : "'radioactive_lead.png'",
+            lscore : "98913",
+
+            mpath : "1/6th O, 1/1st O, 2(+1)/8th G, 1/NN, 1/NN, 1/NN",
+            m_image : "'radioactive_mbass.png'",
+            mscore : "133783",
             } 
         },
 { value : "Rain On Me by Lady Gaga & Ariana Grande", 
