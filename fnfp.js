@@ -2000,6 +2000,35 @@ const songs = [
             mscore : "183168",
             } 
         },
+{ value : "Californication by Red Hot Chili Peppers", 
+            data : {
+            shortname : "californication",
+
+            dpath : "1/9th RY, 1/8th RB, 1/1st RB, 1/1st RY, 1/2nd RY, 1/6th RB, 1/2nd RB, 1/11th B, 1/3rd RB, 1/3rd RY, 1/1st RB, 1/1st RO",
+            d_image : "'californication_drums.png'",
+            dscore : "301536",
+
+            vpath : "1/4th O, 2/1st B, 1/NN, 1/1st R, 1(+1)/2nd G, 1/5th R, 1/16th O",
+            v_image : "'californication_vocals.png'",
+            vscore : "144879",
+
+            gpath : "3(+1)/24th GYB, 2(+1)/2nd GYB, 1/NN, 3(+1)/10th GRB, 1/NN",
+            g_image : "'californication_guitar.png'",
+            gscore : "419589",
+
+            bpath : "2(+1)/13th Y, 1/NN, 2(+1)/8th Y, 1/1st Y, 4(+1)/5th B",
+            b_image : "'californication_bass.png'",
+            bscore : "261963",
+
+            lpath : "3(+1)/24th GB, 2(+1)/2nd GB, 1/NN, 3(+1)/10th GY, 1/NN",
+            l_image : "'californication_lead.png'",
+            lscore : "298093",
+
+            mpath : "2(+1)/11th Y, 1/NN, 2(+1)/7th Y, 1/NN, 4(+1)/5th B",
+            m_image : "'californication_mbass.png'",
+            mscore : "260019",
+            } 
+        },
 { value : "Call Me Maybe by Carly Rae Jepsen", 
             data : {
             shortname : "callmemaybe",
@@ -4001,6 +4030,35 @@ const songs = [
             mscore : "86832",
             } 
         },
+{ value : "Give It Away by Red Hot Chili Peppers", 
+            data : {
+            shortname : "giveitaway",
+
+            dpath : "1/NN, 1/NN, 1/NN, 1/1st GB, 1/NN, 1/NN, 1/1st GB, 1/1st GB, 1/NN, 1/1st GB, 1/NN, 1/8th GO",
+            d_image : "'giveitaway_drums.png'",
+            dscore : "278640",
+
+            vpath : "1/2nd O, 1/4th B, 1/23rd R, 1/7th R, 1/7th Y, 1/4th G, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            v_image : "'giveitaway_vocals.png'",
+            vscore : "247467",
+
+            gpath : "2/5th GY, 1(+1)/9th GY, 1/1st BO, 3(+1)/5th GY, 2/9th GR",
+            g_image : "'giveitaway_guitar.png'",
+            gscore : "281784",
+
+            bpath : "1/13th G, 1/3rd G, 1/1 beats after 7th O, 2/20th G, 1/43rd G, 1/15th G, 1/41st G, 1/19th G, 1/NN, 1/23rd G",
+            b_image : "'giveitaway_bass.png'",
+            bscore : "260757",
+
+            lpath : "2/5th GB, 1(+1)/9th GB, 1/3rd O, 3(+1)/5th GB, 2/9th GY",
+            l_image : "'giveitaway_lead.png'",
+            lscore : "259788",
+
+            mpath : "1/13th G, 1/3rd G, 1/1 beats after 7th O, 2/20th G, 1/43rd G, 1/15th G, 1/41st G, 1/19th G, 1/NN, 1/24th G",
+            m_image : "'giveitaway_mbass.png'",
+            mscore : "260757",
+            } 
+        },
 { value : "Give Me Everything by Pitbull ft. Ne-Yo, Afrojack & Nayer", 
             data : {
             shortname : "givemeeverything",
@@ -5768,6 +5826,35 @@ const songs = [
             mpath : "2(+1)/1 beats after 18th G, 1/1st O, 1/NN, 1/15th G, 1/NN, 1/1st O, 1/6th O",
             m_image : "'makeitknown_mbass.png'",
             mscore : "92154",
+            } 
+        },
+{ value : "Mambo No. 5 (A Little Bit of...) by Lou Bega", 
+            data : {
+            shortname : "mambonofive",
+
+            dpath : "3/2nd Y, 1/1st GO, 1/NN, 1/6th RY, 1/7th RY, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/9th GY, 2/1st GO, 1/1st GO, 1/6th RY",
+            d_image : "'mambonofive_drums.png'",
+            dscore : "288144",
+
+            vpath : "1/12th Y, 1/1st O, 1/NN, 1/NN, 1/7th G, 2/1st Y, 1/6th R, 1/NN, 1/7th G, 2/2nd G, 1/7th G, 1/NN",
+            v_image : "'mambonofive_vocals.png'",
+            vscore : "150364",
+
+            gpath : "2/NN, 1/1st YB, 1/NN, 4(+1)/NN, 1/NN, 1/4th Y, 1/5th R, 3/1st R, 1/NN, 1/14th R",
+            g_image : "'mambonofive_guitar.png'",
+            gscore : "141096",
+
+            bpath : "2(+1)/4th R, 1/NN, 1/NN, 1/3rd Y, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/3rd Y, 1/NN, 1/NN, 1/NN",
+            b_image : "'mambonofive_bass.png'",
+            bscore : "126603",
+
+            lpath : "2/NN, 1/1st RB, 1/NN, 4(+1)/NN, 1/NN, 1/4th R, 1/5th R, 3/1st R, 1/NN, 1/15th R",
+            l_image : "'mambonofive_lead.png'",
+            lscore : "139800",
+
+            mpath : "2(+1)/4th Y, 1/NN, 1/NN, 1/3rd O, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/3rd O, 1/NN, 1/NN, 1/NN",
+            m_image : "'mambonofive_mbass.png'",
+            mscore : "126603",
             } 
         },
 { value : "Maps by Maroon 5", 
@@ -8088,6 +8175,35 @@ const songs = [
             mpath : "1/2nd Y, 1/NN, 1/NN, 1/NN, 1(+1)/1st R, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1(+1)/2nd R, 1/NN, 1/NN, 1/NN, 1/17th Y, 1/8th G",
             m_image : "'skysurfer_mbass.png'",
             mscore : "574155",
+            } 
+        },
+{ value : "Snow (Hey Oh) by Red Hot Chili Peppers", 
+            data : {
+            shortname : "snow",
+
+            dpath : "1/1st GB, 1/NN, 1/NN, 1/NN, 2/1st RY, 1/NN, 1/4th GY, 1/1st Y, 1/NN, 1/5th RO, 1/3rd RO, 1/NN, 1/3rd RO, 1/5th RO",
+            d_image : "'snow_drums.png'",
+            dscore : "280944",
+
+            vpath : "1/8th B, 1/16th B, 1/5th B, 3/NN, 1/4th B, 1/4th B, 1/1st RB, 1/NN, 1/NN, 1/3rd R, 1/1st RB, 1/NN",
+            v_image : "'snow_vocals.png'",
+            vscore : "258132",
+
+            gpath : "1/NN, 4(+1)/8th G, 1/14th YO, 4/1st GB, 1/28th YO, 1/NN, 1/2nd Y, 1/2nd Y",
+            g_image : "'snow_guitar.png'",
+            gscore : "557964",
+
+            bpath : "1/8th Y, 4(+1)/7th YB, 4(+1)/4th Y, 1/48th BO, 1/18th BO, 1/25th BO, 1/7th GR",
+            b_image : "'snow_bass.png'",
+            bscore : "545055",
+
+            lpath : "1/NN, 4(+1)/9th G, 1/1st RO, 4/1st GB, 1/1st RO, 1/NN, 1/2nd Y, 1/2nd Y",
+            l_image : "'snow_lead.png'",
+            lscore : "488844",
+
+            mpath : "1/8th B, 4(+1)/5th RB, 4(+1)/4th Y, 1/17th RO, 1/13th RO, 1/17th RO, 1/5th GY",
+            m_image : "'snow_mbass.png'",
+            mscore : "499047",
             } 
         },
 { value : "Somebody Told Me by The Killers", 
@@ -10437,6 +10553,35 @@ const songs = [
             mpath : "1(+1)/28th G, 3(+1)/13th B, 1/6th G, 1/NN, 3/2nd G, 1/5th G, 1/NN, 1/5th G, 1/NN, 1/5th B, 1/NN, 1/6th R, 1/NN, 1/NN, 1/NN",
             m_image : "'whereverimayroam_mbass.png'",
             mscore : "330723",
+            } 
+        },
+{ value : "Whine Up by Kat DeLuna ft. Elephant Man", 
+            data : {
+            shortname : "whineup",
+
+            dpath : "3(+1)/5th GO, 3(+1)/5th GO, 1/NN, 1/NN, 1/NN, 1/NN",
+            d_image : "'whineup_drums.png'",
+            dscore : "230832",
+
+            vpath : "3(+1)/1st RY, 3(+1)/1 beats after 19th R, 1/NN, 1/21st RY, 1/1st RY, 1/1st RY",
+            v_image : "'whineup_vocals.png'",
+            vscore : "227940",
+
+            gpath : "1/NN, 1/NN, 1/4th B, 1/NN, 1/NN, 1/NN, 1/5th B, 1/NN, 1/NN, 1/NN, 1/4th B, 1/4th B",
+            g_image : "'whineup_guitar.png'",
+            gscore : "119757",
+
+            bpath : "2(+1)/1st Y, 1/2nd Y, 1/1st Y, 1/1st Y, 1/1st Y, 1/1st Y",
+            b_image : "'whineup_bass.png'",
+            bscore : "76320",
+
+            lpath : "1/NN, 1/NN, 1/4th B, 1/NN, 1/NN, 1/NN, 1/5th B, 1/NN, 1/NN, 1/NN, 1/4th B, 1/4th B",
+            l_image : "'whineup_lead.png'",
+            lscore : "119757",
+
+            mpath : "2(+1)/1st Y, 1/2nd Y, 1/1st Y, 1/1st Y, 1/1st Y, 1/1st Y",
+            m_image : "'whineup_mbass.png'",
+            mscore : "76320",
             } 
         },
 { value : "Wild Ones by Flo Rida ft. Sia", 
