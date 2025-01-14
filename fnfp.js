@@ -152,9 +152,9 @@ const songs = [
             d_image : "'allidoiswin_drums.png'",
             dscore : "150768",
 
-            vpath : "2/14th O, 1/2nd O, 1/2nd R, 1/12th Y, 1/7th R, 1/4th O, 1/12th Y, 1/16th Y, 1/7th R, 1/4th O, 1/2nd O, 1/3rd O, 1/5th G, 1/1st O",
+            vpath : "2/14th O, 1/2nd O, 1/2nd R, 1/12th Y, 1/7th R, 1/4th O, 1/12th Y, 1/15th Y, 1/7th R, 1/4th O, 1/2nd O, 1/3rd O, 1/5th G, 1/1st O",
             v_image : "'allidoiswin_vocals.png'",
-            vscore : "231654",
+            vscore : "231438",
 
             gpath : "1/7th YB, 1/2nd YB, 1/3rd YB, 1(+1)/1st RB, 1/7th YB, 1/1st RYO, 1/1st YB, 1/NN, 1/5th YB, 1/3rd YB, 1/NN, 1/2nd YB, 1/15th YB",
             g_image : "'allidoiswin_guitar.png'",
@@ -2319,6 +2319,35 @@ const songs = [
             mscore : "81864",
             } 
         },
+{ value : "Cherry Cordial by Epic Games", 
+            data : {
+            shortname : "cherrycordial",
+
+            dpath : "1/NN, 1(+1)/1st GO, 1/4th R, 1/1st GY, 2/1st RO, 1/4th R",
+            d_image : "'cherrycordial_drums.png'",
+            dscore : "161424",
+
+            vpath : "1/5th GO, 1/1st GO, 1/9th GO, 1/1st GO, 3(+1)/9th RY",
+            v_image : "'cherrycordial_vocals.png'",
+            vscore : "189198",
+
+            gpath : "1/2nd Y, 3/1st G, 1/4th Y, 1/16th B",
+            g_image : "'cherrycordial_guitar.png'",
+            gscore : "117268",
+
+            bpath : "1/1st G, 1/1st G, 1/6th G, 1/0.75 beats after 1st Y, 1/11th G, 1/1st G, 1/NN",
+            b_image : "'cherrycordial_bass.png'",
+            bscore : "135492",
+
+            lpath : "1/11th B, 1/1st GY, 2/3rd GY, 1/13th B, 1/9th B",
+            l_image : "'cherrycordial_lead.png'",
+            lscore : "111756",
+
+            mpath : "1/1st G, 1/1st G, 1/6th G, 1/0.75 beats after 1st Y, 1/11th G, 1/1st G, 1/NN",
+            m_image : "'cherrycordial_mbass.png'",
+            mscore : "135492",
+            } 
+        },
 { value : "CHIHIRO by Billie Eilish", 
             data : {
             shortname : "chihiro",
@@ -2551,6 +2580,35 @@ const songs = [
             mscore : "53823",
             } 
         },
+{ value : "Daisy 2.0 by Ashnikko ft. Hatsune Miku", 
+            data : {
+            shortname : "daisy",
+
+            dpath : "2/1st RY, 1/2nd G, 1/2nd GY, 2/1st RY, 1/5th RY, 1(+1)/7th RY",
+            d_image : "'daisy_drums.png'",
+            dscore : "169632",
+
+            vpath : "1/4th Y, 1/11th B, 1/8th B, 2/8th R, 1/8th B, 1/2nd Y, 1/NN, 1/NN",
+            v_image : "'daisy_vocals.png'",
+            vscore : "144957",
+
+            gpath : "1(+1)/5th G, 1/NN, 2/12th Y, 1/NN, 1/2nd G, 1/1st O",
+            g_image : "'daisy_guitar.png'",
+            gscore : "69120",
+
+            bpath : "2/8th G, 1/2nd G, 1/1st O, 1/1st R, 1/NN, 1/1st R",
+            b_image : "'daisy_bass.png'",
+            bscore : "43230",
+
+            lpath : "1(+1)/5th G, 1/NN, 2/12th Y, 1/NN, 1/2nd G, 1/1st O",
+            l_image : "'daisy_lead.png'",
+            lscore : "69120",
+
+            mpath : "2/9th G, 1/2nd G, 1/1st O, 1/1st Y, 1/NN, 1/1st Y",
+            m_image : "'daisy_mbass.png'",
+            mscore : "43230",
+            } 
+        },
 { value : "DÁKITI by Bad Bunny and Jhayco", 
             data : {
             shortname : "dakiti",
@@ -2665,6 +2723,35 @@ const songs = [
             mpath : "1/NN, 1/NN, 1/NN",
             m_image : "'demons_mbass.png'",
             mscore : "79722",
+            } 
+        },
+{ value : "Dexting by Epic Games", 
+            data : {
+            shortname : "dexting",
+
+            dpath : "2/1st RB, 1/1st RO, 1/NN, 2/1st RB, 1/1st RO, 1/NN, 1/NN",
+            d_image : "'dexting_drums.png'",
+            dscore : "119088",
+
+            vpath : "2(+1)/5th O, 1/3rd O, 3/NN, 1/3rd O, 1/NN",
+            v_image : "'dexting_vocals.png'",
+            vscore : "112536",
+
+            gpath : "1/1st Y, 1/5th R, 1/NN, 2/1st Y, 1/1st G, 1/3rd R, 1/5th R",
+            g_image : "'dexting_guitar.png'",
+            gscore : "69552",
+
+            bpath : "2/1st Y, 3/1st Y, 1/NN",
+            b_image : "'dexting_bass.png'",
+            bscore : "66438",
+
+            lpath : "1/1st Y, 1/4th R, 1/NN, 2/1st Y, 1/1st G, 1/3rd R, 1/4th R",
+            l_image : "'dexting_lead.png'",
+            lscore : "67896",
+
+            mpath : "1/13th G, 1/1st Y, 1/NN, 1/1st B, 1/1st Y, 1/NN",
+            m_image : "'dexting_mbass.png'",
+            mscore : "64566",
             } 
         },
 { value : "Dirty Little Secret by The All-American Rejects", 
@@ -3593,6 +3680,35 @@ const songs = [
             mpath : "1/1st R, 1/NN, 1/NN, 1/1st R, 1/NN, 1/1st R, 1/NN, 1/NN",
             m_image : "'firework_mbass.png'",
             mscore : "147924",
+            } 
+        },
+{ value : "First Person by Epic Games", 
+            data : {
+            shortname : "firstperson",
+
+            dpath : "1/4th O, 1/NN, 1/7th RB, 1/NN, 1/1st Y, 1/1st B, 1/1st B",
+            d_image : "'firstperson_drums.png'",
+            dscore : "144432",
+
+            vpath : "2/9th B, 1/4th G, 1/10th G, 2/2nd GB",
+            v_image : "'firstperson_vocals.png'",
+            vscore : "96657",
+
+            gpath : "3/1st O, 1/NN, 1/4th G, 1/13th R",
+            g_image : "'firstperson_guitar.png'",
+            gscore : "91020",
+
+            bpath : "1/18th R, 1/7th R, 3(+1)/6th R, 1/8th G",
+            b_image : "'firstperson_bass.png'",
+            bscore : "76725",
+
+            lpath : "3/1st O, 1/NN, 1/4th G, 1/13th R",
+            l_image : "'firstperson_lead.png'",
+            lscore : "89010",
+
+            mpath : "1/19th R, 1/7th R, 3(+1)/6th R, 1/1 beats after 1st B",
+            m_image : "'firstperson_mbass.png'",
+            mscore : "75825",
             } 
         },
 { value : "Flickering Flame by Epic Games", 
@@ -5625,6 +5741,35 @@ const songs = [
             mscore : "264537",
             } 
         },
+{ value : "Love Don't Cost A Thing by Jennifer Lopez", 
+            data : {
+            shortname : "lovedontcostathing",
+
+            dpath : "1/3rd GY, 1/7th GY, 1/11th GY, 1/NN, 1/2nd GY, 1/3rd GY, 1/1st GO, 1/3rd Y, 1/3rd GY, 1/13th R",
+            d_image : "'lovedontcostathing_drums.png'",
+            dscore : "245376",
+
+            vpath : "1/14th B, 1/6th B, 1/13th G, 1/NN, 1/7th Y, 1/13th R, 1/NN, 1/2nd Y, 1/15th Y",
+            v_image : "'lovedontcostathing_vocals.png'",
+            vscore : "194676",
+
+            gpath : "1/2nd O, 1/1st GRY, 1/NN, 1/2nd O, 1/3rd RBO, 1/1st O, 2(+1)/6th O, 1/1st RBO",
+            g_image : "'lovedontcostathing_guitar.png'",
+            gscore : "152043",
+
+            bpath : "2/7th R, 1/2nd O, 2(+2)/0.5 beats after 10th Y, 1/NN, 1/NN",
+            b_image : "'lovedontcostathing_bass.png'",
+            bscore : "87201",
+
+            lpath : "1/2nd O, 1/NN, 1/1st B, 1/2nd O, 1/5th O, 1/1st O, 2(+1)/6th O, 1/1st RO",
+            l_image : "'lovedontcostathing_lead.png'",
+            lscore : "144663",
+
+            mpath : "2/7th R, 1/2nd O, 2(+2)/0.5 beats after 10th Y, 1/NN, 1/NN",
+            m_image : "'lovedontcostathing_mbass.png'",
+            mscore : "87201",
+            } 
+        },
 { value : "Lovin On Me by Jack Harlow", 
             data : {
             shortname : "lovinonme",
@@ -5768,6 +5913,35 @@ const songs = [
             mpath : "1/1st B, 1/1st R, 1/5th G, 1/2nd B, 1/1.5 beats after 2nd B, 1/3rd R, 1/1st G",
             m_image : "'magentaride_mbass.png'",
             mscore : "85239",
+            } 
+        },
+{ value : "M@GICAL☆CURE! LOVE SHOT! by SAWTOWNE ft. Hatsune Miku", 
+            data : {
+            shortname : "magicalcureloveshot",
+
+            dpath : "1/NN, 1/4th G, 1(+1)/2nd RO, 1/3rd B, 2(+1)/2nd GO, 1/2nd RO, 1/3rd B, 1/1st GO, 1(+1)/1st O, 1/3rd B, 1/1st GO",
+            d_image : "'magicalcureloveshot_drums.png'",
+            dscore : "200304",
+
+            vpath : "2/5th G, 1/1st Y, 2/1.5 beats after 5th G, 1/2nd G, 1/3rd B, 2/After 11 beats, 1/5th Y, 1/2nd Y, 1/NN, 1/1st G, 1/NN, 1/3rd B",
+            v_image : "'magicalcureloveshot_vocals.png'",
+            vscore : "195586",
+
+            gpath : "1/1st G, 4/6th G, 1/1st YO, 2/1st R, 1/NN, 1/3rd G, 4/NN, 1/1st YO",
+            g_image : "'magicalcureloveshot_guitar.png'",
+            gscore : "241224",
+
+            bpath : "1/4th Y, 2/7th G, 1/1st G, 1/NN, 1/NN, 1/3rd R, 1/NN, 4(+1)/3rd R, 1/NN, 1/3rd R",
+            b_image : "'magicalcureloveshot_bass.png'",
+            bscore : "245772",
+
+            lpath : "1/1st G, 4/7th Y, 1/1st RO, 2/2nd G, 1/NN, 1/3rd Y, 4/NN, 1/1st RO",
+            l_image : "'magicalcureloveshot_lead.png'",
+            lscore : "239736",
+
+            mpath : "1/4th R, 2/7th G, 1/1st G, 1/NN, 1/NN, 1/3rd R, 1/NN, 4(+1)/3rd R, 1/NN, 1/3rd R",
+            m_image : "'magicalcureloveshot_mbass.png'",
+            mscore : "245772",
             } 
         },
 { value : "MakeDamnSure by Taking Back Sunday", 
@@ -6000,6 +6174,35 @@ const songs = [
             mpath : "2(+1)/6th G, 2(+1)/4th G",
             m_image : "'migente_mbass.png'",
             mscore : "33849",
+            } 
+        },
+{ value : "Miku by Anamanaguchi, Hatsune Miku", 
+            data : {
+            shortname : "miku",
+
+            dpath : "1/2nd R, 1/11th G, 1/24th Y, 1/1st R, 3(+1)/1st GO, 1/3rd Y, 1/4th B",
+            d_image : "'miku_drums.png'",
+            dscore : "141120",
+
+            vpath : "1/11th R, 1/NN, 1/3rd Y, 1/NN, 1/NN, 4/5th R",
+            v_image : "'miku_vocals.png'",
+            vscore : "129924",
+
+            gpath : "1/16th R, 1/9th R, 3(+1)/3rd O, 1/3rd Y, 1/1st GY",
+            g_image : "'miku_guitar.png'",
+            gscore : "85277",
+
+            bpath : "2/4th Y, 2/4th Y, 1/6th O, 1/NN, 1(+1)/3rd Y, 1/NN, 1/22 beats after 1st R",
+            b_image : "'miku_bass.png'",
+            bscore : "117675",
+
+            lpath : "1/16th R, 1/9th R, 3(+1)/3rd O, 1/3rd Y, 1/1st GY",
+            l_image : "'miku_lead.png'",
+            lscore : "85277",
+
+            mpath : "2/4th Y, 2/4th Y, 1/6th O, 1/NN, 1(+1)/3rd Y, 1/NN, 1/22 beats after 1st R",
+            m_image : "'miku_mbass.png'",
+            mscore : "117675",
             } 
         },
 { value : "MILLION DOLLAR BABY by Tommy Richman", 
@@ -6522,6 +6725,35 @@ const songs = [
             mpath : "1/13th Y, 1/7th Y, 1/1st Y, 1/1st Y, 1/NN, 1/1st Y, 1/1st Y, 1/NN, 1/1st Y, 1/NN, 1/1st Y, 1/NN, 1/1st Y, 1/1st Y, 1/NN, 1/1st Y",
             m_image : "'notoriousthugs_mbass.png'",
             mscore : "145842",
+            } 
+        },
+{ value : "Not Without a Fight by Epic Games", 
+            data : {
+            shortname : "notwithoutafight",
+
+            dpath : "1/5th GY, 1/4th GY, 1(+1)/17th GY, 1/17th O, 1/3rd GO, 1/3rd GO",
+            d_image : "'notwithoutafight_drums.png'",
+            dscore : "125568",
+
+            vpath : "2/1st G, 3/7th R, 1/2nd B, 1/After 0.5 beats, 1/After 0.5 beats, 1/11th O",
+            v_image : "'notwithoutafight_vocals.png'",
+            vscore : "126585",
+
+            gpath : "2(+1)/1st BO, 4(+1)/1st GR",
+            g_image : "'notwithoutafight_guitar.png'",
+            gscore : "92196",
+
+            bpath : "1/2nd R, 4(+1)/2nd G, 1/9th G, 1/7th Y",
+            b_image : "'notwithoutafight_bass.png'",
+            bscore : "79332",
+
+            lpath : "2(+1)/1st RO, 4(+1)/1st GY",
+            l_image : "'notwithoutafight_lead.png'",
+            lscore : "88356",
+
+            mpath : "1/2nd R, 4(+1)/2nd G, 1/9th G, 1/7th Y",
+            m_image : "'notwithoutafight_mbass.png'",
+            mscore : "79332",
             } 
         },
 { value : "Numb by Linkin Park", 
@@ -8001,6 +8233,35 @@ const songs = [
             mpath : "3(+1)/5th G, 1/NN, 1/NN, 1/3rd B, 1/2nd G, 1/5th G, 1/4th G",
             m_image : "'shivers_mbass.png'",
             mscore : "83844",
+            } 
+        },
+{ value : "Short Skirt/Long Jacket by Cake", 
+            data : {
+            shortname : "shortskirtlongjacket",
+
+            dpath : "1/6th RY, 1/1st GY, 1/10th RY, 1/1st GB, 1/NN, 1/4th RY, 2/5th GB",
+            d_image : "'shortskirtlongjacket_drums.png'",
+            dscore : "220464",
+
+            vpath : "1/10th R, 1/6th R, 1/3rd O, 1/NN, 1/NN, 1/After 0.5 beats, 1/10th R, 1/NN",
+            v_image : "'shortskirtlongjacket_vocals.png'",
+            vscore : "112650",
+
+            gpath : "1/1st YBO, 1/2nd RB, 1/2nd GYB, 1/3rd RB, 3/1st YBO, 1/3rd RB",
+            g_image : "'shortskirtlongjacket_guitar.png'",
+            gscore : "119838",
+
+            bpath : "2/NN, 2/5th R, 1/9th O, 3/14th R",
+            b_image : "'shortskirtlongjacket_bass.png'",
+            bscore : "141768",
+
+            lpath : "1/1st RO, 1/2nd RB, 1/1st RO, 1/6th RB, 1/2nd B, 1/NN, 1/1st RO, 1/3rd RB",
+            l_image : "'shortskirtlongjacket_lead.png'",
+            lscore : "103830",
+
+            mpath : "2/NN, 2/1st Y, 1/9th O, 3/20th R",
+            m_image : "'shortskirtlongjacket_mbass.png'",
+            mscore : "141768",
             } 
         },
 { value : "Show Them Who We Are by Epic Games", 
@@ -10625,17 +10886,17 @@ const songs = [
             v_image : "'winterfestwish_vocals.png'",
             vscore : "149274",
 
-            gpath : "1(+1)/1st GY, 1/After 0.041 beats, 1/1st RO, 1/NN, 1/2nd RY, 1/1st BO, 1/1st RY, 1/1st RY, 1/1st RO",
+            gpath : "4/1st RY, 1/NN, 1/2nd RY, 1/1st BO, 1/1st RY, 1/1st BO, 1/1st RO",
             g_image : "'winterfestwish_guitar.png'",
-            gscore : "96982",
+            gscore : "82808",
 
             bpath : "1/6th G, 1/6th B, 1/4th B, 1/1st O, 1/5th B, 1/2nd O, 1/1st O, 1/1st O, 1/1st O",
             b_image : "'winterfestwish_bass.png'",
             bscore : "108030",
 
-            lpath : "1(+1)/2nd GY, 1/After 0.041 beats, 1/2nd RO, 1/NN, 1/1st RY, 1/1st RO, 1/1st RY, 1/1st RY, 1/2nd RO",
+            lpath : "4/1st RY, 1/NN, 1/1st RY, 1/1st RO, 1/1st RY, 1/1st RO, 1/2nd RO",
             l_image : "'winterfestwish_lead.png'",
-            lscore : "96170",
+            lscore : "81996",
 
             mpath : "1/6th G, 1/4th B, 1/4th B, 1/1st O, 1/4th B, 1/2nd O, 1/1st O, 1/1st O, 1/1st O",
             m_image : "'winterfestwish_mbass.png'",
@@ -10756,6 +11017,64 @@ const songs = [
             mpath : "2/2nd Y, 1/2nd G, 1/1st G, 1/1st G, 1/2nd R, 1/1st G, 1/2nd G",
             m_image : "'woman_mbass.png'",
             mscore : "57654",
+            } 
+        },
+{ value : "Work Work by Britney Spears", 
+            data : {
+            shortname : "workwork",
+
+            dpath : "1/25th GO, 3(+1)/1st RB, 1/4th R, 2(+1)/2nd RY, 4/15th Y",
+            d_image : "'workwork_drums.png'",
+            dscore : "231924",
+
+            vpath : "1/NN, 3/6th R, 1/3rd Y, 1(+1)/18th G, 1/1st G, 2(+1)/1st B",
+            v_image : "'workwork_vocals.png'",
+            vscore : "146502",
+
+            gpath : "1/2nd Y, 1/6th Y, 3(+1)/7th G, 1/NN, 1/NN, 1/6th O, 1(+1)/1st G, 1/NN, 1/12th G",
+            g_image : "'workwork_guitar.png'",
+            gscore : "177396",
+
+            bpath : "1/NN, 1/5th O, 1/NN, 1/3rd G, 1/6th O, 4/1st G",
+            b_image : "'workwork_bass.png'",
+            bscore : "141177",
+
+            lpath : "1/3rd R, 1/NN, 1/NN, 1/NN, 1/6th O, 1/NN, 1/NN, 1/NN, 1/6th O, 1(+1)/1st G, 1/NN, 1/12th G",
+            l_image : "'workwork_lead.png'",
+            lscore : "170772",
+
+            mpath : "1/NN, 1/5th O, 1/NN, 1/3rd G, 1/6th O, 4/1st G",
+            m_image : "'workwork_mbass.png'",
+            mscore : "139566",
+            } 
+        },
+{ value : "World Is Mine by ryo (supercell) ft. Hatsune Miku", 
+            data : {
+            shortname : "worldismine",
+
+            dpath : "1/7th GY, 1/5th GO, 1/3rd RY, 1/2nd R, 1/4th GY, 1/1st GO, 1/16th R, 1/10th R, 1/2nd GO, 2/5th RB, 1/11th R, 1/14th R",
+            d_image : "'worldismine_drums.png'",
+            dscore : "236532",
+
+            vpath : "1/6th G, 1/6th B, 1/2.5 beats after 2nd O, 1/9th Y, 2/2nd Y, 1/1st B, 1/3rd Y, 2(+1)/10th R, 1/6th Y, 1/2nd Y",
+            v_image : "'worldismine_vocals.png'",
+            vscore : "178731",
+
+            gpath : "1/NN, 1/1st GR, 1/1st GRY, 1/3rd G, 1/3rd RB, 1/1st RY, 1/1st GRY, 1/0.5 beats after 8th Y, 1/1st YB, 1/3rd RB, 1/2nd RO, 1/5th G, 1/6th B",
+            g_image : "'worldismine_guitar.png'",
+            gscore : "210460",
+
+            bpath : "1/27th R, 1/19th R, 1/7th G, 1/4th G, 1/20th G, 1/1st Y, 1/3rd B, 1/2nd R, 1/NN, 2/NN, 1/1st R, 1/NN",
+            b_image : "'worldismine_bass.png'",
+            bscore : "254016",
+
+            lpath : "1/NN, 1/9th Y, 1/1st GY, 1/3rd G, 1/3rd RB, 1/2nd RY, 1/2nd GY, 1/0.5 beats after 8th Y, 1/1st RB, 1/6th RB, 1/7th RO, 1/5th G, 1/4th R",
+            l_image : "'worldismine_lead.png'",
+            lscore : "200828",
+
+            mpath : "1/26th R, 1/20th R, 1/7th G, 1/5th G, 1/20th G, 1/1st Y, 1/3rd B, 1/2nd R, 1/NN, 2/NN, 1/1st R, 1/NN",
+            m_image : "'worldismine_mbass.png'",
+            mscore : "252462",
             } 
         },
 { value : "Would? by Alice In Chains", 
