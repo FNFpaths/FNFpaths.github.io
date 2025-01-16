@@ -840,6 +840,35 @@ const songs = [
             mscore : "79851",
             } 
         },
+{ value : "Beauty and a Beat by Justin Bieber ft. Nicki Minaj", 
+            data : {
+            shortname : "beautyandabeat",
+
+            dpath : "1/11th R, 4/1st GY, 1/4th O, 1/10th B, 1/6th B, 1/6th O, 1/NN, 1/NN",
+            d_image : "'beautyandabeat_drums.png'",
+            dscore : "171648",
+
+            vpath : "1/11th Y, 1/NN, 1/NN, 1/NN, 1/4th G, 1/NN, 3/NN, 1/3rd O, 1/3rd B",
+            v_image : "'beautyandabeat_vocals.png'",
+            vscore : "153393",
+
+            gpath : "1/NN, 1/NN, 1/NN, 2/NN, 1/NN, 1/NN, 1/6th Y, 1/NN, 1/21st R",
+            g_image : "'beautyandabeat_guitar.png'",
+            gscore : "130536",
+
+            bpath : "1/2nd B, 1/NN, 1/8th O, 1/12th G, 1/2nd Y, 1/NN, 1/NN, 1/5th G, 1/NN, 1/NN, 1/1st G, 1/NN, 1/11th G",
+            b_image : "'beautyandabeat_bass.png'",
+            bscore : "228168",
+
+            lpath : "1/NN, 1/NN, 1/NN, 2/NN, 1/NN, 1/NN, 1/6th Y, 1/NN, 1/21st R",
+            l_image : "'beautyandabeat_lead.png'",
+            lscore : "130512",
+
+            mpath : "1/2nd B, 1/NN, 1/8th O, 1/12th G, 1/2nd Y, 1/NN, 1/NN, 1/5th G, 1/NN, 1/NN, 1/1st G, 1/NN, 1/11th G",
+            m_image : "'beautyandabeat_mbass.png'",
+            mscore : "228168",
+            } 
+        },
 { value : "Before I Forget by Slipknot", 
             data : {
             shortname : "beforeiforget",
@@ -4204,6 +4233,35 @@ const songs = [
             mscore : "79866",
             } 
         },
+{ value : "Godzilla by Blue Öyster Cult", 
+            data : {
+            shortname : "godzilla",
+
+            dpath : "1/3rd GO, 1/2nd GY, 1/NN, 2/18th GB, 1/NN, 1/NN, 1/3rd GB, 1/11th R",
+            d_image : "'godzilla_drums.png'",
+            dscore : "211248",
+
+            vpath : "1/1st RY, 1/1st RY, 1(+1)/11th O, 1/2nd B, 1/2nd RO",
+            v_image : "'godzilla_vocals.png'",
+            vscore : "142737",
+
+            gpath : "1/NN, 1/2nd BO, 1/1st YB, 1/7th R, 1/11th O, 1(+1)/14th B, 1/NN, 1/NN",
+            g_image : "'godzilla_guitar.png'",
+            gscore : "154492",
+
+            bpath : "2(+1)/5th B, 1/6th B, 1/NN, 2(+1)/16th R, 1/7th R",
+            b_image : "'godzilla_bass.png'",
+            bscore : "134025",
+
+            lpath : "1/NN, 1/2nd RO, 2/2nd O, 1/11th O, 1/1.2 beats after 5th O, 1/3rd O, 1/NN, 1/NN",
+            l_image : "'godzilla_lead.png'",
+            lscore : "147772",
+
+            mpath : "2(+1)/5th B, 1/6th B, 1/NN, 2(+1)/16th R, 1/7th R",
+            m_image : "'godzilla_mbass.png'",
+            mscore : "134043",
+            } 
+        },
 { value : "good 4 u by Olivia Rodrigo", 
             data : {
             shortname : "good4u",
@@ -5014,6 +5072,35 @@ const songs = [
             mpath : "2/14th G, 2(+1)/4th G, 1/9th G",
             m_image : "'inhamood_mbass.png'",
             mscore : "42513",
+            } 
+        },
+{ value : "Insane in the Brain by Cypress Hill", 
+            data : {
+            shortname : "insaneinthebrain",
+
+            dpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/5th GY, 1/NN",
+            d_image : "'insaneinthebrain_drums.png'",
+            dscore : "205920",
+
+            vpath : "1/13th Y, 1/NN, 1/3rd B, 1/8th Y, 3/11th Y, 1/11th R, 1/3rd Y",
+            v_image : "'insaneinthebrain_vocals.png'",
+            vscore : "164110",
+
+            gpath : "2/1st O, 1/NN, 1/1st O, 1/NN, 1/1st G, 1/NN, 1/NN, 1/NN",
+            g_image : "'insaneinthebrain_guitar.png'",
+            gscore : "59760",
+
+            bpath : "1/13th G, 1/3rd G, 1/NN, 1/4th G, 1/NN, 1/NN, 1/NN, 1/2nd G, 1/NN",
+            b_image : "'insaneinthebrain_bass.png'",
+            bscore : "109944",
+
+            lpath : "2/1st O, 1/NN, 1/2nd R, 2/2nd O, 1/NN, 1/NN, 1/NN",
+            l_image : "'insaneinthebrain_lead.png'",
+            lscore : "43020",
+
+            mpath : "1/13th G, 1/3rd G, 1/NN, 1/4th G, 1/NN, 1/NN, 1/NN, 1/2nd G, 1/NN",
+            m_image : "'insaneinthebrain_mbass.png'",
+            mscore : "109944",
             } 
         },
 { value : "In The End by Linkin Park", 
@@ -6145,6 +6232,35 @@ const songs = [
             mpath : "1/3rd Y, 1/NN, 1/NN, 1/NN, 1/1st O, 1/5th Y, 1(+1)/3rd Y",
             m_image : "'metoo_mbass.png'",
             mscore : "119610",
+            } 
+        },
+{ value : "MIA by Bad Bunny, Drake", 
+            data : {
+            shortname : "mia",
+
+            dpath : "1/5th RO, 1/NN, 1/NN, 1/3rd RO, 1/1st RY, 2/1st RO, 1/NN",
+            d_image : "'mia_drums.png'",
+            dscore : "176832",
+
+            vpath : "3(+1)/7th R, 1/12th G, 1/9th G, 1/NN, 1/2nd O, 1/NN",
+            v_image : "'mia_vocals.png'",
+            vscore : "185211",
+
+            gpath : "1/NN, 1/NN, 1/NN, 1/3rd YB, 1/3rd GY, 1/NN, 1/NN, 1/NN",
+            g_image : "'mia_guitar.png'",
+            gscore : "153993",
+
+            bpath : "1/NN, 1/11th R, 1/9th B, 1/11th Y, 1/NN, 1/NN, 1/2nd B, 1/NN",
+            b_image : "'mia_bass.png'",
+            bscore : "132864",
+
+            lpath : "1/NN, 1/NN, 1/NN, 1/3rd RB, 1/4th GY, 1/NN, 1/NN, 1/NN",
+            l_image : "'mia_lead.png'",
+            lscore : "153993",
+
+            mpath : "1/NN, 1/12th R, 1/9th B, 1/11th Y, 1/NN, 1/NN, 1/1st B, 1/NN",
+            m_image : "'mia_mbass.png'",
+            mscore : "132468",
             } 
         },
 { value : "Mi Gente by J. Balvin & Willy William", 
