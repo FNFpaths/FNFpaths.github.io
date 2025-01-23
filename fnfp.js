@@ -4581,7 +4581,7 @@ const songs = [
             mscore : "184068",
             } 
         },
-{ value : "High Hopes by Panic! at the Disco", 
+{ value : "High Hopes by Panic! At The Disco", 
             data : {
             shortname : "highhopes",
 
@@ -5304,6 +5304,35 @@ const songs = [
             mpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
             m_image : "'iwish_mbass.png'",
             mscore : "228564",
+            } 
+        },
+{ value : "I Write Sins Not Tragedies by Panic! At The Disco", 
+            data : {
+            shortname : "iwritesins",
+
+            dpath : "1/NN, 3/4th O, 1/NN, 1/NN, 1/2nd O, 1/NN, 2/10th O, 1/7th GY",
+            d_image : "'iwritesins_drums.png'",
+            dscore : "142416",
+
+            vpath : "1/0.83 beats after 3rd R, 1/8th Y, 1/2nd B, 1/7th G, 1/3rd G, 1/3rd Y, 1/2nd B, 1/NN, 1/2nd Y, 1/1st B, 1/NN",
+            v_image : "'iwritesins_vocals.png'",
+            vscore : "120477",
+
+            gpath : "3/3rd RB, 1/2nd GY, 2(+1)/3rd GY, 3/5th GB, 4/4th RYB",
+            g_image : "'iwritesins_guitar.png'",
+            gscore : "249000",
+
+            bpath : "2(+1)/9th R, 2/NN, 2/3rd G, 1/NN, 1/NN, 1/9th G, 1/NN",
+            b_image : "'iwritesins_bass.png'",
+            bscore : "160464",
+
+            lpath : "3/3rd RB, 1/2nd GY, 2(+1)/3rd GY, 1/10th GY, 1/4th RO, 1/5th GO, 1/5th GY, 1/8th RB, 1/4th RO, 1/9th RB",
+            l_image : "'iwritesins_lead.png'",
+            lscore : "223056",
+
+            mpath : "2(+1)/9th R, 2/NN, 2/3rd G, 1/NN, 1/NN, 1/9th G, 1/NN",
+            m_image : "'iwritesins_mbass.png'",
+            mscore : "160464",
             } 
         },
 { value : "Juicy by The Notorious B.I.G.", 
@@ -6754,6 +6783,35 @@ const songs = [
             mpath : "3(+1)/2nd R, 1/NN, 1/3rd G, 3(+1)/4th R, 1/NN",
             m_image : "'nightrosessong_mbass.png'",
             mscore : "145980",
+            } 
+        },
+{ value : "No Scrubs by TLC", 
+            data : {
+            shortname : "noscrubs",
+
+            dpath : "1/6th RY, 1/12th RY, 1/4th RY, 1/NN, 2/1st GO, 1/NN, 1/4th RY, 1/10th RY, 1/4th RY",
+            d_image : "'noscrubs_drums.png'",
+            dscore : "254016",
+
+            vpath : "1/9th Y, 1/14th O, 1/NN, 1/12th Y, 3(+1)/13th B, 1/NN, 1/NN",
+            v_image : "'noscrubs_vocals.png'",
+            vscore : "235801",
+
+            gpath : "1/NN, 1/NN, 1/NN, 1/8th Y, 1/7th R, 1/NN, 1/After 0.33 beats, 1/NN, 1/NN",
+            g_image : "'noscrubs_guitar.png'",
+            gscore : "128275",
+
+            bpath : "1/3rd Y, 1/NN, 2/1st B, 1/5th Y, 1/NN, 1/NN",
+            b_image : "'noscrubs_bass.png'",
+            bscore : "87312",
+
+            lpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/7th G, 1/NN, 1/After 0.33 beats, 1/NN, 1/NN",
+            l_image : "'noscrubs_lead.png'",
+            lscore : "127183",
+
+            mpath : "1/3rd Y, 1/NN, 2/1st B, 1/5th Y, 1/NN, 1/NN",
+            m_image : "'noscrubs_mbass.png'",
+            mscore : "87312",
             } 
         },
 { value : "Nothing Else Matters by Metallica", 
@@ -8581,6 +8639,35 @@ const songs = [
             mpath : "1/8th B, 4(+1)/5th RB, 4(+1)/4th Y, 1/17th RO, 1/13th RO, 1/17th RO, 1/5th GY",
             m_image : "'snow_mbass.png'",
             mscore : "499047",
+            } 
+        },
+{ value : "Somebody That I Used To Know by Gotye ft. Kimbra", 
+            data : {
+            shortname : "somebodythatiusedtoknow",
+
+            dpath : "3/NN, 1/NN, 1/2nd GO, 1/6th GO, 1/NN, 3(+1)/29th B, 3/3rd O",
+            d_image : "'somebodythatiusedtoknow_drums.png'",
+            dscore : "216432",
+
+            vpath : "1/4th B, 2/NN, 1/NN, 1/5th Y, 1/21st G, 1/5th B, 1/3rd R, 1/1st GY, 1/NN",
+            v_image : "'somebodythatiusedtoknow_vocals.png'",
+            vscore : "134400",
+
+            gpath : "1/7th GR, 1/1st GR, 1(+1)/1st GY, 1/NN, 4/1st R, 1/1st R, 3/After 1 beats, 1/1st G",
+            g_image : "'somebodythatiusedtoknow_guitar.png'",
+            gscore : "120841",
+
+            bpath : "1/13th B, 1/NN, 1/NN, 1/13th B, 1/1 beats after 12th Y, 1/5th B, 1/NN, 1/NN, 1/5th B, 1/1st B, 1/NN, 1/1st B, 1/16th Y",
+            b_image : "'somebodythatiusedtoknow_bass.png'",
+            bscore : "138939",
+
+            lpath : "1/7th GY, 1/1st GY, 1(+1)/1st GB, 1/NN, 4/1st R, 1/1st Y, 3/After 1 beats, 1/1st G",
+            l_image : "'somebodythatiusedtoknow_lead.png'",
+            lscore : "120841",
+
+            mpath : "1/13th B, 1/NN, 1/NN, 1/13th B, 1/1 beats after 11th Y, 1/5th B, 1/NN, 1/NN, 1/5th B, 1/1st B, 1/NN, 1/1st B, 1/16th Y",
+            m_image : "'somebodythatiusedtoknow_mbass.png'",
+            mscore : "138939",
             } 
         },
 { value : "Somebody Told Me by The Killers", 
