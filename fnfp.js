@@ -3537,6 +3537,35 @@ const songs = [
             mscore : "124155",
             } 
         },
+{ value : "Fell In Love With A Girl by The White Stripes", 
+            data : {
+            shortname : "fellinlovewithagirl",
+
+            dpath : "1/2nd GO, 1/NN, 1/NN, 1/NN, 1/NN, 1/1st RY, 1/NN, 1/NN",
+            d_image : "'fellinlovewithagirl_drums.png'",
+            dscore : "102240",
+
+            vpath : "1/17th B, 1/4th B, 1/9th B, 1/17th B, 1/3rd Y, 1/15th B, 2/12th B",
+            v_image : "'fellinlovewithagirl_vocals.png'",
+            vscore : "100182",
+
+            gpath : "1/3rd YO, 1/NN, 1/1st GY, 1/NN, 1/1st GY, 1/1st GR, 1/1st GY, 1/NN",
+            g_image : "'fellinlovewithagirl_guitar.png'",
+            gscore : "142848",
+
+            bpath : "1/10th Y, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            b_image : "'fellinlovewithagirl_bass.png'",
+            bscore : "90504",
+
+            lpath : "1/3rd RB, 1/NN, 1/1st RY, 1/NN, 1/1st RY, 1/1st GB, 1/1st RY, 1/NN",
+            l_image : "'fellinlovewithagirl_lead.png'",
+            lscore : "145008",
+
+            mpath : "1/10th Y, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            m_image : "'fellinlovewithagirl_mbass.png'",
+            mscore : "90504",
+            } 
+        },
 { value : "Fell On Black Days by Soundgarden", 
             data : {
             shortname : "fellonblackdays",
@@ -7104,6 +7133,35 @@ const songs = [
             mscore : "500124",
             } 
         },
+{ value : "On The Floor by Jennifer Lopez ft. Pitbull", 
+            data : {
+            shortname : "onthefloor",
+
+            dpath : "2(+1)/1st GO, 1/1st GO, 1/1st GO, 1/1st GO, 1/NN, 2/1st GO, 1/3rd GO",
+            d_image : "'onthefloor_drums.png'",
+            dscore : "152316",
+
+            vpath : "1/4th Y, 1/NN, 1/1st RO, 1/9th G, 1/3rd R, 1/4th R, 3/8th B, 1/NN, 1/NN, 1/2nd R",
+            v_image : "'onthefloor_vocals.png'",
+            vscore : "251719",
+
+            gpath : "1/1st B, 1/NN, 1/1st Y, 1/1st R, 1/2nd R, 1/1st Y, 1/1st R, 1/2nd R, 1/NN, 1/NN, 1/NN, 1/NN",
+            g_image : "'onthefloor_guitar.png'",
+            gscore : "138890",
+
+            bpath : "1/1st B, 1/NN, 1/1st B, 1/NN, 1/NN, 1(+1)/1st B, 1/NN",
+            b_image : "'onthefloor_bass.png'",
+            bscore : "161940",
+
+            lpath : "1/1st B, 1/NN, 1/1st R, 1/1st R, 1/2nd R, 1/1st R, 1/1st R, 1/3rd R, 1/NN, 1/NN, 1/NN, 1/NN",
+            l_image : "'onthefloor_lead.png'",
+            lscore : "138747",
+
+            mpath : "1/7th R, 1/NN, 1/8th R, 1/NN, 1/NN, 1(+1)/1st R, 1/NN",
+            m_image : "'onthefloor_mbass.png'",
+            mscore : "161940",
+            } 
+        },
 { value : "Orbital Overload by Epic Games", 
             data : {
             shortname : "orbitaloverload",
@@ -7276,6 +7334,35 @@ const songs = [
             mpath : "1/2nd R, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/1st O, 1/NN, 1/NN, 1/NN, 1/NN",
             m_image : "'paradisepulse_mbass.png'",
             mscore : "113760",
+            } 
+        },
+{ value : "Party Like A Rock Star by Shop Boyz", 
+            data : {
+            shortname : "partylikearockstar",
+
+            dpath : "3(+1)/14th Y, 3(+1)/14th Y, 3/5th Y, 3/3rd RY, 1/NN",
+            d_image : "'partylikearockstar_drums.png'",
+            dscore : "304848",
+
+            vpath : "1/3rd R, 1/NN, 1/NN, 1/5th B, 1/13th R, 1/16th Y, 1(+1)/3rd G, 1/NN, 1/1st O, 1/4th Y, 1/1st Y, 1/4th Y, 1/7th Y",
+            v_image : "'partylikearockstar_vocals.png'",
+            vscore : "195186",
+
+            gpath : "1/4th G, 1/NN, 1/NN, 2/1st GR, 1/NN, 1/NN, 2/2nd G, 1/NN, 1/2nd B, 1/NN, 2/1st G, 1/3rd B, 1/NN",
+            g_image : "'partylikearockstar_guitar.png'",
+            gscore : "132924",
+
+            bpath : "1/1st B, 1/NN, 1/2nd O, 1/NN, 1(+1)/1st B, 1(+1)/1st B, 1/NN, 1/NN, 1/1st B, 1/2nd O, 1/1st B, 1/2nd O, 1/NN",
+            b_image : "'partylikearockstar_bass.png'",
+            bscore : "157212",
+
+            lpath : "1/4th G, 1/NN, 1/NN, 2/1st GY, 1/NN, 1/NN, 2/2nd G, 1/NN, 1/2nd Y, 1/NN, 2/1st G, 1/3rd B, 1/NN",
+            l_image : "'partylikearockstar_lead.png'",
+            lscore : "132792",
+
+            mpath : "1/1st B, 1/NN, 1/2nd O, 1/NN, 1(+1)/1st B, 1(+1)/1st B, 1/NN, 1/NN, 1/1st B, 1/2nd O, 1/1st B, 1/2nd O, 1/NN",
+            m_image : "'partylikearockstar_mbass.png'",
+            mscore : "157212",
             } 
         },
 { value : "Party Rock Anthem by LMFAO ft. Lauren Bennett & GoonRock", 
