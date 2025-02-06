@@ -2464,6 +2464,35 @@ const songs = [
             mscore : "98280",
             } 
         },
+{ value : "Closer by Ne-Yo", 
+            data : {
+            shortname : "closer2",
+
+            dpath : "1/21st GY, 1/NN, 1/NN, 1/2nd RY, 1/5th GY, 1/NN, 1/NN, 1/NN, 1/1st GY, 1/NN, 1/NN",
+            d_image : "'closer2_drums.png'",
+            dscore : "262368",
+
+            vpath : "4/1st R, 1/1st R, 1/NN, 1/8th Y, 1/4th R, 2/4th B, 1/1st G, 1/4th R, 1/2nd RO",
+            v_image : "'closer2_vocals.png'",
+            vscore : "162245",
+
+            gpath : "1/5th R, 1/NN, 1/14th B, 2(+1)/7th Y, 1/13th R, 2/1st G, 1/NN, 1/After 0.5 beats, 1/2nd R, 1/3rd R",
+            g_image : "'closer2_guitar.png'",
+            gscore : "150208",
+
+            bpath : "1/11th R, 1/2nd Y, 1/1st Y, 1/NN, 1/NN, 1/1st R, 1/3rd Y, 1/6th Y",
+            b_image : "'closer2_bass.png'",
+            bscore : "91548",
+
+            lpath : "1/5th R, 1/NN, 1/14th B, 2(+1)/4th R, 1/13th R, 2/1st G, 1/NN, 1/After 0.5 beats, 1/2nd R, 1/3rd R",
+            l_image : "'closer2_lead.png'",
+            lscore : "149680",
+
+            mpath : "1/11th R, 1/2nd Y, 1/1st Y, 1/NN, 1/NN, 1/1st R, 1/3rd Y, 1/2nd Y",
+            m_image : "'closer2_mbass.png'",
+            mscore : "91260",
+            } 
+        },
 { value : "Come & Go by Juice WRLD w/ Marshmello", 
             data : {
             shortname : "comeandgo",
@@ -4900,6 +4929,35 @@ const songs = [
             mscore : "165633",
             } 
         },
+{ value : "IDOL by YOASOBI", 
+            data : {
+            shortname : "idol",
+
+            dpath : "1/1st RY, 1/NN, 2/1st RY, 1/2nd GY, 2(+1)/5th RY, 3(+1)/1st RY, 1/1st GB",
+            d_image : "'idol_drums.png'",
+            dscore : "287856",
+
+            vpath : "1/4th B, 1/2nd G, 1/NN, 3(+1)/9th Y, 1/11th Y, 1/8th B, 1/13th G, 1/5th G, 1/1st B, 1/5th G, 1/1st R",
+            v_image : "'idol_vocals.png'",
+            vscore : "227430",
+
+            gpath : "1/16th G, 2/2nd GR, 1/9th R, 1/6th R, 1/NN, 1/NN, 1/NN, 1/3rd RY, 1/3rd B, 1/1st GB, 1/3rd R, 1/1st G, 1/15th R",
+            g_image : "'idol_guitar.png'",
+            gscore : "170448",
+
+            bpath : "2/2nd B, 1/1st B, 1/10th R, 1/11th R, 2(+1)/8th B, 3/NN, 1/NN",
+            b_image : "'idol_bass.png'",
+            bscore : "178950",
+
+            lpath : "1/19th G, 2/2nd GY, 1/4th G, 1/3rd G, 1/NN, 1/NN, 1/NN, 1/3rd RY, 1/4th B, 1/1st GB, 1/1st G, 1/2nd Y, 1/17th R",
+            l_image : "'idol_lead.png'",
+            lscore : "170304",
+
+            mpath : "2/2nd B, 1/1st B, 1/9th R, 1/11th R, 2(+1)/7th B, 3/NN, 1/NN",
+            m_image : "'idol_mbass.png'",
+            mscore : "178950",
+            } 
+        },
 { value : "I Had Some Help by Post Malone ft. Morgan Wallen", 
             data : {
             shortname : "ihadsomehelp",
@@ -7191,6 +7249,35 @@ const songs = [
             mscore : "58542",
             } 
         },
+{ value : "Overcompensate by Twenty One Pilots", 
+            data : {
+            shortname : "overcompensate",
+
+            dpath : "1/NN, 2/1st B, 1/16th R, 1/1st GO, 1(+1)/36th R, 1/1st GO",
+            d_image : "'overcompensate_drums.png'",
+            dscore : "183600",
+
+            vpath : "1/7th O, 4(+1)/4th R, 1/6th Y, 1/7th G, 1/4th G, 1/NN, 1/4th G",
+            v_image : "'overcompensate_vocals.png'",
+            vscore : "210342",
+
+            gpath : "1/4th O, 1/NN, 1/NN, 1/NN, 1/NN, 1/46th Y, 1/2nd GRY, 1/1st GRY, 1/1st GRY, 1/1st Y",
+            g_image : "'overcompensate_guitar.png'",
+            gscore : "182465",
+
+            bpath : "1/36th B, 1/9th B, 1/NN, 1(+1)/19th B, 1/NN, 1/4th R, 2/3rd G, 1/1st O",
+            b_image : "'overcompensate_bass.png'",
+            bscore : "163188",
+
+            lpath : "1/4th O, 1/NN, 1/NN, 1/NN, 1/NN, 1/42nd Y, 1/2nd RY, 1/1st RY, 1/1st RO, 1/1st Y",
+            l_image : "'overcompensate_lead.png'",
+            lscore : "176420",
+
+            mpath : "1/35th B, 1/8th B, 1/NN, 1(+1)/19th B, 1/NN, 1/4th R, 2/3rd G, 1/5th R",
+            m_image : "'overcompensate_mbass.png'",
+            mscore : "159462",
+            } 
+        },
 { value : "Oxytocin by Billie Eilish", 
             data : {
             shortname : "oxytocin",
@@ -7653,6 +7740,35 @@ const songs = [
             mpath : "2/1st B, 1/3rd O, 1/NN, 1/3rd Y, 1/NN",
             m_image : "'qlona_mbass.png'",
             mscore : "45480",
+            } 
+        },
+{ value : "Yoru Ni Kakeru by YOASOBI", 
+            data : {
+            shortname : "racingintothenight",
+
+            dpath : "1(+1)/2nd GO, 1/22nd Y, 3(+1)/2nd GO, 1(+1)/10th RY, 1/3rd G, 1(+1)/8th RY, 1/3rd G, 1/47th Y",
+            d_image : "'racingintothenight_drums.png'",
+            dscore : "266688",
+
+            vpath : "1(+1)/20th G, 1/8th R, 2(+1)/9th G, 1(+1)/8th G, 1/7th B, 1/3rd Y, 1/NN",
+            v_image : "'racingintothenight_vocals.png'",
+            vscore : "210726",
+
+            gpath : "2/11th RO, 1/4th YB, 1/2nd Y, 3(+1)/3rd G, 1/15th B, 1/7th R, 1/4th G, 2/7th R, 1/9th Y",
+            g_image : "'racingintothenight_guitar.png'",
+            gscore : "279339",
+
+            bpath : "1/6th B, 1/6th B, 3(+1)/15th R, 1(+1)/11th G, 1/11th B, 2/17th Y, 1/2nd G",
+            b_image : "'racingintothenight_bass.png'",
+            bscore : "272196",
+
+            lpath : "2/8th GO, 1/1st RO, 4(+1)/3rd G, 1/14th G, 1/5th Y, 1/1st RO, 2/7th R, 1/6th Y",
+            l_image : "'racingintothenight_lead.png'",
+            lscore : "263751",
+
+            mpath : "1/8th B, 1/6th B, 3(+1)/16th R, 1(+1)/12th G, 1/11th B, 2/28th G, 1/2nd G",
+            m_image : "'racingintothenight_mbass.png'",
+            mscore : "272196",
             } 
         },
 { value : "Radioactive by Imagine Dragons", 
