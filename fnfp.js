@@ -1304,6 +1304,35 @@ const songs = [
             mscore : "71196",
             } 
         },
+{ value : "Bling-Bang-Bang-Born by Creepy Nuts", 
+            data : {
+            shortname : "blingbangbangborn",
+
+            dpath : "1/1st GB, 1/1st RO, 1/1st RY, 3(+1)/1st GB, 1/1st RO, 1/1st RY, 1/NN, 1/1st RO, 1/6th RO",
+            d_image : "'blingbangbangborn_drums.png'",
+            dscore : "153648",
+
+            vpath : "1/11th R, 1/NN, 1/NN, 4(+1)/3rd R, 2/NN, 1/1st O",
+            v_image : "'blingbangbangborn_vocals.png'",
+            vscore : "236271",
+
+            gpath : "1/5th YO, 1/2nd RB, 1/NN, 1/NN, 2(+1)/1st YO, 1/NN, 1/9th YO, 1/NN, 1/NN",
+            g_image : "'blingbangbangborn_guitar.png'",
+            gscore : "163584",
+
+            bpath : "1/6th G, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/9th Y, 1/NN",
+            b_image : "'blingbangbangborn_bass.png'",
+            bscore : "117108",
+
+            lpath : "1/5th RB, 1/2nd RY, 1/NN, 1/NN, 2(+1)/1st RB, 1/NN, 1/5th RB, 1/NN, 1/NN",
+            l_image : "'blingbangbangborn_lead.png'",
+            lscore : "129744",
+
+            mpath : "1/6th G, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/9th Y, 1/NN",
+            m_image : "'blingbangbangborn_mbass.png'",
+            mscore : "117108",
+            } 
+        },
 { value : "Blitzkrieg Bop by Ramones", 
             data : {
             shortname : "blitzkriegbop",
@@ -5683,6 +5712,35 @@ const songs = [
             mscore : "47844",
             } 
         },
+{ value : "Last Resort (2020) by Papa Roach", 
+            data : {
+            shortname : "lastresort",
+
+            dpath : "1/NN, 1/NN, 1/5th GY, 1/1st GY, 1/4th GB, 1/6th GB, 1(+1)/1st GO",
+            d_image : "'lastresort_drums.png'",
+            dscore : "177552",
+
+            vpath : "1/5th B, 1/7th R, 1/8th R, 2(+1)/7th Y, 1/NN",
+            v_image : "'lastresort_vocals.png'",
+            vscore : "127650",
+
+            gpath : "4/NN, 2/8th YO, 1/NN",
+            g_image : "'lastresort_guitar.png'",
+            gscore : "271152",
+
+            bpath : "1/7th G, 2/3rd G, 1/NN, 1(+1)/9th G, 1/NN",
+            b_image : "'lastresort_bass.png'",
+            bscore : "207900",
+
+            lpath : "4/NN, 2/8th RO, 1/NN",
+            l_image : "'lastresort_lead.png'",
+            lscore : "265248",
+
+            mpath : "1/7th G, 2/3rd G, 1/NN, 1(+1)/9th G, 1/NN",
+            m_image : "'lastresort_mbass.png'",
+            mscore : "207684",
+            } 
+        },
 { value : "Lean Back by Terror Squad ft. Remy & Fat Joe", 
             data : {
             shortname : "leanback",
@@ -5942,6 +6000,35 @@ const songs = [
             mpath : "1/NN, 1/NN, 2/7th O, 1/4th G, 1(+1)/19th G, 2/6th G, 1/23rd R, 1/9th G",
             m_image : "'lordofthewasteland_mbass.png'",
             mscore : "264537",
+            } 
+        },
+{ value : "Lose Control by Teddy Swims", 
+            data : {
+            shortname : "losecontrol",
+
+            dpath : "3(+1)/3rd RY, 1/2nd RY, 1/1st RO, 1/5th GY, 1/NN, 1(+1)/3rd RY, 1/1st GO, 1/NN, 1/1st B, 1/2nd RY, 1/6th Y, 1/2nd Y, 1/11th Y",
+            d_image : "'losecontrol_drums.png'",
+            dscore : "144834",
+
+            vpath : "2/3rd Y, 1/1st G, 1/2nd B, 1/1st Y, 1/NN, 1/4th B, 1/3rd B, 1/3rd B, 1/1st O, 1/1st B, 1/7th R, 1/1st B, 1/4th Y, 1/NN, 1(+1)/1.5 beats after 4th Y",
+            v_image : "'losecontrol_vocals.png'",
+            vscore : "158526",
+
+            gpath : "1/6th RY, 1/NN, 1(+1)/10th RY, 3(+1)/7th RY, 1/NN, 1(+1)/2 beats after 2nd B, 1/1st R, 4(+2)/1st RY, 1/NN",
+            g_image : "'losecontrol_guitar.png'",
+            gscore : "145820",
+
+            bpath : "4(+2)/2nd B, 1/3rd R, 1/NN, 1(+1)/4th G, 1(+1)/2nd Y, 1/4th G, 2/8th Y, 1/5th Y",
+            b_image : "'losecontrol_bass.png'",
+            bscore : "102132",
+
+            lpath : "1/6th RO, 1/NN, 1/NN, 4(+1)/4th Y, 1/NN, 1(+1)/2 beats after 2nd B, 1/1st R, 4(+2)/1st RY, 1/NN",
+            l_image : "'losecontrol_lead.png'",
+            lscore : "135908",
+
+            mpath : "4(+2)/2nd B, 1(+1)/3rd Y, 1(+1)/4th G, 1(+1)/2nd Y, 1/4th G, 2/8th Y, 1/5th G",
+            m_image : "'losecontrol_mbass.png'",
+            mscore : "101700",
             } 
         },
 { value : "Love Don't Cost A Thing by Jennifer Lopez", 
