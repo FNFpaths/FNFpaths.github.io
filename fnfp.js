@@ -115,6 +115,35 @@ const songs = [
             mscore : "44064",
             } 
         },
+{ value : "Airplanes by B.o.B. ft. Hayley Williams", 
+            data : {
+            shortname : "airplanes",
+
+            dpath : "3/2nd GY, 2(+1)/4th GY, 1/9th O",
+            d_image : "'airplanes_drums.png'",
+            dscore : "129192",
+
+            vpath : "1/12th Y, 3/1st Y, 1/NN, 1/7th R, 1/NN",
+            v_image : "'airplanes_vocals.png'",
+            vscore : "169962",
+
+            gpath : "1/4th YO, 2/1st RB, 3/NN, 1/NN",
+            g_image : "'airplanes_guitar.png'",
+            gscore : "138684",
+
+            bpath : "2(+1)/3rd G, 2/8th O",
+            b_image : "'airplanes_bass.png'",
+            bscore : "77472",
+
+            lpath : "1/NN, 2/1st RB, 1/NN, 2/NN, 1/NN",
+            l_image : "'airplanes_lead.png'",
+            lscore : "129036",
+
+            mpath : "2(+1)/3rd G, 1/NN, 1/NN",
+            m_image : "'airplanes_mbass.png'",
+            mscore : "71892",
+            } 
+        },
 { value : "All Eyez On Me by 2Pac ft. Big Syke", 
             data : {
             shortname : "alleyezonme",
@@ -11336,6 +11365,35 @@ const songs = [
             mpath : "2(+1)/1st Y, 1/2nd Y, 1/1st Y, 1/1st Y, 1/1st Y, 1/1st Y",
             m_image : "'whineup_mbass.png'",
             mscore : "76320",
+            } 
+        },
+{ value : "Who Let The Dogs Out by Baha Men", 
+            data : {
+            shortname : "wholetthedogsout",
+
+            dpath : "1/1st R, 1/NN, 1/13th Y, 1/14th O, 1/1st Y, 1/15th O, 1/13th Y, 1/1st RY, 1/1st GB, 1/1st GB, 1/1st GB",
+            d_image : "'wholetthedogsout_drums.png'",
+            dscore : "178848",
+
+            vpath : "1/6th R, 1/16th G, 1/8th G, 3(+2)/22nd G, 2(+1)/4th Y",
+            v_image : "'wholetthedogsout_vocals.png'",
+            vscore : "204132",
+
+            gpath : "1/3rd G, 1/1st YO, 1/5th G, 1/NN, 1/9th R, 1/5th G",
+            g_image : "'wholetthedogsout_guitar.png'",
+            gscore : "87804",
+
+            bpath : "1/5th R, 1/NN, 1/1st G, 1/NN, 1/1st B, 1/2nd R, 1/5th B, 1/1st B, 1/1st B, 1/4th Y",
+            b_image : "'wholetthedogsout_bass.png'",
+            bscore : "108870",
+
+            lpath : "1/3rd G, 1/1st RB, 1/5th G, 1/NN, 1/9th R, 1/7th G",
+            l_image : "'wholetthedogsout_lead.png'",
+            lscore : "82428",
+
+            mpath : "1/5th Y, 1/NN, 1/1st G, 1/NN, 1/1st B, 1/3rd R, 1/5th B, 1/1st B, 1/1st B, 1/4th R",
+            m_image : "'wholetthedogsout_mbass.png'",
+            mscore : "108114",
             } 
         },
 { value : "Wild Ones by Flo Rida ft. Sia", 
