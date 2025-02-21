@@ -2696,6 +2696,35 @@ const songs = [
             mscore : "53823",
             } 
         },
+{ value : "Crimson Barony  by Epic Games", 
+            data : {
+            shortname : "crimsonbarony",
+
+            dpath : "2/3rd RY, 1/NN, 4(+1)/3rd Y, 1(+1)/13th Y",
+            d_image : "'crimsonbarony_drums.png'",
+            dscore : "172224",
+
+            vpath : "3(+1)/2nd G, 2/3rd B, 2(+1)/1st O",
+            v_image : "'crimsonbarony_vocals.png'",
+            vscore : "75615",
+
+            gpath : "1(+1)/2nd GB, 2/NN, 2/1st BO, 2/3rd O, 1/2nd O",
+            g_image : "'crimsonbarony_guitar.png'",
+            gscore : "69420",
+
+            bpath : "4(+1)/2nd R, 1/3rd G, 1/NN, 1/NN, 1/1st R, 1/1st B",
+            b_image : "'crimsonbarony_bass.png'",
+            bscore : "64833",
+
+            lpath : "1(+1)/2nd GY, 2/NN, 2/1st RO, 2/3rd O, 1/2nd O",
+            l_image : "'crimsonbarony_lead.png'",
+            lscore : "67575",
+
+            mpath : "4(+1)/2nd R, 1/3rd G, 1/NN, 1/NN, 1/1st R, 1/1st B",
+            m_image : "'crimsonbarony_mbass.png'",
+            mscore : "62250",
+            } 
+        },
 { value : "Daisy 2.0 by Ashnikko ft. Hatsune Miku", 
             data : {
             shortname : "daisy",
@@ -2955,6 +2984,35 @@ const songs = [
             mpath : "4(+1)/2nd G",
             m_image : "'dogdaysareover_mbass.png'",
             mscore : "20136",
+            } 
+        },
+{ value : "Don't Cross Me by Epic Games", 
+            data : {
+            shortname : "dontcrossme",
+
+            dpath : "1/NN, 1/6th GY, 1/NN, 1/4th GY, 1/1st RY, 1/NN, 1/7th R, 1/6th GY, 1/2nd GY",
+            d_image : "'dontcrossme_drums.png'",
+            dscore : "177984",
+
+            vpath : "1/17th Y, 2/3rd B, 1/6th Y, 1/7th Y, 1/1st R, 1/9th B, 1/2nd B",
+            v_image : "'dontcrossme_vocals.png'",
+            vscore : "148920",
+
+            gpath : "1/2nd GB, 1/3rd GB, 1/2nd GB, 1/NN, 1/1st GB, 4/1st RBO",
+            g_image : "'dontcrossme_guitar.png'",
+            gscore : "207504",
+
+            bpath : "2/5th G, 1/1st Y, 1/4th B, 1/1st O, 1/NN, 1/3rd B",
+            b_image : "'dontcrossme_bass.png'",
+            bscore : "37164",
+
+            lpath : "1/2nd GB, 1/3rd GB, 1/2nd GB, 2/1st GB, 4/2nd RO",
+            l_image : "'dontcrossme_lead.png'",
+            lscore : "174624",
+
+            mpath : "2/5th G, 1/1st Y, 1/4th B, 1/1st O, 1/NN, 1/3rd B",
+            m_image : "'dontcrossme_mbass.png'",
+            mscore : "36990",
             } 
         },
 { value : "(Don't Fear) The Reaper by Blue Öyster Cult", 
@@ -8175,6 +8233,35 @@ const songs = [
             mpath : "2(+1)/6th R, 1/NN, 2/4th Y, 1/NN, 1/6th O, 1/8th R, 1/NN, 1/4th R",
             m_image : "'rubysoho_mbass.png'",
             mscore : "142062",
+            } 
+        },
+{ value : "Runamok by Tasty Bois (ft. Backchat)", 
+            data : {
+            shortname : "runamok",
+
+            dpath : "1/3rd GO, 1/4th GO, 1/3rd GO, 1/5th GO, 1/3rd GO",
+            d_image : "'runamok_drums.png'",
+            dscore : "96597",
+
+            vpath : "1/12th Y, 1/7th R, 1/10th R, 1/17th Y, 1/2nd Y",
+            v_image : "'runamok_vocals.png'",
+            vscore : "129622",
+
+            gpath : "1/NN, 1/1st RB, 1/NN, 1/NN, 1/11th RO",
+            g_image : "'runamok_guitar.png'",
+            gscore : "35856",
+
+            bpath : "1/1st B, 1/2nd G, 1/1st G, 1/22nd Y, 1/NN",
+            b_image : "'runamok_bass.png'",
+            bscore : "57360",
+
+            lpath : "1/NN, 1/1st RB, 1/NN, 1/NN, 1/11th RO",
+            l_image : "'runamok_lead.png'",
+            lscore : "35856",
+
+            mpath : "1/1st B, 1/2nd G, 1/1st G, 1/22nd Y, 1/NN",
+            m_image : "'runamok_mbass.png'",
+            mscore : "57360",
             } 
         },
 { value : "Runaway by WitchGang", 
