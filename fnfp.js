@@ -57,6 +57,35 @@ const songs = [
             mscore : "49554",
             } 
         },
+{ value : "Adam's Song by blink-182", 
+            data : {
+            shortname : "adamssong",
+
+            dpath : "1/1st GY, 2/1st GY, 1/2nd RB, 1/1st GY, 3(+1)/1st RO, 1/22nd R",
+            d_image : "'adamssong_drums.png'",
+            dscore : "229488",
+
+            vpath : "1/4th B, 1/1st G, 1/2nd B, 1/3rd B, 1/NN, 1/1st G, 1/4th B, 1/1st G",
+            v_image : "'adamssong_vocals.png'",
+            vscore : "93543",
+
+            gpath : "1/8th GY, 1/NN, 1/1st RB, 2/NN, 1/1st YB, 1/NN, 4/9th RB",
+            g_image : "'adamssong_guitar.png'",
+            gscore : "282738",
+
+            bpath : "2/15th O, 1/NN, 3(+1)/13th O, 1/2nd YB, 1/NN, 1/1st YB",
+            b_image : "'adamssong_bass.png'",
+            bscore : "331596",
+
+            lpath : "1/8th GY, 1/NN, 1/1st RB, 2/NN, 1/1st GB, 1/NN, 4/9th RB",
+            l_image : "'adamssong_lead.png'",
+            lscore : "282594",
+
+            mpath : "2/15th O, 1/NN, 3(+1)/13th O, 1/2nd RB, 1/NN, 1/1st RB",
+            m_image : "'adamssong_mbass.png'",
+            mscore : "331596",
+            } 
+        },
 { value : "Africa by Toto", 
             data : {
             shortname : "africa",
@@ -9772,6 +9801,35 @@ const songs = [
             mscore : "76908",
             } 
         },
+{ value : "Takaneno Hanakosan by back number", 
+            data : {
+            shortname : "takanenohanakosan",
+
+            dpath : "1/NN, 1/15th GY, 1/1st GO, 3(+1)/3rd GO, 1/15th GY, 1/1st GO, 1/2nd GY, 1/2nd GY, 1/NN, 1/18th B, 1/4th GB, 1/2nd GY, 1/6th GY, 1/7th GY",
+            d_image : "'takanenohanakosan_drums.png'",
+            dscore : "301392",
+
+            vpath : "2(+1)/8th G, 1/3rd R, 2/2nd Y, 1/4th Y, 1/NN, 1/1st R, 1/4th B, 1/7th Y, 1/5th B, 1/NN, 1/1st R",
+            v_image : "'takanenohanakosan_vocals.png'",
+            vscore : "186081",
+
+            gpath : "2/2nd RY, 1/NN, 1/1st RB, 1/9th GR, 1/NN, 1(+1)/1st RB, 1/NN, 1/1st RB, 1/NN, 1/NN, 2/3rd RY, 1/NN, 1/NN, 1/12th B",
+            g_image : "'takanenohanakosan_guitar.png'",
+            gscore : "348270",
+
+            bpath : "2/16th G, 1/11th Y, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/1st Y, 1/NN, 1/5th G, 1/16th Y, 1(+1)/6th G, 1/NN, 1/NN",
+            b_image : "'takanenohanakosan_bass.png'",
+            bscore : "277209",
+
+            lpath : "2/2nd RY, 1/NN, 1/1st RB, 1/9th GY, 1/NN, 1(+1)/1st GB, 1/NN, 1/1st RB, 1/NN, 1/NN, 2/3rd RY, 1/NN, 1/NN, 1/10th B",
+            l_image : "'takanenohanakosan_lead.png'",
+            lscore : "346410",
+
+            mpath : "2/16th G, 1/11th Y, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/11th B, 1/NN, 1/NN, 1/NN, 1(+1)/6th G, 1/NN, 1/NN",
+            m_image : "'takanenohanakosan_mbass.png'",
+            mscore : "273303",
+            } 
+        },
 { value : "Take Me Higher by Epic Games", 
             data : {
             shortname : "takemehigher",
@@ -10495,6 +10553,35 @@ const songs = [
             mpath : "2(+1)/5th Y, 1/NN",
             m_image : "'thewawylifegoes_mbass.png'",
             mscore : "16014",
+            } 
+        },
+{ value : "The Way I Are by Timbaland ft. Keri Hilson & D.O.E.", 
+            data : {
+            shortname : "thewayiare",
+
+            dpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            d_image : "'thewayiare_drums.png'",
+            dscore : "154944",
+
+            vpath : "2/4th O, 1/NN, 1/7th O, 1/10th O, 1/NN",
+            v_image : "'thewayiare_vocals.png'",
+            vscore : "123300",
+
+            gpath : "1/13th G, 1/NN, 1/NN, 1/3rd G, 1/7th O, 1/NN, 1/NN",
+            g_image : "'thewayiare_guitar.png'",
+            gscore : "111132",
+
+            bpath : "2(+1)/14th R, 1/5th G, 1/NN, 2/NN",
+            b_image : "'thewayiare_bass.png'",
+            bscore : "65475",
+
+            lpath : "1/13th G, 1/NN, 1/NN, 1/3rd G, 1/19th B, 1/NN, 1/NN",
+            l_image : "'thewayiare_lead.png'",
+            lscore : "111132",
+
+            mpath : "2(+1)/14th R, 1/5th G, 1/NN, 2/NN",
+            m_image : "'thewayiare_mbass.png'",
+            mscore : "65475",
             } 
         },
 { value : "This Ain't A Scene, It's An Arms Race by Fall Out Boy", 
