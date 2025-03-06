@@ -5509,6 +5509,35 @@ const songs = [
             mscore : "154872",
             } 
         },
+{ value : "I Want It That Way by Backstreet Boys", 
+            data : {
+            shortname : "iwantitthatway",
+
+            dpath : "1/3rd RY, 1/7th RY, 1/NN, 2/2nd GO, 1/NN, 1/NN",
+            d_image : "'iwantitthatway_drums.png'",
+            dscore : "142128",
+
+            vpath : "2/3rd R, 1/4th R, 1/3rd R, 3/2nd B, 1/4th G, 1/3rd R",
+            v_image : "'iwantitthatway_vocals.png'",
+            vscore : "139494",
+
+            gpath : "2(+1)/1st YB, 2/4th GY, 2/NN, 1/3rd GO, 1/NN",
+            g_image : "'iwantitthatway_guitar.png'",
+            gscore : "160768",
+
+            bpath : "1/9th O, 1/3rd Y, 1/1st O, 2/6th R, 1/2nd O, 1/3rd R",
+            b_image : "'iwantitthatway_bass.png'",
+            bscore : "94588",
+
+            lpath : "2(+1)/1st GB, 2/NN, 2/NN, 1/3rd GO, 1/NN",
+            l_image : "'iwantitthatway_lead.png'",
+            lscore : "160056",
+
+            mpath : "1/2nd G, 1/3rd Y, 1/1st O, 2/6th R, 1/2nd B, 1/3rd R",
+            m_image : "'iwantitthatway_mbass.png'",
+            mscore : "90108",
+            } 
+        },
 { value : "I Wish by Skee-Lo", 
             data : {
             shortname : "iwish",
@@ -7885,6 +7914,35 @@ const songs = [
             mpath : "2(+1)/18th G, 2(+1)/1st G, 1/NN",
             m_image : "'provenza_mbass.png'",
             mscore : "84348",
+            } 
+        },
+{ value : "Pumped Up Kicks by Foster The People", 
+            data : {
+            shortname : "pumpedupkicks",
+
+            dpath : "1/4th GY, 1/4th GY, 1/7th GY, 1/4th GB, 1/4th GB, 1/4th GY, 1/7th GY, 1/4th GB, 1/4th GB, 1/4th GY, 1/3rd RY, 1/5th GB, 1/4th GB, 1/4th GB",
+            d_image : "'pumpedupkicks_drums.png'",
+            dscore : "256032",
+
+            vpath : "1/NN, 1/2nd B, 1/3rd G, 1/NN, 1/2nd O, 1/2nd O, 1/2nd B, 1/3rd B, 1/2nd B, 1/2nd B",
+            v_image : "'pumpedupkicks_vocals.png'",
+            vscore : "148197",
+
+            gpath : "1/1st R, 4(+1)/7th R, 1/2nd RB, 1/1st GR, 1/1st RO, 1/1st RB",
+            g_image : "'pumpedupkicks_guitar.png'",
+            gscore : "101364",
+
+            bpath : "1/2nd O, 1/2nd O, 1/2nd O, 1/1st O, 1/1st O, 1/1st O, 1/NN, 1/NN, 1/2nd O, 1/1st Y, 1/1st O, 1/1st O",
+            b_image : "'pumpedupkicks_bass.png'",
+            bscore : "136182",
+
+            lpath : "1/1st R, 4(+1)/7th R, 1/2nd RB, 1/1st GY, 1/2nd RB, 1/1st RB",
+            l_image : "'pumpedupkicks_lead.png'",
+            lscore : "100500",
+
+            mpath : "1/2nd O, 1/2nd O, 1/2nd O, 1/1st O, 1/1st O, 1/1st O, 1/NN, 1/NN, 1/2nd O, 1/1st Y, 1/1st O, 1/1st O",
+            m_image : "'pumpedupkicks_mbass.png'",
+            mscore : "136182",
             } 
         },
 { value : "Pump Up The Jam by Technotronic", 
@@ -10381,6 +10439,35 @@ const songs = [
             mscore : "53280",
             } 
         },
+{ value : "The Pretender by Foo Fighters", 
+            data : {
+            shortname : "thepretender",
+
+            dpath : "4/1st R, 1/3rd GO, 1/6th RY, 1/NN, 1/1st Y, 1/9th GO, 2(+1)/4th GB, 1(+1)/1st GO, 1/4th GO, 1/NN, 1/7th GO",
+            d_image : "'thepretender_drums.png'",
+            dscore : "247248",
+
+            vpath : "3/NN, 1/5th B, 2/8th O, 1/NN, 1/NN, 2/7th O, 1/NN, 1/NN, 4(+1)/15th O, 1/NN, 1/NN",
+            v_image : "'thepretender_vocals.png'",
+            vscore : "175227",
+
+            gpath : "3(+1)/1st RY, 2(+1)/11th RB, 1/NN, 2(+1)/7th RB, 1/NN, 1/1st GY, 1/9th GR, 2(+1)/1st RYO, 1/6th RYO, 1/1st RYO, 1/1st RYB",
+            g_image : "'thepretender_guitar.png'",
+            gscore : "424470",
+
+            bpath : "2/2nd B, 1/NN, 1/NN, 1/8th R, 1/NN, 1/NN, 1/2nd G, 1(+1)/17th B, 1/NN, 1/9th Y, 1/NN, 1/NN, 1/NN, 1/NN",
+            b_image : "'thepretender_bass.png'",
+            bscore : "266760",
+
+            lpath : "1/2nd Y, 2/3.5 beats after 1st GO, 3(+1)/1st GY, 1/NN, 2(+1)/1st GY, 1/NN, 4(+1)/1st GO, 1/6th RY, 1/5th RO, 1/5th RO",
+            l_image : "'thepretender_lead.png'",
+            lscore : "322286",
+
+            mpath : "2/2nd B, 1/NN, 1/NN, 1/8th R, 1/NN, 1/NN, 1/2nd G, 1(+1)/17th B, 1/NN, 1/9th Y, 1/NN, 1/NN, 1/NN, 1/NN",
+            m_image : "'thepretender_mbass.png'",
+            mscore : "266760",
+            } 
+        },
 { value : "Therefore I Am by Billie Eilish", 
             data : {
             shortname : "thereforeiam",
@@ -11191,6 +11278,35 @@ const songs = [
             mpath : "1/4th G, 1/16th Y, 1/1st Y, 1/19th Y, 1/NN, 1/NN",
             m_image : "'waytoofast_mbass.png'",
             mscore : "85920",
+            } 
+        },
+{ value : "Welcome Home by Coheed and Cambria", 
+            data : {
+            shortname : "welcomehome",
+
+            dpath : "1/6th GO, 1/NN, 1/6th GO, 2(+1)/2nd GB, 1/NN, 1/2nd GB, 2(+1)/1st GB, 1/NN, 1/NN, 1(+1)/1st RY, 3/12th GO, 1/14th GO, 1/2nd GB, 1/7th RO, 1/16th GO, 1/NN, 1/4th GO",
+            d_image : "'welcomehome_drums.png'",
+            dscore : "375264",
+
+            vpath : "1/4th R, 1/5th R, 1/1st B, 1/4th G, 1/1st B, 1/8th G, 1/NN, 1/2nd Y, 1/2nd O, 1/2nd O, 1/4th Y, 1/6th B, 1/1st Y, 1/4th R, 1/2nd R, 1/4th R",
+            v_image : "'welcomehome_vocals.png'",
+            vscore : "150849",
+
+            gpath : "1/4th Y, 3(+1)/14th B, 1/11th YB, 4(+1)/1st RB, 2(+1)/8th G, 2/5th B, 1/NN, 1/2nd Y, 1/NN, 1(+1)/7th G, 1/3rd R, 1/3rd G, 1/NN, 1/NN",
+            g_image : "'welcomehome_guitar.png'",
+            gscore : "328189",
+
+            bpath : "1/15th G, 1/6th G, 1/10th G, 1/34th G, 1/35th G, 1/29th G, 1/31st G, 1/1 beats after 3rd B, 1/1st G, 1/5th G, 1/5th G, 1/5th G, 1/13th G, 1/NN, 1/15th R, 1/NN, 1/5th G, 1/3rd R, 1/38th G, 1/31st G, 1/49th G, 1/NN, 1/35th G, 1/6th R",
+            b_image : "'welcomehome_bass.png'",
+            bscore : "383466",
+
+            lpath : "1/4th R, 3(+1)/12th R, 1/11th RY, 4(+1)/1st GB, 1/13th Y, 4(+1)/23rd R, 1/NN, 1/NN, 1(+1)/13th Y, 1/3rd R, 1/3rd G, 1/NN, 1/1st R",
+            l_image : "'welcomehome_lead.png'",
+            lscore : "316061",
+
+            mpath : "1/15th G, 1/6th G, 1/10th G, 1/34th G, 1/35th G, 1/29th G, 1/31st G, 1/1 beats after 3rd B, 1/1st G, 1/5th G, 1/5th G, 1/5th G, 1/13th G, 1/9th R, 1/16th R, 1/NN, 1/5th G, 1/2nd R, 1/38th G, 1/31st G, 1/49th G, 1/NN, 1/35th G, 1/6th R",
+            m_image : "'welcomehome_mbass.png'",
+            mscore : "380328",
             } 
         },
 { value : "Welcome to Paradise by Green Day", 
