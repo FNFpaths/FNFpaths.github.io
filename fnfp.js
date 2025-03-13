@@ -1884,6 +1884,35 @@ const songs = [
             mscore : "160920",
             } 
         },
+{ value : "Built Together by Epic Games", 
+            data : {
+            shortname : "builttogether",
+
+            dpath : "1/1st RY, 1/1st RB, 1/1st GY, 1/3rd GY, 2/NN, 1/2nd GY, 1/18th GO",
+            d_image : "'builttogether_drums.png'",
+            dscore : "171360",
+
+            vpath : "1/5th B, 1/NN, 1/7th G, 1/NN, 1/10th G, 1(+1)/1st Y",
+            v_image : "'builttogether_vocals.png'",
+            vscore : "78747",
+
+            gpath : "1/NN, 1/4th RB, 1/2nd O, 1/1st R, 2/1st Y, 1/NN, 1/14th R",
+            g_image : "'builttogether_guitar.png'",
+            gscore : "151140",
+
+            bpath : "3/5th G, 1/3rd Y, 1/1st Y, 2/10th G, 1/10th Y",
+            b_image : "'builttogether_bass.png'",
+            bscore : "126092",
+
+            lpath : "1/NN, 1/3rd GB, 1/2nd O, 3/1st O, 1/NN, 1/11th R",
+            l_image : "'builttogether_lead.png'",
+            lscore : "145680",
+
+            mpath : "3/5th G, 1/1st G, 1/3rd Y, 2/10th G, 1/1st Y",
+            m_image : "'builttogether_mbass.png'",
+            mscore : "118080",
+            } 
+        },
 { value : "Bulls On Parade by Rage Against The Machine", 
             data : {
             shortname : "bullsonparade",
@@ -2868,6 +2897,35 @@ const songs = [
             mpath : "1/4th RY, 1/4th RY, 1/13th G, 3(+1)/17th G",
             m_image : "'daynnite_mbass.png'",
             mscore : "70392",
+            } 
+        },
+{ value : "Decade by Dixie Flatline ft. Hatsune Miku", 
+            data : {
+            shortname : "decade",
+
+            dpath : "1/29th Y, 1/9th G, 3/1st R, 1/9th G, 1/NN, 1/NN, 1/NN, 1/NN",
+            d_image : "'decade_drums.png'",
+            dscore : "136656",
+
+            vpath : "1/1st O, 1/1st O, 1/6th R, 1/10th Y, 1/3rd B, 1/9th R, 1/2nd G, 1/15th Y, 1/14th Y, 1/NN",
+            v_image : "'decade_vocals.png'",
+            vscore : "166791",
+
+            gpath : "3(+1)/2nd RY, 1/NN, 3(+1)/1st RY, 1/NN, 1/NN",
+            g_image : "'decade_guitar.png'",
+            gscore : "302922",
+
+            bpath : "1(+1)/12th R, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            b_image : "'decade_bass.png'",
+            bscore : "161751",
+
+            lpath : "3(+1)/11th RB, 1/NN, 3(+1)/6th RB, 1/NN, 1/NN",
+            l_image : "'decade_lead.png'",
+            lscore : "302922",
+
+            mpath : "1(+1)/12th R, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            m_image : "'decade_mbass.png'",
+            mscore : "161751",
             } 
         },
 { value : "Demons by Imagine Dragons", 
@@ -6551,6 +6609,35 @@ const songs = [
             mpath : "1/3rd G, 1/3rd G, 1/6th G, 1/1st R, 1/2nd R, 3(+1)/21st G, 1/NN, 1/NN, 1/1st G, 4(+1)/4th Y, 1/NN, 1/7th B, 1/NN, 1/NN, 1/1st R, 1/NN, 1/11th R, 1/6th R, 1/2nd R, 1/7th B, 1/3rd R, 1/NN, 1/NN, 4(+1)/3rd G",
             m_image : "'masterofpuppets_mbass.png'",
             mscore : "648720",
+            } 
+        },
+{ value : "Melt by ryo (supercell) ft. Hatsune Miku", 
+            data : {
+            shortname : "melt",
+
+            dpath : "1/NN, 1/5th O, 2(+1)/2nd GO, 2/1st GO, 2/4th RY, 2/NN, 1/NN, 1/3rd Y, 2(+1)/5th GO, 1/NN, 1/1st RB",
+            d_image : "'melt_drums.png'",
+            dscore : "282240",
+
+            vpath : "1(+1)/3rd G, 1/NN, 2(+1)/11th Y, 1/2nd Y, 1/2nd Y, 1/5th Y, 1/5th R, 2(+1)/1st RB, 3/1st RB",
+            v_image : "'melt_vocals.png'",
+            vscore : "194040",
+
+            gpath : "2/17th B, 1/3rd Y, 1/1st O, 1/4th RB, 2(+1)/5th O, 1/NN, 1/1st GR, 1/4th RB, 3(+1)/3rd RO, 2/NN, 2/1.6 beats after 12th Y",
+            g_image : "'melt_guitar.png'",
+            gscore : "193374",
+
+            bpath : "1/NN, 1/NN, 1/NN, 1/2nd G, 1/4th G, 1/4th B, 1/NN, 2/17th O, 1/11th G, 1/4th G, 1/10th B, 1/7th R, 1/4th Y, 1/4th G, 1/10th B, 1/6th R",
+            b_image : "'melt_bass.png'",
+            bscore : "305034",
+
+            lpath : "2/17th B, 1/3rd R, 1/1st O, 1/3rd RY, 2(+1)/5th O, 1/NN, 1/2nd GY, 1/3rd RY, 3(+1)/2nd RB, 2/NN, 2/1.7 beats after 6th B",
+            l_image : "'melt_lead.png'",
+            lscore : "190310",
+
+            mpath : "1/NN, 1/NN, 1/NN, 1/2nd G, 1/4th G, 1/4th B, 1/NN, 2/17th O, 1/11th G, 1/4th G, 1/10th B, 1/7th R, 1/4th Y, 1/4th G, 1/10th B, 1/1st R",
+            m_image : "'melt_mbass.png'",
+            mscore : "304830",
             } 
         },
 { value : "Me Too by Meghan Trainor", 
