@@ -10816,6 +10816,35 @@ const songs = [
             mscore : "99012",
             } 
         },
+{ value : "Through the Fire and Flames by DragonForce", 
+            data : {
+            shortname : "throughthefireandflames",
+
+            dpath : "2/19th O, 1/5th Y, 2(+1)/1st RB, 1/25th O, 1/4th Y, 1/7th O, 1/28th O, 3(+1)/1st Y, 1/1st RB, 1/24th O, 1/13th O, 1/54th O, 2(+1)/1st Y, 1/17th O, 1/26th R, 1/6th O, 1/21st R, 1/1st Y, 1/19th O, 1/19th O, 1/1st Y, 1/NN, 1/NN, 2/19th O, 1(+1)/4th B, 1/1st RB",
+            d_image : "'throughthefireandflames_drums.png'",
+            dscore : "654528",
+
+            vpath : "1/6th B, 1/4th Y, 1/NN, 1/2nd Y, 1/1st B, 2(+1)/2nd Y, 1/2nd Y, 1/NN, 1/2nd B, 2(+1)/2nd GO, 1/NN, 1/4th G, 1/5th Y, 1/1st G",
+            v_image : "'throughthefireandflames_vocals.png'",
+            vscore : "172200",
+
+            gpath : "1/NN, 1/NN, 1/5th GY, 1/1st RB, 1/3rd G, 1/3rd O, 1/1st GY, 1/NN, 4(+1)/6th B, 1/4th O, 1/1st GY, 1/1st RB, 1/4 beats after 1st YB, 3/2nd GY, 1/1st O, 1/NN, 1/3rd R, 1/2nd G, 2/6th O, 1/1st Y, 1/1st G, 2/NN, 1/19th B, 1/2nd R, 2/1st RB, 1(+1)/11th Y, 2/4th O",
+            g_image : "'throughthefireandflames_guitar.png'",
+            gscore : "757068",
+
+            bpath : "2/15th R, 1/9th G, 2(+1)/1st G, 1/NN, 1/1st G, 1/1st G, 1/30th B, 1/14th B, 2(+1)/1st G, 1/1st G, 1/1st R, 1/NN, 3(+1)/3rd B, 1/1st G, 1/1.5 beats after 32nd B, 1/1st G, 1/NN, 1/1st G, 1/1st R, 1/16th B, 1/NN, 1/NN, 2(+1)/4th R, 1/6th B, 1/16th G, 1/NN",
+            b_image : "'throughthefireandflames_bass.png'",
+            bscore : "755616",
+
+            lpath : "1/15th R, 1/NN, 1/1st RB, 1/1st RB, 1/10th G, 1/2nd O, 1/2nd Y, 1/NN, 1/NN, 1/4th Y, 1/1st G, 2/NN, 1/10th O, 1/2nd Y, 1/1st RB, 1/4 beats after 1st RO, 3/2nd GB, 1/1st O, 1/NN, 1/3rd G, 1/2nd G, 2/6th O, 1/1st B, 1/1st G, 2/NN, 1/2nd Y, 1/2nd Y, 3(+1)/10th Y, 1/19th B, 1/5th O",
+            l_image : "'throughthefireandflames_lead.png'",
+            lscore : "709212",
+
+            mpath : "2/15th R, 1/9th G, 2(+1)/1st G, 1/NN, 1/1st G, 1/1st G, 1/30th B, 1/14th B, 2(+1)/1st G, 1/1st G, 1/1st R, 1/NN, 3(+1)/3rd B, 1/1st G, 1/1.5 beats after 32nd B, 1/1st G, 1/NN, 1/1st G, 1/1st R, 1/16th B, 1/NN, 1/NN, 2(+1)/2nd R, 1/6th B, 1/7th G, 1/NN",
+            m_image : "'throughthefireandflames_mbass.png'",
+            mscore : "754536",
+            } 
+        },
 { value : "Thunder by Imagine Dragons", 
             data : {
             shortname : "thunder",
