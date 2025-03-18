@@ -115,6 +115,35 @@ const songs = [
             mscore : "174753",
             } 
         },
+{ value : "Ain't It Fun by Paramore", 
+            data : {
+            shortname : "aintitfun",
+
+            dpath : "1/2nd RY, 1/2nd O, 1/3rd GO, 1/1st RY, 1/2nd G, 3/1st RY, 1/6th RY, 1/6th GO, 1/6th GO, 1/7th GO, 1/1st B, 1/11th GO",
+            d_image : "'aintitfun_drums.png'",
+            dscore : "232848",
+
+            vpath : "1/1st O, 1/1st O, 1/1st G, 1/12th B, 1(+1)/5th R, 1/4th R, 1/6th G, 1/1st G, 1/8th B, 1/5th G, 1/2nd R, 1/5th Y",
+            v_image : "'aintitfun_vocals.png'",
+            vscore : "181377",
+
+            gpath : "2(+1)/2nd RB, 2/6th RY, 1/1st YO, 1/NN, 2/NN, 1/1st GY, 2/1st GYB, 1/NN",
+            g_image : "'aintitfun_guitar.png'",
+            gscore : "255664",
+
+            bpath : "1/3rd R, 1/1st R, 1/5th R, 1/9th G, 1/2nd R, 1/5th B, 1/34th R, 1/6th O, 1/2nd R, 1/8th Y, 1/2nd G, 1/3rd B, 1/17th B",
+            b_image : "'aintitfun_bass.png'",
+            bscore : "280989",
+
+            lpath : "2(+1)/2nd RB, 2/5th RY, 1/4th GY, 1/NN, 2/NN, 1/1st GY, 1/NN, 1/9th R, 1/NN",
+            l_image : "'aintitfun_lead.png'",
+            lscore : "240668",
+
+            mpath : "1/2nd R, 1/1st R, 1/2nd R, 1/11th R, 1/6th R, 1/5th B, 1/34th R, 1/6th O, 1/11th G, 1/6th B, 1/2nd G, 1/2nd B, 1/12th Y",
+            m_image : "'aintitfun_mbass.png'",
+            mscore : "274509",
+            } 
+        },
 { value : "Ain't No Rest For The Wicked by Cage The Elephant", 
             data : {
             shortname : "aintnorestforthewicked",
@@ -8322,6 +8351,35 @@ const songs = [
             mscore : "52929",
             } 
         },
+{ value : "Roar by Katy Perry", 
+            data : {
+            shortname : "roar",
+
+            dpath : "1/NN, 4(+1)/2nd GY, 1/NN, 1/NN",
+            d_image : "'roar_drums.png'",
+            dscore : "184464",
+
+            vpath : "1/15th B, 1/NN, 1/8th G, 1/NN, 1/1st Y, 1/12th G, 1/2nd G, 1/8th G",
+            v_image : "'roar_vocals.png'",
+            vscore : "148938",
+
+            gpath : "1/NN, 1/NN, 2/NN, 1/NN, 2(+1)/2nd RY",
+            g_image : "'roar_guitar.png'",
+            gscore : "156288",
+
+            bpath : "3(+1)/4th B, 1/NN, 2/4th Y, 1/NN",
+            b_image : "'roar_bass.png'",
+            bscore : "62517",
+
+            lpath : "1/NN, 1/NN, 2/NN, 1/NN, 2(+1)/2nd RY",
+            l_image : "'roar_lead.png'",
+            lscore : "154968",
+
+            mpath : "4(+1)/2nd Y, 2/3rd Y, 1/NN",
+            m_image : "'roar_mbass.png'",
+            mscore : "41064",
+            } 
+        },
 { value : "Robbery by Juice WRLD", 
             data : {
             shortname : "robbery",
@@ -9509,6 +9567,35 @@ const songs = [
             mpath : "1/4th G, 2/13th R",
             m_image : "'stickseason_mbass.png'",
             mscore : "67116",
+            } 
+        },
+{ value : "Still Into You by Paramore", 
+            data : {
+            shortname : "stillintoyou",
+
+            dpath : "1/3rd Y, 1/8th GY, 1/9th O, 3/5th O, 1/NN, 1/NN, 2(+1)/2nd GO, 1/NN",
+            d_image : "'stillintoyou_drums.png'",
+            dscore : "181152",
+
+            vpath : "1/2nd O, 1/4th B, 1/4th G, 1/NN, 1/2nd O, 1/2nd O, 1/4th G, 1/NN, 1/1st O, 1/2nd Y, 1/5th G",
+            v_image : "'stillintoyou_vocals.png'",
+            vscore : "133869",
+
+            gpath : "2/8th GRB, 4(+1)/2nd GYB, 4/7th B, 1/1st RBO",
+            g_image : "'stillintoyou_guitar.png'",
+            gscore : "255828",
+
+            bpath : "2(+1)/5th Y, 1/NN, 2/8th B, 1/13th Y, 1/8th R, 1/NN, 1/1st G, 1/1st Y, 1/NN",
+            b_image : "'stillintoyou_bass.png'",
+            bscore : "201384",
+
+            lpath : "2/5th GB, 3(+2)/13th Y, 4/7th B, 1/5th GB",
+            l_image : "'stillintoyou_lead.png'",
+            lscore : "211296",
+
+            mpath : "2(+1)/2nd R, 1/NN, 2/8th B, 1/2nd R, 1/11th R, 1/NN, 1/1st G, 1/1st Y, 1/8th B",
+            m_image : "'stillintoyou_mbass.png'",
+            mscore : "198468",
             } 
         },
 { value : "Stitches by Shawn Mendes", 
