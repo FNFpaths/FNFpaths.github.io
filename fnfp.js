@@ -6727,7 +6727,7 @@ const songs = [
             mscore : "132468",
             } 
         },
-{ value : "Mi Gente by J. Balvin & Willy William", 
+{ value : "Mi Gente by J Balvin & Willy William", 
             data : {
             shortname : "migente",
 
@@ -7945,7 +7945,7 @@ const songs = [
             mscore : "160992",
             } 
         },
-{ value : "Popular  by The Weeknd, Madonna & Playboi Carti", 
+{ value : "Popular by The Weeknd, Madonna & Playboi Carti", 
             data : {
             shortname : "popular",
 
@@ -12179,7 +12179,7 @@ const songs = [
             mscore : "70674",
             } 
         },
-{ value : "XO Tour Llif3  by Lil Uzi Vert", 
+{ value : "XO Tour Llif3 by Lil Uzi Vert", 
             data : {
             shortname : "xotourlif3",
 
