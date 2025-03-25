@@ -3653,6 +3653,35 @@ const songs = [
             mscore : "397134",
             } 
         },
+{ value : "Faint by Linkin Park", 
+            data : {
+            shortname : "faint",
+
+            dpath : "1/2nd GO, 1/1st GO, 1/2nd GO, 1/NN, 1/1st GO, 1/2nd GO, 1/NN, 1/3rd GO, 1/4th RB",
+            d_image : "'faint_drums.png'",
+            dscore : "151632",
+
+            vpath : "1/4th G, 1/15th B, 1/5th G, 1/1st G, 1/4th B, 1/4th B, 1/7th Y, 1/1st Y",
+            v_image : "'faint_vocals.png'",
+            vscore : "133380",
+
+            gpath : "1/2nd RO, 1/2nd RB, 1(+1)/2nd RO, 2/1st GY, 1/6th RO, 1(+1)/2nd RO, 1/18th RO",
+            g_image : "'faint_guitar.png'",
+            gscore : "170069",
+
+            bpath : "1(+1)/1st G, 1/NN, 1/1st G, 1/1st Y, 1/NN, 1/NN, 1/NN",
+            b_image : "'faint_bass.png'",
+            bscore : "112545",
+
+            lpath : "1/2nd RB, 1/2nd GB, 1(+1)/2nd RB, 2/1st GY, 1/6th RB, 1(+1)/10th RB, 1/18th RB",
+            l_image : "'faint_lead.png'",
+            lscore : "170071",
+
+            mpath : "1(+1)/1st G, 1/NN, 1/1st G, 1/1st Y, 1/NN, 1/NN, 1/NN",
+            m_image : "'faint_mbass.png'",
+            mscore : "112545",
+            } 
+        },
 { value : "Everybody Falls (Chill Mix) by Epic Games", 
             data : {
             shortname : "fallguys",
@@ -10379,6 +10408,35 @@ const songs = [
             mpath : "3(+1)/1st O, 3/NN",
             m_image : "'thediner_mbass.png'",
             mscore : "50808",
+            } 
+        },
+{ value : "The Emptiness Machine by Linkin Park", 
+            data : {
+            shortname : "theemptinessmachine",
+
+            dpath : "1/3rd O, 1/NN, 1/5th O, 1/13th O, 1/NN, 1/NN, 1/NN, 1/13th O, 1/2nd GO, 1/16th O, 1/NN, 1/1st GO, 1/2nd GO, 1/NN",
+            d_image : "'theemptinessmachine_drums.png'",
+            dscore : "129744",
+
+            vpath : "1/6th Y, 1/9th O, 1/6th O, 1/NN, 1/NN, 1/NN, 1/2nd O, 1/3rd B, 1/NN, 1/1st O, 1/2nd O, 1/3rd R",
+            v_image : "'theemptinessmachine_vocals.png'",
+            vscore : "111105",
+
+            gpath : "4(+1)/1st GR, 1(+1)/1st GY, 1/1st RO, 1/1st GY, 1/7th RO, 1/NN, 1/1st RB",
+            g_image : "'theemptinessmachine_guitar.png'",
+            gscore : "167640",
+
+            bpath : "1/14th B, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/2nd R",
+            b_image : "'theemptinessmachine_bass.png'",
+            bscore : "113256",
+
+            lpath : "4(+1)/1st GY, 1(+1)/5th RY, 1/1st GO, 1/1st GB, 1/3rd GO, 1/NN, 1/2nd RO",
+            l_image : "'theemptinessmachine_lead.png'",
+            lscore : "165336",
+
+            mpath : "1/14th B, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/2nd R",
+            m_image : "'theemptinessmachine_mbass.png'",
+            mscore : "113256",
             } 
         },
 { value : "The Final Countdown by Europe", 
