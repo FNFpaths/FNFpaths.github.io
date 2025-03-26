@@ -9424,6 +9424,35 @@ const songs = [
             mscore : "78048",
             } 
         },
+{ value : "Sour 'n Sweet by Epic Games", 
+            data : {
+            shortname : "sournsweet",
+
+            dpath : "2/NN, 3/2nd Y, 1/NN, 1/3rd GO, 1/NN",
+            d_image : "'sournsweet_drums.png'",
+            dscore : "178128",
+
+            vpath : "1/6th R, 2/14th Y, 1/6th G, 1/4th O, 1/4th Y, 1/3rd Y, 1/3rd Y",
+            v_image : "'sournsweet_vocals.png'",
+            vscore : "168279",
+
+            gpath : "2/1st YB, 1/NN, 2/1st G, 1/NN, 1/NN",
+            g_image : "'sournsweet_guitar.png'",
+            gscore : "107868",
+
+            bpath : "2/2nd B, 1/1st Y, 2/8th Y, 1/NN, 1/5th Y, 1/16th Y",
+            b_image : "'sournsweet_bass.png'",
+            bscore : "76728",
+
+            lpath : "2/3rd GO, 1/NN, 2/1st G, 1/NN, 1/NN",
+            l_image : "'sournsweet_lead.png'",
+            lscore : "107868",
+
+            mpath : "2/2nd B, 1/1st R, 2/8th R, 1/NN, 1/5th R, 1/16th R",
+            m_image : "'sournsweet_mbass.png'",
+            mscore : "76548",
+            } 
+        },
 { value : "So What by P!nk", 
             data : {
             shortname : "sowhat",
