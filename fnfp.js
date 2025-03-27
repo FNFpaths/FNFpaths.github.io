@@ -3667,7 +3667,7 @@ const songs = [
 
             gpath : "1/2nd RO, 1/2nd RB, 1(+1)/2nd RO, 2/1st GY, 1/6th RO, 1(+1)/2nd RO, 1/18th RO",
             g_image : "'faint_guitar.png'",
-            gscore : "170069",
+            gscore : "170164",
 
             bpath : "1(+1)/1st G, 1/NN, 1/1st G, 1/1st Y, 1/NN, 1/NN, 1/NN",
             b_image : "'faint_bass.png'",
@@ -3675,7 +3675,7 @@ const songs = [
 
             lpath : "1/2nd RB, 1/2nd GB, 1(+1)/2nd RB, 2/1st GY, 1/6th RB, 1(+1)/10th RB, 1/18th RB",
             l_image : "'faint_lead.png'",
-            lscore : "170071",
+            lscore : "170164",
 
             mpath : "1(+1)/1st G, 1/NN, 1/1st G, 1/1st Y, 1/NN, 1/NN, 1/NN",
             m_image : "'faint_mbass.png'",
