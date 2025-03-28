@@ -11425,6 +11425,35 @@ const songs = [
             mscore : "375405",
             } 
         },
+{ value : "Up From The Bottom by Linkin Park", 
+            data : {
+            shortname : "upfromthebottom",
+
+            dpath : "1/1st RY, 1/NN, 1/15th O, 1/1st RY, 2/1st Y, 1/1st Y, 1/3rd GO",
+            d_image : "'upfromthebottom_drums.png'",
+            dscore : "136080",
+
+            vpath : "1/10th Y, 2/5th Y, 2/NN, 1/NN, 1/3rd Y",
+            v_image : "'upfromthebottom_vocals.png'",
+            vscore : "131655",
+
+            gpath : "2/0.75 beats after 3rd B, 1/2nd YO, 1/1 beats after 7th B, 3(+1)/1st GY, 1/8th RY",
+            g_image : "'upfromthebottom_guitar.png'",
+            gscore : "150701",
+
+            bpath : "2(+1)/1st Y, 1/NN, 3(+1)/1st G",
+            b_image : "'upfromthebottom_bass.png'",
+            bscore : "130290",
+
+            lpath : "2/0.75 beats after 3rd B, 1/2nd RO, 1/1 beats after 7th B, 3(+1)/1st GY, 1/10th RY",
+            l_image : "'upfromthebottom_lead.png'",
+            lscore : "144560",
+
+            mpath : "2(+1)/1st Y, 1/NN, 3(+1)/1st G",
+            m_image : "'upfromthebottom_mbass.png'",
+            mscore : "129426",
+            } 
+        },
 { value : "Uptown Funk by Mark Ronson ft. Bruno Mars", 
             data : {
             shortname : "uptownfunk",
