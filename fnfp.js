@@ -4349,6 +4349,35 @@ const songs = [
             mscore : "199386",
             } 
         },
+{ value : "Gasolina by Daddy Yankee", 
+            data : {
+            shortname : "gasolina",
+
+            dpath : "2(+1)/20th O, 2/6th Y, 1/5th O, 1/3rd O",
+            d_image : "'gasolina_drums.png'",
+            dscore : "181296",
+
+            vpath : "1/NN, 1/6th R, 1/1st O, 3(+1)/7th R, 1/NN",
+            v_image : "'gasolina_vocals.png'",
+            vscore : "204321",
+
+            gpath : "1/7th G, 2/1st O, 1/10th R, 2/6th G, 1/9th G, 1/1st Y",
+            g_image : "'gasolina_guitar.png'",
+            gscore : "151344",
+
+            bpath : "1/NN, 2/3rd B, 1/1st O, 2/3rd B, 1/NN, 1/NN",
+            b_image : "'gasolina_bass.png'",
+            bscore : "104328",
+
+            lpath : "1/7th G, 2/1st O, 1/12th R, 2/6th G, 1/9th G, 1/1st Y",
+            l_image : "'gasolina_lead.png'",
+            lscore : "151344",
+
+            mpath : "1/NN, 2/3rd B, 1/1st O, 2/3rd B, 1/NN, 1/NN",
+            m_image : "'gasolina_mbass.png'",
+            mscore : "104328",
+            } 
+        },
 { value : "Get Busy by Sean Paul", 
             data : {
             shortname : "getbusy",
@@ -7104,6 +7133,35 @@ const songs = [
             mscore : "57621",
             } 
         },
+{ value : "Never Gonna Give You Up by Rick Astley", 
+            data : {
+            shortname : "nevergonnagiveyouup",
+
+            dpath : "1/NN, 1/2nd GY, 1/1st GY, 1/3rd GY, 1/2nd GY, 1/2nd GY, 1/1st GY, 1/1st GY, 1/NN, 1/2nd GY, 1/1st GY",
+            d_image : "'nevergonnagiveyouup_drums.png'",
+            dscore : "198144",
+
+            vpath : "1/1 beats after 9th B, 1/1st Y, 1/1 beats after 12th B, 1/1 beats after 2nd B, 1/2.7 beats after 7th O, 1/NN, 1/1 beats after 12th B, 1/1 beats after 2nd B, 1/1 beats after 1st B, 1/1 beats after 11th B",
+            v_image : "'nevergonnagiveyouup_vocals.png'",
+            vscore : "180852",
+
+            gpath : "1/1st GYB, 1/NN, 1/2nd GYB, 1/2nd RBO, 2/1st RY, 1/3.2 beats after 1st RYO, 1/3rd O, 1/3rd O, 1/2nd O",
+            g_image : "'nevergonnagiveyouup_guitar.png'",
+            gscore : "111885",
+
+            bpath : "1/2nd R, 1/3rd R, 1/NN, 1/5th R, 1/NN, 1/NN, 1/7th R, 1/3rd O, 1/2nd O, 1/NN",
+            b_image : "'nevergonnagiveyouup_bass.png'",
+            bscore : "227880",
+
+            lpath : "1/1st GB, 1/NN, 3(+1)/8th G, 1/3.2 beats after 1st RY, 1/3rd O, 1/3rd O, 1/2nd O",
+            l_image : "'nevergonnagiveyouup_lead.png'",
+            lscore : "99533",
+
+            mpath : "1/2nd G, 1/5th R, 1/NN, 1/7th R, 1/NN, 1/NN, 1/12th R, 1/3rd O, 1/2nd O, 1/NN",
+            m_image : "'nevergonnagiveyouup_mbass.png'",
+            mscore : "227880",
+            } 
+        },
 { value : "Next Semester by Twenty One Pilots", 
             data : {
             shortname : "nextsemester",
@@ -9538,6 +9596,35 @@ const songs = [
             mpath : "1/20th G, 1/NN, 1/3rd G, 1/NN, 1/NN, 1/NN",
             m_image : "'spiesmurdabeatz_mbass.png'",
             mscore : "71826",
+            } 
+        },
+{ value : "Stacy's Mom by Fountains of Wayne", 
+            data : {
+            shortname : "stacysmom",
+
+            dpath : "1/12th RY, 1/5th GY, 1/21st GB, 1/4th GY, 1/6th RY, 1/NN, 1/1st GO, 1/2nd GO, 1/1st GO, 1/17th GB",
+            d_image : "'stacysmom_drums.png'",
+            dscore : "221328",
+
+            vpath : "1/4th R, 1/4th G, 1/8th R, 1/7th B, 4(+1)/2nd GB",
+            v_image : "'stacysmom_vocals.png'",
+            vscore : "137169",
+
+            gpath : "3(+1)/1st RY, 1/NN, 2/6th B, 1/8th GR, 2/5th RB",
+            g_image : "'stacysmom_guitar.png'",
+            gscore : "189324",
+
+            bpath : "1/2nd G, 1/NN, 1/9th O, 1/NN, 1/NN, 1/8th O, 1/12th B, 1/NN",
+            b_image : "'stacysmom_bass.png'",
+            bscore : "159660",
+
+            lpath : "3(+1)/1st GB, 1/NN, 2/6th B, 1/8th GY, 2/6th RY",
+            l_image : "'stacysmom_lead.png'",
+            lscore : "180360",
+
+            mpath : "1/2nd G, 1/NN, 1/9th O, 1/NN, 1/NN, 1/8th O, 1/12th B, 1/NN",
+            m_image : "'stacysmom_mbass.png'",
+            mscore : "155772",
             } 
         },
 { value : "Stargazing by Myles Smith", 
