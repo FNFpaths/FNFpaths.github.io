@@ -289,6 +289,35 @@ const songs = [
             mscore : "140235",
             } 
         },
+{ value : "All My People by Epic Games", 
+            data : {
+            shortname : "allmypeople",
+
+            dpath : "1/3rd GY, 1/3rd GY, 1/1st GO, 1/NN, 1/3rd R, 1(+1)/2nd RY, 1/1st GO, 1/1st Y, 1/1st RY, 1/NN",
+            d_image : "'allmypeople_drums.png'",
+            dscore : "205056",
+
+            vpath : "1/4th R, 1/2nd O, 1/9th B, 1/5th B, 1/2nd O, 1/2nd O, 1/NN, 1/7th Y",
+            v_image : "'allmypeople_vocals.png'",
+            vscore : "90723",
+
+            gpath : "1/4th Y, 1/6th Y, 1/NN, 1/3rd Y, 4(+1)/9th B, 1/NN",
+            g_image : "'allmypeople_guitar.png'",
+            gscore : "131360",
+
+            bpath : "1/5th G, 1/NN, 1/2nd R, 1/5th G, 1/4th Y, 3(+1)/5th R, 1/9th Y",
+            b_image : "'allmypeople_bass.png'",
+            bscore : "151653",
+
+            lpath : "1/5th Y, 1/2nd R, 2/4th Y, 4(+1)/6th B, 1/NN",
+            l_image : "'allmypeople_lead.png'",
+            lscore : "129024",
+
+            mpath : "1/5th G, 1/NN, 1/3rd Y, 1/5th G, 4(+1)/3rd R, 1/15th Y",
+            m_image : "'allmypeople_mbass.png'",
+            mscore : "146997",
+            } 
+        },
 { value : "All Of Me (Tiësto's Birthday Treatment Remix) by John Legend", 
             data : {
             shortname : "allofme",
@@ -2897,6 +2926,35 @@ const songs = [
             mpath : "1/2nd B, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
             m_image : "'dancingintheflames_mbass.png'",
             mscore : "184392",
+            } 
+        },
+{ value : "Dark Horse by Katy Perry ft. Juicy J", 
+            data : {
+            shortname : "darkhorse",
+
+            dpath : "1/1st GB, 1/NN, 1/9th O, 1/1st RO, 1/NN, 1/17th O, 1/2nd RY, 1/1st RY, 1/1st G, 1/26th GB",
+            d_image : "'darkhorse_drums.png'",
+            dscore : "109224",
+
+            vpath : "1/NN, 1/8th R, 2/1st B, 4(+1)/9th R, 1/2nd Y, 1/8th R",
+            v_image : "'darkhorse_vocals.png'",
+            vscore : "170543",
+
+            gpath : "2(+1)/17th O, 1/NN, 3(+1)/2nd RY, 4/1st RY",
+            g_image : "'darkhorse_guitar.png'",
+            gscore : "114372",
+
+            bpath : "1/5th Y, 1/8th Y, 3/8th Y, 1/8th Y, 3/NN, 1/18th Y, 1/NN, 1/2nd G",
+            b_image : "'darkhorse_bass.png'",
+            bscore : "119466",
+
+            lpath : "2(+1)/17th O, 1/NN, 3(+1)/2nd RY, 4/1st RY",
+            l_image : "'darkhorse_lead.png'",
+            lscore : "114336",
+
+            mpath : "1/5th Y, 1/8th Y, 3/8th Y, 1/8th Y, 3/NN, 1/18th Y, 1/NN, 1/2nd G",
+            m_image : "'darkhorse_mbass.png'",
+            mscore : "119466",
             } 
         },
 { value : "Day 'N' Nite by Kid Cudi", 
@@ -5770,6 +5828,35 @@ const songs = [
             mscore : "145179",
             } 
         },
+{ value : "Juno by Sabrina Carpenter", 
+            data : {
+            shortname : "juno",
+
+            dpath : "1/4th GY, 1/5th RY, 1/1st GY, 1/NN, 1/1st RY, 1/3rd RY, 2(+1)/3rd RB, 1/6th RB, 1/8th RB",
+            d_image : "'juno_drums.png'",
+            dscore : "188412",
+
+            vpath : "1/2nd R, 2/5th G, 1/NN, 1/1st Y, 1/7th Y, 1/7th Y, 4/1st G",
+            v_image : "'juno_vocals.png'",
+            vscore : "141288",
+
+            gpath : "1(+1)/1st RY, 3/1st B, 3(+1)/1st BO, 2/1st BO, 1/9th GO",
+            g_image : "'juno_guitar.png'",
+            gscore : "158113",
+
+            bpath : "1/12th G, 1/5th B, 1/1st G, 1/18th G, 2/1st G, 1/1st G, 1/1st G, 1/NN, 1/NN, 1/NN, 1/1st G",
+            b_image : "'juno_bass.png'",
+            bscore : "207132",
+
+            lpath : "1(+1)/1st RY, 3/1st B, 3(+1)/1st RO, 2/1st RO, 1/1st RB",
+            l_image : "'juno_lead.png'",
+            lscore : "147033",
+
+            mpath : "1/15th G, 1/4th Y, 1/NN, 1/2nd G, 2/1st G, 1/NN, 1/1st G, 1/NN, 1/NN, 1/NN, 1/NN",
+            m_image : "'juno_mbass.png'",
+            mscore : "197529",
+            } 
+        },
 { value : "Just A Girl by No Doubt", 
             data : {
             shortname : "justagirl",
@@ -7307,6 +7394,35 @@ const songs = [
             mscore : "145980",
             } 
         },
+{ value : "Nonsense by Sabrina Carpenter", 
+            data : {
+            shortname : "nonsense",
+
+            dpath : "1/1st RY, 1/11th RY, 1/1st RY, 1/3rd GY, 1/1st RY, 1/1st RY",
+            d_image : "'nonsense_drums.png'",
+            dscore : "101376",
+
+            vpath : "1/4th Y, 1/1st G, 1/4th B, 2/3rd Y, 1/3rd B, 1/1st O, 1/7th R, 1/2nd O, 1/5th B",
+            v_image : "'nonsense_vocals.png'",
+            vscore : "148239",
+
+            gpath : "1/5th RY, 1/5th RY, 1/5th RY, 1/5th RY, 1/5th RY, 1/2nd RY, 1/2nd RY, 1/2nd RY, 1/2nd RY, 1/2nd RY",
+            g_image : "'nonsense_guitar.png'",
+            gscore : "136854",
+
+            bpath : "3/4th G, 1/3rd Y, 1/1st O, 1/4th R, 3/6th B",
+            b_image : "'nonsense_bass.png'",
+            bscore : "102918",
+
+            lpath : "1/6th R, 1/7th R, 1/6th R, 1/6th R, 1/7th R, 1/4th R, 1/4th R, 1/4th R, 1/4th R, 1/4th R",
+            l_image : "'nonsense_lead.png'",
+            lscore : "126387",
+
+            mpath : "1/1st Y, 2/3rd O, 1/3rd Y, 1/1st O, 1/NN, 1/5th B, 2/3rd O",
+            m_image : "'nonsense_mbass.png'",
+            mscore : "97071",
+            } 
+        },
 { value : "No Scrubs by TLC", 
             data : {
             shortname : "noscrubs",
@@ -7943,6 +8059,35 @@ const songs = [
             mpath : "1/5th R, 4(+1)/3rd G, 1/NN, 1/3rd G, 1/NN, 1/3rd G, 1/NN",
             m_image : "'pealikeme_mbass.png'",
             mscore : "145455",
+            } 
+        },
+{ value : "Please Please Please by Sabrina Carpenter", 
+            data : {
+            shortname : "pleasepleaseplease",
+
+            dpath : "1/5th GY, 1/NN, 1/14th GY, 1/4th RY, 1/7th RO, 1/10th GY, 1/2nd RY, 1/NN",
+            d_image : "'pleasepleaseplease_drums.png'",
+            dscore : "113820",
+
+            vpath : "1/4th R, 1/2nd Y, 2(+1)/5th G, 1/7th R, 2/2nd R",
+            v_image : "'pleasepleaseplease_vocals.png'",
+            vscore : "103980",
+
+            gpath : "1/18th Y, 1/11th R, 1/9th R, 1/NN, 1/NN, 1/7th G, 1/8th G, 1/8th RY",
+            g_image : "'pleasepleaseplease_guitar.png'",
+            gscore : "166329",
+
+            bpath : "2/1st Y, 1/NN, 1/8th B, 1/7th B, 1/2nd G, 1/3rd R",
+            b_image : "'pleasepleaseplease_bass.png'",
+            bscore : "80449",
+
+            lpath : "1/3rd G, 1/11th Y, 1/9th Y, 1/NN, 1/NN, 1/13th G, 1/10th G, 1/4th RO",
+            l_image : "'pleasepleaseplease_lead.png'",
+            lscore : "160059",
+
+            mpath : "2/3rd B, 1/NN, 1/NN, 1/6th B, 1/2nd G, 1/3rd R",
+            m_image : "'pleasepleaseplease_mbass.png'",
+            mscore : "71847",
             } 
         },
 { value : "Poison by Bell Biv DeVoe", 
@@ -10323,6 +10468,35 @@ const songs = [
             mscore : "119448",
             } 
         },
+{ value : "Taste by Sabrina Carpenter", 
+            data : {
+            shortname : "taste",
+
+            dpath : "1/14th GY, 1/NN, 1/1st GO, 1/2nd GY, 2/1st GB",
+            d_image : "'taste_drums.png'",
+            dscore : "114732",
+
+            vpath : "1/16th R, 1/6th R, 3/1st Y, 1/NN, 1/2nd O",
+            v_image : "'taste_vocals.png'",
+            vscore : "116534",
+
+            gpath : "1/NN, 1/1st GRB, 1/NN, 2/7th G, 1/1st GY, 1/14th R",
+            g_image : "'taste_guitar.png'",
+            gscore : "115094",
+
+            bpath : "1/4th O, 1/4th G, 1/7th G, 1/2nd G, 1/NN, 1/8th G",
+            b_image : "'taste_bass.png'",
+            bscore : "68232",
+
+            lpath : "1/1st RB, 1/1st GB, 1/NN, 2/7th G, 1/1st GY, 1/15th R",
+            l_image : "'taste_lead.png'",
+            lscore : "111118",
+
+            mpath : "1/4th O, 1/4th G, 1/7th G, 1/2nd G, 1/NN, 1/8th G",
+            m_image : "'taste_mbass.png'",
+            mscore : "66879",
+            } 
+        },
 { value : "the boy is mine by Ariana Grande", 
             data : {
             shortname : "theboyismine",
@@ -10584,6 +10758,35 @@ const songs = [
             mscore : "378801",
             } 
         },
+{ value : "The Future Me by Epic Games", 
+            data : {
+            shortname : "thefutureme",
+
+            dpath : "1/34th Y, 1/NN, 1/NN, 1/5th Y, 1/6th Y, 2/1st Y, 1/2nd Y, 1/7th Y, 1/1st GY, 1/2nd B",
+            d_image : "'thefutureme_drums.png'",
+            dscore : "243216",
+
+            vpath : "1/5th Y, 1/NN, 1/4th O, 1/6th G, 1/6th O, 2/1st Y, 1/NN",
+            v_image : "'thefutureme_vocals.png'",
+            vscore : "141564",
+
+            gpath : "1/10th B, 1/2nd O, 1/1st B, 1/2nd GR, 1/15th Y, 1/4th R, 1/2nd RYO, 1/1st Y, 1/2nd G, 1/4th B, 1/2nd RYO, 1/10th Y",
+            g_image : "'thefutureme_guitar.png'",
+            gscore : "223830",
+
+            bpath : "1/3rd R, 2/3rd Y, 1/9th Y, 1/NN, 2(+1)/4th Y, 1/8th G, 1/10th Y",
+            b_image : "'thefutureme_bass.png'",
+            bscore : "182772",
+
+            lpath : "1/16th R, 1/2nd O, 1/1st O, 2/6th B, 1/11th R, 1/3rd GO, 1/1st B, 1/2nd G, 1/1st GY, 1/3rd GO, 1/8th Y",
+            l_image : "'thefutureme_lead.png'",
+            lscore : "216177",
+
+            mpath : "1/3rd R, 2/3rd Y, 1/9th Y, 1/NN, 2(+1)/4th Y, 1/10th G, 1/10th Y",
+            m_image : "'thefutureme_mbass.png'",
+            mscore : "182772",
+            } 
+        },
 { value : "The Hand That Feeds by Nine Inch Nails", 
             data : {
             shortname : "thehandthatfeeds",
@@ -10669,6 +10872,35 @@ const songs = [
             mpath : "2(+1)/19th R, 1/NN, 3/5th R, 1/NN, 1/NN",
             m_image : "'thehuntingground_mbass.png'",
             mscore : "92232",
+            } 
+        },
+{ value : "The Last Cavallard by Epic Games", 
+            data : {
+            shortname : "thelastcavallard",
+
+            dpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/10th GY, 1/NN, 1/NN",
+            d_image : "'thelastcavallard_drums.png'",
+            dscore : "210096",
+
+            vpath : "1/0.25 beats after 11th Y, 1/3rd O, 1/6th B, 1/3rd Y, 1/3rd Y, 1/10th B, 1/NN, 1/1st G",
+            v_image : "'thelastcavallard_vocals.png'",
+            vscore : "109253",
+
+            gpath : "1/1st RYB, 1/1st YBO, 2/1st RYB, 1/3 beats after 1st YBO, 1/2nd RY, 2/3rd G, 1/NN, 1/1st GRY, 1/2nd RYB",
+            g_image : "'thelastcavallard_guitar.png'",
+            gscore : "189543",
+
+            bpath : "2/5th R, 1/2nd G, 1/11th Y, 1/7th Y, 1/7th R, 1/5th B, 1/2nd B, 1/1st G, 1/4th Y, 1/7th Y",
+            b_image : "'thelastcavallard_bass.png'",
+            bscore : "120462",
+
+            lpath : "1/3rd RB, 1/1st RO, 2/1st RB, 1/NN, 2(+1)/8th B, 1/NN, 1/1st R, 1/2nd RB",
+            l_image : "'thelastcavallard_lead.png'",
+            lscore : "150941",
+
+            mpath : "2/5th R, 1/8th R, 1/1st Y, 1/7th Y, 1/7th R, 1/5th B, 1/2nd B, 1/NN, 1/4th Y, 1/7th Y",
+            m_image : "'thelastcavallard_mbass.png'",
+            mscore : "117918",
             } 
         },
 { value : "The Middle by Zedd, Maren Morris & Grey", 
@@ -11220,6 +11452,35 @@ const songs = [
             mpath : "1/4th R, 1/NN, 1/NN, 2/3rd R, 1/4th B, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/5th R",
             m_image : "'toosweet_mbass.png'",
             mscore : "138672",
+            } 
+        },
+{ value : "Touch the Sun by Epic Games", 
+            data : {
+            shortname : "touchthesun",
+
+            dpath : "3/9th GY, 1/NN, 3/1st GO, 2/NN",
+            d_image : "'touchthesun_drums.png'",
+            dscore : "171504",
+
+            vpath : "1/5th R, 1/NN, 1(+1)/1st RY, 1/NN, 1/NN, 1/2nd R",
+            v_image : "'touchthesun_vocals.png'",
+            vscore : "96957",
+
+            gpath : "2/4th YB, 1/NN, 1/6th RYO, 2/NN, 1/NN, 1/NN",
+            g_image : "'touchthesun_guitar.png'",
+            gscore : "167757",
+
+            bpath : "1/4th Y, 1/NN, 1/1st R, 1/6th R, 1/2nd Y, 1/1st R, 1/NN, 1/1st G",
+            b_image : "'touchthesun_bass.png'",
+            bscore : "111609",
+
+            lpath : "2/4th GB, 1/NN, 3(+1)/NN, 1/NN",
+            l_image : "'touchthesun_lead.png'",
+            lscore : "148866",
+
+            mpath : "1/4th Y, 1/NN, 1/2nd R, 1/6th R, 1/2nd Y, 1/1st R, 2/1st G",
+            m_image : "'touchthesun_mbass.png'",
+            mscore : "110619",
             } 
         },
 { value : "Toxic by Britney Spears", 
@@ -12554,6 +12815,35 @@ const songs = [
             mpath : "3/4th G, 2/8th G, 1/NN, 1/4th G",
             m_image : "'youngwildandfree_mbass.png'",
             mscore : "100767",
+            } 
+        },
+{ value : "You Oughta Know by Alanis Morissette", 
+            data : {
+            shortname : "yououghtaknow",
+
+            dpath : "1/3rd Y, 1/9th R, 1/18th O, 2/3rd R, 1/10th R, 1/18th O, 1/27th Y, 1/20th R, 1/21st R, 1/1st GO",
+            d_image : "'yououghtaknow_drums.png'",
+            dscore : "198000",
+
+            vpath : "1/10th R, 1/4th B, 1/8th G, 2/10th R, 1/6th Y, 1/2nd R, 1/4th B, 1/3rd B, 1/3rd B, 1/25th G",
+            v_image : "'yououghtaknow_vocals.png'",
+            vscore : "153012",
+
+            gpath : "1/1st RY, 1/NN, 3(+1)/9th R, 2(+1)/12th Y, 1/45th O",
+            g_image : "'yououghtaknow_guitar.png'",
+            gscore : "174143",
+
+            bpath : "1/3rd O, 1/NN, 1/6th G, 1/NN, 1/1st R, 1/15th B, 1/8th R, 1/12th Y",
+            b_image : "'yououghtaknow_bass.png'",
+            bscore : "205146",
+
+            lpath : "1/1st RY, 1/NN, 3(+1)/8th R, 2(+1)/14th G, 1/20th R",
+            l_image : "'yououghtaknow_lead.png'",
+            lscore : "165558",
+
+            mpath : "1/3rd O, 1/NN, 1/6th G, 1/NN, 1/1st B, 1/13th B, 1/8th R, 1/11th Y",
+            m_image : "'yououghtaknow_mbass.png'",
+            mscore : "203850",
             } 
         },
 { value : "You're All Mine by Epic Games", 
