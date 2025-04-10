@@ -811,6 +811,35 @@ const songs = [
             mscore : "108837",
             } 
         },
+{ value : "Basic Being Basic by Djo", 
+            data : {
+            shortname : "basicbeingbasic",
+
+            dpath : "1/NN, 1/NN, 3(+1)/9th GY, 1/NN, 1/8th RY, 1/NN",
+            d_image : "'basicbeingbasic_drums.png'",
+            dscore : "173088",
+
+            vpath : "1/2nd R, 1/NN, 1/3rd G, 1/1st O, 1/1st R, 1/3rd G, 1(+1)/18th Y, 1/17th Y",
+            v_image : "'basicbeingbasic_vocals.png'",
+            vscore : "122400",
+
+            gpath : "1/NN, 1/1st G, 1(+1)/1st R, 1/NN, 1(+1)/3rd R",
+            g_image : "'basicbeingbasic_guitar.png'",
+            gscore : "66336",
+
+            bpath : "3/2nd B, 1/NN, 1/NN, 1/NN, 1/NN",
+            b_image : "'basicbeingbasic_bass.png'",
+            bscore : "43224",
+
+            lpath : "1/NN, 1/1st G, 1(+1)/1st R, 1/NN, 1(+1)/3rd R",
+            l_image : "'basicbeingbasic_lead.png'",
+            lscore : "66324",
+
+            mpath : "3/2nd B, 1/NN, 1/NN, 1/NN, 1/NN",
+            m_image : "'basicbeingbasic_mbass.png'",
+            mscore : "43224",
+            } 
+        },
 { value : "Basket Case by Green Day", 
             data : {
             shortname : "basketcase",
@@ -4927,6 +4956,35 @@ const songs = [
             mpath : "1/5th O, 1/3rd B, 1/1st B, 1/2nd B, 1/1st B, 1/1st B",
             m_image : "'heatwaves_mbass.png'",
             mscore : "49014",
+            } 
+        },
+{ value : "Heavy by The Marías", 
+            data : {
+            shortname : "heavy",
+
+            dpath : "1/NN, 1/NN, 1/NN, 1/14th GY, 1/2nd RY, 1/7th GB, 1/9th RB, 1/1st GY, 1/NN, 1/1st GO",
+            d_image : "'heavy_drums.png'",
+            dscore : "203616",
+
+            vpath : "1/3rd O, 1/4th O, 1/NN, 1/4th Y, 1/4th Y, 1/16th R, 1/NN, 1/NN",
+            v_image : "'heavy_vocals.png'",
+            vscore : "86964",
+
+            gpath : "1/19th R, 1/3rd G, 1/15th Y, 1/NN, 3/NN, 3/1st R",
+            g_image : "'heavy_guitar.png'",
+            gscore : "96317",
+
+            bpath : "1/3rd O, 1/10th R, 1/5th O, 1/4th O, 1/4th Y, 1(+1)/15th R, 4/NN",
+            b_image : "'heavy_bass.png'",
+            bscore : "180900",
+
+            lpath : "1/15th R, 1/3rd G, 1/15th Y, 1/NN, 3/NN, 3/1st R",
+            l_image : "'heavy_lead.png'",
+            lscore : "94701",
+
+            mpath : "1/5th G, 1/NN, 1/NN, 1/NN, 1/4th Y, 1(+1)/15th R, 1/NN, 3/4th B",
+            m_image : "'heavy_mbass.png'",
+            mscore : "164754",
             } 
         },
 { value : "Hey Brother by Avicii", 
@@ -11829,6 +11887,35 @@ const songs = [
             mpath : "2(+1)/8th R, 1/6th R, 1/3rd G, 1/1st B, 1/7th R, 2/11th R, 1/14th R, 1/11th B",
             m_image : "'uptownfunk_mbass.png'",
             mscore : "153426",
+            } 
+        },
+{ value : "U Should Not Be Doing That by Amyl and The Sniffers", 
+            data : {
+            shortname : "ushouldnotbedoingthat",
+
+            dpath : "1/10th RY, 1/15th RY, 1/6th RY, 3/7th RY, 1/10th RB, 1/8th GY, 1/13th RY, 1/5th RY",
+            d_image : "'ushouldnotbedoingthat_drums.png'",
+            dscore : "219456",
+
+            vpath : "3(+1)/7th R, 1/6th R, 1/9th R",
+            v_image : "'ushouldnotbedoingthat_vocals.png'",
+            vscore : "95619",
+
+            gpath : "2(+1)/2nd Y, 1/After 1 beats, 4(+1)/2nd YB, 1/2nd Y",
+            g_image : "'ushouldnotbedoingthat_guitar.png'",
+            gscore : "105721",
+
+            bpath : "1/NN, 1/13th Y, 1/3rd Y, 1/NN, 1/NN, 1/3rd B, 1(+1)/4th B, 1/NN, 1/3rd Y",
+            b_image : "'ushouldnotbedoingthat_bass.png'",
+            bscore : "178470",
+
+            lpath : "2(+1)/2nd Y, 1/After 1 beats, 4(+1)/2nd RY, 1/NN",
+            l_image : "'ushouldnotbedoingthat_lead.png'",
+            lscore : "102601",
+
+            mpath : "1/NN, 1/13th Y, 1/3rd Y, 1/NN, 1/NN, 1/5th B, 1(+1)/4th B, 1/NN, 1/3rd Y",
+            m_image : "'ushouldnotbedoingthat_mbass.png'",
+            mscore : "178470",
             } 
         },
 { value : "vampire by Olivia Rodrigo", 
