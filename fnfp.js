@@ -1420,6 +1420,35 @@ const songs = [
             mscore : "158331",
             } 
         },
+{ value : "Blame Brett by The Beaches", 
+            data : {
+            shortname : "blamebrett",
+
+            dpath : "1(+1)/1st GY, 1/3rd RY, 1/NN, 2/1st GY, 1/1st RY, 1/4th RY, 1/NN, 2/1st GY",
+            d_image : "'blamebrett_drums.png'",
+            dscore : "201744",
+
+            vpath : "2/1st B, 1/1st G, 1/8th Y, 1/6th B, 1/4th Y, 1/2nd B, 1/4th O, 1/11th Y, 1/16th B, 1/NN",
+            v_image : "'blamebrett_vocals.png'",
+            vscore : "131259",
+
+            gpath : "4/1st G, 1/NN, 4(+1)/1st GR, 1/37th RY",
+            g_image : "'blamebrett_guitar.png'",
+            gscore : "203640",
+
+            bpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/9th B, 1/NN, 1/NN, 1/NN, 1/NN",
+            b_image : "'blamebrett_bass.png'",
+            bscore : "225306",
+
+            lpath : "4/1st G, 1/NN, 4(+1)/1st GY, 1/37th RY",
+            l_image : "'blamebrett_lead.png'",
+            lscore : "203640",
+
+            mpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            m_image : "'blamebrett_mbass.png'",
+            mscore : "224442",
+            } 
+        },
 { value : "Blinding Lights by The Weeknd", 
             data : {
             shortname : "blindinglights",
@@ -2810,6 +2839,35 @@ const songs = [
             mpath : "3/1st G, 2/NN, 2/NN, 2/NN, 2/NN",
             m_image : "'crankthat_mbass.png'",
             mscore : "46845",
+            } 
+        },
+{ value : "C.R.E.A.M. (Cash Rules Everything Around Me) by Wu-Tang Clan", 
+            data : {
+            shortname : "cream",
+
+            dpath : "1/1st GB, 1/NN, 1/1st GB, 1/3rd GB, 1/2nd GB, 1/1st GB, 1/NN, 1/NN",
+            d_image : "'cream_drums.png'",
+            dscore : "217152",
+
+            vpath : "1/6th O, 1/8th G, 1/NN, 1/8th R, 1/1st B, 1/3rd O, 1/14th Y, 1/9th B",
+            v_image : "'cream_vocals.png'",
+            vscore : "209679",
+
+            gpath : "1/4th R, 1/NN, 1/2nd G, 1/2nd Y, 1/10th G, 1/NN, 1/NN, 1/NN",
+            g_image : "'cream_guitar.png'",
+            gscore : "123452",
+
+            bpath : "2/2nd Y, 1/2nd Y, 1/4th G, 1(+1)/5th G, 1/7th G",
+            b_image : "'cream_bass.png'",
+            bscore : "33399",
+
+            lpath : "1/5th Y, 1/NN, 1/2nd G, 1/2nd Y, 1/9th G, 1/NN, 1/NN, 1/NN",
+            l_image : "'cream_lead.png'",
+            lscore : "123452",
+
+            mpath : "2/2nd O, 1/2nd O, 1/4th G, 1(+1)/5th G, 1/7th G",
+            m_image : "'cream_mbass.png'",
+            mscore : "33399",
             } 
         },
 { value : "Creatures In Heaven by Glass Animals", 
@@ -5362,6 +5420,35 @@ const songs = [
             mpath : "2/2nd B, 1/1st B, 1/9th R, 1/11th R, 2(+1)/7th B, 3/NN, 1/NN",
             m_image : "'idol_mbass.png'",
             mscore : "178950",
+            } 
+        },
+{ value : "if u think i'm pretty by Artemas", 
+            data : {
+            shortname : "ifuthinkimpretty",
+
+            dpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/1st GY, 1/NN",
+            d_image : "'ifuthinkimpretty_drums.png'",
+            dscore : "98208",
+
+            vpath : "1/17th R, 1/2nd R, 1/2nd O, 1/3rd R, 1/1st O, 1/NN",
+            v_image : "'ifuthinkimpretty_vocals.png'",
+            vscore : "83835",
+
+            gpath : "4(+1)/27th Y, 1/NN, 1/1st GR",
+            g_image : "'ifuthinkimpretty_guitar.png'",
+            gscore : "106824",
+
+            bpath : "1/2nd Y, 4(+1)/1.5 beats after 2nd Y",
+            b_image : "'ifuthinkimpretty_bass.png'",
+            bscore : "20120",
+
+            lpath : "4(+1)/27th Y, 1/NN, 1/1st GY",
+            l_image : "'ifuthinkimpretty_lead.png'",
+            lscore : "102420",
+
+            mpath : "1/2nd Y, 4(+1)/1.5 beats after 2nd Y",
+            m_image : "'ifuthinkimpretty_mbass.png'",
+            mscore : "20120",
             } 
         },
 { value : "I Had Some Help by Post Malone ft. Morgan Wallen", 
@@ -9366,6 +9453,35 @@ const songs = [
             mscore : "141768",
             } 
         },
+{ value : "Show Em (What We Can Do) by Epic Games", 
+            data : {
+            shortname : "showem",
+
+            dpath : "1/1st GO, 1/1st GO, 1/1st GO, 1/1st GO, 1/2nd R, 1/2nd R, 1(+1)/1st GB",
+            d_image : "'showem_drums.png'",
+            dscore : "103536",
+
+            vpath : "1/3rd G, 3/7th Y, 1/1st Y, 3/NN, 1/9th R",
+            v_image : "'showem_vocals.png'",
+            vscore : "187362",
+
+            gpath : "2/1st RO, 2/10th Y, 1/1st YB, 2(+1)/15th Y, 1/17th G",
+            g_image : "'showem_guitar.png'",
+            gscore : "95544",
+
+            bpath : "1/8th Y, 1/8th Y, 1/7th Y, 1/12th Y, 1/7th Y, 1/3rd Y, 1/7th B, 1/7th Y",
+            b_image : "'showem_bass.png'",
+            bscore : "111012",
+
+            lpath : "2/1st RO, 2/4th O, 1/1st RB, 2(+1)/15th Y, 1/17th G",
+            l_image : "'showem_lead.png'",
+            lscore : "93348",
+
+            mpath : "1/3rd B, 1/3rd B, 1/3rd B, 1/7th B, 1/3rd B, 1/3rd B, 1/7th O, 1/3rd B",
+            m_image : "'showem_mbass.png'",
+            mscore : "111012",
+            } 
+        },
 { value : "Show Them Who We Are by Epic Games", 
             data : {
             shortname : "showthemwhoweare",
@@ -11744,6 +11860,35 @@ const songs = [
             mscore : "84891",
             } 
         },
+{ value : "2055 by Sleepy Hallow", 
+            data : {
+            shortname : "twentyfiftyfive",
+
+            dpath : "1/2nd Y, 1/1st R, 1/1st GO, 1/2nd Y, 1/1st Y, 1/8th Y",
+            d_image : "'twentyfiftyfive_drums.png'",
+            dscore : "37008",
+
+            vpath : "1/5th R, 1/2nd B, 1/NN, 1/6th R, 1/18th B, 1/13th B, 1/5th R",
+            v_image : "'twentyfiftyfive_vocals.png'",
+            vscore : "103680",
+
+            gpath : "2/4th Y, 1/4th R, 2/6th R, 1/1st G, 1/After 0.082 beats, 1/6th R",
+            g_image : "'twentyfiftyfive_guitar.png'",
+            gscore : "52329",
+
+            bpath : "1/2nd R, 1/1st R, 1/NN, 1/2nd R",
+            b_image : "'twentyfiftyfive_bass.png'",
+            bscore : "10398",
+
+            lpath : "2/4th Y, 1/4th R, 2/6th R, 1/1st G, 1/After 0.082 beats, 1/6th R",
+            l_image : "'twentyfiftyfive_lead.png'",
+            lscore : "52317",
+
+            mpath : "1/2nd R, 1/1st R, 1/NN, 1/2nd R",
+            m_image : "'twentyfiftyfive_mbass.png'",
+            mscore : "7779",
+            } 
+        },
 { value : "Undone - The Sweater Song by Weezer", 
             data : {
             shortname : "undone",
@@ -12467,6 +12612,35 @@ const songs = [
             mpath : "1/11th B, 1/2nd B, 1/NN, 1/11th B, 1/NN, 1/NN, 1/2nd B, 1/NN, 1/NN, 1/NN, 1/5th B",
             m_image : "'wildones_mbass.png'",
             mscore : "200778",
+            } 
+        },
+{ value : "Wild Ones by Jessie Murph ft. Jelly Roll", 
+            data : {
+            shortname : "wildones2",
+
+            dpath : "1/6th GY, 1/1st GO, 1/6th GY, 1(+1)/1st GO, 1/NN, 1/1st GY",
+            d_image : "'wildones2_drums.png'",
+            dscore : "86688",
+
+            vpath : "2/NN, 1/NN, 1/11th G, 1/NN, 2/11th G, 1/7th Y",
+            v_image : "'wildones2_vocals.png'",
+            vscore : "137052",
+
+            gpath : "1/4th R, 1/NN, 1/1st R, 1/NN, 1/NN, 1/8th R, 1/2nd G, 1/2nd R",
+            g_image : "'wildones2_guitar.png'",
+            gscore : "88371",
+
+            bpath : "4(+1)/2nd B, 1/2nd Y, 1/1st Y",
+            b_image : "'wildones2_bass.png'",
+            bscore : "29847",
+
+            lpath : "1/4th R, 1/NN, 1/1st G, 1/NN, 1/NN, 1/4th G, 1/2nd G, 1/2nd R",
+            l_image : "'wildones2_lead.png'",
+            lscore : "88371",
+
+            mpath : "4(+1)/2nd B, 1/2nd Y, 1/1st Y",
+            m_image : "'wildones2_mbass.png'",
+            mscore : "29847",
             } 
         },
 { value : "Winterfest Wish by Epic Games", 
