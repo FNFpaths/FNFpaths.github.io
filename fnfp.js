@@ -28,6 +28,35 @@ const songs = [
             mscore : "157221",
             } 
         },
+{ value : "A Bar Song by Shaboozey", 
+            data : {
+            shortname : "abarsong",
+
+            dpath : "3(+1)/2nd B, 3/2nd RY, 1/8th RY, 1/NN",
+            d_image : "'abarsong_drums.png'",
+            dscore : "132192",
+
+            vpath : "1(+1)/5th Y, 1/NN, 1/2nd Y, 1/5th B, 1/2nd Y, 1/1st B, 1/4th O, 1/NN, 1/18th B",
+            v_image : "'abarsong_vocals.png'",
+            vscore : "133329",
+
+            gpath : "1/NN, 1/11th YBO, 1/2nd RY, 1/4th YBO, 1/1st YBO, 2/NN, 1/5th Y, 1/NN, 1/1st B",
+            g_image : "'abarsong_guitar.png'",
+            gscore : "211297",
+
+            bpath : "4(+1)/2nd O, 1/NN, 1/2nd O",
+            b_image : "'abarsong_bass.png'",
+            bscore : "34494",
+
+            lpath : "1/1st RB, 1/11th RO, 1/5th RB, 1/4th RO, 1/1st RO, 2/NN, 1/4th R, 1/4th G, 1/2.2 beats after 1st GB",
+            l_image : "'abarsong_lead.png'",
+            lscore : "150234",
+
+            mpath : "4(+1)/2nd O, 1/NN, 1/2nd O",
+            m_image : "'abarsong_mbass.png'",
+            mscore : "34494",
+            } 
+        },
 { value : "abcdefu by GAYLE", 
             data : {
             shortname : "abcdefu",
@@ -5277,6 +5306,35 @@ const songs = [
             mscore : "24960",
             } 
         },
+{ value : "Hot In Herre by Nelly", 
+            data : {
+            shortname : "hotinherre",
+
+            dpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/8th R, 1/NN, 1/NN",
+            d_image : "'hotinherre_drums.png'",
+            dscore : "198000",
+
+            vpath : "1/4th B, 2/2nd O, 1/NN, 1/NN, 1/5th Y, 1/19th R, 2/5th Y",
+            v_image : "'hotinherre_vocals.png'",
+            vscore : "231300",
+
+            gpath : "1/1st RY, 1/1st RY, 1/1st RB, 1/1st RB, 1/1st RY, 1/NN, 1/2nd RY, 1/1st RY, 1/NN",
+            g_image : "'hotinherre_guitar.png'",
+            gscore : "77961",
+
+            bpath : "2/10th Y, 1/3rd Y, 1/NN, 1/9th Y, 1/NN, 1/9th Y, 1/6th Y, 1/NN",
+            b_image : "'hotinherre_bass.png'",
+            bscore : "53748",
+
+            lpath : "1/1st GY, 1/1st GY, 1/1st GB, 1/1st GB, 1/1st GY, 1/NN, 1/2nd GY, 1/1st GY, 1/NN",
+            l_image : "'hotinherre_lead.png'",
+            lscore : "77136",
+
+            mpath : "2/10th O, 1/3rd O, 1/NN, 1/9th O, 1/NN, 1/9th O, 1/6th O, 1/NN",
+            m_image : "'hotinherre_mbass.png'",
+            mscore : "53748",
+            } 
+        },
 { value : "HOT TO GO! by Chappell Roan", 
             data : {
             shortname : "hottogo",
@@ -6377,6 +6435,35 @@ const songs = [
             mpath : "3/4th Y, 1/NN, 1/NN",
             m_image : "'letyoudown_mbass.png'",
             mscore : "30762",
+            } 
+        },
+{ value : "Liar by Jelly Roll", 
+            data : {
+            shortname : "liar",
+
+            dpath : "3/4th RB, 1/NN, 2/4th RY, 1/NN, 1/NN, 1/3rd RO",
+            d_image : "'liar_drums.png'",
+            dscore : "167040",
+
+            vpath : "1/4th Y, 1/3rd B, 1/2nd G, 1/7th G, 1/4th Y, 1/3rd B, 1/2nd G, 1/7th B, 1/5th G",
+            v_image : "'liar_vocals.png'",
+            vscore : "134796",
+
+            gpath : "4(+1)/8th Y, 4/5th Y, 1/NN",
+            g_image : "'liar_guitar.png'",
+            gscore : "192708",
+
+            bpath : "4(+1)/1st B",
+            b_image : "'liar_bass.png'",
+            bscore : "8856",
+
+            lpath : "4(+1)/6th G, 4/5th R, 1/NN",
+            l_image : "'liar_lead.png'",
+            lscore : "173988",
+
+            mpath : "4(+1)/1st B",
+            m_image : "'liar_mbass.png'",
+            mscore : "8856",
             } 
         },
 { value : "My Songs Know What You Did In The Dark (Light Em Up) by Fall Out Boy", 
@@ -12293,6 +12380,35 @@ const songs = [
             mpath : "2/5th B, 1/NN, 1/NN, 1/NN, 1/NN, 1/3rd G, 1/NN, 2(+1)/1st G, 1/NN",
             m_image : "'weliketoparty_mbass.png'",
             mscore : "97433",
+            } 
+        },
+{ value : "What Are You Waiting For by d4vd", 
+            data : {
+            shortname : "whatareyouwaitingfor",
+
+            dpath : "1/4th GY, 1/NN, 1/14th GB, 1/14th GY, 1/6th RY, 1/11th GB, 1/4th GB, 1/1st RY, 1/NN",
+            d_image : "'whatareyouwaitingfor_drums.png'",
+            dscore : "195120",
+
+            vpath : "4/5th Y, 1/NN, 2(+1)/19th B, 1/NN, 1/4th G",
+            v_image : "'whatareyouwaitingfor_vocals.png'",
+            vscore : "132888",
+
+            gpath : "1/4th RBO, 1/NN, 2/8th YB, 1/5th Y, 1/3rd Y, 1/1st Y, 1(+1)/1st RY, 1/NN",
+            g_image : "'whatareyouwaitingfor_guitar.png'",
+            gscore : "120312",
+
+            bpath : "1/15th G, 1/NN, 3/1st Y, 1/NN, 1/NN, 1/2nd Y, 1/NN",
+            b_image : "'whatareyouwaitingfor_bass.png'",
+            bscore : "143598",
+
+            lpath : "1/2nd RB, 3/2nd RO, 1/NN, 1/NN, 1/NN, 1(+1)/1st RY, 1/NN",
+            l_image : "'whatareyouwaitingfor_lead.png'",
+            lscore : "109224",
+
+            mpath : "1/4th B, 1/NN, 3/1st Y, 1/NN, 1/NN, 1/2nd Y, 1/1st O",
+            m_image : "'whatareyouwaitingfor_mbass.png'",
+            mscore : "140430",
             } 
         },
 { value : "What Do You Mean? by Justin Bieber", 
