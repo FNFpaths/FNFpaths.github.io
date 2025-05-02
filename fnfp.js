@@ -2377,7 +2377,7 @@ const songs = [
             mscore : "133227",
             } 
         },
-{ value : "Cantina Band by John Williams, London Symphony Orchestra", 
+{ value : "Cantina Band by John Williams & The London Symphony Orchestra", 
             data : {
             shortname : "cantinaband",
 
@@ -5596,6 +5596,35 @@ const songs = [
             mscore : "237420",
             } 
         },
+{ value : "The Imperial March (Darth Vader's Theme) by John Williams & The London Symphony Orchestra", 
+            data : {
+            shortname : "imperialmarch",
+
+            dpath : "1/23rd Y, 1/NN, 4(+1)/22nd R, 1/3rd Y",
+            d_image : "'imperialmarch_drums.png'",
+            dscore : "133596",
+
+            vpath : "1/9th B, 1/5th Y, 1/NN, 1/2nd O, 3/5th R",
+            v_image : "'imperialmarch_vocals.png'",
+            vscore : "155550",
+
+            gpath : "1/1st RY, 2(+1)/1st O, 1/5th R, 1/13th B, 1/1st B, 1/53rd O",
+            g_image : "'imperialmarch_guitar.png'",
+            gscore : "190512",
+
+            bpath : "1/8th B, 1/21st R, 3(+1)/10th R, 1/NN, 1/58th R",
+            b_image : "'imperialmarch_bass.png'",
+            bscore : "202788",
+
+            lpath : "1/1st GO, 2(+1)/1st O, 1/5th Y, 1/13th B, 1/1st B, 1/53rd O",
+            l_image : "'imperialmarch_lead.png'",
+            lscore : "190512",
+
+            mpath : "1/8th B, 1/21st G, 3(+1)/10th R, 1/NN, 1/58th G",
+            m_image : "'imperialmarch_mbass.png'",
+            mscore : "202788",
+            } 
+        },
 { value : "Industry Baby by Lil Nas X ft. Jack Harlow", 
             data : {
             shortname : "industrybaby",
@@ -6261,6 +6290,35 @@ const songs = [
             mpath : "3(+1)/5th O, 3(+1)/6th Y, 1/NN",
             m_image : "'kryptonite_mbass.png'",
             mscore : "121374",
+            } 
+        },
+{ value : "Lapti Nek (Jabba's Palace) by John Williams & The London Symphony Orchestra", 
+            data : {
+            shortname : "laptinek",
+
+            dpath : "2(+1)/1st GO, 1/4th GY, 1/NN, 1/5th RO, 1/1st G, 1/NN, 1/8th RB",
+            d_image : "'laptinek_drums.png'",
+            dscore : "170928",
+
+            vpath : "2/7th Y, 2(+1)/4th Y, 2/7th Y, 1/NN",
+            v_image : "'laptinek_vocals.png'",
+            vscore : "85314",
+
+            gpath : "3(+1)/10th Y, 1/6th Y, 1/1st RYB, 1/5th R, 1/15th Y, 1/14th Y",
+            g_image : "'laptinek_guitar.png'",
+            gscore : "133264",
+
+            bpath : "1/17th R, 1/NN, 2/3rd O, 1/NN, 1(+1)/3rd O, 1/6th Y, 1/8th Y",
+            b_image : "'laptinek_bass.png'",
+            bscore : "126360",
+
+            lpath : "1/7th R, 1/1st GB, 1/2.5 beats after 6th O, 2(+1)/6th Y, 2(+1)/15th Y",
+            l_image : "'laptinek_lead.png'",
+            lscore : "121316",
+
+            mpath : "3(+1)/3rd O, 1/3rd Y, 1(+1)/3rd O, 1/5th B, 1/6th B",
+            m_image : "'laptinek_mbass.png'",
+            mscore : "117108",
             } 
         },
 { value : "Larry's Place by Epic Games", 
@@ -8670,6 +8728,35 @@ const songs = [
             mscore : "99135",
             } 
         },
+{ value : "Star Wars Main Title Theme/March of the Resistance (Fortnite Rearrangement) by John Williams & The London Symphony Orchestra", 
+            data : {
+            shortname : "rebelsrun",
+
+            dpath : "1/11th RY, 1/NN, 1/1st O, 2/22nd Y, 1/4th O",
+            d_image : "'rebelsrun_drums.png'",
+            dscore : "93757",
+
+            vpath : "1/4th G, 1/4th Y, 1/8th Y, 1/1st RY, 1/1st GO, 2/3rd RB, 1/11th Y",
+            v_image : "'rebelsrun_vocals.png'",
+            vscore : "162315",
+
+            gpath : "1/1st YB, 1/3rd Y, 1/1st GR, 1/5th G, 1/NN, 1/NN, 2/1st GR",
+            g_image : "'rebelsrun_guitar.png'",
+            gscore : "194370",
+
+            bpath : "1/2nd O, 1/4th R, 1/9th G, 2/27th B, 2/13th R, 1/0.5 beats after 6th Y",
+            b_image : "'rebelsrun_bass.png'",
+            bscore : "146040",
+
+            lpath : "1/1st RB, 1/3rd R, 1/1st GY, 1/11th Y, 1/NN, 1/NN, 2/3rd GY",
+            l_image : "'rebelsrun_lead.png'",
+            lscore : "188859",
+
+            mpath : "1/2nd O, 1/4th R, 1/9th G, 2/27th B, 2/14th R, 1/0.5 beats after 6th Y",
+            m_image : "'rebelsrun_mbass.png'",
+            mscore : "145608",
+            } 
+        },
 { value : "Regulate by Warren G ft. Nate Dogg", 
             data : {
             shortname : "regulate",
@@ -10903,6 +10990,35 @@ const songs = [
             mscore : "134187",
             } 
         },
+{ value : "Chrome Dome (Fortnite Rearrangement) by John Williams", 
+            data : {
+            shortname : "thedarkside",
+
+            dpath : "1/5th GB, 1/NN, 2/4th Y, 1/NN, 1/1st B, 2/1st GY, 1/NN",
+            d_image : "'thedarkside_drums.png'",
+            dscore : "83012",
+
+            vpath : "1/6th B, 3(+1)/4th R, 1/5th Y, 1/11th B, 1/2nd Y, 1/NN",
+            v_image : "'thedarkside_vocals.png'",
+            vscore : "126209",
+
+            gpath : "1(+1)/10th RB, 2/1st G, 1/3rd G, 1/NN, 1/1st YO, 1/10th Y",
+            g_image : "'thedarkside_guitar.png'",
+            gscore : "166410",
+
+            bpath : "1/1st B, 1/NN, 1/NN, 1/3rd B, 2/6th G, 1/7th BO, 1/NN, 1/1st G, 1/2nd GB",
+            b_image : "'thedarkside_bass.png'",
+            bscore : "136840",
+
+            lpath : "1(+1)/10th RY, 2/1st Y, 1/6th Y, 1/NN, 1/1st RO, 1/10th Y",
+            l_image : "'thedarkside_lead.png'",
+            lscore : "166266",
+
+            mpath : "1/7th B, 1/NN, 1/NN, 1/3rd B, 2/8th G, 1/7th RO, 1/NN, 1/1st G, 1/2nd GB",
+            m_image : "'thedarkside_mbass.png'",
+            mscore : "135673",
+            } 
+        },
 { value : "The Diary Of Jane by Breaking Benjamin", 
             data : {
             shortname : "thediaryofjane",
@@ -12612,6 +12728,35 @@ const songs = [
             mpath : "1/NN, 1/NN, 1/1st R, 1/21st G, 1/21st G, 1/1st G, 1/1st G",
             m_image : "'whenicomearound_mbass.png'",
             mscore : "196524",
+            } 
+        },
+{ value : "Where My Wookiees At? by Epic Games", 
+            data : {
+            shortname : "wheremywookiesat",
+
+            dpath : "3/2nd R, 3/3rd RY, 1/NN, 3/NN, 1/NN, 1/3rd RY",
+            d_image : "'wheremywookiesat_drums.png'",
+            dscore : "249984",
+
+            vpath : "1/7th Y, 1/6th Y, 2/8th R, 1/6th Y, 2/5th Y, 1/8th G, 4/3rd G",
+            v_image : "'wheremywookiesat_vocals.png'",
+            vscore : "165362",
+
+            gpath : "3/NN, 3(+1)/1st G, 2/7th R, 1/1st G, 1/NN, 1/3rd GY",
+            g_image : "'wheremywookiesat_guitar.png'",
+            gscore : "244284",
+
+            bpath : "1/9th R, 1/7th R, 1/4th O, 3/2nd R, 1/10th G, 1/2nd R, 1/NN, 1/2nd R, 1/NN, 1/NN",
+            b_image : "'wheremywookiesat_bass.png'",
+            bscore : "155349",
+
+            lpath : "1/1st GB, 1/3rd GB, 4(+1)/1st G, 2/10th R, 1/1st G, 1/NN, 1/3rd RY",
+            l_image : "'wheremywookiesat_lead.png'",
+            lscore : "228912",
+
+            mpath : "1/9th R, 1/6th R, 1/4th O, 3/1st R, 1/10th G, 1/1st G, 1/NN, 1/1st R, 1/1st R, 1/1st R",
+            m_image : "'wheremywookiesat_mbass.png'",
+            mscore : "147129",
             } 
         },
 { value : "Wherever I May Roam by Metallica", 
