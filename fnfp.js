@@ -4407,6 +4407,35 @@ const songs = [
             mscore : "252282",
             } 
         },
+{ value : "Free Bird by Lynyrd Skynyrd", 
+            data : {
+            shortname : "freebird",
+
+            dpath : "1/4th GY, 1/4th GY, 1/2nd GY, 1/1st GO, 1/NN, 1/NN, 1/1st RO, 1/2nd GY, 1/NN, 1/NN, 4(+1)/4th RB, 1/1st GB, 1/NN, 1/NN, 1/1st GB, 1/1st GB, 1/1st RB, 4(+1)/1st O, 1/NN, 1/NN, 1/NN, 1/10th O, 2/1st RY",
+            d_image : "'freebird_drums.png'",
+            dscore : "599472",
+
+            vpath : "3/NN, 1/1st Y, 1/3rd R, 1/3rd R, 1/NN, 1/NN, 1/3rd B",
+            v_image : "'freebird_vocals.png'",
+            vscore : "86805",
+
+            gpath : "1/5th B, 1/4th G, 1/NN, 1/3rd Y, 2(+1)/5th Y, 1/4th R, 1/3rd G, 1/3rd R, 1/4th R, 1/2nd Y, 1/3rd O, 1/2nd O, 3/3rd O, 1/16th B, 4(+1)/8th R, 1/NN, 1/NN, 2/2nd R, 2/3rd O, 1/NN, 3/2nd GY",
+            g_image : "'freebird_guitar.png'",
+            gscore : "514672",
+
+            bpath : "1/6th G, 1/7th Y, 1/4th R, 3/2nd R, 1/NN, 1/3rd R, 1/1st Y, 1/3rd R, 1/1st G, 1/1 beats after 4th O, 1/3rd Y, 1/1st B, 1/4th R, 1/NN, 1/3rd R, 1/8th R, 1/2nd Y, 1/12th R, 1/3rd R, 1/1st YO, 1/3rd YO, 4(+1)/11th B, 4/56th G",
+            b_image : "'freebird_bass.png'",
+            bscore : "705263",
+
+            lpath : "1/5th B, 1/NN, 1/NN, 1/3rd Y, 2(+1)/5th R, 1/5th R, 1/3rd G, 1/3rd R, 1/4th R, 1/2nd Y, 1/3rd O, 4/3rd O, 1/16th O, 4(+1)/29th Y, 1/NN, 1/NN, 2/1st G, 2/3rd O, 1/NN, 3/2nd GY",
+            l_image : "'freebird_lead.png'",
+            lscore : "495520",
+
+            mpath : "1/6th G, 1/5th Y, 1/3rd R, 3/2nd R, 1/NN, 1/2nd R, 1/1st Y, 1/3rd R, 1/1st R, 1/1 beats after 4th O, 1/1st R, 1/1st B, 1/4th R, 1/NN, 1/3rd R, 1/8th R, 1/2nd R, 1/12th R, 1/3rd R, 1/1st RO, 1/3rd RO, 4(+1)/11th B, 4/60th G",
+            m_image : "'freebird_mbass.png'",
+            mscore : "685227",
+            } 
+        },
 { value : "Friday I'm In Love by The Cure", 
             data : {
             shortname : "fridayiminlove",
@@ -4811,6 +4840,35 @@ const songs = [
             mpath : "2/18th Y, 1/2nd G, 3/8th G, 3/5th B, 1/2nd G",
             m_image : "'good4u_mbass.png'",
             mscore : "138267",
+            } 
+        },
+{ value : "Good Luck, Babe! by Chappell Roan", 
+            data : {
+            shortname : "goodluckbabe",
+
+            dpath : "1/NN, 1/NN, 1/NN, 1/4th RY, 1/1st GB, 1/NN, 1/18th GB, 1/7th GY, 1/NN, 1/6th RB",
+            d_image : "'goodluckbabe_drums.png'",
+            dscore : "227232",
+
+            vpath : "1/7th Y, 1/4th O, 1/2nd G, 1/7th O, 1/NN, 1/NN, 1/4th B, 1/15th Y, 2/2nd Y",
+            v_image : "'goodluckbabe_vocals.png'",
+            vscore : "135628",
+
+            gpath : "1/1st GYB, 2/1st RY, 3/4th G, 1/1st RYB, 1/NN, 1/2nd G, 1/12th G",
+            g_image : "'goodluckbabe_guitar.png'",
+            gscore : "192060",
+
+            bpath : "2/3rd O, 1/1st G, 2/16th O, 1/1st G, 2(+1)/1st G, 1/1st G",
+            b_image : "'goodluckbabe_bass.png'",
+            bscore : "174852",
+
+            lpath : "1/NN, 2/5th RB, 3/8th G, 1/9th RY, 1/NN, 1/2nd G, 1/13th G",
+            l_image : "'goodluckbabe_lead.png'",
+            lscore : "180396",
+
+            mpath : "2/3rd O, 1/NN, 2/16th O, 1/NN, 2(+1)/23rd O, 1/NN",
+            m_image : "'goodluckbabe_mbass.png'",
+            mscore : "170748",
             } 
         },
 { value : "Go With The Flow by Queens of the Stone Age", 
