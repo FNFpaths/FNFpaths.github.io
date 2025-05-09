@@ -5770,6 +5770,35 @@ const songs = [
             mscore : "199722",
             } 
         },
+{ value : "Infinite Hype (DJ Skee Remix) by Epic Games", 
+            data : {
+            shortname : "infinitehyperemix",
+
+            dpath : "1/5th GY, 1/2nd GY, 3/2nd GO, 1/6th RO, 1/2nd RY, 1/1st RY, 1/NN, 1/1st GO",
+            d_image : "'infinitehyperemix_drums.png'",
+            dscore : "161424",
+
+            vpath : "1/8th R, 1/3rd R, 1/7th O, 1/3rd G, 2/4th R, 1(+1)/4th R, 1/4th R, 1/NN",
+            v_image : "'infinitehyperemix_vocals.png'",
+            vscore : "121590",
+
+            gpath : "3(+1)/3rd O, 1/3rd G, 1/3rd G, 1/3rd G, 1/2nd G",
+            g_image : "'infinitehyperemix_guitar.png'",
+            gscore : "66832",
+
+            bpath : "1/NN, 4(+1)/2nd Y, 1/4th G, 1/8th G",
+            b_image : "'infinitehyperemix_bass.png'",
+            bscore : "66324",
+
+            lpath : "3(+1)/3rd O, 1/2nd R, 1/2nd R, 1/2nd R, 1/2nd R",
+            l_image : "'infinitehyperemix_lead.png'",
+            lscore : "66304",
+
+            mpath : "1/NN, 4(+1)/2nd Y, 1/4th G, 1/8th G",
+            m_image : "'infinitehyperemix_mbass.png'",
+            mscore : "66324",
+            } 
+        },
 { value : "In Ha Mood by Ice Spice", 
             data : {
             shortname : "inhamood",
