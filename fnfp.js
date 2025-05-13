@@ -3479,6 +3479,35 @@ const songs = [
             mscore : "187629",
             } 
         },
+{ value : "Dream On by Aerosmith", 
+            data : {
+            shortname : "dreamon",
+
+            dpath : "2(+1)/1st GY, 1/NN, 1(+1)/1st GO, 1/NN, 1/NN, 1/3rd GO, 1/1st G, 1/1st GY, 1/NN, 1/1st GY",
+            d_image : "'dreamon_drums.png'",
+            dscore : "127152",
+
+            vpath : "1/2nd O, 1/12th R, 2/6th B, 1/NN, 1/6th B, 1/NN, 3/2nd O, 1/5th O",
+            v_image : "'dreamon_vocals.png'",
+            vscore : "122284",
+
+            gpath : "1/11th G, 1/7th R, 3(+1)/1st BO, 2/1.5 beats after 1st BO, 1/2nd O, 1/NN, 2/2nd BO, 1/2nd Y, 1/2nd YO, 1/NN, 1/5th YO, 1/2nd YO, 1/1st RY",
+            g_image : "'dreamon_guitar.png'",
+            gscore : "206988",
+
+            bpath : "4/2nd Y, 1/2nd O, 1/1st G, 1/2nd G, 1/2nd R, 1/1st Y, 1/3rd B, 1/2nd R, 1(+1)/7th O, 1/2nd B, 1/2nd B, 1/2nd R",
+            b_image : "'dreamon_bass.png'",
+            bscore : "123087",
+
+            lpath : "1/11th G, 1/2nd G, 1/NN, 2/2nd RO, 1/NN, 1/NN, 1/1st RO, 1/NN, 1/NN, 2/2nd RO, 1/2nd Y, 1/2nd RO, 1/NN, 1/5th GB, 1/2nd GB, 1/1st RY",
+            l_image : "'dreamon_lead.png'",
+            lscore : "196112",
+
+            mpath : "4/2nd Y, 1/2nd O, 1/1st G, 1/2nd G, 1/2nd R, 1/1st Y, 1/3rd B, 1/2nd R, 1(+1)/7th O, 1/2nd B, 1/2nd B, 1/2nd R",
+            m_image : "'dreamon_mbass.png'",
+            mscore : "122133",
+            } 
+        },
 { value : "Drop It Like It's Hot by Snoop Dogg ft. Pharrell", 
             data : {
             shortname : "dropitlikeitshot",
@@ -7046,6 +7075,35 @@ const songs = [
             mscore : "92154",
             } 
         },
+{ value : "Make You Mine by Madison Beer", 
+            data : {
+            shortname : "makeyoumine",
+
+            dpath : "3(+1)/1st B, 1/6th RY, 3/5th G, 1/13th G",
+            d_image : "'makeyoumine_drums.png'",
+            dscore : "117648",
+
+            vpath : "1/4th G, 1/1st G, 1/3rd Y, 1/1st O, 1/1st RO, 1/NN, 4/3rd R, 1/1st RO",
+            v_image : "'makeyoumine_vocals.png'",
+            vscore : "165921",
+
+            gpath : "1/1st YO, 1/NN, 1/NN, 1/NN, 1/1st GB, 1/NN, 1/NN, 1/1st B, 1/NN, 1/3rd B",
+            g_image : "'makeyoumine_guitar.png'",
+            gscore : "130398",
+
+            bpath : "3(+1)/2nd Y, 3(+1)/3rd Y, 1/NN, 1/NN, 1/NN",
+            b_image : "'makeyoumine_bass.png'",
+            bscore : "92343",
+
+            lpath : "1/1st RB, 1/NN, 1/NN, 1/NN, 1/1st GB, 1/NN, 1/NN, 1/1st B, 1/NN, 1/3rd B",
+            l_image : "'makeyoumine_lead.png'",
+            lscore : "126366",
+
+            mpath : "3(+1)/2nd R, 3(+1)/2nd Y, 1/NN, 1/NN, 1/NN",
+            m_image : "'makeyoumine_mbass.png'",
+            mscore : "92343",
+            } 
+        },
 { value : "Mambo No. 5 (A Little Bit of...) by Lou Bega", 
             data : {
             shortname : "mambonofive",
@@ -8842,6 +8900,35 @@ const songs = [
             mpath : "1/2nd O, 1/4th R, 1/9th G, 2/27th B, 2/14th R, 1/0.5 beats after 6th Y",
             m_image : "'rebelsrun_mbass.png'",
             mscore : "145608",
+            } 
+        },
+{ value : "redrum by 21 Savage", 
+            data : {
+            shortname : "redrum",
+
+            dpath : "1/1st RY, 1/3rd RO, 1/2nd RO, 1/3rd RO, 1/3rd RO, 1/1st RO, 1/NN, 1/2nd RO, 1/1st GY",
+            d_image : "'redrum_drums.png'",
+            dscore : "127008",
+
+            vpath : "3/26th R, 1/6th Y, 3(+1)/9th B, 1/NN",
+            v_image : "'redrum_vocals.png'",
+            vscore : "196096",
+
+            gpath : "1/NN, 1/5th B, 1/NN, 1/3rd B, 1/NN, 1/4th B, 1/2.7 beats after 2nd O, 1/NN, 1/2.6 beats after 2nd O, 1/NN, 1/NN",
+            g_image : "'redrum_guitar.png'",
+            gscore : "73957",
+
+            bpath : "3(+1)/4th G, 1/6th R, 1/NN, 1/NN, 1/6th R, 1/4th R, 1/NN, 1/3rd R",
+            b_image : "'redrum_bass.png'",
+            bscore : "79380",
+
+            lpath : "1/NN, 1/5th B, 1/NN, 1/3rd B, 1/NN, 1/4th B, 1/2.7 beats after 2nd O, 1/NN, 1/2.6 beats after 2nd O, 1/NN, 1/NN",
+            l_image : "'redrum_lead.png'",
+            lscore : "73640",
+
+            mpath : "3(+1)/4th G, 1/6th R, 1/NN, 1/NN, 1/6th R, 1/4th R, 1/NN, 1/3rd R",
+            m_image : "'redrum_mbass.png'",
+            mscore : "79380",
             } 
         },
 { value : "Regulate by Warren G ft. Nate Dogg", 
