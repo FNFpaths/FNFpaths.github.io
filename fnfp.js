@@ -10091,6 +10091,35 @@ const songs = [
             mscore : "174447",
             } 
         },
+{ value : "Someday by The Strokes", 
+            data : {
+            shortname : "someday",
+
+            dpath : "1/NN, 1/8th R, 1/NN, 1/NN, 1/NN, 1/20th R, 1/8th R, 2/1st GB",
+            d_image : "'someday_drums.png'",
+            dscore : "147024",
+
+            vpath : "1(+1)/6th R, 1/1st G, 1/6th G, 1/NN, 1/7th R, 1/5th R",
+            v_image : "'someday_vocals.png'",
+            vscore : "77019",
+
+            gpath : "1/5th RYB, 1/NN, 3(+1)/1st RYB, 2/1st GRB",
+            g_image : "'someday_guitar.png'",
+            gscore : "385252",
+
+            bpath : "3/2nd B, 1/3rd Y, 1/NN, 2(+1)/6th Y, 1/4th Y",
+            b_image : "'someday_bass.png'",
+            bscore : "101305",
+
+            lpath : "1/4th GB, 1/1st GB, 3(+1)/3rd GB, 2/3rd GY",
+            l_image : "'someday_lead.png'",
+            lscore : "268216",
+
+            mpath : "3/2nd B, 1/3rd Y, 1/NN, 2(+1)/6th Y, 1/4th Y",
+            m_image : "'someday_mbass.png'",
+            mscore : "101305",
+            } 
+        },
 { value : "S.O.M.P. by Epic Games", 
             data : {
             shortname : "somp",
@@ -11336,6 +11365,35 @@ const songs = [
             mpath : "1/3rd R, 2/3rd Y, 1/9th Y, 1/NN, 2(+1)/4th Y, 1/10th G, 1/10th Y",
             m_image : "'thefutureme_mbass.png'",
             mscore : "182772",
+            } 
+        },
+{ value : "The Giver by Chappell Roan", 
+            data : {
+            shortname : "thegiver",
+
+            dpath : "1/23rd Y, 1/NN, 1/7th RB, 1/24th Y, 1/NN, 1/5th Y, 1/1st GB, 1/5th GB",
+            d_image : "'thegiver_drums.png'",
+            dscore : "157680",
+
+            vpath : "1/3rd Y, 1/1st G, 1/NN, 1/12th Y, 1/2nd G, 1/14th Y, 1/6th Y",
+            v_image : "'thegiver_vocals.png'",
+            vscore : "119670",
+
+            gpath : "2/1st GR, 2(+1)/1st GR, 1/12th R, 1/4th RY, 1/22nd Y",
+            g_image : "'thegiver_guitar.png'",
+            gscore : "183426",
+
+            bpath : "1(+1)/9th G, 1/4th O, 1/12th R, 1/12th R, 1/1st B, 1/14th R, 1/4th R",
+            b_image : "'thegiver_bass.png'",
+            bscore : "172200",
+
+            lpath : "1/8th G, 1/2nd RO, 1/7th O, 1/12th G, 2/7th B, 1/6th RY, 1/22nd Y",
+            l_image : "'thegiver_lead.png'",
+            lscore : "171594",
+
+            mpath : "1(+1)/9th G, 1/4th O, 1/12th Y, 1/13th Y, 1/1st R, 1/14th Y, 1/4th Y",
+            m_image : "'thegiver_mbass.png'",
+            mscore : "169602",
             } 
         },
 { value : "The Hand That Feeds by Nine Inch Nails", 
