@@ -231,6 +231,35 @@ const songs = [
             mscore : "71892",
             } 
         },
+{ value : "Alien Boy by Oliver Tree", 
+            data : {
+            shortname : "alienboy",
+
+            dpath : "1/1st GY, 1/5th GY, 1/NN, 1/1st GY, 1/5th GY",
+            d_image : "'alienboy_drums.png'",
+            dscore : "90984",
+
+            vpath : "1/9th Y, 1/4th B, 2/3rd Y, 1/NN, 1/NN, 1/1st B, 1/10th B",
+            v_image : "'alienboy_vocals.png'",
+            vscore : "89958",
+
+            gpath : "3(+1)/1st R, 1/1st YO, 1/2nd YO, 1/After 2 beats, 1/NN, 1/NN",
+            g_image : "'alienboy_guitar.png'",
+            gscore : "57198",
+
+            bpath : "3/2nd G, 1/NN, 1/NN, 1/NN, 1/1st G",
+            b_image : "'alienboy_bass.png'",
+            bscore : "50109",
+
+            lpath : "3(+1)/1st G, 1/1st RO, 1/2nd RO, 1/After 2 beats, 1/NN, 1/NN",
+            l_image : "'alienboy_lead.png'",
+            lscore : "57198",
+
+            mpath : "3/2nd G, 1/NN, 1/NN, 1/NN, 1/1st G",
+            m_image : "'alienboy_mbass.png'",
+            mscore : "50109",
+            } 
+        },
 { value : "All Eyez On Me by 2Pac ft. Big Syke", 
             data : {
             shortname : "alleyezonme",
