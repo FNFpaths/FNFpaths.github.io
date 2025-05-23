@@ -1884,7 +1884,7 @@ const songs = [
             mscore : "65189",
             } 
         },
-{ value : "Break The Curse by Epic Games", 
+{ value : "Break the Curse by Epic Games", 
             data : {
             shortname : "breakthecurse",
 
