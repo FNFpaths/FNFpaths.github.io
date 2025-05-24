@@ -10410,6 +10410,35 @@ const songs = [
             mscore : "121770",
             } 
         },
+{ value : "Stay Alta by Estelle ft. Channel Tres", 
+            data : {
+            shortname : "stayalta",
+
+            dpath : "1/28th R, 1/1st RO, 1/3rd RO, 1/1st RO, 1/4th RO, 1/2nd Y, 1/4th RO, 1/1st RO, 1/2nd RO, 1/1st RO, 2/2nd Y, 1/2nd RO, 1/1st RO, 1/1st RO",
+            d_image : "'stayalta_drums.png'",
+            dscore : "203472",
+
+            vpath : "2(+1)/3rd R, 4(+1)/6th Y, 1/4th G, 1/2nd G, 1/4th O, 1/2nd R, 1/NN, 1/2nd Y, 1/1st G, 1/1st O",
+            v_image : "'stayalta_vocals.png'",
+            vscore : "196809",
+
+            gpath : "1/2nd Y, 1/2nd G, 1/1st RB, 1/1st RB, 1/2nd R, 1/10th Y, 1/NN, 1/NN, 1/3rd G, 1/2nd R, 1/3rd R, 1/7th G, 1/NN, 1/1st RB, 1/4th G, 1/2nd R",
+            g_image : "'stayalta_guitar.png'",
+            gscore : "144789",
+
+            bpath : "2(+1)/14th Y, 3/1st B, 1/1st Y, 1/NN, 1/2nd R, 3/4th Y, 1/4th Y",
+            b_image : "'stayalta_bass.png'",
+            bscore : "107418",
+
+            lpath : "1/2nd Y, 1/2nd G, 1/1st GB, 1/1st GB, 1/2nd R, 1/10th Y, 1/NN, 1/NN, 1/3rd G, 1/2nd R, 1/3rd R, 1/7th G, 1/NN, 1/1st GB, 1/4th G, 1/2nd R",
+            l_image : "'stayalta_lead.png'",
+            lscore : "144789",
+
+            mpath : "2(+1)/14th Y, 3/1st B, 1/1st Y, 1/NN, 1/2nd R, 3/4th Y, 1/4th Y",
+            m_image : "'stayalta_mbass.png'",
+            mscore : "107418",
+            } 
+        },
 { value : "Stick Season by Noah Kahan", 
             data : {
             shortname : "stickseason",
