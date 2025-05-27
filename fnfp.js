@@ -1072,6 +1072,35 @@ const songs = [
             mscore : "228168",
             } 
         },
+{ value : "Bed Chem by Sabrina Carpenter", 
+            data : {
+            shortname : "bedchem",
+
+            dpath : "1/1st RY, 1/NN, 1/1st RY, 1/1st RO, 2/9th GY, 1/4th GY",
+            d_image : "'bedchem_drums.png'",
+            dscore : "146448",
+
+            vpath : "1/1st G, 2/15th G, 1/12th R, 1/7th G, 1/3rd O, 1/8th G",
+            v_image : "'bedchem_vocals.png'",
+            vscore : "132903",
+
+            gpath : "1/2nd YO, 1/NN, 1/10th YO, 1/3rd YO, 1/3rd YO, 1/1st YO, 1/NN",
+            g_image : "'bedchem_guitar.png'",
+            gscore : "94774",
+
+            bpath : "3/2nd G, 1/2nd B, 1/1st B, 1/NN, 1/NN",
+            b_image : "'bedchem_bass.png'",
+            bscore : "43224",
+
+            lpath : "1/1st RO, 1/NN, 1/1st R, 1/5th R, 1/3rd RO, 1/1st RB, 1/NN",
+            l_image : "'bedchem_lead.png'",
+            lscore : "89778",
+
+            mpath : "3/2nd G, 1/2nd B, 1/1st B, 1/NN, 1/NN",
+            m_image : "'bedchem_mbass.png'",
+            mscore : "42792",
+            } 
+        },
 { value : "Before I Forget by Slipknot", 
             data : {
             shortname : "beforeiforget",
@@ -6754,6 +6783,35 @@ const songs = [
             mpath : "3/3rd R, 1/1st R, 1/1st R, 1/1st R, 1/1st R, 1/1st R, 1/1st R",
             m_image : "'limitlessmurdabeatz_mbass.png'",
             mscore : "60507",
+            } 
+        },
+{ value : "Livin' La Vida Loca by Ricky Martin", 
+            data : {
+            shortname : "livinlavidaloca",
+
+            dpath : "1/3rd GO, 1/3rd RB, 1/1st RO, 1/NN, 1/3rd RO, 1/NN, 1/2nd GO, 1/NN, 1/NN, 1/NN, 1/3rd RO, 1/2nd RO, 1/1st RO, 1/1st RO, 1/2nd RO, 1/2nd RO, 1/3rd RO, 1/1st RO",
+            d_image : "'livinlavidaloca_drums.png'",
+            dscore : "208512",
+
+            vpath : "3(+1)/11th B, 1/2nd GO, 1/NN, 1/3rd G, 1/NN, 1/2nd GO, 1/2nd GO, 1/3rd G, 1/2nd GO, 1/7th GO, 1/4th GO, 1/2nd GO, 1/2nd Y",
+            v_image : "'livinlavidaloca_vocals.png'",
+            vscore : "192276",
+
+            gpath : "1(+1)/9th G, 2/1st GY, 1/4th RB, 2/1st YO, 1/NN, 1/1st GY, 1/3rd O, 1/3rd GY, 1/1st RY, 1/1st BO, 1/6th RB, 1/3rd RB, 1/4th YB, 1/5th G, 1/17th G",
+            g_image : "'livinlavidaloca_guitar.png'",
+            gscore : "230838",
+
+            bpath : "1/9th O, 2/5th B, 1/NN, 2/5th Y, 1/3rd Y, 1/7th B, 1/NN, 2/5th Y, 1(+1)/8th B, 1/1st Y, 1/4th B, 1/8th B, 1/NN, 1/8th B",
+            b_image : "'livinlavidaloca_bass.png'",
+            bscore : "199800",
+
+            lpath : "1(+1)/10th G, 2/1st GY, 1/3rd RB, 2/1st GB, 1/NN, 1/1st GY, 1/3rd RB, 1/3rd GY, 1/1st RY, 1/1st RO, 1/6th RB, 1/3rd RB, 1/4th GB, 1/5th G, 1/16th G",
+            l_image : "'livinlavidaloca_lead.png'",
+            lscore : "227238",
+
+            mpath : "1/9th O, 2/4th R, 1/NN, 2/4th G, 1/3rd G, 1/7th R, 1/NN, 2/4th G, 1(+1)/8th R, 1/1st Y, 1/4th B, 1/8th B, 1/NN, 1/8th B",
+            m_image : "'livinlavidaloca_mbass.png'",
+            mscore : "199512",
             } 
         },
 { value : "Lonely Boy by The Black Keys", 
