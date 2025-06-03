@@ -115,6 +115,35 @@ const songs = [
             mscore : "331596",
             } 
         },
+{ value : "afraid by 2hollis ft. Nate Sib", 
+            data : {
+            shortname : "afraid",
+
+            dpath : "1/2nd GB, 1/2nd GB, 1(+1)/1st GB, 1/NN, 1/1st GB, 1/NN, 1/1st GB, 1/1st GB, 2/1st GB",
+            d_image : "'afraid_drums.png'",
+            dscore : "144720",
+
+            vpath : "1(+1)/6th O, 2/5th Y, 1/9th R, 1/6th Y, 1/6th Y, 1/3rd O, 1/7th B",
+            v_image : "'afraid_vocals.png'",
+            vscore : "120549",
+
+            gpath : "2(+1)/23rd Y, 1/3rd G, 1/10th B, 1/NN, 1/NN, 1(+1)/23rd Y, 1/3rd G",
+            g_image : "'afraid_guitar.png'",
+            gscore : "136944",
+
+            bpath : "1/11th G, 3/NN, 1/NN, 2(+1)/6th G, 2/9th G",
+            b_image : "'afraid_bass.png'",
+            bscore : "125523",
+
+            lpath : "2(+1)/16th G, 1/3rd G, 1/10th B, 1/NN, 1/NN, 1(+1)/20th Y, 1/3rd G",
+            l_image : "'afraid_lead.png'",
+            lscore : "136800",
+
+            mpath : "1/11th G, 3/NN, 1/NN, 2(+1)/6th G, 2/9th G",
+            m_image : "'afraid_mbass.png'",
+            mscore : "125523",
+            } 
+        },
 { value : "Africa by Toto", 
             data : {
             shortname : "africa",
@@ -10091,6 +10120,35 @@ const songs = [
             mscore : "574155",
             } 
         },
+{ value : "Smells Like Teen Spirit by Nirvana", 
+            data : {
+            shortname : "smellsliketeenspirit",
+
+            dpath : "1/1st Y, 1/24th GY, 1/NN, 1/3rd Y, 1/NN, 1/7th RY, 4(+1)/12th O, 1/3rd RY, 1/NN, 1/NN",
+            d_image : "'smellsliketeenspirit_drums.png'",
+            dscore : "299952",
+
+            vpath : "1/10th Y, 1/2nd R, 1/3rd Y, 1/13th R, 1/1st R, 2/5th Y, 1/6th R, 1/NN, 1/NN",
+            v_image : "'smellsliketeenspirit_vocals.png'",
+            vscore : "113874",
+
+            gpath : "1/7th G, 3/1st YO, 1/3rd YO, 2(+1)/1st GR, 1/NN, 4(+1)/7th RB",
+            g_image : "'smellsliketeenspirit_guitar.png'",
+            gscore : "285860",
+
+            bpath : "1/1st O, 1(+1)/18th O, 1/NN, 1/NN, 1/12th O, 1/NN, 1/1st Y, 1/13th G, 1/NN, 1/NN, 1/9th O, 1/NN, 1/NN",
+            b_image : "'smellsliketeenspirit_bass.png'",
+            bscore : "284715",
+
+            lpath : "1/7th G, 3/1st RO, 1/2nd RO, 2(+1)/1st GY, 1/NN, 4(+1)/5th RB",
+            l_image : "'smellsliketeenspirit_lead.png'",
+            lscore : "274548",
+
+            mpath : "1/1st O, 1(+1)/18th O, 1/NN, 1/NN, 1/12th O, 1/NN, 1/1st Y, 1/13th G, 1/NN, 1/NN, 1/9th O, 1/NN, 1/NN",
+            m_image : "'smellsliketeenspirit_mbass.png'",
+            mscore : "262146",
+            } 
+        },
 { value : "Snow (Hey Oh) by Red Hot Chili Peppers", 
             data : {
             shortname : "snow",
@@ -10785,6 +10843,35 @@ const songs = [
             mpath : "1/14th B, 1/NN, 1/NN, 1/NN, 1/NN, 1/3rd R, 1/NN, 1/2nd G, 1/2nd R, 2(+1)/18th R",
             m_image : "'sugarweregoindown_mbass.png'",
             mscore : "209772",
+            } 
+        },
+{ value : "Sunflower - Spider-Man: Into the Spider-Verse by  Post Malone w/ Swae Lee", 
+            data : {
+            shortname : "sunflower",
+
+            dpath : "1/NN, 1/NN, 1/NN, 1/2nd GY, 1/NN",
+            d_image : "'sunflower_drums.png'",
+            dscore : "152208",
+
+            vpath : "1/7th G, 1/4th O, 2(+1)/11th G, 1/9th B",
+            v_image : "'sunflower_vocals.png'",
+            vscore : "104532",
+
+            gpath : "1/1st GRB, 1/6th R, 1/NN, 1/15th R, 1/3rd R, 1/4th Y",
+            g_image : "'sunflower_guitar.png'",
+            gscore : "74047",
+
+            bpath : "2/2nd G, 1/3rd R, 1/2nd G, 1/3rd R",
+            b_image : "'sunflower_bass.png'",
+            bscore : "43056",
+
+            lpath : "1/3rd R, 1(+1)/14th R, 1/15th R, 1/3rd R, 1/3rd Y",
+            l_image : "'sunflower_lead.png'",
+            lscore : "66783",
+
+            mpath : "2/2nd G, 1/3rd Y, 1/2nd G, 1/3rd Y",
+            m_image : "'sunflower_mbass.png'",
+            mscore : "43056",
             } 
         },
 { value : "Super Bass by Nicki Minaj", 
