@@ -2973,17 +2973,17 @@ const songs = [
             g_image : "'cream_guitar.png'",
             gscore : "123452",
 
-            bpath : "2/2nd Y, 1/2nd Y, 1/4th G, 1(+1)/5th G, 1/7th G",
+            bpath : "2/3rd Y, 1/2nd Y, 1/4th Y, 1(+1)/5th G, 1/7th G",
             b_image : "'cream_bass.png'",
-            bscore : "33399",
+            bscore : "33357",
 
             lpath : "1/5th Y, 1/NN, 1/2nd G, 1/2nd Y, 1/9th G, 1/NN, 1/NN, 1/NN",
             l_image : "'cream_lead.png'",
             lscore : "123452",
 
-            mpath : "2/2nd O, 1/2nd O, 1/4th G, 1(+1)/5th G, 1/7th G",
+            mpath : "2/3rd O, 1/2nd O, 1/4th O, 1(+1)/5th G, 1/7th G",
             m_image : "'cream_mbass.png'",
-            mscore : "33399",
+            mscore : "33357",
             } 
         },
 { value : "Creatures In Heaven by Glass Animals", 
@@ -10845,7 +10845,7 @@ const songs = [
             mscore : "209772",
             } 
         },
-{ value : "Sunflower - Spider-Man: Into the Spider-Verse by  Post Malone w/ Swae Lee", 
+{ value : "Sunflower - Spider-Man: Into the Spider-Verse by Post Malone w/ Swae Lee", 
             data : {
             shortname : "sunflower",
 
