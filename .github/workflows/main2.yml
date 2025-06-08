@@ -41,6 +41,8 @@ jobs:
         run: |
           source venv/bin/activate
           python ./scripts/download.py
+        env:
+          KEY: ${{ secrets.KEY }}
 
       # Make the main script executable
       - name: Make main script executable
@@ -55,6 +57,8 @@ jobs:
         run: |
           source venv/bin/activate
           ./scripts/run_script.sh
+        env:
+          KEY: ${{ secrets.KEY }}
 
       # Stash any local changes before pulling the latest code
       - name: Stash changes before pull

@@ -35,12 +35,15 @@ jobs:
       # Make the download script executable
       - name: Make download script executable
         run: chmod +x ./scripts/download.py
+        
 
       # Run the download script
       - name: Run download script
         run: |
           source venv/bin/activate
           python ./scripts/download.py
+        env:
+          KEY: ${{ secrets.KEY }}
 
       # Make the main script executable
       - name: Make main script executable
@@ -55,6 +58,8 @@ jobs:
         run: |
           source venv/bin/activate
           ./scripts/run_script.sh
+        env:
+          KEY: ${{ secrets.KEY }}
 
       # Stash any local changes before pulling the latest code
       - name: Stash changes before pull

@@ -26,7 +26,13 @@ class AESCipher:
         return decrypted
 
 #key = b'abcdefghijklmnop'
-key = bytearray.fromhex("29B4AC18D090166559244E15548BD4C11B98D33AD57F7B0D9BFFF6CEB7CF6145") # 256-bit Festival MIDI key
+key_hex = os.environ.get("KEY")
+if key_hex is None:
+    print("Error: FESTIVAL_MIDI_KEY environment variable not set")
+    sys.exit(1)
+
+key = bytearray.fromhex(key_hex)
+
 
 iv = bytearray.fromhex("00000000000000000000000000000000") # null nonce because that's just what they do when they ECB
 
