@@ -6669,6 +6669,35 @@ const songs = [
             mscore : "209628",
             } 
         },
+{ value : "When I Let the Music Play by Epic Games", 
+            data : {
+            shortname : "letthemusicplay",
+
+            dpath : "1/12th GY, 3/1st G, 2(+1)/1st Y, 1/34th Y",
+            d_image : "'letthemusicplay_drums.png'",
+            dscore : "145296",
+
+            vpath : "2/NN, 1/1st Y, 1/4th R, 1/4th G, 1/7th R, 1/11th Y, 1/NN, 1/3rd Y",
+            v_image : "'letthemusicplay_vocals.png'",
+            vscore : "96525",
+
+            gpath : "1/6th YB, 1/3 beats after 2nd RB, 1/26th Y, 2(+1)/1st O, 1/1st GO, 1/4th GB, 1/6th Y",
+            g_image : "'letthemusicplay_guitar.png'",
+            gscore : "107740",
+
+            bpath : "3/5th Y, 2/12th Y, 1/12th Y, 1/12th Y",
+            b_image : "'letthemusicplay_bass.png'",
+            bscore : "91446",
+
+            lpath : "1/6th RB, 2/18th R, 2(+1)/1st O, 1/2nd GO, 1/4th GB, 1/6th R",
+            l_image : "'letthemusicplay_lead.png'",
+            lscore : "104056",
+
+            mpath : "3/5th Y, 2/12th Y, 1/12th Y, 1/12th Y",
+            m_image : "'letthemusicplay_mbass.png'",
+            mscore : "90369",
+            } 
+        },
 { value : "Let You Down by NF", 
             data : {
             shortname : "letyoudown",
@@ -7191,6 +7220,35 @@ const songs = [
             mscore : "92154",
             } 
         },
+{ value : "Make the Crowd Roar by Epic Games", 
+            data : {
+            shortname : "makethecrowdroar",
+
+            dpath : "1/8th GY, 1/NN, 1/NN, 1/4th R, 1/NN, 3/5th B, 1(+1)/2nd GO",
+            d_image : "'makethecrowdroar_drums.png'",
+            dscore : "219024",
+
+            vpath : "2(+1)/9th G, 1/5th G, 1/9th Y, 1(+1)/11th Y, 1/NN, 1(+1)/14th Y",
+            v_image : "'makethecrowdroar_vocals.png'",
+            vscore : "134568",
+
+            gpath : "1/1st O, 1/1st R, 1/5th B, 1/2nd O, 4(+1)/10th R",
+            g_image : "'makethecrowdroar_guitar.png'",
+            gscore : "79095",
+
+            bpath : "3/1st G, 1/1st Y, 4(+1)/1st G",
+            b_image : "'makethecrowdroar_bass.png'",
+            bscore : "104772",
+
+            lpath : "1/1st O, 1/1st R, 1/5th B, 1/2nd O, 4(+1)/10th G",
+            l_image : "'makethecrowdroar_lead.png'",
+            lscore : "79095",
+
+            mpath : "3/1st G, 1/1st Y, 4(+1)/1st G",
+            m_image : "'makethecrowdroar_mbass.png'",
+            mscore : "102558",
+            } 
+        },
 { value : "Make You Mine by Madison Beer", 
             data : {
             shortname : "makeyoumine",
@@ -7595,6 +7653,35 @@ const songs = [
             mpath : "2/3rd B, 1/2nd G, 2/1st R, 1/1st G",
             m_image : "'mood_mbass.png'",
             mscore : "60867",
+            } 
+        },
+{ value : "Move Like the Mist by Epic Games", 
+            data : {
+            shortname : "movelikethemist",
+
+            dpath : "1/2nd RY, 1/2nd RY, 1/9th GO, 1/14th GO, 1/2nd RY, 1/18th GB, 2(+1)/2nd RY, 1/14th R",
+            d_image : "'movelikethemist_drums.png'",
+            dscore : "175104",
+
+            vpath : "1/5th R, 1/1st Y, 1/6th Y, 1/NN, 1/1st O, 1/NN, 1/NN, 1/10th R",
+            v_image : "'movelikethemist_vocals.png'",
+            vscore : "72678",
+
+            gpath : "2(+1)/1st GB, 1/1st RO, 3/NN, 1/1st RO, 2/1st GB",
+            g_image : "'movelikethemist_guitar.png'",
+            gscore : "182163",
+
+            bpath : "2(+1)/1st G, 1/NN, 1/NN, 2/NN, 1/10th Y, 1/NN, 1/NN",
+            b_image : "'movelikethemist_bass.png'",
+            bscore : "170730",
+
+            lpath : "2(+1)/9th GB, 1/1st GO, 3/NN, 1/1st GO, 2/1st GB",
+            l_image : "'movelikethemist_lead.png'",
+            lscore : "179829",
+
+            mpath : "2(+1)/1st G, 1/NN, 3/NN, 1/NN, 1/NN, 1/NN",
+            m_image : "'movelikethemist_mbass.png'",
+            mscore : "167067",
             } 
         },
 { value : "Moves Like Jagger by Maroon 5 ft. Christina Aguilera", 
