@@ -7162,6 +7162,35 @@ const songs = [
             mscore : "245772",
             } 
         },
+{ value : "Magnetic by ILLIT ", 
+            data : {
+            shortname : "magnetic",
+
+            dpath : "1/1st GY, 1/2nd GY, 1/2nd G, 1/1st RY, 1/1st GY, 1/13th GY, 1/2nd GY, 1/NN",
+            d_image : "'magnetic_drums.png'",
+            dscore : "129888",
+
+            vpath : "1/11th B, 1/NN, 1/1st Y, 1/18th Y, 1/1st B, 1/25th B, 1/NN, 1/1st Y, 1/NN",
+            v_image : "'magnetic_vocals.png'",
+            vscore : "129816",
+
+            gpath : "1/12th G, 1/1st GR, 1/2nd GR, 1/1st GR, 3(+1)/NN, 1/2nd GR",
+            g_image : "'magnetic_guitar.png'",
+            gscore : "141688",
+
+            bpath : "1/16th Y, 1/2nd Y, 1/1st Y, 1/8th Y, 1/1st Y, 1/4th Y, 1/2nd Y",
+            b_image : "'magnetic_bass.png'",
+            bscore : "119448",
+
+            lpath : "1/21st G, 1/1st GY, 1/2nd GY, 1/1st GY, 3(+1)/NN, 1/1st GY",
+            l_image : "'magnetic_lead.png'",
+            lscore : "134892",
+
+            mpath : "1/16th Y, 1/2nd Y, 1/1st Y, 1/8th Y, 1/1st Y, 1/4th Y, 1/2nd Y",
+            m_image : "'magnetic_mbass.png'",
+            mscore : "119448",
+            } 
+        },
 { value : "MakeDamnSure by Taking Back Sunday", 
             data : {
             shortname : "makedamnsure",
@@ -8030,6 +8059,35 @@ const songs = [
             mpath : "3(+1)/2nd R, 1/NN, 1/3rd G, 3(+1)/4th R, 1/NN",
             m_image : "'nightrosessong_mbass.png'",
             mscore : "145980",
+            } 
+        },
+{ value : "No Doubt by ENHYPEN", 
+            data : {
+            shortname : "nodoubt",
+
+            dpath : "2(+1)/1st GB, 1/NN, 1/NN, 2/1st GB, 1/NN",
+            d_image : "'nodoubt_drums.png'",
+            dscore : "143136",
+
+            vpath : "1/4th B, 3(+1)/6th R, 1/6th Y, 1/1st O, 1/5th O",
+            v_image : "'nodoubt_vocals.png'",
+            vscore : "118704",
+
+            gpath : "1/3rd GYB, 1/1st GYB, 1/1st GYB, 1/1st GYB, 1/1st GYB, 1/3rd GYB, 1/3rd GYB, 1/1st GYB, 1/1st GYB",
+            g_image : "'nodoubt_guitar.png'",
+            gscore : "117648",
+
+            bpath : "3/1st R, 1/1st R, 1/NN, 1/3rd G, 1/3rd R, 1/NN",
+            b_image : "'nodoubt_bass.png'",
+            bscore : "55902",
+
+            lpath : "1/3rd RY, 1/1st RY, 2(+1)/5th RO, 1/3rd RY, 2(+1)/5th RO",
+            l_image : "'nodoubt_lead.png'",
+            lscore : "84048",
+
+            mpath : "3/1st R, 1/1st R, 1/NN, 1/3rd G, 1/3rd R, 1/NN",
+            m_image : "'nodoubt_mbass.png'",
+            mscore : "55902",
             } 
         },
 { value : "Nonsense by Sabrina Carpenter", 
@@ -9857,6 +9915,35 @@ const songs = [
             mpath : "1/7th Y, 1/8th Y, 1/7th Y, 1/8th Y, 1/3rd Y, 1/9th G, 1/7th G, 1/9th R, 1/7th R, 1/1st Y, 1/9th G",
             m_image : "'september_mbass.png'",
             mscore : "179532",
+            } 
+        },
+{ value : "Seven by Jung Kook, Latto", 
+            data : {
+            shortname : "seven",
+
+            dpath : "1/NN, 1/9th Y, 1/NN, 1/NN, 1/12th O, 1/NN, 1/1st O, 1/11th Y, 1/NN",
+            d_image : "'seven_drums.png'",
+            dscore : "115920",
+
+            vpath : "1/6th Y, 1/5th Y, 1/15th Y, 1/NN, 2/17th R, 1/NN, 1/2nd Y, 1/2nd Y, 1/NN",
+            v_image : "'seven_vocals.png'",
+            vscore : "188925",
+
+            gpath : "1/3rd G, 1/1st GYB, 1/1st GYB, 1/1st GYB, 1/1st GYB, 1/1st GYB, 1/2nd YBO, 1/1st YBO, 1/1st GYB, 1/1st GYB",
+            g_image : "'seven_guitar.png'",
+            gscore : "109305",
+
+            bpath : "3/2nd G, 1/NN, 1/NN",
+            b_image : "'seven_bass.png'",
+            bscore : "54696",
+
+            lpath : "1/5th R, 1/1st GY, 1/1st GY, 1/1st GY, 1/1st GY, 1/1st GY, 1/3rd G, 1/1st GB, 1/1st GY, 1/1st GY",
+            l_image : "'seven_lead.png'",
+            lscore : "92586",
+
+            mpath : "3/2nd G, 1/NN, 1/NN",
+            m_image : "'seven_mbass.png'",
+            mscore : "54696",
             } 
         },
 { value : "Seven Nation Army by The White Stripes", 
@@ -13337,6 +13424,35 @@ const songs = [
             mpath : "2(+1)/1st Y, 1/2nd Y, 1/1st Y, 1/1st Y, 1/1st Y, 1/1st Y",
             m_image : "'whineup_mbass.png'",
             mscore : "76320",
+            } 
+        },
+{ value : "Who by Jimin", 
+            data : {
+            shortname : "who",
+
+            dpath : "1/3rd RY, 1/NN, 1/1st GB, 1/3rd GY, 1/2nd GY, 1/1st GB, 1/2nd GB",
+            d_image : "'who_drums.png'",
+            dscore : "105696",
+
+            vpath : "1/4th G, 1/2nd G, 1/NN, 1/5th G, 1/7th B, 1/5th GO, 1/NN, 1/4th B",
+            v_image : "'who_vocals.png'",
+            vscore : "121302",
+
+            gpath : "2(+1)/1st GY, 1(+1)/1st GY, 3/1st GY",
+            g_image : "'who_guitar.png'",
+            gscore : "203184",
+
+            bpath : "3(+1)/1st G, 1/2nd B, 1/2nd B, 1/4th R",
+            b_image : "'who_bass.png'",
+            bscore : "55239",
+
+            lpath : "2(+1)/1st RO, 2/1st RB, 1/NN, 2/1st RB",
+            l_image : "'who_lead.png'",
+            lscore : "152064",
+
+            mpath : "3(+1)/1st G, 1/2nd B, 1/2nd B, 1/4th R",
+            m_image : "'who_mbass.png'",
+            mscore : "54909",
             } 
         },
 { value : "Who Let The Dogs Out by Baha Men", 
