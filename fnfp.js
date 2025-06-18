@@ -57,6 +57,35 @@ const songs = [
             mscore : "34494",
             } 
         },
+{ value : "ABC by Jackson 5", 
+            data : {
+            shortname : "abc",
+
+            dpath : "1/NN, 1/1st GO, 1/NN, 1/NN, 1/7th GB, 1/5th B, 1/NN",
+            d_image : "'abc_drums.png'",
+            dscore : "169344",
+
+            vpath : "2/4th B, 1/5th Y, 1/NN, 1/5th R, 1/13th B, 1/4th B",
+            v_image : "'abc_vocals.png'",
+            vscore : "149520",
+
+            gpath : "1/12th R, 1/NN, 1/19th R, 3(+1)/5th Y",
+            g_image : "'abc_guitar.png'",
+            gscore : "92856",
+
+            bpath : "2/1st G, 1/NN, 3/1st O, 1/NN",
+            b_image : "'abc_bass.png'",
+            bscore : "129798",
+
+            lpath : "1/12th Y, 1/NN, 1/19th Y, 3(+1)/16th Y",
+            l_image : "'abc_lead.png'",
+            lscore : "92856",
+
+            mpath : "2/1st G, 1/NN, 3/1st O, 1/NN",
+            m_image : "'abc_mbass.png'",
+            mscore : "125694",
+            } 
+        },
 { value : "abcdefu by GAYLE", 
             data : {
             shortname : "abcdefu",
@@ -606,6 +635,35 @@ const songs = [
             mpath : "1/12th B, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
             m_image : "'apple_mbass.png'",
             mscore : "147969",
+            } 
+        },
+{ value : "APT. by ROSÉ, Bruno Mars", 
+            data : {
+            shortname : "apt",
+
+            dpath : "1/2nd GY, 1/NN, 1/NN, 1/1st RB, 1/1st RY, 3/1st RY, 1/NN",
+            d_image : "'apt_drums.png'",
+            dscore : "192384",
+
+            vpath : "1/5th G, 1/5th B, 1/13th G, 1/10th B, 1/11th Y, 1/1st O, 1/2nd G, 1/2nd B, 1/NN",
+            v_image : "'apt_vocals.png'",
+            vscore : "139770",
+
+            gpath : "1/1st GB, 2/2nd Y, 1/19th G, 3/5th BO, 1/8th YB",
+            g_image : "'apt_guitar.png'",
+            gscore : "143844",
+
+            bpath : "4/2nd Y, 1/7th O, 1/4th R, 2/3rd G",
+            b_image : "'apt_bass.png'",
+            bscore : "107448",
+
+            lpath : "1/1st GY, 2/3rd R, 1/21st G, 3/5th RO, 1/8th GB",
+            l_image : "'apt_lead.png'",
+            lscore : "143844",
+
+            mpath : "4/2nd Y, 1/7th O, 1/4th R, 2/3rd G",
+            m_image : "'apt_mbass.png'",
+            mscore : "107124",
             } 
         },
 { value : "Armed And Dangerous by Juice WRLD", 
@@ -1739,6 +1797,35 @@ const songs = [
             mscore : "65985",
             } 
         },
+{ value : "Bonde Do Brunão by Bruno Mars", 
+            data : {
+            shortname : "bondedobrunao",
+
+            dpath : "1/1st RY, 1(+1)/4th GO",
+            d_image : "'bondedobrunao_drums.png'",
+            dscore : "82080",
+
+            vpath : "1/7th O, 1/1st B, 1/NN",
+            v_image : "'bondedobrunao_vocals.png'",
+            vscore : "44649",
+
+            gpath : "2/8th Y",
+            g_image : "'bondedobrunao_guitar.png'",
+            gscore : "17640",
+
+            bpath : "2/6th G, 1/2nd G",
+            b_image : "'bondedobrunao_bass.png'",
+            bscore : "21453",
+
+            lpath : "2/8th Y",
+            l_image : "'bondedobrunao_lead.png'",
+            lscore : "17640",
+
+            mpath : "2/6th G, 1/2nd G",
+            m_image : "'bondedobrunao_mbass.png'",
+            mscore : "21453",
+            } 
+        },
 { value : "Bones by Imagine Dragons", 
             data : {
             shortname : "bones",
@@ -2085,6 +2172,35 @@ const songs = [
             mpath : "1/13th G, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
             m_image : "'broccoli_mbass.png'",
             mscore : "39324",
+            } 
+        },
+{ value : "Bruno-San’s Theme Song by Bruno Mars", 
+            data : {
+            shortname : "brunosan",
+
+            dpath : "1/NN, 1/3rd GY, 1/1st RB, 1/15th GY",
+            d_image : "'brunosan_drums.png'",
+            dscore : "72000",
+
+            vpath : "1/9 beats after 9th O, 1/NN, 1/NN",
+            v_image : "'brunosan_vocals.png'",
+            vscore : "29731",
+
+            gpath : "2/1st R, 1/2nd RB",
+            g_image : "'brunosan_guitar.png'",
+            gscore : "57366",
+
+            bpath : "1/9th Y, 1/NN, 1/NN",
+            b_image : "'brunosan_bass.png'",
+            bscore : "55530",
+
+            lpath : "2/1st O, 1/2nd RY",
+            l_image : "'brunosan_lead.png'",
+            lscore : "53634",
+
+            mpath : "1/9th Y, 1/NN, 1/NN",
+            m_image : "'brunosan_mbass.png'",
+            mscore : "54936",
             } 
         },
 { value : "Buddy Holly by Weezer", 
@@ -3102,6 +3218,35 @@ const songs = [
             mscore : "27042",
             } 
         },
+{ value : "Dance Therapy by Epic Games", 
+            data : {
+            shortname : "dancetherapy",
+
+            dpath : "1/1st Y, 1/NN, 1/1st Y, 1/NN, 1/8th G, 1/NN, 1/6th Y, 1/NN, 1/NN, 1/NN, 1/31st O",
+            d_image : "'dancetherapy_drums.png'",
+            dscore : "143136",
+
+            vpath : "1/4th R, 1/NN, 4(+1)/2nd O, 1/6th R, 1/NN, 1/1st B",
+            v_image : "'dancetherapy_vocals.png'",
+            vscore : "118863",
+
+            gpath : "4(+1)/4th B, 1/2nd G, 3(+1)/1.5 beats after 9th B, 1/20th Y",
+            g_image : "'dancetherapy_guitar.png'",
+            gscore : "107478",
+
+            bpath : "1/2nd O, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            b_image : "'dancetherapy_bass.png'",
+            bscore : "191880",
+
+            lpath : "4(+1)/4th R, 1/2nd G, 3(+1)/1.5 beats after 7th B, 1/12th B",
+            l_image : "'dancetherapy_lead.png'",
+            lscore : "102283",
+
+            mpath : "1/2nd O, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            m_image : "'dancetherapy_mbass.png'",
+            mscore : "191880",
+            } 
+        },
 { value : "Dancing in the Flames by The Weeknd", 
             data : {
             shortname : "dancingintheflames",
@@ -3274,6 +3419,35 @@ const songs = [
             mpath : "1/13th G, 1/1st Y, 1/NN, 1/1st B, 1/1st Y, 1/NN",
             m_image : "'dexting_mbass.png'",
             mscore : "64566",
+            } 
+        },
+{ value : "Die With A Smile by Lady Gaga, Bruno Mars", 
+            data : {
+            shortname : "diewithasmile",
+
+            dpath : "1/4th B, 1/15th B, 1/14th GY, 1/15th GY, 1/2nd B, 1/2nd B, 1/8th B, 1/7th B",
+            d_image : "'diewithasmile_drums.png'",
+            dscore : "169464",
+
+            vpath : "1/13th Y, 1/1st B, 1/3rd R, 1/7th Y, 1/NN, 1/2nd B, 1/10th Y, 1/5th Y, 1/4th G, 1/2nd B, 1/5th Y, 1/5th Y",
+            v_image : "'diewithasmile_vocals.png'",
+            vscore : "142527",
+
+            gpath : "1/2nd RYB, 1/2nd YBO, 3/NN, 1/2nd YBO, 4(+1)/2nd RYO, 2/4th GRY",
+            g_image : "'diewithasmile_guitar.png'",
+            gscore : "333021",
+
+            bpath : "1/4th R, 1/3rd Y, 1/2nd Y, 1/2nd B, 1/NN, 1/8th Y, 1/2nd Y, 1/1st B",
+            b_image : "'diewithasmile_bass.png'",
+            bscore : "110700",
+
+            lpath : "1/6th G, 1/6th R, 2(+1)/1st GY, 1/17th R, 1/NN, 2/6th B, 1/NN, 1/NN, 2/6th G",
+            l_image : "'diewithasmile_lead.png'",
+            lscore : "181380",
+
+            mpath : "1/5th R, 1/2nd G, 1/2nd Y, 1/2nd B, 1/NN, 1/4th G, 1/2nd Y, 1/1st R",
+            m_image : "'diewithasmile_mbass.png'",
+            mscore : "110700",
             } 
         },
 { value : "Dirty Little Secret by The All-American Rejects", 
@@ -6640,6 +6814,35 @@ const songs = [
             mscore : "75684",
             } 
         },
+{ value : "Leave The Door Open by Silk Sonic", 
+            data : {
+            shortname : "leavethedooropen",
+
+            dpath : "2/6th RY, 1/NN, 1/2nd RO, 1/NN, 1/1st GO, 3(+1)/2nd GO, 3/1st RO, 1/NN, 1/3rd GY",
+            d_image : "'leavethedooropen_drums.png'",
+            dscore : "180576",
+
+            vpath : "1/4th B, 1/2nd R, 1/1st GB, 1/1st Y, 1/1st Y, 1/7th B, 1/1st GB, 1/2nd R, 1/6.2 beats after 1st Y, 1/9th Y, 1/7th Y, 1/2nd R, 1/5th B, 1/2nd O, 1/1st O",
+            v_image : "'leavethedooropen_vocals.png'",
+            vscore : "198888",
+
+            gpath : "1/5th RO, 1/2nd RY, 1/2nd RB, 1/3rd GRB, 2/3rd RY, 1/1st RB, 1/3rd GRB, 2(+1)/1st GR, 1/After 0.027 beats, 1(+1)/1st YO, 1/3rd BO",
+            g_image : "'leavethedooropen_guitar.png'",
+            gscore : "167076",
+
+            bpath : "2/5th R, 1/NN, 1/3rd G, 1/1st G, 1/3rd G, 1/2nd Y, 1/3rd G, 1/1 beats after 4th R, 1/NN, 1/1st O, 1/8th R, 1/9th R, 1/7th R, 1/1st R",
+            b_image : "'leavethedooropen_bass.png'",
+            bscore : "146493",
+
+            lpath : "1/5th RO, 1/1st GY, 1/2nd RB, 1/3rd GY, 1/3rd GB, 1/3rd GY, 1/1st RB, 1/3rd GY, 1/2nd G, 1/1st GY, 1/1st RO, 1/After 0.041 beats, 1(+1)/1st RB, 1/3rd GO",
+            l_image : "'leavethedooropen_lead.png'",
+            lscore : "143816",
+
+            mpath : "2/5th R, 1/NN, 1/3rd G, 1/NN, 1/3rd G, 1/2nd Y, 1/3rd G, 1/1 beats after 4th R, 1/NN, 1/1st O, 1/7th B, 1/10th R, 1/4th G, 1/1st R",
+            m_image : "'leavethedooropen_mbass.png'",
+            mscore : "145197",
+            } 
+        },
 { value : "Less Than by Nine Inch Nails", 
             data : {
             shortname : "lessthan",
@@ -6667,6 +6870,35 @@ const songs = [
             mpath : "1/1st R, 1/NN, 1/4th O, 1/NN, 1/NN, 1/12th O, 1/NN, 1/NN, 1/6th R, 1/NN, 1/NN",
             m_image : "'lessthan_mbass.png'",
             mscore : "209628",
+            } 
+        },
+{ value : "Let It Burn by Epic Games", 
+            data : {
+            shortname : "letitburn",
+
+            dpath : "1(+1)/1st RY, 2/1st O, 1/NN, 1/1st B, 1/NN, 1/1st GO, 1/NN",
+            d_image : "'letitburn_drums.png'",
+            dscore : "151200",
+
+            vpath : "1/4th B, 1/7th Y, 1/12th Y, 1/1st Y, 1/2nd R, 1/1st Y, 1/4th O, 1/5th Y, 1/NN",
+            v_image : "'letitburn_vocals.png'",
+            vscore : "153579",
+
+            gpath : "1/11th Y, 1/NN, 1/3rd B, 1/NN, 2(+1)/10th G, 1/4th B",
+            g_image : "'letitburn_guitar.png'",
+            gscore : "68868",
+
+            bpath : "2/3rd B, 1/NN, 1/5th Y, 1/0.75 beats after 8th B, 1/NN, 2/3rd B, 1/NN",
+            b_image : "'letitburn_bass.png'",
+            bscore : "75033",
+
+            lpath : "1/13th G, 1/NN, 1/2nd B, 1/NN, 2(+1)/10th G, 1/4th B",
+            l_image : "'letitburn_lead.png'",
+            lscore : "68184",
+
+            mpath : "2/3rd B, 1/NN, 1/5th Y, 1/0.75 beats after 8th B, 1/NN, 2/3rd B, 1/NN",
+            m_image : "'letitburn_mbass.png'",
+            mscore : "74148",
             } 
         },
 { value : "When I Let the Music Play by Epic Games", 
@@ -7684,6 +7916,35 @@ const songs = [
             mscore : "60867",
             } 
         },
+{ value : "Move by Epic Games", 
+            data : {
+            shortname : "move",
+
+            dpath : "1/6th GY, 1/NN, 1/NN, 1/10th GY, 1/NN, 1/1st RB, 2/3rd RB",
+            d_image : "'move_drums.png'",
+            dscore : "138816",
+
+            vpath : "2/0.75 beats after 1st Y, 1/3rd Y, 1/NN, 1/1st G, 1/6th Y, 1/6th Y",
+            v_image : "'move_vocals.png'",
+            vscore : "117096",
+
+            gpath : "1/3rd G, 1/2nd RB, 1/2nd B, 1/1st G, 1/1st R, 1/9th RB, 1/9th B",
+            g_image : "'move_guitar.png'",
+            gscore : "133950",
+
+            bpath : "1/13th R, 1/18th Y, 1/NN, 1/3rd R, 1/NN, 1/3rd B, 1/8th G",
+            b_image : "'move_bass.png'",
+            bscore : "116526",
+
+            lpath : "1/13th Y, 1/13th R, 1/2nd B, 1/2nd G, 1/1st R, 1/1st G, 1/10th B",
+            l_image : "'move_lead.png'",
+            lscore : "113848",
+
+            mpath : "1/11th G, 1/18th Y, 1/NN, 1/3rd Y, 1/NN, 1/3rd O, 1/11th G",
+            m_image : "'move_mbass.png'",
+            mscore : "116454",
+            } 
+        },
 { value : "Move Like the Mist by Epic Games", 
             data : {
             shortname : "movelikethemist",
@@ -7769,6 +8030,35 @@ const songs = [
             mpath : "1/2nd G, 1/9th G, 1/NN, 1/NN, 1/NN, 1/1st B, 2/5th G, 1/NN, 1/1st R, 1/NN",
             m_image : "'mrbrightside_mbass.png'",
             mscore : "217566",
+            } 
+        },
+{ value : "Mun Ra by Sabotage & Instituto", 
+            data : {
+            shortname : "munra",
+
+            dpath : "1/7th GY, 1/2nd RY, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/2nd RY, 1/NN, 1/NN, 1/1st RY, 1/2nd GY, 1/2nd RY, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/8th RY, 1/3rd GO, 1/11th GY",
+            d_image : "'munra_drums.png'",
+            dscore : "252720",
+
+            vpath : "1/6th R, 1/NN, 1/NN, 1/18th Y, 2/NN, 1/13th R, 1/NN, 2(+1)/15th R, 1/NN, 1/13th R, 1/6th Y, 1/4th O, 1/1st R, 1/8th R, 1/2nd O, 1/5th B, 1/2nd B, 1/2nd B",
+            v_image : "'munra_vocals.png'",
+            vscore : "403956",
+
+            gpath : "4(+1)/3 beats after 1st RO, 2/2nd R, 1/3rd R, 1/2nd GR, 1/NN, 1/2nd GR, 1/12th B, 1/3rd GR, 1/1st RO, 1/2nd GR, 1/1st RO, 1/17th G, 1/4th G, 1/NN, 1/2nd GR, 1/1st RO",
+            g_image : "'munra_guitar.png'",
+            gscore : "194924",
+
+            bpath : "1/7th R, 1/NN, 1/4th R, 1/2nd G, 1/NN, 1/NN, 1/2nd R, 1/2nd Y, 1/1st G, 1/5th R, 1/NN, 1/8th R, 1/NN, 1/NN, 1/6th R, 1/NN, 1/NN, 1/NN",
+            b_image : "'munra_bass.png'",
+            bscore : "178566",
+
+            lpath : "4(+1)/3 beats after 1st GB, 2/3rd Y, 1/2nd Y, 3/5th GY, 1/12th B, 1/2nd GY, 1/1st GO, 3/17th G, 1/4th G, 1/NN, 1/2nd GY, 1/1st GO",
+            l_image : "'munra_lead.png'",
+            lscore : "179396",
+
+            mpath : "1/5th R, 1/NN, 1/2nd R, 1/2nd G, 1/NN, 1/NN, 1/2nd R, 1/1st Y, 1/1st G, 1/2nd R, 1/NN, 1/8th R, 1/NN, 1/NN, 1/4th R, 1/NN, 1/NN, 1/NN",
+            m_image : "'munra_mbass.png'",
+            mscore : "178566",
             } 
         },
 { value : "my ex's best friend by mgk & blackbear", 
@@ -8929,6 +9219,35 @@ const songs = [
             mpath : "2/6th G, 1/2nd B, 1/1st B, 1/1st B, 1/1st B, 1/NN, 1/1st B, 1/2nd B",
             m_image : "'positions_mbass.png'",
             mscore : "65685",
+            } 
+        },
+{ value : "Into the Underworld by Epic Games", 
+            data : {
+            shortname : "predator",
+
+            dpath : "2(+1)/1st GB, 1/NN, 1/NN, 1/NN, 3(+1)/1st GB, 1/NN, 1/NN, 1/NN",
+            d_image : "'predator_drums.png'",
+            dscore : "237888",
+
+            vpath : "2(+1)/5th G, 1/6th G, 1/1st Y, 1/NN, 2(+1)/4th O, 1/19th O",
+            v_image : "'predator_vocals.png'",
+            vscore : "187763",
+
+            gpath : "1/NN, 1/NN, 3(+1)/5th B, 1/NN, 1/NN, 1/4th Y, 1/2nd G, 1/2nd G",
+            g_image : "'predator_guitar.png'",
+            gscore : "116496",
+
+            bpath : "1/5th R, 1/10th G, 1/1st G, 1/9th G, 1/1st G, 1(+1)/17th G, 1/20th G, 1/1st G, 1/9th G",
+            b_image : "'predator_bass.png'",
+            bscore : "154359",
+
+            lpath : "1/NN, 1/NN, 3(+1)/5th B, 1/NN, 1/NN, 1/4th Y, 1/2nd G, 1/2nd G",
+            l_image : "'predator_lead.png'",
+            lscore : "116496",
+
+            mpath : "1/5th R, 1/10th G, 1/1st G, 1/9th G, 1/1st G, 1(+1)/17th G, 1/20th G, 1/1st G, 1/9th G",
+            m_image : "'predator_mbass.png'",
+            mscore : "154359",
             } 
         },
 { value : "PROVENZA (REMIX) by Karol G ft. Tiësto", 
