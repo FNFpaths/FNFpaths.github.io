@@ -10613,6 +10613,35 @@ const songs = [
             mscore : "574155",
             } 
         },
+{ value : "SLAY! by Eternxlkz", 
+            data : {
+            shortname : "slay",
+
+            dpath : "1/2nd RO, 1/2nd RO, 2/2nd RO, 1/8th RO",
+            d_image : "'slay_drums.png'",
+            dscore : "34560",
+
+            vpath : "1/4th B, 1(+1)/8th B, 1/5th R, 1/NN",
+            v_image : "'slay_vocals.png'",
+            vscore : "81648",
+
+            gpath : "1/1st G, 1/5th G, 1/5th G, 1/NN, 1/1st G",
+            g_image : "'slay_guitar.png'",
+            gscore : "66996",
+
+            bpath : "1/5th R, 1/NN, 1/NN, 1/2nd Y, 1/NN",
+            b_image : "'slay_bass.png'",
+            bscore : "76890",
+
+            lpath : "1/1st G, 1/5th G, 1/5th G, 1/NN, 1/1st G",
+            l_image : "'slay_lead.png'",
+            lscore : "66996",
+
+            mpath : "1/5th R, 1/NN, 1/NN, 1/2nd Y, 1/NN",
+            m_image : "'slay_mbass.png'",
+            mscore : "76890",
+            } 
+        },
 { value : "Smells Like Teen Spirit by Nirvana", 
             data : {
             shortname : "smellsliketeenspirit",
