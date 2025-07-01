@@ -8699,6 +8699,35 @@ const songs = [
             mscore : "36423",
             } 
         },
+{ value : "Old Town Road (Remix) by Lil Nas X ft. Billy Ray Cyrus", 
+            data : {
+            shortname : "oldtownroad",
+
+            dpath : "1/3rd GY, 1/NN, 1/3rd GY, 1/6th GY, 2/1st GY",
+            d_image : "'oldtownroad_drums.png'",
+            dscore : "128448",
+
+            vpath : "1/9th B, 1/8th R, 1/3rd R, 1/9th B, 1/2nd O, 1/3rd Y, 1/3rd G, 1/2nd G",
+            v_image : "'oldtownroad_vocals.png'",
+            vscore : "112593",
+
+            gpath : "1(+1)/1st RB, 1/1st YB, 1/NN, 1/1st RB, 1/1st RB, 1/1st RB, 1/NN, 1/1st RB",
+            g_image : "'oldtownroad_guitar.png'",
+            gscore : "97026",
+
+            bpath : "2/5th R, 1/2nd Y, 1/NN, 1/NN",
+            b_image : "'oldtownroad_bass.png'",
+            bscore : "43902",
+
+            lpath : "1(+1)/3rd GB, 1/3rd RB, 1/NN, 1/1st GB, 1/1st GB, 1/1st GY, 1/NN, 1/1st GB",
+            l_image : "'oldtownroad_lead.png'",
+            lscore : "97026",
+
+            mpath : "2/5th R, 1/2nd Y, 1/NN, 1/NN",
+            m_image : "'oldtownroad_mbass.png'",
+            mscore : "43902",
+            } 
+        },
 { value : "One by Metallica", 
             data : {
             shortname : "one",
