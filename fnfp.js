@@ -1333,6 +1333,35 @@ const songs = [
             mscore : "165252",
             } 
         },
+{ value : "Best of You by Foo Fighters", 
+            data : {
+            shortname : "bestofyou",
+
+            dpath : "1/NN, 4(+1)/NN, 1/1st RO, 1/3rd GO, 1/3rd O, 2/4th RO",
+            d_image : "'bestofyou_drums.png'",
+            dscore : "201024",
+
+            vpath : "1/NN, 1/8th O, 1/NN, 1/3rd Y, 1/NN, 1/18th O, 2(+1)/3rd O, 1/9th O, 1/4th Y, 1/7th O, 1/14th O",
+            v_image : "'bestofyou_vocals.png'",
+            vscore : "135660",
+
+            gpath : "1/NN, 2/NN, 1/NN, 1/1st RY, 3(+1)/12th YB, 1/1st GO, 1/8th YB, 1/7th GB, 1/NN, 1/1st GY",
+            g_image : "'bestofyou_guitar.png'",
+            gscore : "344448",
+
+            bpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/12th R, 1/4th G, 1/4th G, 1/NN, 1/NN, 1/NN, 1/NN",
+            b_image : "'bestofyou_bass.png'",
+            bscore : "209451",
+
+            lpath : "3(+1)/NN, 1/1st RY, 1/1st GB, 1/NN, 1/NN, 1/NN, 1/1st GB, 1/1st GY, 1/7th GB, 1/NN, 1/1st GY",
+            l_image : "'bestofyou_lead.png'",
+            lscore : "325368",
+
+            mpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/12th R, 1/4th G, 1/4th G, 1/NN, 1/NN, 1/NN, 1/NN",
+            m_image : "'bestofyou_mbass.png'",
+            mscore : "209451",
+            } 
+        },
 { value : "Eyes Closed by Imagine Dragons", 
             data : {
             shortname : "betrayedaardvark",
@@ -7856,6 +7885,35 @@ const songs = [
             mpath : "1/6th R, 1/9th Y, 1/1st G, 1/11th Y, 1/6th R, 1/9th Y, 1/1st G, 3(+1)/15th R, 1/NN, 1/11th Y",
             m_image : "'miserybusiness_mbass.png'",
             mscore : "203238",
+            } 
+        },
+{ value : "Monster by YOASOBI", 
+            data : {
+            shortname : "monster",
+
+            dpath : "2/8th R, 1/11th G, 4(+1)/1st GY, 1/2nd RY, 1/4th RY, 1/7th GY, 1/11th G, 1/5th G, 1/1st GO",
+            d_image : "'monster_drums.png'",
+            dscore : "211248",
+
+            vpath : "1/2nd G, 1/2nd Y, 1/1st G, 1/NN, 1/2nd R, 1/NN, 1/NN, 1/NN, 1/2nd G, 1/5th G, 1/1st G, 1/NN",
+            v_image : "'monster_vocals.png'",
+            vscore : "173874",
+
+            gpath : "3/NN, 1(+1)/6th R, 1/NN, 1/1st RYB, 4/2nd G",
+            g_image : "'monster_guitar.png'",
+            gscore : "103524",
+
+            bpath : "3/3rd R, 1/NN, 1/NN, 1/NN, 1/13th B, 3/3rd R, 1/NN, 1/4th R, 1/NN",
+            b_image : "'monster_bass.png'",
+            bscore : "212112",
+
+            lpath : "3/NN, 1(+1)/6th R, 1/NN, 1/1st RY, 4/2nd G",
+            l_image : "'monster_lead.png'",
+            lscore : "99912",
+
+            mpath : "3/3rd R, 1/NN, 1/NN, 1/NN, 1/12th B, 3/3rd R, 1/NN, 1/4th R, 1/NN",
+            m_image : "'monster_mbass.png'",
+            mscore : "212112",
             } 
         },
 { value : "MONTERO (Call Me By Your Name) by Lil Nas X", 
