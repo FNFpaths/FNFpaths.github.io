@@ -7133,6 +7133,35 @@ const songs = [
             mscore : "199512",
             } 
         },
+{ value : "Locked Out Of Heaven by Bruno Mars", 
+            data : {
+            shortname : "lockedoutofheaven",
+
+            dpath : "2(+1)/17th GY, 3(+1)/2nd GO, 1/NN, 2/3rd RY",
+            d_image : "'lockedoutofheaven_drums.png'",
+            dscore : "202752",
+
+            vpath : "1/8th R, 1/2nd R, 1/3rd Y, 1/2nd Y, 1/1st R, 1/1st R, 1/3rd Y, 1/6th G, 1/2nd Y, 1/7th Y, 1/6th G",
+            v_image : "'lockedoutofheaven_vocals.png'",
+            vscore : "143988",
+
+            gpath : "1/1st RYB, 1/1st RYB, 1/NN, 1/1st RYB, 1/1st RYB, 1/1st RYB, 1/NN, 1/8th Y, 3/1st RYB",
+            g_image : "'lockedoutofheaven_guitar.png'",
+            gscore : "249408",
+
+            bpath : "2/2nd G, 1/NN, 3(+1)/2nd G, 1/NN, 1/NN, 1/NN, 1/NN",
+            b_image : "'lockedoutofheaven_bass.png'",
+            bscore : "221229",
+
+            lpath : "1/5th G, 1/3rd G, 1/NN, 1/3rd G, 1/5th G, 1/5th G, 1/NN, 1/8th Y, 1/8th Y, 1/8th Y, 1/NN",
+            l_image : "'lockedoutofheaven_lead.png'",
+            lscore : "214758",
+
+            mpath : "2/2nd G, 1/NN, 3(+1)/2nd G, 1/NN, 1/NN, 1/NN, 1/NN",
+            m_image : "'lockedoutofheaven_mbass.png'",
+            mscore : "220365",
+            } 
+        },
 { value : "Lonely Boy by The Black Keys", 
             data : {
             shortname : "lonelyboy",
@@ -11858,6 +11887,35 @@ const songs = [
             mpath : "1/4th O, 1/4th G, 1/7th G, 1/2nd G, 1/NN, 1/8th G",
             m_image : "'taste_mbass.png'",
             mscore : "66879",
+            } 
+        },
+{ value : "That's What I Like by Bruno Mars", 
+            data : {
+            shortname : "thatswhatilike",
+
+            dpath : "1/5th GY, 1/4th RY, 1(+1)/8th RY, 1/5th R, 1/NN, 1/NN, 1/2nd RY, 1/1st GY, 1/10th RY, 1/1st RY, 1/11th RY",
+            d_image : "'thatswhatilike_drums.png'",
+            dscore : "195408",
+
+            vpath : "1/20th B, 1/9th G, 4/2nd B, 1/5th G, 1/1st Y, 1/NN, 1/NN, 1/4th G, 1/1 beats after 8th B",
+            v_image : "'thatswhatilike_vocals.png'",
+            vscore : "176514",
+
+            gpath : "2/1st RYB, 1(+1)/2nd RYO, 1/1st GYB, 1/1st RYO, 2/NN, 1/1st B, 3/NN",
+            g_image : "'thatswhatilike_guitar.png'",
+            gscore : "128676",
+
+            bpath : "1/9th Y, 1/1st Y, 1/NN, 1/4th R, 1/7th G, 1/2nd Y, 1/2nd R, 1/7th R, 1/NN, 1/3rd R, 2/4th Y",
+            b_image : "'thatswhatilike_bass.png'",
+            bscore : "124128",
+
+            lpath : "2/1st RB, 1/NN, 1/1st GB, 1/2nd RB, 1/1st RO, 1/2nd B, 1/NN, 1/3rd G, 1/1st GO, 1/NN, 1/NN",
+            l_image : "'thatswhatilike_lead.png'",
+            lscore : "82616",
+
+            mpath : "1/7th Y, 1/1st Y, 1/NN, 1/6th R, 1/7th G, 1/1st Y, 1/3rd R, 1/10th R, 1/NN, 1/3rd R, 2/4th Y",
+            m_image : "'thatswhatilike_mbass.png'",
+            mscore : "123588",
             } 
         },
 { value : "the boy is mine by Ariana Grande", 
