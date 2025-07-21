@@ -5525,9 +5525,9 @@ const songs = [
             g_image : "'highhopes_guitar.png'",
             gscore : "149766",
 
-            bpath : "1/8th B, 1/NN, 1(+1)/5th Y, 2(+1)/4th B, 1/4th Y, 1/2nd Y, 2/7th B",
+            bpath : "1/8th B, 1/NN, 1(+1)/5th Y, 2(+1)/4th B, 1/5th Y, 1/2nd Y, 2/7th B",
             b_image : "'highhopes_bass.png'",
-            bscore : "119361",
+            bscore : "118893",
 
             lpath : "1/NN, 1/NN, 3(+1)/1st GO, 2/NN, 4/1st R",
             l_image : "'highhopes_lead.png'",
