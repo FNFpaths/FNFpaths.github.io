@@ -4842,6 +4842,35 @@ const songs = [
             mscore : "347976",
             } 
         },
+{ value : "Funny Song by Slipstream Music", 
+            data : {
+            shortname : "funnysong",
+
+            dpath : "2/7th Y, 1/NN, 1/NN",
+            d_image : "'funnysong_drums.png'",
+            dscore : "9972",
+
+            vpath : "1/3rd G, 1/5th G, 1/5th B, 1/3rd R, 1/NN, 1/NN, 1/2nd B",
+            v_image : "'funnysong_vocals.png'",
+            vscore : "71196",
+
+            gpath : "1/3rd YO, 1/4th RB, 1/5th R, 1/NN, 1/1st YO, 1/3rd YO, 1/1st R",
+            g_image : "'funnysong_guitar.png'",
+            gscore : "79320",
+
+            bpath : "3/2nd R",
+            b_image : "'funnysong_bass.png'",
+            bscore : "17448",
+
+            lpath : "1/3rd RB, 1/4th RB, 1/4th G, 1/NN, 1/2nd RB, 1/2nd RO, 1/1st G",
+            l_image : "'funnysong_lead.png'",
+            lscore : "77952",
+
+            mpath : "3/2nd R",
+            m_image : "'funnysong_mbass.png'",
+            mscore : "17448",
+            } 
+        },
 { value : "Gangnam Style by PSY", 
             data : {
             shortname : "gangnamstyle",
@@ -12728,6 +12757,35 @@ const songs = [
             mpath : "2(+1)/14th R, 1/5th G, 1/NN, 2/NN",
             m_image : "'thewayiare_mbass.png'",
             mscore : "65475",
+            } 
+        },
+{ value : "The Zephyr Song by Red Hot Chili Peppers", 
+            data : {
+            shortname : "thezephyrsong",
+
+            dpath : "1/NN, 1/NN, 1/1st GY, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            d_image : "'thezephyrsong_drums.png'",
+            dscore : "309744",
+
+            vpath : "1/NN, 2/2nd Y, 1/5th B, 1/0.75 beats after 1st R, 1/NN, 1/1st B, 1/0.75 beats after 3rd R, 1/7 beats after 1st RO",
+            v_image : "'thezephyrsong_vocals.png'",
+            vscore : "116172",
+
+            gpath : "1/NN, 1/1st BO, 3(+1)/3rd YB, 1/1st BO, 1/NN, 1/16th YB, 1/5th YB, 1/NN",
+            g_image : "'thezephyrsong_guitar.png'",
+            gscore : "196602",
+
+            bpath : "1/7th R, 1/2nd Y, 4(+1)/1st BO, 1/NN, 1/NN, 1/NN, 1/3rd G",
+            b_image : "'thezephyrsong_bass.png'",
+            bscore : "207225",
+
+            lpath : "1/1st RO, 1/1st RO, 1/1st R, 4(+1)/1st RO, 1/15th RY, 1/2nd RY, 1/NN",
+            l_image : "'thezephyrsong_lead.png'",
+            lscore : "170970",
+
+            mpath : "1/5th R, 1/2nd Y, 4(+1)/1st RO, 1/NN, 1/NN, 1/NN, 1/3rd G",
+            m_image : "'thezephyrsong_mbass.png'",
+            mscore : "198612",
             } 
         },
 { value : "This Ain't A Scene, It's An Arms Race by Fall Out Boy", 
