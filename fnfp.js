@@ -4117,6 +4117,35 @@ const songs = [
             mscore : "260136",
             } 
         },
+{ value : "Eye of the Storm by Epic Games", 
+            data : {
+            shortname : "eyeofthestorm",
+
+            dpath : "1/5th GY, 1/1st O, 1/7th GB, 1/NN, 1/4th GB, 1/6th GY",
+            d_image : "'eyeofthestorm_drums.png'",
+            dscore : "151056",
+
+            vpath : "4(+1)/1 beats after 3rd G, 1/2nd Y, 1/2nd O",
+            v_image : "'eyeofthestorm_vocals.png'",
+            vscore : "107157",
+
+            gpath : "1/1st Y, 2/4th Y, 1/NN, 1/2nd RB, 2/11th G",
+            g_image : "'eyeofthestorm_guitar.png'",
+            gscore : "102072",
+
+            bpath : "2(+1)/7th O, 1/1st O, 2/5th O",
+            b_image : "'eyeofthestorm_bass.png'",
+            bscore : "70887",
+
+            lpath : "1/3rd B, 2/3rd B, 1/NN, 1/2nd RB, 2/11th G",
+            l_image : "'eyeofthestorm_lead.png'",
+            lscore : "101940",
+
+            mpath : "2(+1)/7th O, 1/1st O, 2/5th O",
+            m_image : "'eyeofthestorm_mbass.png'",
+            mscore : "70887",
+            } 
+        },
 { value : "Fade to Black by Metallica", 
             data : {
             shortname : "fadetoblack",
