@@ -2058,6 +2058,35 @@ const songs = [
             mscore : "105261",
             } 
         },
+{ value : "Break From Toronto by PARTYNEXTDOOR", 
+            data : {
+            shortname : "breakfromtoronto",
+
+            dpath : "1/6th G, 3(+1)/3rd R",
+            d_image : "'breakfromtoronto_drums.png'",
+            dscore : "89712",
+
+            vpath : "1/15th Y, 1/18th Y, 1/3rd G, 1/2nd Y",
+            v_image : "'breakfromtoronto_vocals.png'",
+            vscore : "60996",
+
+            gpath : "1/7th RB, 1/NN, 3/NN",
+            g_image : "'breakfromtoronto_guitar.png'",
+            gscore : "58830",
+
+            bpath : "3(+1)/1st R, 1/3rd Y",
+            b_image : "'breakfromtoronto_bass.png'",
+            bscore : "23856",
+
+            lpath : "1/7th RB, 1/NN, 3/NN",
+            l_image : "'breakfromtoronto_lead.png'",
+            lscore : "57054",
+
+            mpath : "3(+1)/1st R, 1/3rd Y",
+            m_image : "'breakfromtoronto_mbass.png'",
+            mscore : "23856",
+            } 
+        },
 { value : "Breaking Me by Topic w/ A7S", 
             data : {
             shortname : "breakingme",
@@ -5391,6 +5420,35 @@ const songs = [
             mpath : "1/2nd Y, 1/1st O, 2/1st O, 1/1st O, 1/1st O, 1/2nd O, 1/1st O, 1/1st O, 1/1st O",
             m_image : "'happy_mbass.png'",
             mscore : "147348",
+            } 
+        },
+{ value : "HAPPY by DAY6", 
+            data : {
+            shortname : "happy2",
+
+            dpath : "1/NN, 1/NN, 1/NN, 1/4th GO, 1(+1)/4th GO, 1/21st O, 1/21st O, 1/4th GO, 1/2nd GO, 1/13th O, 1/NN, 1/5th GO",
+            d_image : "'happy2_drums.png'",
+            dscore : "163008",
+
+            vpath : "2(+1)/1st Y, 1/1st O, 1/5th R, 1/4th R, 1/2nd Y, 1/1st O, 1/4th R, 1/2nd R, 1/4th R, 1/9th R",
+            v_image : "'happy2_vocals.png'",
+            vscore : "123798",
+
+            gpath : "3(+1)/1st RY, 1/16th GO, 1/NN, 2/3rd RB, 1/16th GO, 1/1st GR, 1/16th GO, 1/15th GO, 1/NN",
+            g_image : "'happy2_guitar.png'",
+            gscore : "278553",
+
+            bpath : "1/NN, 1/NN, 1/NN, 1/1st G, 1/9th R, 1/NN, 1/NN, 1/1st G, 1/NN, 1/NN, 1/NN, 1/4th B",
+            b_image : "'happy2_bass.png'",
+            bscore : "230688",
+
+            lpath : "3(+1)/3rd RY, 1/NN, 3(+1)/3rd RY, 1/1st GY, 1/2nd RY, 1/1st GO, 1/NN",
+            l_image : "'happy2_lead.png'",
+            lscore : "242382",
+
+            mpath : "1/NN, 1/NN, 1/NN, 1/1st R, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            m_image : "'happy2_mbass.png'",
+            mscore : "228420",
             } 
         },
 { value : "Heartbreaker by Pat Benatar", 
