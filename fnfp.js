@@ -3972,6 +3972,35 @@ const songs = [
             mscore : "112932",
             } 
         },
+{ value : "8ths by deadmau5", 
+            data : {
+            shortname : "eighths",
+
+            dpath : "2/1st GY, 1/NN, 1/NN, 2/13th Y, 2(+1)/25th G, 1/NN, 1/NN, 1/NN, 1/NN",
+            d_image : "'eighths_drums.png'",
+            dscore : "192240",
+
+            vpath : "4(+1)/6th R, 1/NN, 4(+1)/10th B, 1/NN, 1/NN",
+            v_image : "'eighths_vocals.png'",
+            vscore : "225351",
+
+            gpath : "1/3rd GRB, 1/1st G, 1/1st G, 1/1st G, 1/1st G, 1/1st G, 1/1st GRB, 1/NN, 1/1st G, 1/1st GO, 1/NN, 1/1st G",
+            g_image : "'eighths_guitar.png'",
+            gscore : "129429",
+
+            bpath : "2/3rd G, 1/NN, 1/NN, 1/9th G, 1/NN, 1/NN, 3(+2)/3rd G, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            b_image : "'eighths_bass.png'",
+            bscore : "520941",
+
+            lpath : "1/3rd GY, 1/1st Y, 1/1st Y, 1/1st Y, 1/1st Y, 1/1st Y, 1/1st GY, 1/NN, 1/1st Y, 1/1st GO, 1/NN, 1/1st Y",
+            l_image : "'eighths_lead.png'",
+            lscore : "113034",
+
+            mpath : "2/3rd G, 1/NN, 1/NN, 1/9th G, 1/NN, 1/NN, 3(+2)/3rd G, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            m_image : "'eighths_mbass.png'",
+            mscore : "520941",
+            } 
+        },
 { value : "Ella Baila Sola by Eslabon Armado, Peso Pluma ", 
             data : {
             shortname : "ellabailasola",
@@ -5101,6 +5130,35 @@ const songs = [
             mpath : "1/NN, 1/NN, 1/7th O, 1/NN, 1/NN, 1/NN",
             m_image : "'ghost_mbass.png'",
             mscore : "114318",
+            } 
+        },
+{ value : "Ghosts 'n' Stuff by deadmau5, Rob Swire", 
+            data : {
+            shortname : "ghostsnstuff",
+
+            dpath : "1/3rd GY, 1/NN, 1/NN, 1/4th RY, 1/3rd GY, 1/NN, 1/NN",
+            d_image : "'ghostsnstuff_drums.png'",
+            dscore : "147600",
+
+            vpath : "1/16th R, 1/NN, 1/1st R, 1/14th R, 1/1st B, 1/2nd O",
+            v_image : "'ghostsnstuff_vocals.png'",
+            vscore : "73914",
+
+            gpath : "1(+1)/2nd O, 1/NN, 1/2nd YO, 1/NN, 1/1st YO, 1/NN",
+            g_image : "'ghostsnstuff_guitar.png'",
+            gscore : "56616",
+
+            bpath : "1/12th Y, 1/4th Y, 2/7th Y, 1/2nd Y, 1/NN, 1/NN",
+            b_image : "'ghostsnstuff_bass.png'",
+            bscore : "79815",
+
+            lpath : "1(+1)/2nd O, 1/NN, 1/2nd RO, 1/NN, 1/1st RO, 1/NN",
+            l_image : "'ghostsnstuff_lead.png'",
+            lscore : "56616",
+
+            mpath : "1/9th Y, 1/4th Y, 2/2nd B, 1/2nd Y, 1/NN, 1/NN",
+            m_image : "'ghostsnstuff_mbass.png'",
+            mscore : "74226",
             } 
         },
 { value : "Gimme The Light by Sean Paul", 
@@ -11452,6 +11510,35 @@ const songs = [
             mpath : "1(+1)/8th G, 2(+1)/7th B, 1/11th B",
             m_image : "'stressedout_mbass.png'",
             mscore : "86301",
+            } 
+        },
+{ value : "Strobe (Radio Edit) by deadmau5", 
+            data : {
+            shortname : "strobe",
+
+            dpath : "4(+1)/1st GO, 1/18th R, 1/9th G",
+            d_image : "'strobe_drums.png'",
+            dscore : "134640",
+
+            vpath : "1/3rd R, 1/3rd G, 1/NN, 1/2nd Y",
+            v_image : "'strobe_vocals.png'",
+            vscore : "28800",
+
+            gpath : "1/28th O, 1/34th O, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            g_image : "'strobe_guitar.png'",
+            gscore : "187488",
+
+            bpath : "1/8th B, 1/NN, 1/NN, 1/12th B, 1/NN, 1/NN, 1/NN, 1/NN, 1/15th B",
+            b_image : "'strobe_bass.png'",
+            bscore : "142992",
+
+            lpath : "1/28th O, 1/34th O, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            l_image : "'strobe_lead.png'",
+            lscore : "187488",
+
+            mpath : "1/8th B, 1/NN, 1/NN, 1/12th B, 1/NN, 1/NN, 1/NN, 1/NN, 1/15th B",
+            m_image : "'strobe_mbass.png'",
+            mscore : "142992",
             } 
         },
 { value : "Stronger (What Doesn't Kill You) by Kelly Clarkson", 
