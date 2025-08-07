@@ -4755,6 +4755,35 @@ const songs = [
             mscore : "141681",
             } 
         },
+{ value : "For O.X.R.! by Epic Games", 
+            data : {
+            shortname : "foroxr",
+
+            dpath : "1/9th R, 1/10th RO, 1/16th Y, 1/4th RB, 1/2nd RY, 1/NN, 1/3rd RB, 1/21st Y, 2/7th O",
+            d_image : "'foroxr_drums.png'",
+            dscore : "162288",
+
+            vpath : "1/10th R, 2/4th B, 1/1.7 beats after 5th Y, 1/2nd O, 1/4th Y, 2/NN, 1/5th Y",
+            v_image : "'foroxr_vocals.png'",
+            vscore : "105753",
+
+            gpath : "1/1st G, 1/NN, 1/13th G, 4/3rd YB, 1/NN, 1/8th B",
+            g_image : "'foroxr_guitar.png'",
+            gscore : "117309",
+
+            bpath : "1/13th G, 2/30th G, 1/1st Y, 2/2nd G, 1/12th G, 1/11th B, 1/NN, 1/5th R",
+            b_image : "'foroxr_bass.png'",
+            bscore : "144840",
+
+            lpath : "1/1st G, 1/NN, 1/13th G, 4/8th O, 1/NN, 1/6th B",
+            l_image : "'foroxr_lead.png'",
+            lscore : "115393",
+
+            mpath : "1/13th G, 2/30th G, 1/1st Y, 2/2nd G, 1/12th G, 1/11th B, 1/NN, 1/5th R",
+            m_image : "'foroxr_mbass.png'",
+            mscore : "142860",
+            } 
+        },
 { value : "For The Night by Pop Smoke w/ Lil Baby & DaBaby", 
             data : {
             shortname : "forthenight",
@@ -6174,6 +6203,35 @@ const songs = [
             mpath : "1/8th B, 1/21st G, 3(+1)/10th R, 1/NN, 1/58th G",
             m_image : "'imperialmarch_mbass.png'",
             mscore : "202788",
+            } 
+        },
+{ value : "I'm the Visual by Epic Games", 
+            data : {
+            shortname : "imthevisual",
+
+            dpath : "3/2nd RY, 1/NN, 1/1st GO, 1/4th R, 1/2nd Y",
+            d_image : "'imthevisual_drums.png'",
+            dscore : "142848",
+
+            vpath : "3(+1)/8th Y, 1/NN, 1/14th B, 1/NN",
+            v_image : "'imthevisual_vocals.png'",
+            vscore : "117630",
+
+            gpath : "2/5th G, 3/1st G, 1/NN, 1/1st G",
+            g_image : "'imthevisual_guitar.png'",
+            gscore : "64351",
+
+            bpath : "1(+1)/8th Y, 2/1st G, 1/1st Y, 1/4th Y",
+            b_image : "'imthevisual_bass.png'",
+            bscore : "51519",
+
+            lpath : "2/5th G, 3(+1)/7th R, 1/1st G",
+            l_image : "'imthevisual_lead.png'",
+            lscore : "58533",
+
+            mpath : "1(+1)/8th Y, 2/1st G, 1/1st Y, 1/4th Y",
+            m_image : "'imthevisual_mbass.png'",
+            mscore : "51519",
             } 
         },
 { value : "Industry Baby by Lil Nas X ft. Jack Harlow", 
@@ -7914,6 +7972,35 @@ const songs = [
             mpath : "1/NN, 1/NN, 1/NN, 1/2nd G, 1/4th G, 1/4th B, 1/NN, 2/17th O, 1/11th G, 1/4th G, 1/10th B, 1/7th R, 1/4th Y, 1/4th G, 1/10th B, 1/1st R",
             m_image : "'melt_mbass.png'",
             mscore : "304830",
+            } 
+        },
+{ value : "Memories by Epic Games", 
+            data : {
+            shortname : "memories",
+
+            dpath : "1/NN, 1/NN, 1/5th Y, 1/6th GY, 1/13th RY, 1/NN, 1/NN",
+            d_image : "'memories_drums.png'",
+            dscore : "152496",
+
+            vpath : "1/6th G, 1/3rd G, 1/6th G, 1/1 beats after 8th Y, 1/NN, 1/2nd O, 1/2nd R",
+            v_image : "'memories_vocals.png'",
+            vscore : "80511",
+
+            gpath : "1/7th RB, 2/11th G, 3/4th YO, 1/NN",
+            g_image : "'memories_guitar.png'",
+            gscore : "136920",
+
+            bpath : "1/6th B, 1/7th B, 1/6th G, 1/4th B, 1/3rd G, 1/4th B, 1/NN",
+            b_image : "'memories_bass.png'",
+            bscore : "99234",
+
+            lpath : "1/2nd GB, 2/9th G, 3/2nd RO, 1/NN",
+            l_image : "'memories_lead.png'",
+            lscore : "118464",
+
+            mpath : "1/2nd O, 1/6th B, 1/8th G, 1/4th B, 1/4th G, 1/4th B, 1/NN",
+            m_image : "'memories_mbass.png'",
+            mscore : "98676",
             } 
         },
 { value : "Me Too by Meghan Trainor", 
@@ -14787,6 +14874,35 @@ const songs = [
             mpath : "3/NN, 3/2nd B, 1/2nd B",
             m_image : "'yourlove9pm_mbass.png'",
             mscore : "60444",
+            } 
+        },
+{ value : "Your Universe by Epic Games", 
+            data : {
+            shortname : "youruniverse",
+
+            dpath : "1/5th GY, 1/2nd GY, 1/1st RY, 1/1st RY, 1/4th RY, 1/4th R, 1/2nd GY, 1/5th RY, 1/6th RY, 1/1st GO, 1/4th RY, 1/8th R",
+            d_image : "'youruniverse_drums.png'",
+            dscore : "243072",
+
+            vpath : "1(+1)/6th B, 1/4th R, 1/6th Y, 1/7th G, 1/7th R, 1/6th B, 1/NN, 1/1st R, 1/6th Y, 1/NN",
+            v_image : "'youruniverse_vocals.png'",
+            vscore : "103344",
+
+            gpath : "1/1st O, 1/4th YB, 1/NN, 1/1st RY, 1/7th BO, 1/3rd YB, 1/NN, 1/1st RY, 2/2nd G, 1/NN, 1/NN",
+            g_image : "'youruniverse_guitar.png'",
+            gscore : "151234",
+
+            bpath : "1/4th O, 1/1st O, 1/1st R, 1/NN, 1/1st O, 1/1st O, 1/1st R, 1/NN, 1/2nd R, 1/NN, 1/NN",
+            b_image : "'youruniverse_bass.png'",
+            bscore : "94584",
+
+            lpath : "1/1st O, 1/4th RY, 1/NN, 1/1st RY, 1/7th RO, 1/3rd RY, 1/NN, 1/1st RY, 2/2nd G, 1/NN, 1/NN",
+            l_image : "'youruniverse_lead.png'",
+            lscore : "145554",
+
+            mpath : "1/4th O, 1/1st O, 1/1st R, 1/NN, 1/1st O, 1/1st O, 1/1st R, 1/NN, 1/2nd R, 1/NN, 1/NN",
+            m_image : "'youruniverse_mbass.png'",
+            mscore : "94584",
             } 
         },
 { value : "Zombie by The Cranberries", 
