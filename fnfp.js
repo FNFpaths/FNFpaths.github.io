@@ -5306,6 +5306,35 @@ const songs = [
             mscore : "134043",
             } 
         },
+{ value : "Go Go Power Rangers by Ron Wasserman", 
+            data : {
+            shortname : "gogopowerrangers",
+
+            dpath : "1/10th O, 1/NN, 1/NN, 2/7th O, 1/NN, 1/NN, 1/NN, 2/7th O, 1/NN, 1/1st Y, 1/6th RY, 1/NN, 1/2nd GO, 1/2nd GO, 1/2nd GO, 1/NN, 1/8th R, 1/NN",
+            d_image : "'gogopowerrangers_drums.png'",
+            dscore : "283536",
+
+            vpath : "1/10th G, 1(+1)/1st B, 1/NN, 1/7th G, 1/1st Y, 1/8th G, 1(+1)/1st B",
+            v_image : "'gogopowerrangers_vocals.png'",
+            vscore : "78156",
+
+            gpath : "1(+1)/20th GB, 1/1st GB, 1/1st GB, 1/2nd RY, 2/1st G, 1/1st GB, 1/After 7.7 beats, 1/2nd RY, 2/1st GY, 1/NN, 1(+1)/9th Y, 1/NN, 1/2nd RY, 1/NN, 2/5th R",
+            g_image : "'gogopowerrangers_guitar.png'",
+            gscore : "266104",
+
+            bpath : "2/1st G, 1/NN, 2/NN, 1/NN, 1/10th G, 1/NN, 1/7th B, 1/6th O, 1/NN, 1/5th G, 1/NN, 1/15th R, 1/NN, 1/7th B, 1/6th O, 1/NN, 1/7th R",
+            b_image : "'gogopowerrangers_bass.png'",
+            bscore : "250560",
+
+            lpath : "1(+1)/20th GB, 1/1st GB, 1/1st GB, 1/2nd GY, 2/1st G, 1/1st GB, 1/After 7.7 beats, 1/2nd GY, 2/1st GB, 1/NN, 1(+1)/6th R, 1/NN, 1/2nd GY, 1/NN, 2/5th R",
+            l_image : "'gogopowerrangers_lead.png'",
+            lscore : "262412",
+
+            mpath : "2/1st G, 1/NN, 2/NN, 1/NN, 1/10th G, 1/NN, 1/7th B, 1/6th O, 1/NN, 1/5th G, 1/NN, 1/15th R, 1/NN, 1/7th B, 1/6th O, 1/NN, 1/7th R",
+            m_image : "'gogopowerrangers_mbass.png'",
+            mscore : "250560",
+            } 
+        },
 { value : "good 4 u by Olivia Rodrigo", 
             data : {
             shortname : "good4u",
