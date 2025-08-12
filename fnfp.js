@@ -10555,6 +10555,35 @@ const songs = [
             mscore : "95811",
             } 
         },
+{ value : "Scary Monsters and Nice Sprites by Skrillex", 
+            data : {
+            shortname : "scarymonsters",
+
+            dpath : "1/NN, 1(+1)/6th GY, 1/6th GY, 1/3rd GY, 1/7th GY, 1(+1)/4th GY, 1/4th GY, 1/7th GY, 1/2nd GY, 1/27th Y, 1/8th Y",
+            d_image : "'scarymonsters_drums.png'",
+            dscore : "225360",
+
+            vpath : "1/1st B, 1/2nd B, 1/1st B, 1/2nd G",
+            v_image : "'scarymonsters_vocals.png'",
+            vscore : "47100",
+
+            gpath : "1/5th Y, 1/5th Y, 1/1st G, 3/3rd Y, 1/6th Y, 1/1st G, 4/9th Y, 1/NN",
+            g_image : "'scarymonsters_guitar.png'",
+            gscore : "136111",
+
+            bpath : "3(+1)/1st B, 1/1st R, 1/1st O, 1/NN, 1/17th R, 1/2nd O, 1/2nd R",
+            b_image : "'scarymonsters_bass.png'",
+            bscore : "116178",
+
+            lpath : "1/4th Y, 1/4th Y, 1/1st G, 3/2nd R, 1/5th Y, 1/1st G, 4/9th Y, 1/NN",
+            l_image : "'scarymonsters_lead.png'",
+            lscore : "132547",
+
+            mpath : "3(+1)/4th R, 1/1st R, 3/6th R, 1/27th R, 1/2nd R",
+            m_image : "'scarymonsters_mbass.png'",
+            mscore : "111024",
+            } 
+        },
 { value : "Scenario by A Tribe Called Quest ft. Leaders Of The New School", 
             data : {
             shortname : "scenario",
