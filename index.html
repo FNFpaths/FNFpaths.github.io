@@ -266,29 +266,36 @@ document.getElementById('bass-btn').addEventListener('click', () => {
     }
 });
         
-        searchInput.addEventListener('input', function () {
-            showSuggestions(this.value);
-        });
-        
-        searchInput.addEventListener('focus', function () {
-            setTimeout(() => {
-                this.select();
-            }, 0);
-        });
-        
-        function showSuggestions(query) {
-    const suggestionsDiv = document.getElementById('suggestions');
-    suggestionsDiv.innerHTML = '';
-    
-    if (!query) {
-        suggestionsDiv.style.display = 'none';
-        return;
-    }
+const suggestionsDiv = document.getElementById('suggestions');
 
-    // Filter and sort the songs alphabetically by their 'value'
-    const filteredSongs = songs
-        .filter(song => song.value.toLowerCase().includes(query.toLowerCase()))
-        .sort((a, b) => a.value.localeCompare(b.value)); // Sort alphabetically
+// Show suggestions on input or focus
+searchInput.addEventListener('input', function () {
+    showSuggestions(this.value);
+});
+
+// Auto highlight all text on focus
+searchInput.addEventListener('focus', function () {
+    showSuggestions(this.value); // Show filtered songs based on current input
+    setTimeout(() => this.select(), 0); // Highlight text
+});
+
+// Also auto highlight on click
+searchInput.addEventListener('click', function () {
+    setTimeout(() => this.select(), 0);
+});
+
+// Function to display suggestions
+function showSuggestions(query) {
+    suggestionsDiv.innerHTML = '';
+
+    let filteredSongs = [];
+    if (!query) {
+        filteredSongs = songs.slice().sort((a, b) => a.value.localeCompare(b.value)); // All songs
+    } else {
+        filteredSongs = songs
+            .filter(song => song.value.toLowerCase().includes(query.toLowerCase()))
+            .sort((a, b) => a.value.localeCompare(b.value));
+    }
 
     if (filteredSongs.length > 0) {
         filteredSongs.forEach(song => {
@@ -302,6 +309,13 @@ document.getElementById('bass-btn').addEventListener('click', () => {
         suggestionsDiv.style.display = 'none';
     }
 }
+
+// Hide suggestions if clicking outside the input or suggestions
+document.addEventListener('click', (e) => {
+    if (e.target !== searchInput && !suggestionsDiv.contains(e.target)) {
+        suggestionsDiv.style.display = 'none';
+    }
+});
         
         let selectedSong = null;
         
