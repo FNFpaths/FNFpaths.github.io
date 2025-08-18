@@ -68,7 +68,7 @@ def download_and_decrypt_dat(dat_url, key):
         subprocess.run(['python3', 'scripts/fnf.py', '-d', dat_file], check=True)
         
         original_mid_file = dat_file.replace('.dat', '.mid')
-        renamed_mid_file = f"{key}.mid"
+        renamed_mid_file = f"{key}_og.mid"   # <- add suffix
 
         if os.path.exists(original_mid_file):
             os.rename(original_mid_file, renamed_mid_file)
