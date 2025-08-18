@@ -2,7 +2,7 @@
 
 # Specify the full path to the onyx command
 rm -rf paths
-rm fnfp.fs
+rm fnfp.js
 
 # Store the original directory
 original_dir=$(pwd)
@@ -105,23 +105,23 @@ for dir in "$parent_directory"/*/; do
         awk '/^Total score:/ {print $NF; exit}' )    
 
         #### LEAD #####
-        lead_path=$( ../scripts/cli/fnf_chopt -f *.mid --lazy 1000000 --early-whammy 0 --squeeze 20 --no-image --engine rb  | \
+        lead_path=$( ../scripts/cli/fnf_chopt -f *_og.mid -i guitar --lazy 1000000 --early-whammy 0 --squeeze 20 --no-image --engine rb  | \
         grep -v "Optimising" | \
         sed -e 's/ ([^(]*)//g' | \
         awk '/^Total score:/ {next} !/^Path:|^No SP score:/ {gsub(/: /, "/", $0); gsub(/: /, ",", $0); gsub("/ ", "/", $0); if (NR > 1 && items) printf ", "; printf "%s", $0; items=1} END {if (NR > 0) printf "\n"}' )
 
         lead_path_image="'$lead_output'"
-        lead_score=$( ../scripts/cli/CHOpt -f *.mid --early-whammy 0 --squeeze 20 --engine fnf -o "$lead_output" | \
+        lead_score=$( ../scripts/cli/CHOpt -f *_og.mid -i guitar --early-whammy 0 --squeeze 20 --engine fnf -o "$lead_output" | \
         awk '/^Total score:/ {print $NF; exit}' )
 
         #### BASS #####
-        mbass_path=$( ../scripts/cli/fnf_chopt -f *.mid -i bass --lazy 100000 --squeeze 20 --no-image --early-whammy 0 --engine rb -o "$mbass_output" | \
+        mbass_path=$( ../scripts/cli/fnf_chopt -f *_og.mid -i bass --lazy 100000 --squeeze 20 --no-image --early-whammy 0 --engine rb -o "$mbass_output" | \
         grep -v "Optimising" | \
         sed -e 's/ ([^(]*)//g' | \
         awk '/^Total score:/ {next} !/^Path:|^No SP score:/ {gsub(/: /, "/", $0); gsub(/: /, ",", $0); gsub("/ ", "/", $0); if (NR > 1 && items) printf ", "; printf "%s", $0; items=1} END {if (NR > 0) printf "\n"}' )
 
         mbass_path_image="'$mbass_output'"
-        mbass_score=$( ../scripts/cli/CHOpt -f *.mid -i bass --early-whammy 0 --squeeze 20 --engine fnf -o "$mbass_output" | \
+        mbass_score=$( ../scripts/cli/CHOpt -f *_og.mid -i bass --early-whammy 0 --squeeze 20 --engine fnf -o "$mbass_output" | \
         awk '/^Total score:/ {print $NF; exit}' )    
 
         ##############################################
