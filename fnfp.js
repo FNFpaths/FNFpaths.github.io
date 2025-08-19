@@ -5190,6 +5190,35 @@ const songs = [
             mscore : "74226",
             } 
         },
+{ value : "Gimme Chocolate!! by BABYMETAL", 
+            data : {
+            shortname : "gimmechocolate",
+
+            dpath : "1/9th R, 1/9th R, 1/1st RB, 1/1st RB, 3/1st RB, 1/1st RB, 1/NN, 3/9th R, 1/2nd RB, 3(+1)/1st GO, 1/NN, 3/1st RB",
+            d_image : "'gimmechocolate_drums.png'",
+            dscore : "280512",
+
+            vpath : "1/4th G, 1/2nd O, 1/2nd O, 1/5th G, 3(+1)/5th G, 1/7th G, 1/2nd O, 1/2nd O, 1/2nd O, 1/3rd B",
+            v_image : "'gimmechocolate_vocals.png'",
+            vscore : "144393",
+
+            gpath : "4(+1)/3rd GYB, 3(+1)/1st GYB, 1/3rd GYB, 1/NN, 2/NN, 3(+1)/1st GYB, 1/3rd GYB, 1/3rd GYB, 1/3rd GYB, 1/NN",
+            g_image : "'gimmechocolate_guitar.png'",
+            gscore : "459016",
+
+            bpath : "1/9th G, 1/24th G, 1/NN, 1/NN, 3/4th Y, 1/NN, 1/2nd R, 1/NN, 3/5th Y, 1/NN, 1/4th R, 1/2nd R, 1/NN, 1/8th R, 1/18th R",
+            b_image : "'gimmechocolate_bass.png'",
+            bscore : "334152",
+
+            lpath : "4(+1)/3rd GB, 3(+1)/1st GB, 1/15th GB, 1/NN, 2/NN, 1/10th B, 2(+1)/3rd GB, 1/NN, 2/1st RO, 1/NN",
+            l_image : "'gimmechocolate_lead.png'",
+            lscore : "349264",
+
+            mpath : "1/9th G, 1/25th G, 1/NN, 1/NN, 3/4th Y, 1/1st O, 1/2nd R, 1/NN, 3/5th Y, 1/NN, 1/4th R, 1/2nd R, 1/NN, 1/2nd Y, 1/18th Y",
+            m_image : "'gimmechocolate_mbass.png'",
+            mscore : "333504",
+            } 
+        },
 { value : "Gimme The Light by Sean Paul", 
             data : {
             shortname : "gimmethelight",
@@ -9451,6 +9480,35 @@ const songs = [
             mpath : "1/5th R, 4(+1)/3rd G, 1/NN, 1/3rd G, 1/NN, 1/3rd G, 1/NN",
             m_image : "'pealikeme_mbass.png'",
             mscore : "145455",
+            } 
+        },
+{ value : "PLAYERS by YOASOBI", 
+            data : {
+            shortname : "players",
+
+            dpath : "1/2nd GO, 2(+1)/4th GY, 1/1st RY, 1/10th O, 3(+1)/3rd GO, 1/5th R, 1/7th R, 2/1st RY, 1/6th GY",
+            d_image : "'players_drums.png'",
+            dscore : "239328",
+
+            vpath : "1/5th G, 1/7th B, 1/NN, 1/3rd G, 1/1st B, 1/NN, 1/2nd Y, 1/NN, 1/2nd O, 1/7th R, 1/NN, 1/3rd G, 1/NN, 1/4th G, 1/3rd R, 1/NN",
+            v_image : "'players_vocals.png'",
+            vscore : "184242",
+
+            gpath : "1/35th Y, 1/NN, 1/3rd R, 1/2nd O, 1(+1)/12th R, 1/8th R, 1/3rd Y, 1/4th G, 1/1 beats after 4th B, 1/6th O, 1/2nd G, 1/4th G, 1/3rd R, 1/1st Y",
+            g_image : "'players_guitar.png'",
+            gscore : "188524",
+
+            bpath : "1/NN, 1/13th G, 1/5th R, 1/2nd O, 1/5th Y, 1/NN, 3(+1)/3rd Y, 1/5th R, 1/1st G, 1/NN, 1/5th B, 1/NN, 1/NN",
+            b_image : "'players_bass.png'",
+            bscore : "229428",
+
+            lpath : "1/3rd Y, 1/NN, 1/3rd Y, 1/2nd O, 1(+1)/12th Y, 1/8th R, 4(+1)/6th O, 1/4th G, 1/3rd R, 1/1st Y",
+            l_image : "'players_lead.png'",
+            lscore : "187872",
+
+            mpath : "1/NN, 1/13th G, 1/5th R, 1/2nd O, 1/5th Y, 1/NN, 3(+1)/3rd Y, 1/5th R, 1/1st G, 1/NN, 1/5th B, 1/NN, 1/NN",
+            m_image : "'players_mbass.png'",
+            mscore : "229428",
             } 
         },
 { value : "Please Please Please by Sabrina Carpenter", 
