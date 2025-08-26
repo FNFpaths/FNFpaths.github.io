@@ -2928,6 +2928,35 @@ const songs = [
             mscore : "228442",
             } 
         },
+{ value : "Chyld of Dawn by Epic Games", 
+            data : {
+            shortname : "chyldofdawn",
+
+            dpath : "4/9th GY, 1/1st RY, 1/NN",
+            d_image : "'chyldofdawn_drums.png'",
+            dscore : "150768",
+
+            vpath : "1(+1)/9th Y, 1/9th R, 1/1st R, 1/2nd B, 1/1st O",
+            v_image : "'chyldofdawn_vocals.png'",
+            vscore : "69876",
+
+            gpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/1st G, 1/NN",
+            g_image : "'chyldofdawn_guitar.png'",
+            gscore : "124572",
+
+            bpath : "1/NN, 1/75th G, 1/NN, 2(+1)/75th G",
+            b_image : "'chyldofdawn_bass.png'",
+            bscore : "211032",
+
+            lpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/1st G, 1/NN",
+            l_image : "'chyldofdawn_lead.png'",
+            lscore : "123996",
+
+            mpath : "1/NN, 1/75th G, 1/NN, 2(+1)/75th G",
+            m_image : "'chyldofdawn_mbass.png'",
+            mscore : "211032",
+            } 
+        },
 { value : "Circles by Post Malone", 
             data : {
             shortname : "circles",
@@ -2955,6 +2984,35 @@ const songs = [
             mpath : "1/4th Y, 1/2nd Y, 1/2nd Y, 1/2nd Y, 1/NN, 1/2nd Y, 1/2nd Y, 2/4th Y",
             m_image : "'circles_mbass.png'",
             mscore : "119646",
+            } 
+        },
+{ value : "Clint Eastwood by Gorillaz", 
+            data : {
+            shortname : "clinteastwood",
+
+            dpath : "3(+1)/1st GB, 1/NN, 2/2nd GY, 1/NN, 1/16th GY",
+            d_image : "'clinteastwood_drums.png'",
+            dscore : "218592",
+
+            vpath : "2/6th G, 1/9th R, 2/12th R, 1/1st O, 1/17th R, 1/NN",
+            v_image : "'clinteastwood_vocals.png'",
+            vscore : "191868",
+
+            gpath : "1/16th GYB, 1/8th GYB, 1/1st GYB, 2/1st B, 1/3rd GYB, 2(+1)/7th Y",
+            g_image : "'clinteastwood_guitar.png'",
+            gscore : "132836",
+
+            bpath : "2/12th G, 1/1st B, 1/NN, 1/1st B, 1/1st B, 1/1st B, 1/1st B, 1/NN",
+            b_image : "'clinteastwood_bass.png'",
+            bscore : "82836",
+
+            lpath : "1/16th GB, 1/6th GB, 1/NN, 2/1st B, 1/NN, 1/NN, 2/3rd G",
+            l_image : "'clinteastwood_lead.png'",
+            lscore : "113312",
+
+            mpath : "2/12th G, 1/1st B, 1/NN, 1/1st B, 1/1st B, 1/1st B, 1/1st B, 1/NN",
+            m_image : "'clinteastwood_mbass.png'",
+            mscore : "82836",
             } 
         },
 { value : "Closer by The Chainsmokers ft. Halsey", 
@@ -3013,6 +3071,35 @@ const songs = [
             mpath : "1/11th R, 1/2nd Y, 1/1st Y, 1/NN, 1/NN, 1/1st R, 1/3rd Y, 1/2nd Y",
             m_image : "'closer2_mbass.png'",
             mscore : "91260",
+            } 
+        },
+{ value : "Come Alive by Epic Games", 
+            data : {
+            shortname : "comealive",
+
+            dpath : "1/12th GY, 1/1st B, 1/4th RY, 1/7th GY, 1/3rd GY, 1/6th GY, 1/9th GY, 1/NN, 1/NN, 1/NN",
+            d_image : "'comealive_drums.png'",
+            dscore : "241920",
+
+            vpath : "1/NN, 2/6th Y, 1/3rd O, 1/After 0.082 beats, 2/NN, 1/7th Y, 1/NN",
+            v_image : "'comealive_vocals.png'",
+            vscore : "113246",
+
+            gpath : "1/3rd Y, 1/1st RBO, 1/1st RYB, 1/NN, 3(+1)/3rd GR, 1/2nd G, 1/NN",
+            g_image : "'comealive_guitar.png'",
+            gscore : "109578",
+
+            bpath : "3/NN, 1/NN, 2/3rd O, 1/1st O, 2/6th B, 1/4th G",
+            b_image : "'comealive_bass.png'",
+            bscore : "132570",
+
+            lpath : "1/3rd Y, 1/2nd Y, 1/1st GB, 1/NN, 3(+1)/1st R, 1/2nd G, 1/NN",
+            l_image : "'comealive_lead.png'",
+            lscore : "97346",
+
+            mpath : "3/NN, 1/NN, 2/3rd O, 1/1st O, 2/4th R, 1/6th G",
+            m_image : "'comealive_mbass.png'",
+            mscore : "132570",
             } 
         },
 { value : "Come & Go by Juice WRLD w/ Marshmello", 
@@ -3332,6 +3419,35 @@ const songs = [
             mpath : "1/2nd B, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
             m_image : "'dancingintheflames_mbass.png'",
             mscore : "184392",
+            } 
+        },
+{ value : "DARE by Gorillaz ft. Shaun Ryder & Roses Gabor", 
+            data : {
+            shortname : "dare",
+
+            dpath : "1/NN, 1/NN, 1/6th RY, 1/6th RY, 1/NN, 1/NN, 1/8th RY, 1/6th RY, 1/6th RY, 1/NN, 1/NN, 1/NN, 1/NN",
+            d_image : "'dare_drums.png'",
+            dscore : "331488",
+
+            vpath : "1/1st Y, 1/3rd B, 1/3rd Y, 1/1st Y, 1/1st Y, 1/3rd Y, 1/3rd Y, 1/1st Y, 1/1st Y, 1/1st Y, 1/1st Y",
+            v_image : "'dare_vocals.png'",
+            vscore : "102951",
+
+            gpath : "1/4th Y, 2/6th G, 1/After 2.5 beats, 1/NN, 2/2nd G, 1/5th G, 1/NN, 1/NN, 1/1st Y, 2/2nd G",
+            g_image : "'dare_guitar.png'",
+            gscore : "116598",
+
+            bpath : "3(+1)/3rd G, 1/NN, 1/NN, 1/1st R, 1/NN, 1/2nd R, 1/NN, 1/NN",
+            b_image : "'dare_bass.png'",
+            bscore : "56229",
+
+            lpath : "1/4th Y, 2/6th G, 1/After 2.5 beats, 1/NN, 2/2nd G, 1/5th G, 1/NN, 1/NN, 1/1st Y, 2/2nd G",
+            l_image : "'dare_lead.png'",
+            lscore : "113522",
+
+            mpath : "3(+1)/3rd G, 1/NN, 1/NN, 1/1st Y, 1/NN, 1/2nd Y, 1/NN, 1/NN",
+            m_image : "'dare_mbass.png'",
+            mscore : "56229",
             } 
         },
 { value : "Dark Horse by Katy Perry ft. Juicy J", 
@@ -4086,6 +4202,35 @@ const songs = [
             mpath : "2/2nd O, 1/NN, 1/NN",
             m_image : "'emptyoutyourpockets_mbass.png'",
             mscore : "40413",
+            } 
+        },
+{ value : "End of the Earth by Epic Games", 
+            data : {
+            shortname : "endoftheearth",
+
+            dpath : "3/3rd RY, 3(+1)/11th RY, 1/NN, 2/2nd RO",
+            d_image : "'endoftheearth_drums.png'",
+            dscore : "178992",
+
+            vpath : "2/2nd B, 1/3rd B, 1/After 0.5 beats, 3/9th B",
+            v_image : "'endoftheearth_vocals.png'",
+            vscore : "75210",
+
+            gpath : "1/NN, 3/6th GY, 1/1st GRB, 3/1st GRB, 1/1st GRB, 1/10th BO",
+            g_image : "'endoftheearth_guitar.png'",
+            gscore : "269976",
+
+            bpath : "1/4th Y, 1/NN, 1/NN, 1/3rd R, 1/NN, 1/NN, 1/NN, 1/2nd Y, 1/NN, 1/NN",
+            b_image : "'endoftheearth_bass.png'",
+            bscore : "178182",
+
+            lpath : "1/NN, 2(+1)/16th GY, 1/1st GB, 3/1st GB, 1/1st GB, 1/1st RO",
+            l_image : "'endoftheearth_lead.png'",
+            lscore : "213348",
+
+            mpath : "1/4th Y, 1/NN, 1/NN, 1/3rd R, 1/NN, 1/NN, 1/NN, 1/2nd Y, 1/NN, 1/NN",
+            m_image : "'endoftheearth_mbass.png'",
+            mscore : "178020",
             } 
         },
 { value : "Enter Sandman by Metallica", 
@@ -6466,6 +6611,35 @@ const songs = [
             mscore : "109944",
             } 
         },
+{ value : "Interstate Love Song by Stone Temple Pilots", 
+            data : {
+            shortname : "interstatelovesong",
+
+            dpath : "1/4th RY, 1/1st RY, 1/6th RY, 1/NN, 1/1st GO, 1/9th Y, 1/3rd GO",
+            d_image : "'interstatelovesong_drums.png'",
+            dscore : "177408",
+
+            vpath : "2(+1)/7th B, 1/5th Y",
+            v_image : "'interstatelovesong_vocals.png'",
+            vscore : "48270",
+
+            gpath : "1/9th BO, 1/8th BO, 1/5th BO, 1/5th GY, 1/9th BO, 1/12th GR, 1/NN",
+            g_image : "'interstatelovesong_guitar.png'",
+            gscore : "213280",
+
+            bpath : "1/1st Y, 1/4th G, 1/8th Y, 1/NN, 1/6th Y, 1/5th G, 1/7th B",
+            b_image : "'interstatelovesong_bass.png'",
+            bscore : "143316",
+
+            lpath : "1/4th R, 1/4th GY, 1/5th RO, 1/1st RB, 1/20th GY, 1/11th GY, 1/NN",
+            l_image : "'interstatelovesong_lead.png'",
+            lscore : "193380",
+
+            mpath : "1/1st R, 1/4th G, 1/4th R, 1/NN, 1/6th R, 1/7th G, 1/5th B",
+            m_image : "'interstatelovesong_mbass.png'",
+            mscore : "142596",
+            } 
+        },
 { value : "In The End by Linkin Park", 
             data : {
             shortname : "intheend",
@@ -8264,6 +8438,35 @@ const songs = [
             mscore : "212112",
             } 
         },
+{ value : "Montagem Tomada (Slowed) by MXZI", 
+            data : {
+            shortname : "montagemtomada",
+
+            dpath : "1/14th O, 1/4th O, 1/NN",
+            d_image : "'montagemtomada_drums.png'",
+            dscore : "14724",
+
+            vpath : "1/22nd R, 1/9th G, 1/9th G, 1/3rd R",
+            v_image : "'montagemtomada_vocals.png'",
+            vscore : "80475",
+
+            gpath : "1/NN, 1/NN, 1/NN, 1/NN",
+            g_image : "'montagemtomada_guitar.png'",
+            gscore : "39600",
+
+            bpath : "1(+1)/12th O, 1/NN",
+            b_image : "'montagemtomada_bass.png'",
+            bscore : "33363",
+
+            lpath : "1/NN, 1/NN, 1/NN, 1/NN",
+            l_image : "'montagemtomada_lead.png'",
+            lscore : "39600",
+
+            mpath : "1/2nd Y, 1/NN, 1/NN",
+            m_image : "'montagemtomada_mbass.png'",
+            mscore : "31038",
+            } 
+        },
 { value : "MONTERO (Call Me By Your Name) by Lil Nas X", 
             data : {
             shortname : "montero",
@@ -9163,6 +9366,35 @@ const songs = [
             mscore : "500124",
             } 
         },
+{ value : "On Melancholy Hill by Gorillaz", 
+            data : {
+            shortname : "onmelancholyhill",
+
+            dpath : "1/NN, 1/NN, 2(+1)/1st GY, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            d_image : "'onmelancholyhill_drums.png'",
+            dscore : "210096",
+
+            vpath : "1/4th Y, 1/5th Y, 1/2nd Y, 1/5th Y, 1/8th Y, 1/NN, 2/6 beats after 2nd B",
+            v_image : "'onmelancholyhill_vocals.png'",
+            vscore : "62814",
+
+            gpath : "2/5th Y, 2/2nd Y, 4(+1)/1st G, 1/NN, 1/NN, 1/2nd Y",
+            g_image : "'onmelancholyhill_guitar.png'",
+            gscore : "103512",
+
+            bpath : "2/2nd R, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            b_image : "'onmelancholyhill_bass.png'",
+            bscore : "107352",
+
+            lpath : "2/5th R, 2/1st G, 4(+1)/5th R, 1/NN, 1/NN, 1/2nd R",
+            l_image : "'onmelancholyhill_lead.png'",
+            lscore : "103440",
+
+            mpath : "2/2nd R, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            m_image : "'onmelancholyhill_mbass.png'",
+            mscore : "107352",
+            } 
+        },
 { value : "On The Floor by Jennifer Lopez ft. Pitbull", 
             data : {
             shortname : "onthefloor",
@@ -9480,6 +9712,35 @@ const songs = [
             mpath : "1/5th R, 4(+1)/3rd G, 1/NN, 1/3rd G, 1/NN, 1/3rd G, 1/NN",
             m_image : "'pealikeme_mbass.png'",
             mscore : "145455",
+            } 
+        },
+{ value : "Pick It Up (Remix) by Epic Games", 
+            data : {
+            shortname : "pickitup",
+
+            dpath : "1/11th GY, 1/16th GY, 1/7th GY, 1/15th GY, 1/1st GY, 1/9th GY, 1/5th GY, 1/14th GY, 1/8th GY, 1/7th GY",
+            d_image : "'pickitup_drums.png'",
+            dscore : "205776",
+
+            vpath : "3(+1)/NN, 1/13th O, 3/2nd Y, 1/7th Y, 1/7th R",
+            v_image : "'pickitup_vocals.png'",
+            vscore : "126084",
+
+            gpath : "1/5th R, 1/1st G, 1/1st BO, 1/10th BO, 1/1st B, 1/1st G, 2/5th BO, 1/1st B, 1/NN",
+            g_image : "'pickitup_guitar.png'",
+            gscore : "75079",
+
+            bpath : "2/2nd Y, 1/NN, 1/10th Y, 1/4th Y, 1/2nd Y, 1/NN, 1/6th Y, 1/4th Y",
+            b_image : "'pickitup_bass.png'",
+            bscore : "77586",
+
+            lpath : "1/5th R, 1/1st G, 1/1st GO, 1/10th GO, 1/1st B, 1/1st G, 2/5th GO, 1/1st B, 1/NN",
+            l_image : "'pickitup_lead.png'",
+            lscore : "75079",
+
+            mpath : "2/2nd Y, 1/NN, 1/10th Y, 1/4th Y, 1/2nd Y, 1/NN, 1/6th Y, 1/4th Y",
+            m_image : "'pickitup_mbass.png'",
+            mscore : "77586",
             } 
         },
 { value : "PLAYERS by YOASOBI", 
@@ -10350,6 +10611,35 @@ const songs = [
             mpath : "1/10th Y, 1/3rd B, 3/1st O, 1/NN, 1/3rd R, 1/1st O, 1/2nd G, 1/1st O",
             m_image : "'runitup_mbass.png'",
             mscore : "108696",
+            } 
+        },
+{ value : "Run It Up by Hanumankind", 
+            data : {
+            shortname : "runitup2",
+
+            dpath : "3(+1)/3rd O, 1/NN, 3(+1)/7th O, 1/8th G",
+            d_image : "'runitup2_drums.png'",
+            dscore : "158256",
+
+            vpath : "2/5th G, 1/11th Y, 1/6th B, 1/NN, 1/1st R, 1/4th Y, 2/1st G",
+            v_image : "'runitup2_vocals.png'",
+            vscore : "196380",
+
+            gpath : "2(+1)/1st R, 1/NN, 1/NN",
+            g_image : "'runitup2_guitar.png'",
+            gscore : "19887",
+
+            bpath : "2(+1)/16th R, 1/1st O, 1/NN, 4/NN",
+            b_image : "'runitup2_bass.png'",
+            bscore : "58299",
+
+            lpath : "2(+1)/3rd R, 1/NN, 1/NN",
+            l_image : "'runitup2_lead.png'",
+            lscore : "19887",
+
+            mpath : "2(+1)/16th R, 1/1st O, 1/NN, 4/NN",
+            m_image : "'runitup2_mbass.png'",
+            mscore : "58299",
             } 
         },
 { value : "Sabotage by Beastie Boys", 
