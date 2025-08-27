@@ -464,7 +464,7 @@ const pathHtml = `
                 if (currentInstrument === 'g' || currentInstrument === 'b') {
                     // Use the current site for Pro Lead and Pro Bass
                     // old url = `https://raw.githubusercontent.com/mattfreg/FNF_ProLeaderboards/main/leaderboards/season6/${songId}/Solo_Peripheral${currentInstrument === 'g' ? 'Guitar' : 'Bass'}_0.json`;
-                    url = `https://raw.githubusercontent.com/FNLookup/festival-leaderboards/refs/heads/main/leaderboards/season9/${songId}/Solo_Peripheral${currentInstrument === 'g' ? 'Guitar' : 'Bass'}_0.json`;
+                    url = `https://raw.githubusercontent.com/FNLookup/festival-leaderboards/refs/heads/main/leaderboards/season10/${songId}/Solo_Peripheral${currentInstrument === 'g' ? 'Guitar' : 'Bass'}_0.json`;
 
                 } else {
                     // Use the alternative site for other instruments
@@ -475,7 +475,7 @@ const pathHtml = `
                         d: 'Drums'
                     };
                     const selectedInstrument = instrumentMap[currentInstrument];
-                    url = `https://raw.githubusercontent.com/FNLookup/festival-leaderboards/refs/heads/main/leaderboards/season9/${songId}/Solo_${selectedInstrument}_0.json`;
+                    url = `https://raw.githubusercontent.com/FNLookup/festival-leaderboards/refs/heads/main/leaderboards/season10/${songId}/Solo_${selectedInstrument}_0.json`;
                 }
 
                 const response = await fetch(url);
