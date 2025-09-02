@@ -1478,6 +1478,35 @@ const songs = [
             mscore : "348516",
             } 
         },
+{ value : "Big Dawgs by Hanumankind Feat. Kalmi", 
+            data : {
+            shortname : "bigdawgs",
+
+            dpath : "1/NN, 1/2nd RY, 1/6th RY, 1/4th RY, 1/8th RY, 1/NN, 1/1st GY, 1/NN",
+            d_image : "'bigdawgs_drums.png'",
+            dscore : "228384",
+
+            vpath : "2/2nd B, 1/NN, 1/2nd G, 1/5th G, 1/NN, 1/1st G, 1/NN",
+            v_image : "'bigdawgs_vocals.png'",
+            vscore : "199890",
+
+            gpath : "1/7th G, 1/4th G, 1/3rd G, 1/NN, 1/1st GB, 1/1st GY, 1/1st GY, 1/1st GY",
+            g_image : "'bigdawgs_guitar.png'",
+            gscore : "80324",
+
+            bpath : "1/2nd Y, 1/3rd R, 1/NN, 1/2nd R, 1/1st R, 1/NN, 1/NN, 1/NN",
+            b_image : "'bigdawgs_bass.png'",
+            bscore : "63402",
+
+            lpath : "1/5th R, 1/4th R, 1/2nd R, 1/NN, 1/1st GB, 1/1st GY, 1/1st GY, 1/1st GY",
+            l_image : "'bigdawgs_lead.png'",
+            lscore : "68670",
+
+            mpath : "1/2nd Y, 1/3rd R, 1/NN, 1/2nd R, 1/1st R, 1/NN, 1/NN, 1/NN",
+            m_image : "'bigdawgs_mbass.png'",
+            mscore : "63402",
+            } 
+        },
 { value : "Big Energy by Latto", 
             data : {
             shortname : "bigenergy",
@@ -8610,6 +8639,35 @@ const songs = [
             mpath : "1/2nd G, 1/NN, 1/1st B, 1/NN, 4(+2)/6th Y",
             m_image : "'moveslikejagger_mbass.png'",
             mscore : "131112",
+            } 
+        },
+{ value : "Move Your Feet by Junior Senior", 
+            data : {
+            shortname : "moveyourfeet",
+
+            dpath : "1/10th GB, 1/NN, 2/3rd GB, 1/NN, 1/5th GY, 1/1st GY, 1/NN, 1/9th RY",
+            d_image : "'moveyourfeet_drums.png'",
+            dscore : "186336",
+
+            vpath : "2(+1)/7th Y, 3/NN, 1/6th B, 1/1st R, 1/1st B",
+            v_image : "'moveyourfeet_vocals.png'",
+            vscore : "126381",
+
+            gpath : "1/NN, 1/18th G, 1/1st B, 4(+1)/1st RB, 1/9th Y",
+            g_image : "'moveyourfeet_guitar.png'",
+            gscore : "147204",
+
+            bpath : "2(+1)/9th G, 1(+1)/9th G, 1/1st G, 1/NN",
+            b_image : "'moveyourfeet_bass.png'",
+            bscore : "85314",
+
+            lpath : "1/NN, 1/16th G, 1/1st B, 4(+1)/1st RY, 1/7th Y",
+            l_image : "'moveyourfeet_lead.png'",
+            lscore : "147060",
+
+            mpath : "2(+1)/9th G, 1(+1)/9th G, 1/1st G, 1/NN",
+            m_image : "'moveyourfeet_mbass.png'",
+            mscore : "85314",
             } 
         },
 { value : "Mr. Brightside by The Killers", 
