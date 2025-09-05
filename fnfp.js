@@ -7626,6 +7626,35 @@ const songs = [
             mscore : "199512",
             } 
         },
+{ value : "Locked and Loaded by d4vd", 
+            data : {
+            shortname : "lockedandloaded",
+
+            dpath : "1/1st RY, 1/4th RY, 1/1st RY, 1/1st RY",
+            d_image : "'lockedandloaded_drums.png'",
+            dscore : "109440",
+
+            vpath : "3/0.75 beats after 2nd O, 1/21st Y, 1/1st Y",
+            v_image : "'lockedandloaded_vocals.png'",
+            vscore : "95211",
+
+            gpath : "1/8th B, 3/3rd Y, 1(+1)/5th B",
+            g_image : "'lockedandloaded_guitar.png'",
+            gscore : "93222",
+
+            bpath : "1/NN, 1/1st Y, 1/7 beats after 1st R, 1(+1)/2nd R",
+            b_image : "'lockedandloaded_bass.png'",
+            bscore : "27908",
+
+            lpath : "1/8th B, 3/3rd Y, 1(+1)/5th B",
+            l_image : "'lockedandloaded_lead.png'",
+            lscore : "90741",
+
+            mpath : "1/NN, 1/1st Y, 1/7 beats after 1st R, 1(+1)/2nd R",
+            m_image : "'lockedandloaded_mbass.png'",
+            mscore : "27438",
+            } 
+        },
 { value : "Locked Out Of Heaven by Bruno Mars", 
             data : {
             shortname : "lockedoutofheaven",
