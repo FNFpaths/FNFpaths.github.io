@@ -7626,7 +7626,7 @@ const songs = [
             mscore : "199512",
             } 
         },
-{ value : "Locked and Loaded by d4vd", 
+{ value : "Locked & Loaded by d4vd", 
             data : {
             shortname : "lockedandloaded",
 
