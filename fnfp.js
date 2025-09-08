@@ -6780,7 +6780,7 @@ const songs = [
             l_image : "'ithinkimokay_lead.png'",
             lscore : "136092",
 
-            mpath : "2(+1)/3rd Y, 2/1st R, 1/NN, 1/NN",
+            mpath : "2(+1)/3rd Y, 2(+1)/1st R, 1/NN",
             m_image : "'ithinkimokay_mbass.png'",
             mscore : "88149",
             } 
