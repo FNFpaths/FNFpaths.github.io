@@ -2377,6 +2377,35 @@ const songs = [
             mscore : "172698",
             } 
         },
+{ value : "Bum Bum by Mr. Pig", 
+            data : {
+            shortname : "bumbum",
+
+            dpath : "1/17th Y, 1/NN, 1/32nd Y, 1/NN, 1/NN, 1/7th G, 1/NN",
+            d_image : "'bumbum_drums.png'",
+            dscore : "110304",
+
+            vpath : "1/9th Y, 2/2nd Y, 1/6th Y, 2/19th R, 1/13th Y",
+            v_image : "'bumbum_vocals.png'",
+            vscore : "187218",
+
+            gpath : "1(+1)/5th O, 1/7th R, 1/1st B",
+            g_image : "'bumbum_guitar.png'",
+            gscore : "61650",
+
+            bpath : "1/NN, 2/10th G, 1/NN, 1/NN, 1/NN",
+            b_image : "'bumbum_bass.png'",
+            bscore : "128088",
+
+            lpath : "1(+1)/5th O, 1/7th Y, 1/1st B",
+            l_image : "'bumbum_lead.png'",
+            lscore : "61650",
+
+            mpath : "1/NN, 2/10th G, 1/NN, 1/NN, 1/NN",
+            m_image : "'bumbum_mbass.png'",
+            mscore : "128088",
+            } 
+        },
 { value : "Bunny Bounce (Murda Beatz Remix) by Epic Games ft. Murda Beatz", 
             data : {
             shortname : "bunnybouncemurdabeatz",
@@ -5478,6 +5507,35 @@ const songs = [
             mpath : "1/4th R, 1/NN, 1/NN, 1/NN, 1/1st Y, 1/NN, 1/NN",
             m_image : "'givemeeverything_mbass.png'",
             mscore : "79866",
+            } 
+        },
+{ value : "GIVENCHY by DUKI", 
+            data : {
+            shortname : "givenchy",
+
+            dpath : "1/1st GB, 1/3rd GY, 1/3rd GY, 1/1st Y, 1/3rd GY, 1/1st GY, 1/1st GY, 1/2nd GY, 1/1st RY, 1/3rd GY",
+            d_image : "'givenchy_drums.png'",
+            dscore : "172368",
+
+            vpath : "1/4th B, 1/22nd R, 1/1st Y, 3/7th Y, 1/14th B, 1/NN, 1/4th Y",
+            v_image : "'givenchy_vocals.png'",
+            vscore : "217512",
+
+            gpath : "1(+1)/1st RBO, 1/NN, 1/NN, 1/1st RBO, 1/3rd RBO, 1/1st RBO, 1/NN, 1/NN, 1/3rd RBO, 1/NN",
+            g_image : "'givenchy_guitar.png'",
+            gscore : "118428",
+
+            bpath : "3/2nd G, 1/2nd G, 1/NN, 1/4th G, 1/NN",
+            b_image : "'givenchy_bass.png'",
+            bscore : "34947",
+
+            lpath : "1/4th Y, 1/NN, 1/NN, 1/NN, 1/1st RO, 1/6th RO, 1/5th Y, 1/1st Y, 1/4th RO, 1/3rd RO, 1/NN",
+            l_image : "'givenchy_lead.png'",
+            lscore : "92820",
+
+            mpath : "3/2nd G, 1/2nd G, 1/NN, 1/4th G, 1/NN",
+            m_image : "'givenchy_mbass.png'",
+            mscore : "34947",
             } 
         },
 { value : "Godzilla by Blue Öyster Cult", 
