@@ -2928,6 +2928,35 @@ const songs = [
             mscore : "81864",
             } 
         },
+{ value : "Cheguei by LUDMILLA", 
+            data : {
+            shortname : "cheguei",
+
+            dpath : "1/2nd RB, 1/18th R, 1/1st RO, 1/17th R, 1/6th RO, 1/11th O, 1/NN, 1/1st GO, 1/NN",
+            d_image : "'cheguei_drums.png'",
+            dscore : "120672",
+
+            vpath : "1/10th Y, 1/2nd Y, 1/3rd B, 1/3rd Y, 1/NN, 1/NN, 1/12th Y, 1/9th Y, 1/NN",
+            v_image : "'cheguei_vocals.png'",
+            vscore : "164511",
+
+            gpath : "1/1st B, 1/7th G, 1/9th B, 1/1st B, 1/6th G, 1/15th Y, 1/3rd G, 1/1st B, 1/3rd B, 1/NN",
+            g_image : "'cheguei_guitar.png'",
+            gscore : "85968",
+
+            bpath : "3(+1)/4th G, 1(+1)/12th Y, 1/4th R, 1/NN",
+            b_image : "'cheguei_bass.png'",
+            bscore : "71520",
+
+            lpath : "1/1st B, 1/7th G, 1/9th B, 1/1st B, 1/6th G, 1/15th R, 1/3rd G, 1/1st B, 1/3rd B, 1/NN",
+            l_image : "'cheguei_lead.png'",
+            lscore : "85968",
+
+            mpath : "3(+1)/4th G, 1(+1)/12th Y, 1/4th R, 1/NN",
+            m_image : "'cheguei_mbass.png'",
+            mscore : "71313",
+            } 
+        },
 { value : "Cherry Cordial by Epic Games", 
             data : {
             shortname : "cherrycordial",
@@ -10120,6 +10149,35 @@ const songs = [
             mscore : "154359",
             } 
         },
+{ value : "Proibida Pra Mim (Grazon) by Charlie Brown Jr.", 
+            data : {
+            shortname : "proibidapramim",
+
+            dpath : "1/6th RY, 1/NN, 1/8th O, 2/2nd GO, 1/NN, 1/1st RY, 1/6th O, 1/1st GO, 1/8th O, 1/4th R, 1/1st GO",
+            d_image : "'proibidapramim_drums.png'",
+            dscore : "178416",
+
+            vpath : "1/3rd G, 1/5th B, 1(+1)/8th G, 1/10th R, 1/4th R, 1/10th R",
+            v_image : "'proibidapramim_vocals.png'",
+            vscore : "84396",
+
+            gpath : "1(+1)/1st BO, 1/NN, 1/8th G, 1/NN, 1/1st BO, 1/5th B, 1(+1)/3rd G, 1/NN, 1/2nd YO, 1/10th G",
+            g_image : "'proibidapramim_guitar.png'",
+            gscore : "192362",
+
+            bpath : "1/11th Y, 2(+1)/7th O, 1/NN, 1/NN, 2(+1)/7th O, 1/NN, 1/3rd O, 1/15th R",
+            b_image : "'proibidapramim_bass.png'",
+            bscore : "180888",
+
+            lpath : "1(+1)/1st RO, 1/NN, 1/8th G, 1/NN, 1/1st RO, 1/1st B, 1(+1)/8th G, 1/NN, 1/2nd RO, 1/10th G",
+            l_image : "'proibidapramim_lead.png'",
+            lscore : "191982",
+
+            mpath : "1/7th Y, 2(+1)/7th O, 1/NN, 1/NN, 2(+1)/7th O, 1/NN, 1/3rd O, 1/21st G",
+            m_image : "'proibidapramim_mbass.png'",
+            mscore : "178233",
+            } 
+        },
 { value : "PROVENZA (REMIX) by Karol G ft. Tiësto", 
             data : {
             shortname : "provenza",
@@ -14845,6 +14903,35 @@ const songs = [
             mpath : "1/5th Y, 1/NN, 1/1st G, 1/NN, 1/1st B, 1/3rd R, 1/5th B, 1/1st B, 1/1st B, 1/4th R",
             m_image : "'wholetthedogsout_mbass.png'",
             mscore : "108114",
+            } 
+        },
+{ value : "Wildberry Lillet by Nina Chuba", 
+            data : {
+            shortname : "wildberrylillet",
+
+            dpath : "1/1st GY, 2(+1)/1st GO, 2/1st Y, 1/1st GY",
+            d_image : "'wildberrylillet_drums.png'",
+            dscore : "93456",
+
+            vpath : "1/17th B, 1/10th G, 1/3rd Y, 1/NN, 1/NN, 1/1st Y, 1/1st B, 1/NN",
+            v_image : "'wildberrylillet_vocals.png'",
+            vscore : "140616",
+
+            gpath : "1/7th RB, 1/1st YB, 1/4th RB, 1/4th RB, 1/1st O, 1/4th RB, 1/1st YB",
+            g_image : "'wildberrylillet_guitar.png'",
+            gscore : "99756",
+
+            bpath : "1/4th B, 1/4th B, 1/3rd B, 1/NN, 1/3rd B, 1/NN",
+            b_image : "'wildberrylillet_bass.png'",
+            bscore : "29868",
+
+            lpath : "1/7th GB, 1/1st RB, 1/4th GB, 1/4th GB, 1/1st O, 1/4th GB, 1/1st RB",
+            l_image : "'wildberrylillet_lead.png'",
+            lscore : "99756",
+
+            mpath : "1/4th B, 1/4th B, 1/3rd B, 1/NN, 1/3rd B, 1/NN",
+            m_image : "'wildberrylillet_mbass.png'",
+            mscore : "29868",
             } 
         },
 { value : "Wild Ones by Flo Rida ft. Sia", 
