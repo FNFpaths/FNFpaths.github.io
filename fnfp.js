@@ -695,6 +695,35 @@ const songs = [
             mscore : "25134",
             } 
         },
+{ value : "As Alive As You Need Me To Be by Nine Inch Nails", 
+            data : {
+            shortname : "asaliveasyouneed",
+
+            dpath : "3(+1)/1st RY, 2(+1)/13th RY, 1/NN, 1/3rd Y, 1/31st Y",
+            d_image : "'asaliveasyouneed_drums.png'",
+            dscore : "185472",
+
+            vpath : "1/13th R, 3/1st B, 2/3rd R, 1/2nd G, 1/NN",
+            v_image : "'asaliveasyouneed_vocals.png'",
+            vscore : "99351",
+
+            gpath : "2/1st GY, 2/1st R, 1/1st GY, 3/2nd G",
+            g_image : "'asaliveasyouneed_guitar.png'",
+            gscore : "65937",
+
+            bpath : "4/1st O, 3/1st R, 1/NN, 1/NN, 1/NN",
+            b_image : "'asaliveasyouneed_bass.png'",
+            bscore : "304002",
+
+            lpath : "2/2nd GB, 2/1st Y, 1/1st GB, 3/2nd G",
+            l_image : "'asaliveasyouneed_lead.png'",
+            lscore : "64848",
+
+            mpath : "4/1st O, 3/1st R, 1/NN, 1/NN, 1/NN",
+            m_image : "'asaliveasyouneed_mbass.png'",
+            mscore : "303156",
+            } 
+        },
 { value : "Astronaut In The Ocean by Masked Wolf", 
             data : {
             shortname : "astronoutintheocean",
