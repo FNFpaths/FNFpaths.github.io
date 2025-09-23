@@ -5393,6 +5393,35 @@ const songs = [
             mscore : "122079",
             } 
         },
+{ value : "Get Lucky  by Daft Punk ft. Pharrell Williams and Nile Rodgers", 
+            data : {
+            shortname : "getlucky",
+
+            dpath : "1/8th RY, 1/6th RY, 1/14th RY, 1/10th RY, 1/6th RY, 1/NN, 4/2nd RY, 1/NN, 1/9th GY, 1/9th GY, 1/9th GY, 1/9th GY, 1/NN, 1/NN, 1/14th RY",
+            d_image : "'getlucky_drums.png'",
+            dscore : "473184",
+
+            vpath : "1/4th Y, 1/1st R, 3/2nd Y, 4(+1)/2nd R, 1/1st Y, 1/1st R, 1/NN",
+            v_image : "'getlucky_vocals.png'",
+            vscore : "231387",
+
+            gpath : "1/5th RY, 1/11th RB, 1/5th RB, 1/15th RY, 1/2nd RB, 1/5th YB, 1/10th RY, 1/1st GB, 1/5th GB, 1/1st GB, 3/4th RY, 1/1st RB, 1/1st GB, 1/5th RY, 1/1st GB, 1/1st R",
+            g_image : "'getlucky_guitar.png'",
+            gscore : "593796",
+
+            bpath : "2/1st Y, 1/10th Y, 1/3rd Y, 1/1st Y, 1/2nd G, 1/NN, 1/6th Y, 1/4th Y, 1/5th Y, 1/NN, 1/5th Y, 1/1st Y, 1/1st Y, 1/1st Y",
+            b_image : "'getlucky_bass.png'",
+            bscore : "269568",
+
+            lpath : "1/1st GB, 1/7th RB, 1/2nd RB, 1/3rd R, 1/2nd RB, 1/2nd RB, 1/9th RY, 1/1st GB, 1/1st RB, 1/1st GB, 3/4th RY, 1/1st RB, 1/3rd GB, 1/1st RY, 1/1st GB, 1/1st Y",
+            l_image : "'getlucky_lead.png'",
+            lscore : "575148",
+
+            mpath : "2/5th G, 1/9th R, 1/3rd Y, 1/1st G, 1/2nd G, 1/NN, 1/6th Y, 1/4th Y, 1/5th Y, 1/NN, 1/5th Y, 1/1st Y, 1/1st Y, 1/1st Y",
+            m_image : "'getlucky_mbass.png'",
+            mscore : "269397",
+            } 
+        },
 { value : "Ghost by Justin Bieber", 
             data : {
             shortname : "ghost",
@@ -6408,6 +6437,35 @@ const songs = [
             mscore : "178950",
             } 
         },
+{ value : "I Feel It Coming  by The Weeknd ft. Daft Punk", 
+            data : {
+            shortname : "ifeelitcoming",
+
+            dpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            d_image : "'ifeelitcoming_drums.png'",
+            dscore : "253728",
+
+            vpath : "1/3rd Y, 2/4th O, 1/4th G, 2/8th R, 1/1st GO, 1/5th O, 1/7th B",
+            v_image : "'ifeelitcoming_vocals.png'",
+            vscore : "155592",
+
+            gpath : "3/1st Y, 2/3rd RB, 1/1st GR, 1/2nd RO, 1/2nd RB, 1/1st GR",
+            g_image : "'ifeelitcoming_guitar.png'",
+            gscore : "215874",
+
+            bpath : "1/1st Y, 1/2nd R, 1/1st G, 1/NN, 1/1st G, 1/NN, 1/2nd R, 1/1st G",
+            b_image : "'ifeelitcoming_bass.png'",
+            bscore : "80262",
+
+            lpath : "3/1st Y, 2/4th B, 1/5th Y, 1/5th Y, 1/3rd B, 1/1st Y",
+            l_image : "'ifeelitcoming_lead.png'",
+            lscore : "164610",
+
+            mpath : "1/1st Y, 1/2nd R, 1/1st G, 1/NN, 1/1st G, 1/NN, 1/2nd R, 1/1st G",
+            m_image : "'ifeelitcoming_mbass.png'",
+            mscore : "79650",
+            } 
+        },
 { value : "if u think i'm pretty by Artemas", 
             data : {
             shortname : "ifuthinkimpretty",
@@ -6754,6 +6812,35 @@ const songs = [
             mpath : "1/13th G, 1/3rd G, 1/NN, 1/4th G, 1/NN, 1/NN, 1/NN, 1/2nd G, 1/NN",
             m_image : "'insaneinthebrain_mbass.png'",
             mscore : "109944",
+            } 
+        },
+{ value : "Instant Crush by Daft Punk ft. Julian Casablancas", 
+            data : {
+            shortname : "instantcrush",
+
+            dpath : "1/NN, 4(+1)/5th GY, 1/NN, 1/NN, 1/NN, 4(+1)/5th GY, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            d_image : "'instantcrush_drums.png'",
+            dscore : "466560",
+
+            vpath : "3/2nd O, 1/5th Y, 1/2nd Y, 4(+1)/5th Y, 2/1st Y, 1/5th Y",
+            v_image : "'instantcrush_vocals.png'",
+            vscore : "243087",
+
+            gpath : "1/NN, 1/NN, 1/NN, 4(+1)/2nd RY, 1/NN, 1/NN, 1/3rd B, 1/2nd GY, 1/2nd GY, 4(+1)/2.2 beats after 1st YB, 1/2nd GY, 1/2nd GY",
+            g_image : "'instantcrush_guitar.png'",
+            gscore : "277234",
+
+            bpath : "1/2nd G, 1/NN, 1/NN, 1/8th Y, 1/3rd Y, 1/3rd Y, 1/NN, 1/NN, 1/NN, 1/NN, 1/8th Y, 1/2nd B, 1/9th B, 1/1st O, 2/NN, 1/9th B, 1/1st O, 1/9th B",
+            b_image : "'instantcrush_bass.png'",
+            bscore : "283185",
+
+            lpath : "1/NN, 1/NN, 1/NN, 4(+1)/3rd GY, 1/NN, 1/NN, 1/4th R, 1/2nd GY, 1/2nd GY, 4(+1)/2.2 beats after 1st RB, 1/2nd GY, 1/2nd GY",
+            l_image : "'instantcrush_lead.png'",
+            lscore : "276706",
+
+            mpath : "1/2nd G, 1/NN, 1/NN, 1/8th Y, 1/3rd Y, 1/3rd Y, 1/NN, 1/NN, 1/NN, 1/NN, 1/8th Y, 1/3rd R, 1/7th B, 1/1st B, 2/NN, 1/7th B, 1/1st B, 1/7th B",
+            m_image : "'instantcrush_mbass.png'",
+            mscore : "283185",
             } 
         },
 { value : "Interstate Love Song by Stone Temple Pilots", 
@@ -12003,6 +12090,35 @@ const songs = [
             mpath : "1/2nd G, 1/NN, 1/9th O, 1/NN, 1/NN, 1/8th O, 1/12th B, 1/NN",
             m_image : "'stacysmom_mbass.png'",
             mscore : "155772",
+            } 
+        },
+{ value : "Starboy  by The Weeknd ft. Daft Punk", 
+            data : {
+            shortname : "starboy",
+
+            dpath : "1/1st RO, 1/1st RO, 1(+1)/6th RO, 1/1st RO, 1/1st RO, 1/1st RO, 1/1st RO, 1/1st RO",
+            d_image : "'starboy_drums.png'",
+            dscore : "125424",
+
+            vpath : "2/6th B, 1/7th GO, 1/4th G, 1/6th B, 1/NN, 1/12th Y, 1/6th B, 1/NN",
+            v_image : "'starboy_vocals.png'",
+            vscore : "227340",
+
+            gpath : "3/1st GR, 1/NN, 2/1st GR, 2(+1)/1st O",
+            g_image : "'starboy_guitar.png'",
+            gscore : "64821",
+
+            bpath : "1/NN, 1/NN, 1/2nd B, 1/NN, 1/NN, 2/NN, 1/3rd Y, 1/NN",
+            b_image : "'starboy_bass.png'",
+            bscore : "172932",
+
+            lpath : "3/1st GY, 1/NN, 2/1st GY, 2(+1)/1st O",
+            l_image : "'starboy_lead.png'",
+            lscore : "64821",
+
+            mpath : "1/NN, 1/NN, 1/2nd B, 1/NN, 1/NN, 2/NN, 1/3rd Y, 1/NN",
+            m_image : "'starboy_mbass.png'",
+            mscore : "172932",
             } 
         },
 { value : "Stargazing by Myles Smith", 
