@@ -3392,7 +3392,7 @@ const songs = [
             mscore : "53823",
             } 
         },
-{ value : "Crimson Barony  by Epic Games", 
+{ value : "Crimson Barony by Epic Games", 
             data : {
             shortname : "crimsonbarony",
 
@@ -4088,7 +4088,7 @@ const songs = [
             mscore : "109482",
             } 
         },
-{ value : "Dynamite by BTS ", 
+{ value : "Dynamite by BTS", 
             data : {
             shortname : "dynamite",
 
@@ -4233,7 +4233,7 @@ const songs = [
             mscore : "520941",
             } 
         },
-{ value : "Ella Baila Sola by Eslabon Armado, Peso Pluma ", 
+{ value : "Ella Baila Sola by Eslabon Armado, Peso Pluma", 
             data : {
             shortname : "ellabailasola",
 
@@ -4813,7 +4813,7 @@ const songs = [
             mscore : "106893",
             } 
         },
-{ value : "Fireball  by Pitbull ft. John Ryan", 
+{ value : "Fireball by Pitbull ft. John Ryan", 
             data : {
             shortname : "fireball",
 
@@ -4929,7 +4929,7 @@ const songs = [
             mscore : "95316",
             } 
         },
-{ value : "Flowers by Miley Cyrus ", 
+{ value : "Flowers by Miley Cyrus", 
             data : {
             shortname : "flowers",
 
@@ -5393,7 +5393,7 @@ const songs = [
             mscore : "122079",
             } 
         },
-{ value : "Get Lucky  by Daft Punk ft. Pharrell Williams and Nile Rodgers", 
+{ value : "Get Lucky by Daft Punk ft. Pharrell Williams and Nile Rodgers", 
             data : {
             shortname : "getlucky",
 
@@ -6437,7 +6437,7 @@ const songs = [
             mscore : "178950",
             } 
         },
-{ value : "I Feel It Coming  by The Weeknd ft. Daft Punk", 
+{ value : "I Feel It Coming by The Weeknd ft. Daft Punk", 
             data : {
             shortname : "ifeelitcoming",
 
@@ -8177,7 +8177,7 @@ const songs = [
             mscore : "245772",
             } 
         },
-{ value : "Magnetic by ILLIT ", 
+{ value : "Magnetic by ILLIT", 
             data : {
             shortname : "magnetic",
 
@@ -10120,7 +10120,7 @@ const songs = [
             mscore : "176904",
             } 
         },
-{ value : "Poker Face by Lady Gaga  ", 
+{ value : "Poker Face by Lady Gaga", 
             data : {
             shortname : "pokerface",
 
@@ -10758,7 +10758,7 @@ const songs = [
             mscore : "42120",
             } 
         },
-{ value : "Roses (Imanbek Remix) by SAINt JHN ", 
+{ value : "Roses (Imanbek Remix) by SAINt JHN", 
             data : {
             shortname : "roses",
 
@@ -12092,7 +12092,7 @@ const songs = [
             mscore : "155772",
             } 
         },
-{ value : "Starboy  by The Weeknd ft. Daft Punk", 
+{ value : "Starboy by The Weeknd ft. Daft Punk", 
             data : {
             shortname : "starboy",
 
