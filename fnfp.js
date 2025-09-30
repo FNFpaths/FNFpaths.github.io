@@ -5161,6 +5161,35 @@ const songs = [
             mscore : "178299",
             } 
         },
+{ value : "from me to u by BABYMETAL ft. Poppy", 
+            data : {
+            shortname : "frommetou",
+
+            dpath : "1/1st Y, 1/5th RO, 1/1st GO, 1/NN, 3(+1)/4th B, 1(+1)/5th B, 1/6th O, 1/2nd GO, 1/7th O, 1(+1)/28th O, 1/17th O, 1/13th O",
+            d_image : "'frommetou_drums.png'",
+            dscore : "250272",
+
+            vpath : "1/5th B, 1/NN, 1/1st R, 1/2 beats after 5th Y, 1/1st Y, 1/6th O, 1/5th B, 1/5th Y, 1/2 beats after 6th Y, 1/1st Y, 1/1st Y, 1/NN, 1/1st O, 1/4th B, 1/4th Y",
+            v_image : "'frommetou_vocals.png'",
+            vscore : "148926",
+
+            gpath : "4/5th R, 1/24th GR, 1(+1)/5th B, 1/1st RO, 2/5th RB, 1/1st B, 2/NN, 1/1st G, 1(+1)/15th GR",
+            g_image : "'frommetou_guitar.png'",
+            gscore : "275292",
+
+            bpath : "2/6th R, 1/2nd O, 1/NN, 3(+1)/16th Y, 1/12th Y, 1/8th O, 1/NN, 1/NN, 1/9th G, 1/NN, 1/13th G, 1/5th R",
+            b_image : "'frommetou_bass.png'",
+            bscore : "289620",
+
+            lpath : "4/5th G, 1/24th GY, 1(+1)/5th B, 1/1st RO, 2/5th RY, 1/1st B, 2/1st O, 1/1st Y, 1(+1)/15th GY",
+            l_image : "'frommetou_lead.png'",
+            lscore : "274752",
+
+            mpath : "2/2nd R, 1/2nd O, 1/NN, 3(+1)/16th Y, 1/11th Y, 1/8th O, 1/NN, 1/NN, 1/9th G, 1/NN, 1/13th G, 1/5th R",
+            m_image : "'frommetou_mbass.png'",
+            mscore : "289212",
+            } 
+        },
 { value : "FTCU by Nicki Minaj", 
             data : {
             shortname : "ftcu",
@@ -7624,6 +7653,35 @@ const songs = [
             mpath : "2/3rd B, 1/NN, 1/5th Y, 1/0.75 beats after 8th B, 1/NN, 2/3rd B, 1/NN",
             m_image : "'letitburn_mbass.png'",
             mscore : "74148",
+            } 
+        },
+{ value : "Let Me Hold You by Netsky & Hybrid Minds", 
+            data : {
+            shortname : "letmeholdyou",
+
+            dpath : "3(+1)/1st GO, 1/1st RY, 3/1st GO, 1/1st RY, 1/1st RY, 1(+1)/5th GO",
+            d_image : "'letmeholdyou_drums.png'",
+            dscore : "153768",
+
+            vpath : "2/5th R, 1/NN, 1/4th G, 1/3rd G, 1/3rd Y, 1/4th R, 1/2nd R, 1/6th G, 1/3rd G, 1/2nd G, 1/NN, 1/NN, 1/5th G",
+            v_image : "'letmeholdyou_vocals.png'",
+            vscore : "128388",
+
+            gpath : "1/1st RY, 1/NN, 4(+1)/1st GO, 4(+1)/1st GY, 1/NN, 1/NN",
+            g_image : "'letmeholdyou_guitar.png'",
+            gscore : "111408",
+
+            bpath : "2(+1)/1st Y, 2(+1)/1st Y, 1(+1)/1st Y",
+            b_image : "'letmeholdyou_bass.png'",
+            bscore : "46482",
+
+            lpath : "1/1st RY, 1/NN, 4(+1)/1st GO, 4(+1)/1st GB, 1/NN, 1/NN",
+            l_image : "'letmeholdyou_lead.png'",
+            lscore : "111408",
+
+            mpath : "2(+1)/1st Y, 2(+1)/1st Y, 1(+1)/1st Y",
+            m_image : "'letmeholdyou_mbass.png'",
+            mscore : "46482",
             } 
         },
 { value : "When I Let the Music Play by Epic Games", 
