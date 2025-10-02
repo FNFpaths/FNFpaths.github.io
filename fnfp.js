@@ -14851,29 +14851,29 @@ const songs = [
             data : {
             shortname : "whatsmyageagain",
 
-            dpath : "1/1st Y, 1/5th RO, 1/1st GO, 1/NN, 3(+1)/4th B, 1(+1)/5th B, 1/6th O, 1/2nd GO, 1/7th O, 1(+1)/28th O, 1/17th O, 1/13th O",
+            dpath : "1/1st RY, 2/1st RY, 1/2nd RB, 1/1st GO, 1/29th O, 1/1st RB, 1/1st RB",
             d_image : "'whatsmyageagain_drums.png'",
-            dscore : "250272",
+            dscore : "129456",
 
-            vpath : "1/5th B, 1/NN, 1/1st R, 1/2 beats after 5th Y, 1/1st Y, 1/6th O, 1/5th B, 1/5th Y, 1/2 beats after 6th Y, 1/1st Y, 1/1st Y, 1/NN, 1/1st O, 1/4th B, 1/4th Y",
+            vpath : "1/1 beats after 5th B, 1/4th G, 1/1 beats after 6th B, 1/2nd G, 1/1 beats after 3rd B, 1/1 beats after 5th B",
             v_image : "'whatsmyageagain_vocals.png'",
-            vscore : "148926",
+            vscore : "80322",
 
-            gpath : "4/5th R, 1/24th GR, 1(+1)/5th B, 1/1st RO, 2/5th RB, 1/1st B, 2/NN, 1/1st G, 1(+1)/15th GR",
+            gpath : "2/5th YB, 2/5th RB, 3/1st RB, 1/NN, 1/3rd YB",
             g_image : "'whatsmyageagain_guitar.png'",
-            gscore : "275292",
+            gscore : "158244",
 
-            bpath : "2/6th R, 1/2nd O, 1/NN, 3(+1)/16th Y, 1/12th Y, 1/8th O, 1/NN, 1/NN, 1/9th G, 1/NN, 1/13th G, 1/5th R",
+            bpath : "1/NN, 1/1 beats after 4th Y, 1/1st R, 1/NN, 1/NN, 1/15th O, 1/9th R, 1/29th B",
             b_image : "'whatsmyageagain_bass.png'",
-            bscore : "289620",
+            bscore : "157038",
 
-            lpath : "4/5th G, 1/24th GY, 1(+1)/5th B, 1/1st RO, 2/5th RY, 1/1st B, 2/1st O, 1/1st Y, 1(+1)/15th GY",
+            lpath : "2/5th RB, 2/5th GB, 3/1st GB, 1/NN, 1/3rd RB",
             l_image : "'whatsmyageagain_lead.png'",
-            lscore : "274752",
+            lscore : "146192",
 
-            mpath : "2/2nd R, 1/2nd O, 1/NN, 3(+1)/16th Y, 1/11th Y, 1/8th O, 1/NN, 1/NN, 1/9th G, 1/NN, 1/13th G, 1/5th R",
+            mpath : "1/NN, 1/1 beats after 4th Y, 1/1st R, 1/NN, 1/NN, 1/9th B, 1/9th R, 1/29th B",
             m_image : "'whatsmyageagain_mbass.png'",
-            mscore : "289212",
+            mscore : "157038",
             } 
         },
 { value : "WHATS POPPIN by Jack Harlow", 
