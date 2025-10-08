@@ -8100,7 +8100,7 @@ const songs = [
 
             vpath : "1/21st G, 1/3rd G, 1/7th G, 3/NN, 2/12th G, 1/5th G, 1/10th G, 1/2nd Y",
             v_image : "'luciddreams_vocals.png'",
-            vscore : "169260",
+            vscore : "170878",
 
             gpath : "1/1st GY, 1/1st GY, 1/9th R, 1/1st GY, 1/1st GY, 1/1st RB, 1/10th R, 1/9th R, 1/1st O, 1/1st GY, 1/1st GY",
             g_image : "'luciddreams_guitar.png'",
