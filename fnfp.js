@@ -202,6 +202,35 @@ const songs = [
             mscore : "174753",
             } 
         },
+{ value : "AAAHH MEN! by Doja Cat", 
+            data : {
+            shortname : "ahhhmen",
+
+            dpath : "1(+1)/1st GY, 3(+1)/13th GY, 2/3rd GY, 1/6th GB",
+            d_image : "'ahhhmen_drums.png'",
+            dscore : "200592",
+
+            vpath : "3/5th B, 1/2nd Y, 4(+1)/8th B, 1/NN",
+            v_image : "'ahhhmen_vocals.png'",
+            vscore : "172956",
+
+            gpath : "1/NN, 2(+1)/1st B, 1/NN, 2/1st B",
+            g_image : "'ahhhmen_guitar.png'",
+            gscore : "129408",
+
+            bpath : "1/14th Y, 2/2nd B, 1/1st R, 1/NN, 1/NN, 2(+1)/11th R, 1/25th R",
+            b_image : "'ahhhmen_bass.png'",
+            bscore : "127548",
+
+            lpath : "1/NN, 2(+1)/1st R, 1/NN, 2/1st R",
+            l_image : "'ahhhmen_lead.png'",
+            lscore : "129408",
+
+            mpath : "1/14th Y, 2/2nd B, 1/1st R, 1/NN, 1/NN, 2(+1)/6th Y, 1/25th R",
+            m_image : "'ahhhmen_mbass.png'",
+            mscore : "127548",
+            } 
+        },
 { value : "Ain't It Fun by Paramore", 
             data : {
             shortname : "aintitfun",
@@ -577,6 +606,35 @@ const songs = [
             mpath : "2(+1)/5th Y, 1/1st Y, 1/7th Y, 1/NN, 1/NN, 1/NN, 1/7th R, 1/7th O, 1/NN",
             m_image : "'americanidiot_mbass.png'",
             mscore : "160380",
+            } 
+        },
+{ value : "Another Life by Motionless In White", 
+            data : {
+            shortname : "anotherlife",
+
+            dpath : "1/NN, 2/1st RY, 1/4th GY, 1/NN, 1/3rd R, 1/10th R, 1/12th O, 1/16th O, 1/NN, 1/9th R, 1/15th O",
+            d_image : "'anotherlife_drums.png'",
+            dscore : "154944",
+
+            vpath : "2/2nd R, 1/1st R, 1/2nd O, 1/7th G, 1/NN, 1/1st R, 1/2nd B, 1/NN, 1/2nd Y, 1/1st R, 1/NN",
+            v_image : "'anotherlife_vocals.png'",
+            vscore : "110079",
+
+            gpath : "1/1st Y, 1/1st Y, 1/1st YO, 3/NN, 1/1st GR, 1/1st YO, 1/4th YO, 2(+1)/5th Y, 1/NN, 1/NN",
+            g_image : "'anotherlife_guitar.png'",
+            gscore : "219312",
+
+            bpath : "1/7th R, 4(+1)/9th B, 1/6th R, 1/6th R, 1/3rd R, 1/5th B, 1/5th B",
+            b_image : "'anotherlife_bass.png'",
+            bscore : "132009",
+
+            lpath : "1/NN, 1/NN, 1/1st RB, 3/NN, 1/1st GB, 1/1st RB, 1/4th RB, 2(+1)/5th Y, 1/NN, 1/NN",
+            l_image : "'anotherlife_lead.png'",
+            lscore : "214896",
+
+            mpath : "1/7th R, 4(+1)/9th B, 1/6th R, 1/6th R, 1/3rd R, 1/5th B, 1/5th B",
+            m_image : "'anotherlife_mbass.png'",
+            mscore : "131019",
             } 
         },
 { value : "Applause by Lady Gaga", 
@@ -2870,6 +2928,35 @@ const songs = [
             mscore : "129420",
             } 
         },
+{ value : "Champion by Fall Out Boy", 
+            data : {
+            shortname : "champion",
+
+            dpath : "1/NN, 2/1st RY, 1/NN, 1(+1)/13th RY, 1/3rd R",
+            d_image : "'champion_drums.png'",
+            dscore : "160992",
+
+            vpath : "1/8th Y, 2/7th Y, 1/NN, 2(+1)/8th G",
+            v_image : "'champion_vocals.png'",
+            vscore : "138414",
+
+            gpath : "3/2nd O, 2/5th O, 1/1st RB, 1/2nd RB, 1/2nd RB",
+            g_image : "'champion_guitar.png'",
+            gscore : "107970",
+
+            bpath : "1/6th R, 1/2nd G, 1/NN, 1/6th O, 1/NN, 1/5th R, 1/2.5 beats after 5th R",
+            b_image : "'champion_bass.png'",
+            bscore : "94761",
+
+            lpath : "3/2nd O, 2/5th O, 1/1st RB, 1/1st RO, 1/NN",
+            l_image : "'champion_lead.png'",
+            lscore : "103074",
+
+            mpath : "1/11th R, 1/2nd G, 1/NN, 1/6th O, 1/NN, 1/8th R, 1/2.5 beats after 5th R",
+            m_image : "'champion_mbass.png'",
+            mscore : "94761",
+            } 
+        },
 { value : "Change by Epic Games", 
             data : {
             shortname : "change",
@@ -4262,6 +4349,35 @@ const songs = [
             mscore : "241008",
             } 
         },
+{ value : "El Paletero by Epic Games", 
+            data : {
+            shortname : "elpaletero",
+
+            dpath : "1/15th RY, 1/NN, 1/NN, 1/NN, 1/1st RY, 1/4th GY, 1/NN, 1/7th RO",
+            d_image : "'elpaletero_drums.png'",
+            dscore : "185472",
+
+            vpath : "1/3rd Y, 2(+1)/6th O, 1/20th Y, 1/NN, 1(+1)/9th R",
+            v_image : "'elpaletero_vocals.png'",
+            vscore : "179316",
+
+            gpath : "2/1st RBO, 2(+1)/1st RYO, 1/NN, 1/19th Y, 1/29th G",
+            g_image : "'elpaletero_guitar.png'",
+            gscore : "192294",
+
+            bpath : "1/5th R, 1/2nd B, 2/2nd O, 1/NN, 1/1st O, 2/6th O",
+            b_image : "'elpaletero_bass.png'",
+            bscore : "76044",
+
+            lpath : "1(+1)/7th R, 2(+1)/1st RO, 2/7th G, 1/31st Y",
+            l_image : "'elpaletero_lead.png'",
+            lscore : "157252",
+
+            mpath : "1/5th R, 1/2nd B, 2/2nd O, 1/NN, 1/1st O, 2/6th O",
+            m_image : "'elpaletero_mbass.png'",
+            mscore : "75204",
+            } 
+        },
 { value : "emo girl by mgk ft. WILLOW", 
             data : {
             shortname : "emogirl",
@@ -5161,6 +5277,35 @@ const songs = [
             mscore : "178299",
             } 
         },
+{ value : "Friendly Fire by Epic Games", 
+            data : {
+            shortname : "friendlyfire",
+
+            dpath : "2/7th GY, 1/NN, 1/6th GY, 2/1st GO, 1/22nd Y, 1/NN, 1/NN, 1/22nd G",
+            d_image : "'friendlyfire_drums.png'",
+            dscore : "202032",
+
+            vpath : "2/1st R, 1/3rd Y, 1/4th Y, 1/5th Y, 1/NN, 1/7th B",
+            v_image : "'friendlyfire_vocals.png'",
+            vscore : "55359",
+
+            gpath : "3/1st YBO, 3(+1)/1st YBO, 3(+1)/1st G",
+            g_image : "'friendlyfire_guitar.png'",
+            gscore : "163293",
+
+            bpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/1st Y, 1/NN",
+            b_image : "'friendlyfire_bass.png'",
+            bscore : "220536",
+
+            lpath : "3/1st RO, 3(+1)/1st RO, 3(+1)/1st G",
+            l_image : "'friendlyfire_lead.png'",
+            lscore : "132858",
+
+            mpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            m_image : "'friendlyfire_mbass.png'",
+            mscore : "211248",
+            } 
+        },
 { value : "from me to u by BABYMETAL ft. Poppy", 
             data : {
             shortname : "frommetou",
@@ -5768,6 +5913,35 @@ const songs = [
             mpath : "2/3rd O, 1/NN, 2/16th O, 1/NN, 2(+1)/23rd O, 1/NN",
             m_image : "'goodluckbabe_mbass.png'",
             mscore : "170748",
+            } 
+        },
+{ value : "Gorgeous by Doja Cat", 
+            data : {
+            shortname : "gorgeous",
+
+            dpath : "1(+1)/5th GO, 2(+1)/4th GO, 1/6th Y, 1/3rd RY, 1/4th GY, 1/3rd GO",
+            d_image : "'gorgeous_drums.png'",
+            dscore : "311328",
+
+            vpath : "1/23rd Y, 2(+1)/14th R, 1/2nd G, 1/NN, 2(+1)/16th R",
+            v_image : "'gorgeous_vocals.png'",
+            vscore : "237450",
+
+            gpath : "1/1.5 beats after 3rd RO, 1/3rd RY, 1/After 2 beats, 2/1st G, 1/NN, 1/NN, 2/1st RB",
+            g_image : "'gorgeous_guitar.png'",
+            gscore : "106822",
+
+            bpath : "1/4th B, 1/8th B, 1/NN, 1/13th B, 1/1st B, 1/7th B, 1/10th B, 1/NN, 1/13th B",
+            b_image : "'gorgeous_bass.png'",
+            bscore : "124294",
+
+            lpath : "1/1.5 beats after 3rd RB, 1/3rd RY, 3/3.7 beats after 2nd RY, 1/NN, 1/NN, 2/1st GB",
+            l_image : "'gorgeous_lead.png'",
+            lscore : "105298",
+
+            mpath : "1/4th B, 1/8th B, 1/NN, 1/13th B, 1/1st B, 1/7th B, 1/10th B, 1/NN, 1/13th B",
+            m_image : "'gorgeous_mbass.png'",
+            mscore : "124294",
             } 
         },
 { value : "Go With The Flow by Queens of the Stone Age", 
@@ -6553,6 +6727,35 @@ const songs = [
             mscore : "164988",
             } 
         },
+{ value : "I Love Rock N Roll by Joan Jett & The Blackhearts", 
+            data : {
+            shortname : "iloverocknroll",
+
+            dpath : "1/NN, 1/3rd GY, 1/NN, 1/3rd GY, 1/NN, 1/1st Y, 1/NN",
+            d_image : "'iloverocknroll_drums.png'",
+            dscore : "142560",
+
+            vpath : "1/5th G, 2/11th B, 2/1st G, 1/2nd G",
+            v_image : "'iloverocknroll_vocals.png'",
+            vscore : "109404",
+
+            gpath : "1(+1)/5th YO, 4/3rd YO",
+            g_image : "'iloverocknroll_guitar.png'",
+            gscore : "98616",
+
+            bpath : "1/5th B, 1/10th O, 1/1st B, 1(+1)/6th B, 1/1st O",
+            b_image : "'iloverocknroll_bass.png'",
+            bscore : "66162",
+
+            lpath : "1(+1)/5th RO, 4/3rd RO",
+            l_image : "'iloverocknroll_lead.png'",
+            lscore : "97812",
+
+            mpath : "1(+1)/6th B, 1/3rd B, 1/2nd O, 1/8th O, 1/1st O",
+            m_image : "'iloverocknroll_mbass.png'",
+            mscore : "60333",
+            } 
+        },
 { value : "I'm a Winner by Epic Games", 
             data : {
             shortname : "imawinner",
@@ -6812,6 +7015,35 @@ const songs = [
             mpath : "2/14th G, 2(+1)/4th G, 1/9th G",
             m_image : "'inhamood_mbass.png'",
             mscore : "42513",
+            } 
+        },
+{ value : "In My Room by Julia Wolf", 
+            data : {
+            shortname : "inmyroom",
+
+            dpath : "1/5th RY, 1/1st O, 1/2nd GY, 1/4th RY, 1/1st GY, 1/1st GY, 1/6th GO, 1/NN",
+            d_image : "'inmyroom_drums.png'",
+            dscore : "123264",
+
+            vpath : "1/8th Y, 1/1st B, 1/3rd B, 1/2nd G, 1/3rd B, 1/1st Y, 1/4th Y, 1/2nd O, 1/6th Y, 1/5th R",
+            v_image : "'inmyroom_vocals.png'",
+            vscore : "94878",
+
+            gpath : "1/3rd GRB, 1/2nd YBO, 1/1st RY, 1/1st RY, 1/7th RY, 1/6th RY, 1/1st GRY, 1/2nd RY, 2/2nd RBO",
+            g_image : "'inmyroom_guitar.png'",
+            gscore : "215013",
+
+            bpath : "1(+1)/5th O, 1/2nd Y, 1/NN, 2/5th R, 1/NN",
+            b_image : "'inmyroom_bass.png'",
+            bscore : "85119",
+
+            lpath : "1/3rd GB, 1/4th RO, 1/1st RY, 1/1st RY, 1/5th RY, 1/3rd RB, 1/1st RY, 1/5th RY, 2/2nd RY",
+            l_image : "'inmyroom_lead.png'",
+            lscore : "166884",
+
+            mpath : "2/2nd O, 1/2nd Y, 1/NN, 2/5th R, 1/NN",
+            m_image : "'inmyroom_mbass.png'",
+            mscore : "83913",
             } 
         },
 { value : "Insane in the Brain by Cypress Hill", 
@@ -9685,6 +9917,35 @@ const songs = [
             mscore : "43902",
             } 
         },
+{ value : "On and On (Remix) by Epic Games", 
+            data : {
+            shortname : "onandonremix",
+
+            dpath : "1(+1)/1st GO, 2/5th Y, 1/2nd RY, 1/NN, 1/9th O, 1/NN, 1(+1)/4th RB, 1/NN",
+            d_image : "'onandonremix_drums.png'",
+            dscore : "218880",
+
+            vpath : "1/0.75 beats after 6th B, 1/NN, 1/3rd B, 1/2nd Y, 1/3rd G, 1/1st G, 1/NN, 1/3rd B, 1/3rd Y",
+            v_image : "'onandonremix_vocals.png'",
+            vscore : "82022",
+
+            gpath : "1(+1)/1st GR, 1/NN, 2/1st GR, 1/1st GR, 1/NN, 1/NN, 1/NN, 1/1st GR, 1/1st GR",
+            g_image : "'onandonremix_guitar.png'",
+            gscore : "281400",
+
+            bpath : "1/7th R, 1/4th O, 1/9th Y, 3(+1)/9th Y, 1/1st G, 1/NN, 2/1st R",
+            b_image : "'onandonremix_bass.png'",
+            bscore : "130380",
+
+            lpath : "1(+1)/1st RY, 1/NN, 2/1st RY, 1/1st RY, 1/NN, 1/NN, 1/NN, 1/1st RY, 1/1st RY",
+            l_image : "'onandonremix_lead.png'",
+            lscore : "281400",
+
+            mpath : "1/7th Y, 1/4th O, 1/9th Y, 3(+1)/11th R, 1/1st G, 1/NN, 2/1st R",
+            m_image : "'onandonremix_mbass.png'",
+            mscore : "129462",
+            } 
+        },
 { value : "One by Metallica", 
             data : {
             shortname : "one",
@@ -10671,6 +10932,35 @@ const songs = [
             mscore : "25332",
             } 
         },
+{ value : "Ride by Epic Games", 
+            data : {
+            shortname : "ride",
+
+            dpath : "2(+1)/3rd GB, 1/12th Y, 1/1st GB, 1/3rd O, 1/NN",
+            d_image : "'ride_drums.png'",
+            dscore : "181092",
+
+            vpath : "1(+1)/9th O, 1/11th B, 1(+1)/18th B, 1/1st R, 1/6th B",
+            v_image : "'ride_vocals.png'",
+            vscore : "184588",
+
+            gpath : "1/5th RB, 1/2nd GB, 1/1st GY, 1/NN, 1/2nd GB, 2/1st GY",
+            g_image : "'ride_guitar.png'",
+            gscore : "112094",
+
+            bpath : "1(+1)/3rd G, 1/NN, 1/1st O, 1/NN, 1/1st R",
+            b_image : "'ride_bass.png'",
+            bscore : "53685",
+
+            lpath : "1/5th RB, 1/2nd GB, 1/1st GB, 1/NN, 1/2nd GB, 2/1st GB",
+            l_image : "'ride_lead.png'",
+            lscore : "109070",
+
+            mpath : "1(+1)/3rd G, 1/NN, 1/1st O, 1/NN, 1/1st R",
+            m_image : "'ride_mbass.png'",
+            mscore : "53685",
+            } 
+        },
 { value : "Ride the Lightning by Metallica", 
             data : {
             shortname : "ridethelightning",
@@ -10814,6 +11104,35 @@ const songs = [
             mpath : "4(+1)/1st G, 1/NN, 1/1st R, 1/1st G",
             m_image : "'robbery_mbass.png'",
             mscore : "42120",
+            } 
+        },
+{ value : "Rocket Man by Elton John", 
+            data : {
+            shortname : "rocketman",
+
+            dpath : "1/6th RY, 1/3rd B, 1/1st RB, 1/1st RY, 1/7th RY, 1/1st RB, 1/8th B, 1/6th GB, 1/1st GB, 1/4th GB",
+            d_image : "'rocketman_drums.png'",
+            dscore : "156816",
+
+            vpath : "2(+1)/3rd G, 1/NN, 1/4th Y, 1/1st G, 2/NN, 1/6th Y, 1/2nd G, 1/2nd R, 1/NN, 1/2nd G",
+            v_image : "'rocketman_vocals.png'",
+            vscore : "139599",
+
+            gpath : "1/1st RYB, 1/1st GYB, 1/8th RB, 1/2nd GY, 1/3rd RB, 1/3rd Y, 1/4th GB, 1/2nd RB, 1/8th R, 1/11th R, 1/18th R, 1/NN, 1/1st RY",
+            g_image : "'rocketman_guitar.png'",
+            gscore : "264561",
+
+            bpath : "1/3rd G, 2/1st G, 1/1st G, 1/4th B, 1/NN, 1/3.2 beats after 5th Y, 1/4th B, 3/1st R",
+            b_image : "'rocketman_bass.png'",
+            bscore : "106851",
+
+            lpath : "1/2nd GO, 1/1st GO, 1/4th RY, 1/4th RB, 1/3rd RB, 1/4th RO, 1/NN, 1/1st RB, 1/1st GO, 1/2nd RY, 1/17th R, 1/NN, 1/1st GY",
+            l_image : "'rocketman_lead.png'",
+            lscore : "244596",
+
+            mpath : "1/3rd G, 2/1st G, 1/1st G, 1/4th B, 1/2nd O, 1/3.2 beats after 5th Y, 1/4th B, 3/1st R",
+            m_image : "'rocketman_mbass.png'",
+            mscore : "104619",
             } 
         },
 { value : "Roses (Imanbek Remix) by SAINt JHN", 
