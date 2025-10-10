@@ -10555,6 +10555,35 @@ const songs = [
             mscore : "65685",
             } 
         },
+{ value : "PPAP (Pen Pineapple Apple Pen) [Long Version] by Pikotaro", 
+            data : {
+            shortname : "ppap",
+
+            dpath : "1/1st GY, 1/NN, 1/1st GY, 2/1st GY, 1/NN",
+            d_image : "'ppap_drums.png'",
+            dscore : "102096",
+
+            vpath : "3/4th Y, 1/5th R, 1/1 beats after 3rd Y",
+            v_image : "'ppap_vocals.png'",
+            vscore : "52062",
+
+            gpath : "1/2nd O, 1(+1)/3rd Y",
+            g_image : "'ppap_guitar.png'",
+            gscore : "39370",
+
+            bpath : "1/NN, 1/NN, 3(+1)/NN",
+            b_image : "'ppap_bass.png'",
+            bscore : "94734",
+
+            lpath : "1/2nd O, 1(+1)/1st Y",
+            l_image : "'ppap_lead.png'",
+            lscore : "36786",
+
+            mpath : "1/NN, 1/NN, 3(+1)/NN",
+            m_image : "'ppap_mbass.png'",
+            mscore : "91764",
+            } 
+        },
 { value : "Into the Underworld by Epic Games", 
             data : {
             shortname : "predator",
