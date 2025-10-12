@@ -15224,6 +15224,35 @@ const songs = [
             mscore : "157038",
             } 
         },
+{ value : "What's New Scooby-Doo? by Simple Plan", 
+            data : {
+            shortname : "whatsnewscoobydoo",
+
+            dpath : "1/11th O, 3/3rd Y",
+            d_image : "'whatsnewscoobydoo_drums.png'",
+            dscore : "73152",
+
+            vpath : "1/4th Y, 1/10th R, 1/NN, 1/NN",
+            v_image : "'whatsnewscoobydoo_vocals.png'",
+            vscore : "46467",
+
+            gpath : "1(+1)/14th YB, 2/1st RB",
+            g_image : "'whatsnewscoobydoo_guitar.png'",
+            gscore : "63366",
+
+            bpath : "1/8th R, 3/1st R",
+            b_image : "'whatsnewscoobydoo_bass.png'",
+            bscore : "66249",
+
+            lpath : "1(+1)/14th RY, 2/1st RB",
+            l_image : "'whatsnewscoobydoo_lead.png'",
+            lscore : "63366",
+
+            mpath : "1/8th R, 3/1st R",
+            m_image : "'whatsnewscoobydoo_mbass.png'",
+            mscore : "65817",
+            } 
+        },
 { value : "WHATS POPPIN by Jack Harlow", 
             data : {
             shortname : "whatspoppin",
