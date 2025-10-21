@@ -9859,6 +9859,35 @@ const songs = [
             mscore : "66933",
             } 
         },
+{ value : "OIIA OIIA (Spinning Cat) by W&W", 
+            data : {
+            shortname : "oiiaoiia",
+
+            dpath : "1/33rd Y, 1/2nd GY, 1/NN, 2(+1)/17th Y, 1/NN",
+            d_image : "'oiiaoiia_drums.png'",
+            dscore : "162084",
+
+            vpath : "1(+1)/9th R, 1/NN, 3(+1)/21st R",
+            v_image : "'oiiaoiia_vocals.png'",
+            vscore : "169110",
+
+            gpath : "2(+1)/1st GY, 1/3rd B, 2/23rd R",
+            g_image : "'oiiaoiia_guitar.png'",
+            gscore : "59893",
+
+            bpath : "1/69th G, 1/10th G, 3(+1)/2nd G",
+            b_image : "'oiiaoiia_bass.png'",
+            bscore : "90065",
+
+            lpath : "2(+1)/1st GY, 1/3rd B, 2/23rd R",
+            l_image : "'oiiaoiia_lead.png'",
+            lscore : "59629",
+
+            mpath : "1/69th G, 1/10th G, 3(+1)/2nd G",
+            m_image : "'oiiaoiia_mbass.png'",
+            mscore : "89115",
+            } 
+        },
 { value : "OKI DOKI by Karol G", 
             data : {
             shortname : "okidoki",
@@ -11858,6 +11887,35 @@ const songs = [
             mpath : "1/6th Y, 1/4th Y, 1/2nd Y, 1/1st Y, 1/1st Y, 1/NN, 1/NN, 1/2nd Y, 1/NN, 1/2nd G",
             m_image : "'sexyback_mbass.png'",
             mscore : "66360",
+            } 
+        },
+{ value : "Shelter by Porter Robinson, Madeon", 
+            data : {
+            shortname : "shelter",
+
+            dpath : "2/2nd R, 1/43rd Y, 1/2nd GY, 1(+1)/18th Y, 1/10th RY",
+            d_image : "'shelter_drums.png'",
+            dscore : "205920",
+
+            vpath : "1/9th G, 1/8th R, 1/7th R, 1/2nd Y, 1/7th Y, 1/3rd G, 1/3rd G, 1/NN, 1/2nd G",
+            v_image : "'shelter_vocals.png'",
+            vscore : "145746",
+
+            gpath : "1/1st RYB, 1/6th Y, 2/NN, 2(+1)/1st BO, 1/5th YO, 1/1.1 beats after 1st GY",
+            g_image : "'shelter_guitar.png'",
+            gscore : "277584",
+
+            bpath : "2/2nd Y, 1/4th G, 1/1st R, 1/4th G, 1/2nd R, 1/4th R",
+            b_image : "'shelter_bass.png'",
+            bscore : "70926",
+
+            lpath : "1/4th GO, 1/6th G, 2/5th GO, 2(+1)/1st RO, 1/1st GY, 1/1.1 beats after 6th GB",
+            l_image : "'shelter_lead.png'",
+            lscore : "249568",
+
+            mpath : "2/2nd Y, 1/4th G, 1/1st R, 1/4th G, 1/2nd R, 1/4th R",
+            m_image : "'shelter_mbass.png'",
+            mscore : "70926",
             } 
         },
 { value : "Shivers by Ed Sheeran", 
