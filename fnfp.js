@@ -11895,7 +11895,7 @@ const songs = [
 
             dpath : "2/2nd R, 1/43rd Y, 1/2nd GY, 1(+1)/18th Y, 1/10th RY",
             d_image : "'shelter_drums.png'",
-            dscore : "205920",
+            dscore : "207936",
 
             vpath : "1/9th G, 1/8th R, 1/7th R, 1/2nd Y, 1/7th Y, 1/3rd G, 1/3rd G, 1/NN, 1/2nd G",
             v_image : "'shelter_vocals.png'",
