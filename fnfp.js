@@ -6635,7 +6635,7 @@ const songs = [
             l_image : "'idol_lead.png'",
             lscore : "170304",
 
-            mpath : "2/2nd B, 1/1st B, 1/9th R, 1/11th R, 2(+1)/7th B, 3/NN, 1/NN",
+            mpath : "2/2nd B, 1/1st B, 1/10th R, 1/11th R, 2(+1)/7th B, 3/NN, 1/NN",
             m_image : "'idol_mbass.png'",
             mscore : "178950",
             } 
