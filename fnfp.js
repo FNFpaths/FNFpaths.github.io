@@ -12092,6 +12092,35 @@ const songs = [
             mscore : "31779",
             } 
         },
+{ value : "The Simpsons Main Title Theme (non-union re-record) by Danny Elfman", 
+            data : {
+            shortname : "simpsonstheme",
+
+            dpath : "2/1st O, 1/12th Y, 1(+1)/NN",
+            d_image : "'simpsonstheme_drums.png'",
+            dscore : "75354",
+
+            vpath : "1/3rd Y, 1/4th O, 2/12th R, 1/3rd Y",
+            v_image : "'simpsonstheme_vocals.png'",
+            vscore : "93868",
+
+            gpath : "1/3rd R, 1/2nd RYB, 1/9th R, 1/2nd O, 1/NN",
+            g_image : "'simpsonstheme_guitar.png'",
+            gscore : "107884",
+
+            bpath : "2/2nd Y, 1/3rd Y, 1/NN, 1/11th R",
+            b_image : "'simpsonstheme_bass.png'",
+            bscore : "40320",
+
+            lpath : "1/1st Y, 1/1st O, 1/7th Y, 1/3rd O, 1/10th G",
+            l_image : "'simpsonstheme_lead.png'",
+            lscore : "89440",
+
+            mpath : "2/2nd Y, 1/3rd Y, 1/NN, 1/7th Y",
+            m_image : "'simpsonstheme_mbass.png'",
+            mscore : "40320",
+            } 
+        },
 { value : "Single Soon by Selena Gomez", 
             data : {
             shortname : "singlesoon",
