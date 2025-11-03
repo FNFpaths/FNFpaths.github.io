@@ -12092,7 +12092,7 @@ const songs = [
             mscore : "31779",
             } 
         },
-{ value : "The Simpsons Main Title Theme (non-union re-record) by Danny Elfman", 
+{ value : "The Simpsons Main Title Theme by Danny Elfman", 
             data : {
             shortname : "simpsonstheme",
 
