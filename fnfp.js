@@ -2615,7 +2615,7 @@ const songs = [
 
             dpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
             d_image : "'butterbarnhoedown_drums.png'",
-            dscore : "119952",
+            dscore : "122688",
 
             vpath : "1/2nd G, 1/5th Y, 1/3rd R, 2/NN, 1/3rd G",
             v_image : "'butterbarnhoedown_vocals.png'",
@@ -2629,9 +2629,9 @@ const songs = [
             b_image : "'butterbarnhoedown_bass.png'",
             bscore : "98136",
 
-            lpath : "1(+1)/6th R, 1/0.75 beats after 6th Y, 1/7th B, 1/NN, 1/2nd GO",
+            lpath : "1(+1)/8th R, 1/5th RY, 1(+1)/10th R, 1/NN, 1/2nd GO",
             l_image : "'butterbarnhoedown_lead.png'",
-            lscore : "96669",
+            lscore : "104325",
 
             mpath : "1/15th Y, 1/2nd G, 1/15th Y, 1/2nd G, 1/2nd Y, 1/NN",
             m_image : "'butterbarnhoedown_mbass.png'",
