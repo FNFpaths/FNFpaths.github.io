@@ -115,6 +115,35 @@ const songs = [
             mscore : "49554",
             } 
         },
+{ value : "The Abominable Frinkman by Epic Games", 
+            data : {
+            shortname : "abominablefrink",
+
+            dpath : "1/12th O, 1/5th O, 1/5th O, 1/1st GO, 1/15th O, 1/6th GO, 1/1st GO, 1/NN, 1/1st Y",
+            d_image : "'abominablefrink_drums.png'",
+            dscore : "129168",
+
+            vpath : "2/4th B, 1/NN, 1/9th Y, 1/10th Y, 1/21st Y, 1/7th Y, 1/5th B, 1/NN, 1/5th Y",
+            v_image : "'abominablefrink_vocals.png'",
+            vscore : "176790",
+
+            gpath : "2/4th RB, 4(+2)/12th B, 1/1st B, 1/22nd B",
+            g_image : "'abominablefrink_guitar.png'",
+            gscore : "139170",
+
+            bpath : "1/13th B, 2/4th Y, 1/NN, 1/3rd Y, 1/NN, 1/NN, 1/1st B, 1/NN, 1/NN",
+            b_image : "'abominablefrink_bass.png'",
+            bscore : "124272",
+
+            lpath : "2/4th GB, 4(+2)/12th B, 1/1st B, 1/22nd B",
+            l_image : "'abominablefrink_lead.png'",
+            lscore : "133914",
+
+            mpath : "1/13th B, 2/1st Y, 1/NN, 1/1st Y, 1/NN, 1/NN, 1/1st B, 1/NN, 1/NN",
+            m_image : "'abominablefrink_mbass.png'",
+            mscore : "124272",
+            } 
+        },
 { value : "Adam's Song by blink-182", 
             data : {
             shortname : "adamssong",
