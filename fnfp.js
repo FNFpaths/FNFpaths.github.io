@@ -2928,6 +2928,35 @@ const songs = [
             mscore : "82272",
             } 
         },
+{ value : "Celebrate Happy by Jonas Brothers", 
+            data : {
+            shortname : "celebratehappy",
+
+            dpath : "1/1st B, 1/1st RO, 1/16th O, 1/1st RO, 1/NN, 1/1st B, 1/16th O, 1/16th O",
+            d_image : "'celebratehappy_drums.png'",
+            dscore : "77904",
+
+            vpath : "2/1st O, 1/9th Y, 1/1st R, 1/1st O, 1/5th G, 1/9th Y, 1/1st R",
+            v_image : "'celebratehappy_vocals.png'",
+            vscore : "97482",
+
+            gpath : "1/3rd Y, 1/1st YO, 1/3rd O, 1/NN, 1/6th R, 1/1st O, 1/4th B",
+            g_image : "'celebratehappy_guitar.png'",
+            gscore : "56262",
+
+            bpath : "2/8th Y, 1/6th Y, 1/7th Y, 1/5th Y, 1/3 beats after 3rd G, 2/5th Y",
+            b_image : "'celebratehappy_bass.png'",
+            bscore : "84936",
+
+            lpath : "1/1st RY, 1/1st RB, 1/3rd O, 2/4 beats after 1st GB, 1/1st O, 1/7th R",
+            l_image : "'celebratehappy_lead.png'",
+            lscore : "51158",
+
+            mpath : "2(+1)/5th O, 1/7th Y, 1/6th Y, 1/3 beats after 3rd G, 2/5th Y",
+            m_image : "'celebratehappy_mbass.png'",
+            mscore : "83070",
+            } 
+        },
 { value : "Centuries by Fall Out Boy", 
             data : {
             shortname : "centuries",
@@ -8987,6 +9016,35 @@ const songs = [
             mpath : "1/6th R, 1/9th Y, 1/1st G, 1/11th Y, 1/6th R, 1/9th Y, 1/1st G, 3(+1)/15th R, 1/NN, 1/11th Y",
             m_image : "'miserybusiness_mbass.png'",
             mscore : "203238",
+            } 
+        },
+{ value : "The Monorail Song by The Simpsons", 
+            data : {
+            shortname : "monorailsong",
+
+            dpath : "2/1st GY",
+            d_image : "'monorailsong_drums.png'",
+            dscore : "36144",
+
+            vpath : "1/4th O, 1/NN, 1/5th R",
+            v_image : "'monorailsong_vocals.png'",
+            vscore : "39761",
+
+            gpath : "1/5th YO, 1/3.5 beats after 3rd YB, 1/1st GY",
+            g_image : "'monorailsong_guitar.png'",
+            gscore : "44196",
+
+            bpath : "3/3rd Y",
+            b_image : "'monorailsong_bass.png'",
+            bscore : "19752",
+
+            lpath : "1/4th GB, 1/3.5 beats after 3rd GB, 1/2nd GY",
+            l_image : "'monorailsong_lead.png'",
+            lscore : "40596",
+
+            mpath : "3/3rd Y",
+            m_image : "'monorailsong_mbass.png'",
+            mscore : "19752",
             } 
         },
 { value : "Monster by YOASOBI", 
