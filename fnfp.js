@@ -4291,6 +4291,35 @@ const songs = [
             mscore : "135774",
             } 
         },
+{ value : "EARFQUAKE by Tyler, The Creator", 
+            data : {
+            shortname : "earfquake",
+
+            dpath : "1/3rd RY, 1/2nd RY, 1/2nd RY, 1/1st RY, 1/1st RY, 1/5th RY, 1/4th RY, 1/NN",
+            d_image : "'earfquake_drums.png'",
+            dscore : "98208",
+
+            vpath : "1/4th R, 1/NN, 1/NN, 1/2nd B, 1/7th Y, 1/9th Y, 1/2nd Y, 1/1st Y, 1/1st GO, 1/4th O, 1/NN, 1/NN",
+            v_image : "'earfquake_vocals.png'",
+            vscore : "151479",
+
+            gpath : "3(+1)/4th B, 3/1st RB, 1/8th BO, 4/7th R",
+            g_image : "'earfquake_guitar.png'",
+            gscore : "160983",
+
+            bpath : "2/6th R, 1/2nd Y, 1/2nd Y, 1/1st Y, 1/1st Y, 1(+1)/3rd Y, 1/NN, 1/2nd Y",
+            b_image : "'earfquake_bass.png'",
+            bscore : "65907",
+
+            lpath : "3(+1)/4th B, 3/1st GB, 1/8th RO, 4/7th R",
+            l_image : "'earfquake_lead.png'",
+            lscore : "159021",
+
+            mpath : "2/6th R, 1/2nd Y, 1/2nd Y, 1/1st Y, 1/1st Y, 1(+1)/3rd Y, 1/NN, 1/2nd Y",
+            m_image : "'earfquake_mbass.png'",
+            mscore : "65907",
+            } 
+        },
 { value : "The Edge of Glory by Lady Gaga", 
             data : {
             shortname : "edgeofglory",
@@ -11191,6 +11220,35 @@ const songs = [
             mpath : "3/NN, 1/1st Y, 1(+1)/1st B, 3/NN",
             m_image : "'rightround_mbass.png'",
             mscore : "52929",
+            } 
+        },
+{ value : "Ring Ring Ring by Tyler, The Creator", 
+            data : {
+            shortname : "ringringring",
+
+            dpath : "1/4th GY, 1/6th RY, 2/4th GY, 1/9th GY, 1/6th RY, 2/4th GY, 2/5th G",
+            d_image : "'ringringring_drums.png'",
+            dscore : "179712",
+
+            vpath : "4(+2)/24th R, 2(+1)/38th R, 1/1st G, 1/8th B",
+            v_image : "'ringringring_vocals.png'",
+            vscore : "165390",
+
+            gpath : "1(+1)/1st G, 1/6th O, 2/0.5 beats after 4th Y, 1/1st BO, 1/6th O, 1/1st BO, 1/1st BO",
+            g_image : "'ringringring_guitar.png'",
+            gscore : "83524",
+
+            bpath : "1/6th G, 1/NN, 1(+1)/8th G, 1/1 beats after 6th R, 1/1st Y, 1(+1)/4th R, 1/1st O, 1/7th G",
+            b_image : "'ringringring_bass.png'",
+            bscore : "129925",
+
+            lpath : "1(+1)/3rd R, 1/6th O, 2(+1)/5th R, 1/6th O, 1/1st GB, 1/1st O",
+            l_image : "'ringringring_lead.png'",
+            lscore : "75516",
+
+            mpath : "1/2nd O, 1/1.7 beats after 2nd Y, 1(+1)/8th G, 1/1.7 beats after 1st Y, 1/1st R, 1(+1)/4th R, 1/1st O, 1/7th G",
+            m_image : "'ringringring_mbass.png'",
+            mscore : "121194",
             } 
         },
 { value : "Roar by Katy Perry", 
