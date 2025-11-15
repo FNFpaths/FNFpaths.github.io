@@ -12875,6 +12875,35 @@ const songs = [
             mscore : "67116",
             } 
         },
+{ value : "Sticky by Tyler, The Creator", 
+            data : {
+            shortname : "sticky",
+
+            dpath : "3/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/3rd GO, 1/9th RB, 1/7th RB, 1/1st O, 1/16th RB",
+            d_image : "'sticky_drums.png'",
+            dscore : "137376",
+
+            vpath : "1/4th Y, 1/4th Y, 1/2nd G, 1/5th B, 1/2nd B, 1/3rd Y, 1/NN, 1/9th R, 1/NN, 1/2nd G, 1/5th G, 1/NN, 1/9th R, 1/19th Y, 1/NN, 1/NN, 1/11th Y",
+            v_image : "'sticky_vocals.png'",
+            vscore : "229194",
+
+            gpath : "1/4th B, 1/NN, 1/2nd R, 1/2nd GR, 3/NN, 1(+1)/8th B, 1/NN, 2/1st RYO",
+            g_image : "'sticky_guitar.png'",
+            gscore : "104226",
+
+            bpath : "1/2nd R, 1/2nd R, 1/1st R, 1(+1)/4th R, 1/3rd R",
+            b_image : "'sticky_bass.png'",
+            bscore : "28023",
+
+            lpath : "1/4th Y, 1/NN, 1/2nd G, 1/1st G, 3/NN, 1/NN, 1/1st RO, 1/1st RY, 1/2nd R, 1/2nd B",
+            l_image : "'sticky_lead.png'",
+            lscore : "93834",
+
+            mpath : "1/2nd R, 1/2nd R, 1/1st R, 1(+1)/4th R, 1/3rd R",
+            m_image : "'sticky_mbass.png'",
+            mscore : "28023",
+            } 
+        },
 { value : "Still Into You by Paramore", 
             data : {
             shortname : "stillintoyou",
