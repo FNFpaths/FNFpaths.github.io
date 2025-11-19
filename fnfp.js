@@ -144,6 +144,35 @@ const songs = [
             mscore : "124272",
             } 
         },
+{ value : "ACELERADA by sma$her & MXZI", 
+            data : {
+            shortname : "acelerada",
+
+            dpath : "1/12th O, 2/NN",
+            d_image : "'acelerada_drums.png'",
+            dscore : "13248",
+
+            vpath : "1/11th B, 1/8th O, 1/NN",
+            v_image : "'acelerada_vocals.png'",
+            vscore : "48015",
+
+            gpath : "1/5th O, 1/1st O, 1/10th Y",
+            g_image : "'acelerada_guitar.png'",
+            gscore : "29520",
+
+            bpath : "2(+1)/5th B",
+            b_image : "'acelerada_bass.png'",
+            bscore : "25626",
+
+            lpath : "1/5th O, 1/1st O, 1/15th G",
+            l_image : "'acelerada_lead.png'",
+            lscore : "29520",
+
+            mpath : "2(+1)/5th B",
+            m_image : "'acelerada_mbass.png'",
+            mscore : "25626",
+            } 
+        },
 { value : "Adam's Song by blink-182", 
             data : {
             shortname : "adamssong",
