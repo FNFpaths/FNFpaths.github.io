@@ -7742,6 +7742,35 @@ const songs = [
             mscore : "121374",
             } 
         },
+{ value : "LA CHONA by LOS TUCANES DE TIJUANA", 
+            data : {
+            shortname : "lachona",
+
+            dpath : "1/7th G, 3/8th G, 1/NN, 1/NN, 1/49th G, 1/NN, 1/NN, 1/13th G",
+            d_image : "'lachona_drums.png'",
+            dscore : "135792",
+
+            vpath : "1/5th B, 1/4th R, 2/6th B, 1/NN, 1/5th B, 1/3rd R",
+            v_image : "'lachona_vocals.png'",
+            vscore : "140076",
+
+            gpath : "1/1st GO, 1/1st GB, 1/1st GO, 1/NN, 1/1st GO, 1/1st RY, 1/1st RY, 1/1st GO, 2/1st GO",
+            g_image : "'lachona_guitar.png'",
+            gscore : "151080",
+
+            bpath : "1/5th R, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/3rd B, 1/1st Y, 1/NN",
+            b_image : "'lachona_bass.png'",
+            bscore : "168840",
+
+            lpath : "1/1st GO, 1/1st GB, 1/1st GO, 1/NN, 1/1st GO, 1/1st RY, 1/1st RY, 1/1st GO, 2/1st GO",
+            l_image : "'lachona_lead.png'",
+            lscore : "151080",
+
+            mpath : "1/5th Y, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/3rd B, 1/1st B, 1/NN",
+            m_image : "'lachona_mbass.png'",
+            mscore : "168840",
+            } 
+        },
 { value : "Lapti Nek (Jabba's Palace) by John Williams & The London Symphony Orchestra", 
             data : {
             shortname : "laptinek",
@@ -8146,6 +8175,35 @@ const songs = [
             mpath : "2/4th Y, 1/NN, 1/NN, 1/NN, 1/NN",
             m_image : "'likeag6_mbass.png'",
             mscore : "65928",
+            } 
+        },
+{ value : "like JENNIE by JENNIE", 
+            data : {
+            shortname : "likejennie",
+
+            dpath : "1/2nd RO, 1/NN, 1/2nd GY, 1/4th RO, 1/NN, 1/2nd GY, 1/1st GY",
+            d_image : "'likejennie_drums.png'",
+            dscore : "113616",
+
+            vpath : "2/1st R, 1/7th R, 1/1st R, 1/9th R, 1/NN",
+            v_image : "'likejennie_vocals.png'",
+            vscore : "120483",
+
+            gpath : "1/5th RO, 1/6th RO, 1/6th RO, 1/NN, 1/NN, 1/6th RO, 1/3rd RO",
+            g_image : "'likejennie_guitar.png'",
+            gscore : "75744",
+
+            bpath : "1(+1)/6th G, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            b_image : "'likejennie_bass.png'",
+            bscore : "95577",
+
+            lpath : "1/5th RO, 1/6th RO, 1/6th RO, 1/NN, 1/NN, 1/6th RO, 1/3rd RO",
+            l_image : "'likejennie_lead.png'",
+            lscore : "75744",
+
+            mpath : "1(+1)/6th G, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            m_image : "'likejennie_mbass.png'",
+            mscore : "95577",
             } 
         },
 { value : "Limitless (Murda Beatz Remix) by Epic Games ft. Murda Beatz", 
