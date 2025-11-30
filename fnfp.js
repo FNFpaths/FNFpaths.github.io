@@ -2870,6 +2870,35 @@ const songs = [
             mscore : "126351",
             } 
         },
+{ value : "Can't Stop Me by Hits Over Time", 
+            data : {
+            shortname : "cantstopme",
+
+            dpath : "1/1st RY, 1/1st GO, 1/2nd RY, 1/3rd RY, 1/4th O, 2/1st GO, 1/1st RO",
+            d_image : "'cantstopme_drums.png'",
+            dscore : "146736",
+
+            vpath : "1/6th Y, 1/3rd G, 1/9th G, 1/4th B, 1/3rd G, 1/2nd R, 1/4th Y, 1/4th O",
+            v_image : "'cantstopme_vocals.png'",
+            vscore : "128952",
+
+            gpath : "1/NN, 2/4th R, 3/NN, 1/6th GY, 1/3rd RO, 1/NN",
+            g_image : "'cantstopme_guitar.png'",
+            gscore : "140724",
+
+            bpath : "1(+1)/16th B, 2(+1)/9th B, 1/6th B, 1/3rd B",
+            b_image : "'cantstopme_bass.png'",
+            bscore : "83493",
+
+            lpath : "1/NN, 2/4th R, 3/NN, 1/6th GY, 1/6th GO, 1/NN",
+            l_image : "'cantstopme_lead.png'",
+            lscore : "137916",
+
+            mpath : "1(+1)/16th B, 2(+1)/9th B, 1/6th B, 1/3rd B",
+            m_image : "'cantstopme_mbass.png'",
+            mscore : "83493",
+            } 
+        },
 { value : "Can't Stop The Feeling! by Justin Timberlake", 
             data : {
             shortname : "cantstopthefeeling",
@@ -3769,6 +3798,35 @@ const songs = [
             mscore : "119466",
             } 
         },
+{ value : "dashstar* VIP by Knock2", 
+            data : {
+            shortname : "dashstar",
+
+            dpath : "1/25th Y, 1/NN, 1/13th G, 1/3rd G, 1/NN",
+            d_image : "'dashstar_drums.png'",
+            dscore : "96912",
+
+            vpath : "2/9th B, 2/8th Y, 1/1st R, 1/1st Y, 1/2nd G",
+            v_image : "'dashstar_vocals.png'",
+            vscore : "94041",
+
+            gpath : "3(+1)/7th Y, 1/1st GR, 2/3rd R",
+            g_image : "'dashstar_guitar.png'",
+            gscore : "72768",
+
+            bpath : "2(+1)/5th B, 1/3rd Y, 1/NN, 1/NN",
+            b_image : "'dashstar_bass.png'",
+            bscore : "74337",
+
+            lpath : "3(+1)/7th R, 1/1st GY, 2/1st R",
+            l_image : "'dashstar_lead.png'",
+            lscore : "72768",
+
+            mpath : "2(+1)/5th R, 1/5th Y, 1/NN, 1/NN",
+            m_image : "'dashstar_mbass.png'",
+            mscore : "74337",
+            } 
+        },
 { value : "Day 'N' Nite by Kid Cudi", 
             data : {
             shortname : "daynnite",
@@ -4581,6 +4639,35 @@ const songs = [
             mscore : "178020",
             } 
         },
+{ value : "Enemy by Imagine Dragons, JID, Arcane", 
+            data : {
+            shortname : "enemy",
+
+            dpath : "2(+1)/8th GY, 3(+1)/8th GY, 3(+1)/3rd RY",
+            d_image : "'enemy_drums.png'",
+            dscore : "154224",
+
+            vpath : "1/3rd R, 1/2nd B, 1/2nd G, 4(+1)/2nd O, 1/2nd O, 1/3rd B, 1/13th R",
+            v_image : "'enemy_vocals.png'",
+            vscore : "170301",
+
+            gpath : "1(+1)/13th YB, 1/NN, 1/1st YB, 1/NN, 1/NN, 1(+1)/1st YB, 1/NN, 1/NN, 1/NN",
+            g_image : "'enemy_guitar.png'",
+            gscore : "126249",
+
+            bpath : "3(+1)/6th Y, 1/2nd Y, 1/NN, 1/NN, 1/After 0.082 beats",
+            b_image : "'enemy_bass.png'",
+            bscore : "38442",
+
+            lpath : "1(+1)/13th RB, 1/NN, 1/1st RB, 1/NN, 1/NN, 1(+1)/1st RB, 1/NN, 1/NN, 1/NN",
+            l_image : "'enemy_lead.png'",
+            lscore : "125193",
+
+            mpath : "3(+1)/6th Y, 1/2nd Y, 1/NN, 1/NN, 1/After 0.082 beats",
+            m_image : "'enemy_mbass.png'",
+            mscore : "38058",
+            } 
+        },
 { value : "Enter Sandman by Metallica", 
             data : {
             shortname : "entersandman",
@@ -4782,6 +4869,35 @@ const songs = [
             mpath : "4(+1)/13th R, 1/6th R, 1/NN, 1/NN, 1/NN",
             m_image : "'fallguys_mbass.png'",
             mscore : "95019",
+            } 
+        },
+{ value : "Fancy Feet (Remix) by Epic Games", 
+            data : {
+            shortname : "fancyfeet",
+
+            dpath : "1/1st O, 1/3rd GY, 1/3rd GY, 1/1st GY, 2/1st RY, 1/1st RY, 1/11th GY",
+            d_image : "'fancyfeet_drums.png'",
+            dscore : "108288",
+
+            vpath : "2/1st GB, 1/9th G, 1/NN, 3/1st G",
+            v_image : "'fancyfeet_vocals.png'",
+            vscore : "191916",
+
+            gpath : "2/8th RB, 2(+1)/2nd RO, 2/NN",
+            g_image : "'fancyfeet_guitar.png'",
+            gscore : "122592",
+
+            bpath : "3/3rd G, 1/5th Y, 3/1st R, 1/3rd B",
+            b_image : "'fancyfeet_bass.png'",
+            bscore : "106092",
+
+            lpath : "2/7th RB, 2(+1)/2nd RB, 2/NN",
+            l_image : "'fancyfeet_lead.png'",
+            lscore : "115452",
+
+            mpath : "3/3rd G, 1/5th Y, 3/1st R, 1/3rd B",
+            m_image : "'fancyfeet_mbass.png'",
+            mscore : "104508",
             } 
         },
 { value : "Fat Lip by Sum 41", 
@@ -5538,6 +5654,35 @@ const songs = [
             mscore : "17448",
             } 
         },
+{ value : "FUTW (Vixi Solo Version) by LISA", 
+            data : {
+            shortname : "futw",
+
+            dpath : "1/17th Y, 1/4th GB, 1/11th Y, 1/6th Y, 1/3rd Y, 1/4th GB, 1/3rd Y, 1/38th Y, 1/2nd GY, 1/6th GB",
+            d_image : "'futw_drums.png'",
+            dscore : "182736",
+
+            vpath : "2/17th R, 1/NN, 1/3rd B, 4/3rd B, 1/2nd RO, 1/12th B, 1/13th O",
+            v_image : "'futw_vocals.png'",
+            vscore : "184188",
+
+            gpath : "1/NN, 1/NN, 1/NN, 1/7th R, 1/NN, 2/5th R, 1/1st GB, 1/1st R, 1/NN, 1/NN",
+            g_image : "'futw_guitar.png'",
+            gscore : "105162",
+
+            bpath : "4(+1)/4th G, 2/3rd R, 1/1st R, 1/4th R",
+            b_image : "'futw_bass.png'",
+            bscore : "65391",
+
+            lpath : "1/NN, 1/NN, 1/NN, 1/7th R, 1/NN, 2/5th R, 2/1st R, 1/NN, 1/1st G",
+            l_image : "'futw_lead.png'",
+            lscore : "101634",
+
+            mpath : "4(+1)/4th G, 2/3rd Y, 1/1st Y, 1/4th Y",
+            m_image : "'futw_mbass.png'",
+            mscore : "65346",
+            } 
+        },
 { value : "Gangnam Style by PSY", 
             data : {
             shortname : "gangnamstyle",
@@ -5652,6 +5797,35 @@ const songs = [
             mpath : "2/3rd Y, 1/2nd RO, 4/7th RY, 1/2nd Y, 1/NN",
             m_image : "'gethimback_mbass.png'",
             mscore : "92460",
+            } 
+        },
+{ value : "Get Jiggy by B Jack$, ZEDDY WILL", 
+            data : {
+            shortname : "getjiggy",
+
+            dpath : "1/5th O, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            d_image : "'getjiggy_drums.png'",
+            dscore : "46080",
+
+            vpath : "1(+1)/7th B, 1/4th Y, 1/8th R, 1/2nd Y, 1/NN, 1/NN",
+            v_image : "'getjiggy_vocals.png'",
+            vscore : "140352",
+
+            gpath : "1/3rd YB, 1/NN, 1/6th YB, 1/NN, 1/3rd YB, 1/6th YB, 1/6th YB",
+            g_image : "'getjiggy_guitar.png'",
+            gscore : "130032",
+
+            bpath : "2/7th R, 1/NN, 1/NN",
+            b_image : "'getjiggy_bass.png'",
+            bscore : "28638",
+
+            lpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            l_image : "'getjiggy_lead.png'",
+            lscore : "112176",
+
+            mpath : "2/7th R, 1/NN, 1/NN",
+            m_image : "'getjiggy_mbass.png'",
+            mscore : "28638",
             } 
         },
 { value : "Get Low by Lil Jon & The East Side Boyz ft. Ying Yang Twins", 
@@ -8177,6 +8351,35 @@ const songs = [
             mscore : "128868",
             } 
         },
+{ value : "Lights, Camera, Action by Epic Games", 
+            data : {
+            shortname : "lightscameraaction",
+
+            dpath : "1/3rd GY, 2/1st RB, 1/11th RO, 1/NN, 2/3rd RO",
+            d_image : "'lightscameraaction_drums.png'",
+            dscore : "144720",
+
+            vpath : "1/8th R, 1/NN, 1/1st G, 1/1st B, 1/NN, 1/6th G, 1/NN",
+            v_image : "'lightscameraaction_vocals.png'",
+            vscore : "127872",
+
+            gpath : "1/10th R, 1/6th YO, 1/NN, 1/NN, 1/6th YO, 1/1st GB, 1/NN",
+            g_image : "'lightscameraaction_guitar.png'",
+            gscore : "156346",
+
+            bpath : "1/9th G, 1/3rd G, 1/13th R, 1/NN, 1/5th O, 1(+1)/1st G",
+            b_image : "'lightscameraaction_bass.png'",
+            bscore : "122988",
+
+            lpath : "1/12th R, 1/6th RB, 1(+1)/1st RO, 1/6th RB, 1/1st GB, 1/NN",
+            l_image : "'lightscameraaction_lead.png'",
+            lscore : "154536",
+
+            mpath : "1/4th B, 1/3rd G, 1/13th R, 1/NN, 1/14th Y, 1(+1)/1st G",
+            m_image : "'lightscameraaction_mbass.png'",
+            mscore : "120348",
+            } 
+        },
 { value : "Like A G6 by Far East Movement ft. The Cataracs & DEV", 
             data : {
             shortname : "likeag6",
@@ -9596,6 +9799,35 @@ const songs = [
             mpath : "1/2nd G, 1/5th R, 1/NN, 1/7th R, 1/NN, 1/NN, 1/12th R, 1/3rd O, 1/2nd O, 1/NN",
             m_image : "'nevergonnagiveyouup_mbass.png'",
             mscore : "227880",
+            } 
+        },
+{ value : "New Woman by LISA ft. ROSALÍA", 
+            data : {
+            shortname : "newwoman",
+
+            dpath : "1/1st RB, 1/1st RB, 1/6th RB, 1/1st RB, 2(+1)/1st GO, 1/5th RB, 1/2nd RB",
+            d_image : "'newwoman_drums.png'",
+            dscore : "156384",
+
+            vpath : "3(+1)/3rd Y, 4(+1)/7th Y, 1/7th B",
+            v_image : "'newwoman_vocals.png'",
+            vscore : "171540",
+
+            gpath : "3/19th O, 1/6th O, 3(+1)/1st BO, 1/9th O",
+            g_image : "'newwoman_guitar.png'",
+            gscore : "153624",
+
+            bpath : "1/2nd R, 1/2nd R, 1/2nd R, 1/2nd R, 2/NN, 1/2nd R, 1/2nd R",
+            b_image : "'newwoman_bass.png'",
+            bscore : "147960",
+
+            lpath : "3/19th O, 1/6th O, 3(+1)/1st RO, 1/9th O",
+            l_image : "'newwoman_lead.png'",
+            lscore : "153624",
+
+            mpath : "1/2nd Y, 1/2nd Y, 1/2nd Y, 1/2nd Y, 2/NN, 1/2nd Y, 1/2nd Y",
+            m_image : "'newwoman_mbass.png'",
+            mscore : "147960",
             } 
         },
 { value : "Next Semester by Twenty One Pilots", 
@@ -11077,6 +11309,35 @@ const songs = [
             mscore : "99135",
             } 
         },
+{ value : "Ready For It by Epic Games", 
+            data : {
+            shortname : "readyforit",
+
+            dpath : "2/1st B, 1/2nd GB, 1(+1)/6th B, 1/1st GO, 1/1st GO",
+            d_image : "'readyforit_drums.png'",
+            dscore : "150192",
+
+            vpath : "1/0.75 beats after 8th R, 1/2nd Y, 1/3rd B, 1/3rd Y, 1/4th R, 1/10th Y",
+            v_image : "'readyforit_vocals.png'",
+            vscore : "84732",
+
+            gpath : "2/NN, 2(+1)/11th G, 2/3rd G",
+            g_image : "'readyforit_guitar.png'",
+            gscore : "106500",
+
+            bpath : "2(+1)/2nd R, 2(+1)/2nd R, 1/NN",
+            b_image : "'readyforit_bass.png'",
+            bscore : "182196",
+
+            lpath : "2/NN, 2(+1)/12th G, 2/3rd G",
+            l_image : "'readyforit_lead.png'",
+            lscore : "102552",
+
+            mpath : "2(+1)/2nd R, 2(+1)/2nd R, 1/NN",
+            m_image : "'readyforit_mbass.png'",
+            mscore : "182196",
+            } 
+        },
 { value : "Star Wars Main Title Theme/March of the Resistance (Fortnite Rearrangement) by John Williams & The London Symphony Orchestra", 
             data : {
             shortname : "rebelsrun",
@@ -11162,6 +11423,35 @@ const songs = [
             mpath : "1/4th B, 1/4th B, 1/4th B, 1/4th B, 1/4th B, 1/NN, 1/4th B",
             m_image : "'regulate_mbass.png'",
             mscore : "122124",
+            } 
+        },
+{ value : "Repeated Story by Hits Over Time", 
+            data : {
+            shortname : "repeatedstory",
+
+            dpath : "2/17th R, 1(+1)/9th GY, 4(+1)/18th Y, 1/2nd GY",
+            d_image : "'repeatedstory_drums.png'",
+            dscore : "175536",
+
+            vpath : "1/11th R, 1/3rd O, 1/4th R, 1/NN, 2/4th Y, 1/After 1.1 beats, 1/2nd O, 1/7th R, 1/NN",
+            v_image : "'repeatedstory_vocals.png'",
+            vscore : "120846",
+
+            gpath : "3(+1)/14th R, 1/26th Y, 3(+1)/14th R, 1/4th R, 1/8th R",
+            g_image : "'repeatedstory_guitar.png'",
+            gscore : "163740",
+
+            bpath : "3(+1)/1st G, 1/3rd Y, 1/NN, 1/NN, 1/2nd Y",
+            b_image : "'repeatedstory_bass.png'",
+            bscore : "56187",
+
+            lpath : "3(+1)/14th B, 1/24th R, 3(+1)/14th B, 1/4th Y, 1/9th Y",
+            l_image : "'repeatedstory_lead.png'",
+            lscore : "163740",
+
+            mpath : "3(+1)/5th Y, 1/3rd Y, 1/NN, 1/NN, 1/2nd Y",
+            m_image : "'repeatedstory_mbass.png'",
+            mscore : "54681",
             } 
         },
 { value : "Replay by Iyaz", 
@@ -11423,6 +11713,35 @@ const songs = [
             mpath : "1/3rd G, 2/1st G, 1/1st G, 1/4th B, 1/2nd O, 1/3.2 beats after 5th Y, 1/4th B, 3/1st R",
             m_image : "'rocketman_mbass.png'",
             mscore : "104619",
+            } 
+        },
+{ value : "Rockstar by LISA", 
+            data : {
+            shortname : "rockstar",
+
+            dpath : "1/1st GB, 1/3rd GB, 1/NN, 3/2nd GB, 1/NN",
+            d_image : "'rockstar_drums.png'",
+            dscore : "133632",
+
+            vpath : "1/12th R, 2/1 beats after 8th G, 1/12th R, 1/9th Y, 1/9th Y, 1/NN, 1/19th R",
+            v_image : "'rockstar_vocals.png'",
+            vscore : "119940",
+
+            gpath : "1/NN, 1/NN, 1/3rd O, 1/NN, 1/NN, 1/NN, 1/11th G, 1/NN",
+            g_image : "'rockstar_guitar.png'",
+            gscore : "77580",
+
+            bpath : "2/NN, 4(+1)/3rd R, 1/5th B",
+            b_image : "'rockstar_bass.png'",
+            bscore : "35835",
+
+            lpath : "1/NN, 1/NN, 1/3rd O, 1/NN, 1/NN, 1/NN, 1/11th G, 1/NN",
+            l_image : "'rockstar_lead.png'",
+            lscore : "77580",
+
+            mpath : "2/NN, 4(+1)/3rd G, 1/5th B",
+            m_image : "'rockstar_mbass.png'",
+            mscore : "31875",
             } 
         },
 { value : "Roses (Imanbek Remix) by SAINt JHN", 
@@ -12672,6 +12991,35 @@ const songs = [
             mscore : "78048",
             } 
         },
+{ value : "Sorry by Justin Bieber", 
+            data : {
+            shortname : "sorry",
+
+            dpath : "2(+1)/1st GB, 2(+1)/1st GB",
+            d_image : "'sorry_drums.png'",
+            dscore : "143568",
+
+            vpath : "1/1st R, 1/4th R, 1/NN, 1/1st R, 1/1st R, 1/NN, 1/NN, 1/1st R",
+            v_image : "'sorry_vocals.png'",
+            vscore : "135180",
+
+            gpath : "1/4th GY, 1/2nd GY, 1/NN, 1/3rd GY, 1/NN, 1/1st GY",
+            g_image : "'sorry_guitar.png'",
+            gscore : "56064",
+
+            bpath : "1/5th GY, 2(+1)/1st GY, 1/NN, 1/NN",
+            b_image : "'sorry_bass.png'",
+            bscore : "138672",
+
+            lpath : "1/4th GY, 1/2nd GY, 1/NN, 1/3rd GY, 1/NN, 1/1st GY",
+            l_image : "'sorry_lead.png'",
+            lscore : "56064",
+
+            mpath : "1/5th GY, 2(+1)/1st GY, 1/NN, 1/NN",
+            m_image : "'sorry_mbass.png'",
+            mscore : "138672",
+            } 
+        },
 { value : "Sour 'n Sweet by Epic Games", 
             data : {
             shortname : "sournsweet",
@@ -13395,6 +13743,35 @@ const songs = [
             mpath : "3(+1)/1st R, 1/1st G, 1/8th R, 4(+1)/8th R, 1/6th R, 1/5th R",
             m_image : "'surroundsound_mbass.png'",
             mscore : "103125",
+            } 
+        },
+{ value : "Survive the Night by Epic Games", 
+            data : {
+            shortname : "survivethenight",
+
+            dpath : "1/1st RB, 1/NN, 1/3rd R, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/1st R, 1/NN, 1/NN, 1/NN, 1/19th O, 1/7th Y",
+            d_image : "'survivethenight_drums.png'",
+            dscore : "231048",
+
+            vpath : "2(+1)/1st B, 2/3rd B",
+            v_image : "'survivethenight_vocals.png'",
+            vscore : "48312",
+
+            gpath : "1/2nd Y, 2(+1)/6th G, 1/3rd G, 4/1st G, 2/3rd B, 1/3rd GR, 1/NN, 1/11th B, 1/8th Y",
+            g_image : "'survivethenight_guitar.png'",
+            gscore : "230520",
+
+            bpath : "1/22nd G, 1/25th R, 1/NN, 1/2nd B, 1/NN, 4/NN, 1/3rd G, 1/4th B, 1/4th G, 1/18th G, 1/NN, 1/NN",
+            b_image : "'survivethenight_bass.png'",
+            bscore : "171564",
+
+            lpath : "1/3rd O, 2(+1)/8th Y, 1/3rd G, 4/1st G, 2/2nd Y, 1/NN, 1/NN, 2/11th Y",
+            l_image : "'survivethenight_lead.png'",
+            lscore : "223860",
+
+            mpath : "1/22nd G, 1/25th R, 1/NN, 1/2nd B, 1/NN, 4/NN, 1/3rd G, 1/4th B, 1/4th G, 1/18th G, 1/NN, 1/NN",
+            m_image : "'survivethenight_mbass.png'",
+            mscore : "171564",
             } 
         },
 { value : "Sweet Child O' Mine by Guns N' Roses", 
