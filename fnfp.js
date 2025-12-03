@@ -7858,6 +7858,35 @@ const songs = [
             mscore : "255366",
             } 
         },
+{ value : "Kill Bill by SZA", 
+            data : {
+            shortname : "killbill",
+
+            dpath : "1/3rd RY, 1/4th GY, 2/3rd RY, 1/4th GY",
+            d_image : "'killbill_drums.png'",
+            dscore : "89856",
+
+            vpath : "2/2nd G, 1/NN, 1/6th G, 1/NN",
+            v_image : "'killbill_vocals.png'",
+            vscore : "117468",
+
+            gpath : "1/2nd O, 3(+1)/6th O",
+            g_image : "'killbill_guitar.png'",
+            gscore : "66059",
+
+            bpath : "1/7th Y, 1/NN, 1/2nd B, 1/7th Y, 1/NN",
+            b_image : "'killbill_bass.png'",
+            bscore : "49305",
+
+            lpath : "2/1.7 beats after 1st G, 2/9th Y, 1/NN",
+            l_image : "'killbill_lead.png'",
+            lscore : "55155",
+
+            mpath : "1/6th Y, 1/NN, 1/2nd B, 1/5th Y, 1/NN",
+            m_image : "'killbill_mbass.png'",
+            mscore : "45420",
+            } 
+        },
 { value : "Killing In The Name by Rage Against The Machine", 
             data : {
             shortname : "killinginthename",
