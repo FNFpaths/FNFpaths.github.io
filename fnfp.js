@@ -11346,9 +11346,9 @@ const songs = [
             d_image : "'readyforit_drums.png'",
             dscore : "150192",
 
-            vpath : "1/0.75 beats after 8th R, 1/2nd Y, 1/3rd B, 1/3rd Y, 1/4th R, 1/10th Y",
+            vpath : "1/0.75 beats after 8th R, 1/NN, 1/3rd B, 1/3rd Y, 1/4th R, 1/10th R, 1/2nd Y",
             v_image : "'readyforit_vocals.png'",
-            vscore : "84732",
+            vscore : "97146",
 
             gpath : "2/NN, 2(+1)/11th G, 2/3rd G",
             g_image : "'readyforit_guitar.png'",
