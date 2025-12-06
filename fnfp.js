@@ -14768,7 +14768,7 @@ const songs = [
             d_image : "'thesearch_drums.png'",
             dscore : "80928",
 
-            vpath : "1/15th R, 1/13th G, 3(+1)/18th R, 2/5th B, 1/1st Y",
+            vpath : "1/15th Y, 1/11th G, 3(+1)/12th R, 2/5th B, 1/1st Y",
             v_image : "'thesearch_vocals.png'",
             vscore : "264006",
 
