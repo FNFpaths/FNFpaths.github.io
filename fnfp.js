@@ -4755,6 +4755,35 @@ const songs = [
             mscore : "260136",
             } 
         },
+{ value : "EVIL J0RDAN by Playboi Carti", 
+            data : {
+            shortname : "eviljordan",
+
+            dpath : "1/1st GY, 1/2nd RY, 1/NN, 1/6th G, 1/6th GY, 1/2nd RY, 1/NN, 1/6th G",
+            d_image : "'eviljordan_drums.png'",
+            dscore : "134928",
+
+            vpath : "1/4th B, 1/9th B, 2(+1)/8th Y, 1/5th B",
+            v_image : "'eviljordan_vocals.png'",
+            vscore : "91752",
+
+            gpath : "2/4th RY, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            g_image : "'eviljordan_guitar.png'",
+            gscore : "56916",
+
+            bpath : "3(+1)/9th R, 1(+1)/11th R, 1/6th R, 1/2nd R",
+            b_image : "'eviljordan_bass.png'",
+            bscore : "49635",
+
+            lpath : "2/4th RO, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            l_image : "'eviljordan_lead.png'",
+            lscore : "56916",
+
+            mpath : "3(+1)/9th Y, 1(+1)/11th Y, 1/6th Y, 1/2nd Y",
+            m_image : "'eviljordan_mbass.png'",
+            mscore : "49635",
+            } 
+        },
 { value : "Eye of the Storm by Epic Games", 
             data : {
             shortname : "eyeofthestorm",
@@ -10062,6 +10091,35 @@ const songs = [
             mscore : "97071",
             } 
         },
+{ value : "No One Noticed by The Marías", 
+            data : {
+            shortname : "noonenoticed",
+
+            dpath : "1/NN, 1/NN, 3(+1)/12th RY, 1/7th GY, 1/5th GY, 1/2nd RB",
+            d_image : "'noonenoticed_drums.png'",
+            dscore : "197856",
+
+            vpath : "1/15th GO, 4(+1)/13th GB, 1/13th RY, 1/1st GO",
+            v_image : "'noonenoticed_vocals.png'",
+            vscore : "172965",
+
+            gpath : "1/NN, 1/NN, 3(+1)/6th Y, 1/NN, 3/4th G",
+            g_image : "'noonenoticed_guitar.png'",
+            gscore : "110808",
+
+            bpath : "2/1st R, 1/NN, 1/NN, 1/NN, 1/NN",
+            b_image : "'noonenoticed_bass.png'",
+            bscore : "10455",
+
+            lpath : "1/NN, 1/NN, 3(+1)/5th R, 1/NN, 3/5th R",
+            l_image : "'noonenoticed_lead.png'",
+            lscore : "108864",
+
+            mpath : "2/1st R, 1/NN, 1/NN, 1/NN, 1/NN",
+            m_image : "'noonenoticed_mbass.png'",
+            mscore : "10455",
+            } 
+        },
 { value : "No Scrubs by TLC", 
             data : {
             shortname : "noscrubs",
@@ -12757,6 +12815,35 @@ const songs = [
             mpath : "1/7th B, 1/3rd G, 1/NN, 4(+1)/2nd G, 1/6th Y, 1/3rd B, 1/2nd B, 1/NN, 1/NN",
             m_image : "'sizzlinsunshine_mbass.png'",
             mscore : "223452",
+            } 
+        },
+{ value : "Sky by Playboi Carti", 
+            data : {
+            shortname : "sky",
+
+            dpath : "1/NN, 1/1st GY, 1/1st GY, 1/NN, 1/1st GY, 1/1st GY, 1/NN, 1/1st GY",
+            d_image : "'sky_drums.png'",
+            dscore : "202320",
+
+            vpath : "1/12th B, 2/NN, 1/1st O, 1/14th B, 1/10th B, 1/4th R, 1/9th G, 1(+1)/30th B",
+            v_image : "'sky_vocals.png'",
+            vscore : "156132",
+
+            gpath : "1/4th GYB, 1/NN, 1/NN, 1/NN, 1/NN, 1/1st RBO, 1/NN, 1/NN, 1/NN, 1/NN",
+            g_image : "'sky_guitar.png'",
+            gscore : "194547",
+
+            bpath : "2/9th Y, 1/1st Y, 1/1st Y, 1/3rd Y, 1/3rd Y, 1/1st Y, 1/3rd Y",
+            b_image : "'sky_bass.png'",
+            bscore : "73989",
+
+            lpath : "1/4th GB, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            l_image : "'sky_lead.png'",
+            lscore : "137634",
+
+            mpath : "2/9th Y, 1/1st Y, 1/1st Y, 1/3rd Y, 1/3rd Y, 1/1st Y, 1/3rd Y",
+            m_image : "'sky_mbass.png'",
+            mscore : "73989",
             } 
         },
 { value : "Sky Surfer (Neon Rush Remix) by Epic Games", 
