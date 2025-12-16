@@ -10526,6 +10526,35 @@ const songs = [
             mscore : "500124",
             } 
         },
+{ value : "One More Time by Daft Punk", 
+            data : {
+            shortname : "onemoretime",
+
+            dpath : "1/NN, 1/NN, 1/12th GY, 1/NN, 1/NN, 1/NN, 1/NN, 3(+1)/12th GY, 1/NN, 1/NN, 1/NN",
+            d_image : "'onemoretime_drums.png'",
+            dscore : "356688",
+
+            vpath : "1/10th B, 1/4th B, 1/9th B, 1/2nd G, 1/5th B, 1/5th R, 1/2nd O, 1/12th Y, 1/8th Y, 1/7th Y, 1/NN, 1/3rd Y, 1/3rd Y",
+            v_image : "'onemoretime_vocals.png'",
+            vscore : "170226",
+
+            gpath : "1(+1)/8th RB, 1/4th GY, 1/NN, 1/4th RB, 1/2nd GY, 1/1st GY, 1/1st RYB, 1/NN, 1/NN, 1/NN, 1/NN, 1/2nd GRB, 1/NN, 1/3rd GY, 1/NN, 1/3rd GY",
+            g_image : "'onemoretime_guitar.png'",
+            gscore : "197214",
+
+            bpath : "1/3rd O, 1/NN, 1/NN, 1/NN, 1/NN, 1/2nd O, 1/1st O, 1/NN, 1/NN, 1/NN, 4/After 2.2 beats, 1/3rd O, 1/NN, 1/1st O",
+            b_image : "'onemoretime_bass.png'",
+            bscore : "163257",
+
+            lpath : "1(+1)/8th RB, 1/4th GY, 1/NN, 1/4th RB, 1/2nd GY, 1/1st GY, 1/NN, 1/NN, 4(+1)/2nd RB, 1/3rd GY, 1/NN, 1/3rd GY",
+            l_image : "'onemoretime_lead.png'",
+            lscore : "178350",
+
+            mpath : "1/3rd O, 1/NN, 1/NN, 1/NN, 1/NN, 1/2nd O, 1/1st O, 1/NN, 1/NN, 1/NN, 4/After 2.2 beats, 1/3rd O, 1/NN, 1/1st O",
+            m_image : "'onemoretime_mbass.png'",
+            mscore : "162933",
+            } 
+        },
 { value : "On Melancholy Hill by Gorillaz", 
             data : {
             shortname : "onmelancholyhill",
