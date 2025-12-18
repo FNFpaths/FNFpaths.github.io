@@ -6756,6 +6756,35 @@ const songs = [
             mscore : "218421",
             } 
         },
+{ value : "Just A Holiday in Battlewood by Epic Games", 
+            data : {
+            shortname : "holidayinbattlewood",
+
+            dpath : "1/6th O, 1/NN, 1/6th O, 1/13th R, 1/8th GB, 3(+1)/3rd O, 2/1st GB, 1/NN, 1/NN",
+            d_image : "'holidayinbattlewood_drums.png'",
+            dscore : "119952",
+
+            vpath : "4/NN, 1/2nd R, 1/1st GY, 3(+1)/2nd B, 1/3rd B, 1/3rd B, 1/1st GY",
+            v_image : "'holidayinbattlewood_vocals.png'",
+            vscore : "130710",
+
+            gpath : "1/1st G, 1/NN, 4/2nd RY, 2(+1)/15th G, 1/3rd G, 1/2nd RB, 1/1st RB, 1/2nd GY, 1/1st RO",
+            g_image : "'holidayinbattlewood_guitar.png'",
+            gscore : "182282",
+
+            bpath : "2(+1)/8th B, 2/NN, 3(+1)/7th G, 1/2nd B, 1/3rd Y, 1/1st B",
+            b_image : "'holidayinbattlewood_bass.png'",
+            bscore : "120648",
+
+            lpath : "1/1st G, 1/NN, 4/1st RY, 2(+1)/15th G, 1/3rd G, 1/1st RY, 1/1st RY, 1/4th G, 1/1st RO",
+            l_image : "'holidayinbattlewood_lead.png'",
+            lscore : "169310",
+
+            mpath : "2(+1)/8th R, 2/NN, 3(+1)/7th G, 1/2nd B, 1/3rd Y, 1/1st B",
+            m_image : "'holidayinbattlewood_mbass.png'",
+            mscore : "120648",
+            } 
+        },
 { value : "Hollaback Girl by Gwen Stefani", 
             data : {
             shortname : "hollabackgirl",
