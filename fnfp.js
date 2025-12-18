@@ -9076,6 +9076,35 @@ const songs = [
             mscore : "126603",
             } 
         },
+{ value : "Manchild by Sabrina Carpenter", 
+            data : {
+            shortname : "manchild",
+
+            dpath : "1/NN, 1/9th GY, 1/11th GY, 1/1st RO, 1/NN, 1/11th GY, 1/20th Y, 1/10th RY, 1/11th GY, 1/NN, 1/36th Y",
+            d_image : "'manchild_drums.png'",
+            dscore : "220320",
+
+            vpath : "1/9th Y, 1/1st G, 1/6th B, 1/0.5 beats after 4th B, 1/7th B, 1/2nd B, 1/3rd Y, 1/NN, 1/4th B, 1/2nd B, 1/4th G",
+            v_image : "'manchild_vocals.png'",
+            vscore : "129084",
+
+            gpath : "3(+1)/1st GRY, 2/5th YO, 1/NN, 1/6th RB, 1/1st Y, 1/2nd RY, 1/NN",
+            g_image : "'manchild_guitar.png'",
+            gscore : "216616",
+
+            bpath : "2/NN, 1/38th Y, 1/2nd Y, 1/14th Y, 1/26th Y, 2/2nd Y, 1/NN, 1/17th Y",
+            b_image : "'manchild_bass.png'",
+            bscore : "224226",
+
+            lpath : "3(+1)/6th GY, 2/5th RO, 1/1st B, 1/6th GB, 1/1st Y, 1/1st RY, 1/NN",
+            l_image : "'manchild_lead.png'",
+            lscore : "191088",
+
+            mpath : "2/NN, 1/39th R, 1/NN, 1/14th R, 1/27th R, 2/1st R, 1/NN, 1/17th R",
+            m_image : "'manchild_mbass.png'",
+            mscore : "218484",
+            } 
+        },
 { value : "Maps by Maroon 5", 
             data : {
             shortname : "maps",
@@ -12989,6 +13018,35 @@ const songs = [
             mpath : "1/8th B, 4(+1)/5th RB, 4(+1)/4th Y, 1/17th RO, 1/13th RO, 1/17th RO, 1/5th GY",
             m_image : "'snow_mbass.png'",
             mscore : "499047",
+            } 
+        },
+{ value : "SnowMix♪ by Marasy ft. Hatsune Miku", 
+            data : {
+            shortname : "snowmix",
+
+            dpath : "1/NN, 1/8th Y, 1/10th O, 2(+1)/4th GO, 1/2nd RY, 1/8th R, 1/4th R, 1/2nd GY, 1/2nd GY, 1/28th O, 1/1st Y, 1/5th RY, 1/12th O, 1/4th Y, 1/9th R, 1/1st RY",
+            d_image : "'snowmix_drums.png'",
+            dscore : "283392",
+
+            vpath : "1(+1)/6th B, 1/4th B, 1/3rd G, 1/1st Y, 1/2nd G, 1/4th Y, 1/6th Y, 1/NN, 1/2nd Y, 1/3rd G, 1/1st O, 1/NN, 1/3rd Y",
+            v_image : "'snowmix_vocals.png'",
+            vscore : "144192",
+
+            gpath : "4/NN, 1/1st GO, 1/NN, 1/1st YB, 1/1st YB, 3(+1)/4th G, 2/2nd O, 2/3rd G, 2/2nd G, 1/3rd G",
+            g_image : "'snowmix_guitar.png'",
+            gscore : "325792",
+
+            bpath : "1/12th B, 2/2nd O, 3(+1)/7th B, 1/1st Y, 1/NN, 4(+1)/1st G",
+            b_image : "'snowmix_bass.png'",
+            bscore : "220860",
+
+            lpath : "4/NN, 1/1st GB, 1/NN, 1/1st RO, 1/1st RO, 2(+1)/1st O, 1/1st RO, 2/2nd O, 2/3rd G, 2/3rd Y, 1/4th Y",
+            l_image : "'snowmix_lead.png'",
+            lscore : "313976",
+
+            mpath : "1/13th B, 2/2nd O, 1/2nd G, 2/3rd G, 1/3rd R, 1/NN, 1/NN, 4(+1)/1st G",
+            m_image : "'snowmix_mbass.png'",
+            mscore : "216864",
             } 
         },
 { value : "Somebody That I Used To Know by Gotye ft. Kimbra", 
