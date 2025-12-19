@@ -14064,6 +14064,35 @@ const songs = [
             mscore : "141951",
             } 
         },
+{ value : "Sweet Victory by David Glen Eisley, Bob Kulick", 
+            data : {
+            shortname : "sweetvictory2",
+
+            dpath : "1/3rd GB, 1/4th G, 1/3rd RY, 1/NN, 1/NN, 1/4th RB, 1/4th GO, 1/1st GO, 1/6th GB, 1/1st GO",
+            d_image : "'sweetvictory2_drums.png'",
+            dscore : "145296",
+
+            vpath : "1/7th B, 1/4th Y, 1/NN, 1/4.1 beats after 1st O, 1/5th B, 1/1st B, 1/6th B, 1/3rd O, 1/NN, 1/7th R",
+            v_image : "'sweetvictory2_vocals.png'",
+            vscore : "96432",
+
+            gpath : "1/1st RYB, 1/6th R, 1/2nd G, 1/2nd RY, 2/1st RYB, 1/1st YO, 1/1st RY, 1/4th Y, 1/7th G, 1/2nd O, 1/13th R",
+            g_image : "'sweetvictory2_guitar.png'",
+            gscore : "171198",
+
+            bpath : "1/7th O, 1/3rd O, 2/3rd G, 1/NN, 1/3rd O, 1/6th B, 1/2.7 beats after 1st B, 2/4th R",
+            b_image : "'sweetvictory2_bass.png'",
+            bscore : "114612",
+
+            lpath : "1/3rd GB, 1/6th G, 1/2nd G, 1/2nd GO, 2/1st GB, 1/1st RO, 1/1st GO, 1/2nd Y, 1/8th G, 1/2nd O, 1/9th G",
+            l_image : "'sweetvictory2_lead.png'",
+            lscore : "162844",
+
+            mpath : "1/7th O, 1/3rd O, 2/3rd G, 1/NN, 1/3rd O, 1/5th B, 1/2.7 beats after 1st B, 2/4th R",
+            m_image : "'sweetvictory2_mbass.png'",
+            mscore : "114153",
+            } 
+        },
 { value : "Swim Free by Epic Games", 
             data : {
             shortname : "swimfree",
