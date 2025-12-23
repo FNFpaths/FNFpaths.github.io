@@ -14934,6 +14934,35 @@ const songs = [
             mscore : "53280",
             } 
         },
+{ value : "The Power Of Love by Huey Lewis & The News", 
+            data : {
+            shortname : "thepoweroflove",
+
+            dpath : "1/5th RY, 1/2nd RY, 1/NN, 1/1st GO, 1/6th RY, 1/NN, 1/1st RB, 1/NN, 1/NN, 1/11th RY, 1/NN, 1/NN, 1/NN",
+            d_image : "'thepoweroflove_drums.png'",
+            dscore : "244080",
+
+            vpath : "2/3rd R, 1/2nd O, 2/5th B, 1/2nd O, 1/2nd R, 1/7th B, 1/NN",
+            v_image : "'thepoweroflove_vocals.png'",
+            vscore : "104541",
+
+            gpath : "3(+1)/4th YB, 1/9th YB, 1/1st RO, 3(+1)/1st BO, 1/NN, 1/3rd YB",
+            g_image : "'thepoweroflove_guitar.png'",
+            gscore : "258600",
+
+            bpath : "3(+1)/5th O, 1/9th Y, 1/NN, 1/NN, 3(+1)/7th Y, 1/NN",
+            b_image : "'thepoweroflove_bass.png'",
+            bscore : "213192",
+
+            lpath : "3(+1)/4th RB, 1/9th RB, 1/4th RO, 3(+1)/11th RO, 1/NN, 1/3rd RB",
+            l_image : "'thepoweroflove_lead.png'",
+            lscore : "254596",
+
+            mpath : "3(+1)/5th O, 1/9th Y, 1/NN, 1/NN, 3(+1)/7th Y, 1/NN",
+            m_image : "'thepoweroflove_mbass.png'",
+            mscore : "213192",
+            } 
+        },
 { value : "The Pretender by Foo Fighters", 
             data : {
             shortname : "thepretender",
