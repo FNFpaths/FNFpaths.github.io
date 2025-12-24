@@ -6437,6 +6437,35 @@ const songs = [
             mscore : "228420",
             } 
         },
+{ value : "Head Shot / Gas In The Truck by iShowSpeed", 
+            data : {
+            shortname : "headshot",
+
+            dpath : "2/4th RY, 1/NN, 3(+1)/8th RY, 1/1st GY, 1/3rd GY, 1/3rd GY, 2/3rd RY, 1/1st GY, 1/13th GY, 1/11th GY, 1/3rd RY",
+            d_image : "'headshot_drums.png'",
+            dscore : "303696",
+
+            vpath : "1/5th Y, 1/NN, 1/17th Y, 1/5th B, 2/2nd B, 1/NN, 1/4th O, 4(+1)/2nd Y, 1/2nd R, 1/9th R, 1/9th B",
+            v_image : "'headshot_vocals.png'",
+            vscore : "204414",
+
+            gpath : "1/7th Y, 1/2nd GRY, 3(+1)/1st RBO, 3/1st B, 1/NN, 4(+1)/7 beats after 1st GY, 1/NN",
+            g_image : "'headshot_guitar.png'",
+            gscore : "138596",
+
+            bpath : "3/1st Y, 1/4th R, 1/2nd R, 2/1st G, 1/1st G, 1/1st R, 1/1st R, 2/1st G, 1/NN, 1/3rd R, 1/1st R, 1/1st R",
+            b_image : "'headshot_bass.png'",
+            bscore : "121842",
+
+            lpath : "1/7th Y, 1/2nd GY, 3(+1)/1st GO, 3/1st B, 1/NN, 4(+1)/7 beats after 1st GY, 1/NN",
+            l_image : "'headshot_lead.png'",
+            lscore : "128516",
+
+            mpath : "3/1st Y, 1/NN, 1/2nd R, 2/1st G, 1/1st G, 1/1st R, 1/1st R, 2/1st G, 1/NN, 1/3rd R, 1/1st R, 1/1st R",
+            m_image : "'headshot_mbass.png'",
+            mscore : "119547",
+            } 
+        },
 { value : "Heartbreaker by Pat Benatar", 
             data : {
             shortname : "heartbreaker",
