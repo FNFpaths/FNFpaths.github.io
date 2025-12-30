@@ -1768,6 +1768,35 @@ const songs = [
             mscore : "106602",
             } 
         },
+{ value : "Black Diamond by Stratovarius", 
+            data : {
+            shortname : "blackdiamond",
+
+            dpath : "1/NN, 1/NN, 3(+1)/4th B, 1/3rd R, 2(+1)/5th GO, 1/NN, 3/6th Y, 1/1st RB, 1/NN, 1/NN, 1/NN",
+            d_image : "'blackdiamond_drums.png'",
+            dscore : "396864",
+
+            vpath : "3(+1)/3rd R, 1/2nd B, 1/NN, 2/NN, 1/1st RY, 1/1st GY, 1/3rd G, 1/2.1 beats after 2nd R, 1/2nd G, 1/1st O, 1/1st O",
+            v_image : "'blackdiamond_vocals.png'",
+            vscore : "127554",
+
+            gpath : "1(+1)/3rd YO, 1/NN, 1/2nd GY, 1/1st GY, 2/NN, 1/1st YO, 3(+1)/52nd G, 1/4th R, 1/18th B, 2/2nd YO, 1/NN, 1/NN, 1/1st YO, 1/1st YO, 1/NN, 1/6th G",
+            g_image : "'blackdiamond_guitar.png'",
+            gscore : "458856",
+
+            bpath : "1/19th Y, 1/NN, 4(+1)/7th R, 4(+1)/28th B, 1/2nd O, 1/2nd Y, 1/NN, 1/NN, 1/NN, 1/NN, 1/1st B, 1/2nd O",
+            b_image : "'blackdiamond_bass.png'",
+            bscore : "577263",
+
+            lpath : "1(+1)/3rd RO, 1/NN, 1/2nd GB, 1/1st GB, 2/NN, 1/1st RO, 3(+1)/12th B, 1/3rd Y, 1/15th B, 2/2nd RO, 1/NN, 1/NN, 1/1st RO, 1/1st RO, 1/NN, 1/6th G",
+            l_image : "'blackdiamond_lead.png'",
+            lscore : "458040",
+
+            mpath : "1/17th B, 1/NN, 4(+1)/5th Y, 4(+1)/28th O, 1/2nd O, 1/2nd B, 1/NN, 1/NN, 1/NN, 1/NN, 1/1st B, 1/2nd O",
+            m_image : "'blackdiamond_mbass.png'",
+            mscore : "577263",
+            } 
+        },
 { value : "Black Hole Sun by Soundgarden", 
             data : {
             shortname : "blackholesun",
