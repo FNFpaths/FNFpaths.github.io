@@ -7133,6 +7133,35 @@ const songs = [
             mscore : "164988",
             } 
         },
+{ value : "Illegal by PinkPantheress", 
+            data : {
+            shortname : "illegal",
+
+            dpath : "1/16th Y, 1/1st GY, 1/29th Y, 1/7th Y, 1/3rd GY, 1/NN, 1/NN, 2/12th Y, 1/12th G",
+            d_image : "'illegal_drums.png'",
+            dscore : "131760",
+
+            vpath : "1/13th Y, 1/1st O, 1/2nd R, 1/4th B, 1/2nd O, 1/9th R, 1/4th G",
+            v_image : "'illegal_vocals.png'",
+            vscore : "92934",
+
+            gpath : "1/6th GYB, 1/NN, 1/NN, 1/NN, 1/NN, 1/3rd GYB, 1/6th R, 1/1st GRY, 1/NN, 1/NN",
+            g_image : "'illegal_guitar.png'",
+            gscore : "113988",
+
+            bpath : "1/3rd B, 1/1st G, 1/3rd B, 1(+1)/1st O, 1/3rd B, 1/4th B",
+            b_image : "'illegal_bass.png'",
+            bscore : "71559",
+
+            lpath : "1/6th RO, 1/NN, 1/NN, 3(+1)/3rd RO, 1/1st RB, 1/NN, 1/NN",
+            l_image : "'illegal_lead.png'",
+            lscore : "82668",
+
+            mpath : "1/3rd B, 1/1st G, 1/3rd B, 1(+1)/1st O, 1/3rd B, 1/4th B",
+            m_image : "'illegal_mbass.png'",
+            mscore : "71559",
+            } 
+        },
 { value : "I Love Rock N Roll by Joan Jett & The Blackhearts", 
             data : {
             shortname : "iloverocknroll",
