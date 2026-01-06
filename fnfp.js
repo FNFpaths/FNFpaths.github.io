@@ -7626,6 +7626,35 @@ const songs = [
             mscore : "112965",
             } 
         },
+{ value : "Iris Out by Kenshi Yonezu, Hikaru Utada", 
+            data : {
+            shortname : "irisout",
+
+            dpath : "1/1st RY, 1/5th R, 1/1st GO, 1/NN, 2/3rd GY, 1/1st GO, 1/1st GO",
+            d_image : "'irisout_drums.png'",
+            dscore : "123984",
+
+            vpath : "1(+1)/23rd R, 3/9th R, 1/3rd B, 1/1st B, 1/9th G",
+            v_image : "'irisout_vocals.png'",
+            vscore : "159852",
+
+            gpath : "2(+1)/2nd G, 1/10th G, 1/12th B, 2/1st RO",
+            g_image : "'irisout_guitar.png'",
+            gscore : "153216",
+
+            bpath : "1/15th G, 1/7th R, 1/2nd R, 1/NN, 1/13th G, 1/14th R, 1/2nd R",
+            b_image : "'irisout_bass.png'",
+            bscore : "138240",
+
+            lpath : "2(+1)/8th R, 1/3rd Y, 1/8th R, 2/1st RO",
+            l_image : "'irisout_lead.png'",
+            lscore : "135268",
+
+            mpath : "1/15th G, 1/9th R, 1/2nd R, 1/NN, 1/3rd Y, 1/9th R, 1/2nd R",
+            m_image : "'irisout_mbass.png'",
+            mscore : "138240",
+            } 
+        },
 { value : "I Still Haven't Found What I'm Looking For by U2", 
             data : {
             shortname : "istillhaventfound",
@@ -10176,6 +10205,35 @@ const songs = [
             mpath : "3(+1)/2nd R, 1/NN, 1/3rd G, 3(+1)/4th R, 1/NN",
             m_image : "'nightrosessong_mbass.png'",
             mscore : "145980",
+            } 
+        },
+{ value : "No Broke Boys by Disco Lines & Tinashe", 
+            data : {
+            shortname : "nobrokeboys",
+
+            dpath : "1/1st RB, 1/2nd B, 1/2nd B, 1/1st RB, 1/17th RB, 1/NN, 1/2nd B, 1/28th B",
+            d_image : "'nobrokeboys_drums.png'",
+            dscore : "132912",
+
+            vpath : "1/NN, 1(+1)/7th R, 1/9th R, 1/8th Y, 2/1st R, 1/2nd Y",
+            v_image : "'nobrokeboys_vocals.png'",
+            vscore : "123696",
+
+            gpath : "1/1st G, 1/1st G, 1/NN, 1/NN, 1/4th B, 1/1st G, 1/6th Y, 1/11th O, 1/NN",
+            g_image : "'nobrokeboys_guitar.png'",
+            gscore : "92292",
+
+            bpath : "1/8th R, 1/1st R, 1/9th G, 1/9th G, 1/NN, 1/NN, 1/9th G, 1/9th G",
+            b_image : "'nobrokeboys_bass.png'",
+            bscore : "114048",
+
+            lpath : "1/1st G, 1/1st G, 1/NN, 1/NN, 1/4th B, 1/1st G, 1/6th Y, 1/11th O, 1/NN",
+            l_image : "'nobrokeboys_lead.png'",
+            lscore : "92292",
+
+            mpath : "1/8th R, 1/1st R, 1/9th G, 1/9th G, 1/NN, 1/NN, 1/9th G, 1/9th G",
+            m_image : "'nobrokeboys_mbass.png'",
+            mscore : "114048",
             } 
         },
 { value : "No Doubt by ENHYPEN", 
