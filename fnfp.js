@@ -7626,7 +7626,7 @@ const songs = [
             mscore : "112965",
             } 
         },
-{ value : "Iris Out by Kenshi Yonezu, Hikaru Utada", 
+{ value : "Iris Out by Kenshi Yonezu", 
             data : {
             shortname : "irisout",
 
