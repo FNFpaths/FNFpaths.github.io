@@ -5712,6 +5712,35 @@ const songs = [
             mscore : "17448",
             } 
         },
+{ value : "future base by Kizuna AI", 
+            data : {
+            shortname : "futurebase",
+
+            dpath : "2/1st GY, 1/NN, 2/1st RY, 3/1st GO, 2/1st RY, 1/3rd GY, 1/7th GB",
+            d_image : "'futurebase_drums.png'",
+            dscore : "172368",
+
+            vpath : "1/8th R, 1/15th R, 1/3rd Y, 1/NN, 1/3rd Y, 1/2nd Y, 1/15th R, 1/4th Y, 1/NN, 1/2nd O, 1/1st R",
+            v_image : "'futurebase_vocals.png'",
+            vscore : "117696",
+
+            gpath : "1/1st YO, 1/NN, 1/2nd G, 1/NN, 1/NN, 4(+1)/8th B, 1/NN, 3/NN",
+            g_image : "'futurebase_guitar.png'",
+            gscore : "168768",
+
+            bpath : "1/2nd R, 1/4th Y, 1/2nd R, 1/NN, 1/NN, 1/2nd Y, 1/NN, 1/2nd Y, 1/2nd O",
+            b_image : "'futurebase_bass.png'",
+            bscore : "50454",
+
+            lpath : "1/1st RO, 1/NN, 1/2nd G, 1/NN, 1/NN, 4(+1)/8th B, 1/NN, 3/NN",
+            l_image : "'futurebase_lead.png'",
+            lscore : "168072",
+
+            mpath : "1/2nd R, 1/4th Y, 1/2nd R, 1/NN, 1/NN, 1/2nd Y, 1/NN, 1/2nd Y, 1/2nd O",
+            m_image : "'futurebase_mbass.png'",
+            mscore : "50454",
+            } 
+        },
 { value : "FUTW (Vixi Solo Version) by LISA", 
             data : {
             shortname : "futw",
@@ -6609,6 +6638,35 @@ const songs = [
             mpath : "1/5th G, 1/NN, 1/NN, 1/NN, 1/4th Y, 1(+1)/15th R, 1/NN, 3/4th B",
             m_image : "'heavy_mbass.png'",
             mscore : "164754",
+            } 
+        },
+{ value : "Hello, Morning by Kizuna AI", 
+            data : {
+            shortname : "hellomorning",
+
+            dpath : "2/1st GO, 1/7th GO, 3/NN, 1/7th GO, 1/8th GO, 1/7th GO, 1/NN, 3(+1)/8th RB, 1/7th GO, 1/8th GO",
+            d_image : "'hellomorning_drums.png'",
+            dscore : "271440",
+
+            vpath : "1/6th R, 1/NN, 1/NN, 1/NN, 1(+1)/2nd O, 1/NN, 1/NN, 1/NN, 1/NN, 1/8th G",
+            v_image : "'hellomorning_vocals.png'",
+            vscore : "103785",
+
+            gpath : "1/3rd YO, 3/1st YB, 1/NN, 1/1st YB, 1/1st YB, 1/18th G, 4(+1)/16th GB, 1/1st YB, 1/1st YB, 1/2nd O",
+            g_image : "'hellomorning_guitar.png'",
+            gscore : "251664",
+
+            bpath : "3(+1)/3rd R, 1/NN, 4(+1)/4th Y, 1/NN, 1/1st B, 1/1st B, 1/4th O",
+            b_image : "'hellomorning_bass.png'",
+            bscore : "129306",
+
+            lpath : "1/3rd RO, 3/1st RB, 1/NN, 1/1st RY, 1/1st RY, 1/18th R, 4(+1)/NN, 1/1st RY, 1/1st RY, 1/2nd O",
+            l_image : "'hellomorning_lead.png'",
+            lscore : "241296",
+
+            mpath : "3(+1)/3rd R, 1/NN, 4(+1)/4th Y, 1/NN, 1/1st B, 1/1st B, 1/4th O",
+            m_image : "'hellomorning_mbass.png'",
+            mscore : "129306",
             } 
         },
 { value : "Hey Brother by Avicii", 
@@ -9538,6 +9596,35 @@ const songs = [
             mpath : "2/7th G, 1/NN, 1/NN, 1(+1)/5th O, 1/6th B",
             m_image : "'milliondollarbaby_mbass.png'",
             mscore : "66852",
+            } 
+        },
+{ value : "mirai by Kizuna AI", 
+            data : {
+            shortname : "mirai",
+
+            dpath : "1/NN, 1/NN, 1/NN, 1/1st RO, 1/2nd Y, 1/4th Y, 1/NN, 1/5th Y, 1/1st GY, 2/5th RO, 1/10th Y, 1/1st GO, 2/1st RY, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/14th R",
+            d_image : "'mirai_drums.png'",
+            dscore : "376848",
+
+            vpath : "4(+1)/NN, 3/NN, 1/NN, 2/1st B, 1/NN, 1/1st B, 1/1st Y, 1/NN, 1/5th G, 1/NN, 1/1st B, 4/6th G",
+            v_image : "'mirai_vocals.png'",
+            vscore : "210078",
+
+            gpath : "1/2nd G, 1/1.5 beats after 3rd G, 1/1st RB, 1/2nd R, 1/NN, 1/3rd YO, 4(+2)/1.5 beats after 1st GY, 1/5th YO, 1/1st YO, 1/NN, 1/2nd O, 1(+1)/1st RB, 1/1st GY, 1/2nd R, 1/NN, 1/NN, 1/NN",
+            g_image : "'mirai_guitar.png'",
+            gscore : "244236",
+
+            bpath : "2/3rd R, 4(+1)/2nd R, 1/NN, 1/10th R, 4(+1)/2nd R, 3/2nd Y, 3(+1)/1st G, 1/1st R",
+            b_image : "'mirai_bass.png'",
+            bscore : "270534",
+
+            lpath : "1/2nd G, 1/1.5 beats after 3rd G, 1/1st RB, 1/2nd R, 1/NN, 1/3rd RO, 4(+1)/1.2 beats after 1st GY, 1/NN, 1/5th RO, 1/1st RO, 1/NN, 1/2nd O, 1(+1)/1st RB, 1/1st GY, 1/2nd R, 1/NN, 1/NN, 1/NN",
+            l_image : "'mirai_lead.png'",
+            lscore : "223956",
+
+            mpath : "2/3rd R, 4(+1)/2nd R, 1/NN, 1/NN, 4(+1)/2nd R, 3/2nd Y, 3(+1)/1st G, 1/1st R",
+            m_image : "'mirai_mbass.png'",
+            mscore : "267294",
             } 
         },
 { value : "Misery Business by Paramore", 
