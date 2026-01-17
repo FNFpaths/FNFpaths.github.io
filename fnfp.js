@@ -328,7 +328,7 @@ const songs = [
 
             vpath : "1/1st G, 1/1st R, 1/1st B, 1/3rd B, 1/NN, 1/NN, 1/2nd G, 1/17th Y, 1/NN, 1/NN",
             v_image : "'aintnorestforthewicked_vocals.png'",
-            vscore : "151254",
+            vscore : "153732",
 
             gpath : "1/1st YB, 1/29th G, 1/5th GR, 1/1st YB, 1/1st GB, 1/2nd RY, 1/4th B, 1/3rd YB, 1/5th GB, 1/1st GB",
             g_image : "'aintnorestforthewicked_guitar.png'",
@@ -3460,7 +3460,7 @@ const songs = [
 
             vpath : "2/7th G, 1/NN, 1/7th Y, 1/2nd Y, 1/6th Y, 1/6th Y, 1/6th Y, 1/10th Y",
             v_image : "'comeandgo_vocals.png'",
-            vscore : "123585",
+            vscore : "124449",
 
             gpath : "3/1st YO, 3(+1)/5th RY, 1/NN, 1/NN",
             g_image : "'comeandgo_guitar.png'",
