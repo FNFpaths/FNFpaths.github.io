@@ -3247,6 +3247,35 @@ const songs = [
             mscore : "135492",
             } 
         },
+{ value : "Chicken Banana by Crazy Music Channel", 
+            data : {
+            shortname : "chickenbanana",
+
+            dpath : "2/3rd Y, 1/1st GB, 1/NN, 1(+1)/12th Y, 1/1st G",
+            d_image : "'chickenbanana_drums.png'",
+            dscore : "109728",
+
+            vpath : "1/6th R, 1/NN, 1/2nd B, 1/2nd B",
+            v_image : "'chickenbanana_vocals.png'",
+            vscore : "47520",
+
+            gpath : "1/4th G, 1/NN, 1/9th Y",
+            g_image : "'chickenbanana_guitar.png'",
+            gscore : "44640",
+
+            bpath : "1/21st G, 1/NN, 1/5th G, 1/NN, 1/NN, 1/NN",
+            b_image : "'chickenbanana_bass.png'",
+            bscore : "68832",
+
+            lpath : "1/9th Y, 1/NN, 1/9th Y",
+            l_image : "'chickenbanana_lead.png'",
+            lscore : "44640",
+
+            mpath : "1/21st G, 1/NN, 1/5th G, 1/NN, 1/NN, 1/NN",
+            m_image : "'chickenbanana_mbass.png'",
+            mscore : "68832",
+            } 
+        },
 { value : "CHIHIRO by Billie Eilish", 
             data : {
             shortname : "chihiro",
@@ -9364,6 +9393,35 @@ const songs = [
             mpath : "2(+1)/11th G, 1/NN, 3/1st G, 1/NN, 1/NN, 1/5th G, 1/3rd G",
             m_image : "'marchofthepigs_mbass.png'",
             mscore : "322056",
+            } 
+        },
+{ value : "Mary on a Cross by Ghost", 
+            data : {
+            shortname : "maryonacross",
+
+            dpath : "1/NN, 1/NN, 1/1st GB, 1/NN, 1/1st RO, 2/8th GB, 1/NN, 1/NN, 1/NN, 1/16th GB, 1/3rd RB, 1/NN, 1/23rd GB",
+            d_image : "'maryonacross_drums.png'",
+            dscore : "307584",
+
+            vpath : "1/7th Y, 1/3rd Y, 1/NN, 1/1st O, 1/5th Y, 1/4th O, 1/1st Y, 1/5th Y, 1/NN, 1/5th Y, 1/NN",
+            v_image : "'maryonacross_vocals.png'",
+            vscore : "119280",
+
+            gpath : "1/5th YB, 1/1st YB, 1/3rd YB, 1/1st YB, 1/2nd RO, 1/7th YO, 1/NN, 1/1st YB, 1/5th YB, 1(+1)/1st GR, 1/8th RO, 1/3rd RO, 1/5th RO",
+            g_image : "'maryonacross_guitar.png'",
+            gscore : "220564",
+
+            bpath : "1/1st Y, 1/2nd R, 1/2nd R, 1/2nd R, 1/NN, 2/5th G, 1/3rd R, 1/NN, 1/1st Y, 2/1 beats after 5th R, 1/NN, 1/8th R",
+            b_image : "'maryonacross_bass.png'",
+            bscore : "212523",
+
+            lpath : "1/5th RB, 1/1st RB, 1/3rd RB, 1/1st RB, 1/2nd RB, 1/7th RB, 1/NN, 1/1st RB, 1/5th RB, 1(+1)/1st RY, 1/8th GO, 1/3rd GO, 1/1st RO",
+            l_image : "'maryonacross_lead.png'",
+            lscore : "216148",
+
+            mpath : "1/1st Y, 1/2nd R, 1/2nd R, 1/2nd R, 1/NN, 2/5th G, 1/2nd R, 1/NN, 1/1st Y, 2/1 beats after 5th R, 1/NN, 1/1st B",
+            m_image : "'maryonacross_mbass.png'",
+            mscore : "211389",
             } 
         },
 { value : "Master of Puppets by Metallica", 
@@ -16179,6 +16237,35 @@ const songs = [
             mpath : "1/4th O, 1/NN, 1/8th Y, 1/NN, 2/1st R, 1/7th Y, 1/3rd Y",
             m_image : "'walkthisway_mbass.png'",
             mscore : "77910",
+            } 
+        },
+{ value : "WANNABE by ITZY", 
+            data : {
+            shortname : "wannabe",
+
+            dpath : "1/7th GO, 1/1st GO, 1/NN, 1/9th B, 1(+1)/1st GO, 2/3rd Y, 1/44th Y",
+            d_image : "'wannabe_drums.png'",
+            dscore : "176400",
+
+            vpath : "1/5th B, 1/4th O, 1/11th O, 1/4th R, 1/4th G, 1/4th O, 1/NN, 1/6th O, 1/1st B",
+            v_image : "'wannabe_vocals.png'",
+            vscore : "146331",
+
+            gpath : "1(+1)/2nd RB, 1/2nd Y, 1/NN, 1/17th G, 1/5th Y, 1(+1)/1st GB, 1/2nd Y",
+            g_image : "'wannabe_guitar.png'",
+            gscore : "150168",
+
+            bpath : "2(+1)/3rd R, 2/10th Y, 3(+1)/2nd R",
+            b_image : "'wannabe_bass.png'",
+            bscore : "126216",
+
+            lpath : "1(+1)/2nd RB, 1/2nd Y, 1/NN, 1/8th B, 1/4th Y, 2/1st RY, 1/2nd Y",
+            l_image : "'wannabe_lead.png'",
+            lscore : "147144",
+
+            mpath : "2(+1)/3rd R, 2/7th Y, 3(+1)/3rd R",
+            m_image : "'wannabe_mbass.png'",
+            mscore : "121224",
             } 
         },
 { value : "Way Too Fast by Epic Games", 
