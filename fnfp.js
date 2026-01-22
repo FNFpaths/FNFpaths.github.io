@@ -3682,6 +3682,35 @@ const songs = [
             mscore : "62250",
             } 
         },
+{ value : "Crown Jam - Less Fallin' More Ballin' by Epic Games", 
+            data : {
+            shortname : "crownjam",
+
+            dpath : "1/6th GY, 1/NN, 1/8th GY, 1/9th GY, 1/NN, 2/2nd GY, 1/NN, 1/8th GY, 1/NN, 1/20th Y, 1/4th GY, 1/NN",
+            d_image : "'crownjam_drums.png'",
+            dscore : "349632",
+
+            vpath : "1/3rd O, 1/5th Y, 3/6th Y, 1/3rd Y, 1/NN, 1/NN, 1/4th R",
+            v_image : "'crownjam_vocals.png'",
+            vscore : "128607",
+
+            gpath : "1/4th RO, 2/1st YO, 3/2 beats after 1st R, 1/1st G, 1/NN, 2/2nd RY, 1/NN, 1/2nd Y",
+            g_image : "'crownjam_guitar.png'",
+            gscore : "157447",
+
+            bpath : "2/10th R, 1/NN, 1/1st Y, 1/NN, 1/NN, 3(+1)/0.5 beats after 11th R, 1/1st B, 1/NN",
+            b_image : "'crownjam_bass.png'",
+            bscore : "193773",
+
+            lpath : "1/4th RO, 2/1st RO, 3/2 beats after 1st R, 1/1st G, 1/NN, 2/2nd RY, 1/NN, 1/2nd Y",
+            l_image : "'crownjam_lead.png'",
+            lscore : "157015",
+
+            mpath : "2/10th R, 1/NN, 1/1st R, 1/NN, 1/NN, 3(+1)/0.5 beats after 8th R, 1/1st O, 1/NN",
+            m_image : "'crownjam_mbass.png'",
+            mscore : "192333",
+            } 
+        },
 { value : "Daisy 2.0 by Ashnikko ft. Hatsune Miku", 
             data : {
             shortname : "daisy",
