@@ -1507,6 +1507,35 @@ const songs = [
             mscore : "209451",
             } 
         },
+{ value : "Be Sweet by Japanese Breakfast", 
+            data : {
+            shortname : "besweet",
+
+            dpath : "1/NN, 1/NN, 2/11th GY, 1/NN, 1/NN, 1/NN, 1/NN, 1/5th RY",
+            d_image : "'besweet_drums.png'",
+            dscore : "288144",
+
+            vpath : "1/13th R, 1/3rd G, 1/5th G, 2/3rd R, 1/19th G",
+            v_image : "'besweet_vocals.png'",
+            vscore : "83655",
+
+            gpath : "2/1st YO, 1/1st RB, 1/NN, 1(+1)/1st O, 1/10th G, 1/8th RB, 1/NN",
+            g_image : "'besweet_guitar.png'",
+            gscore : "146796",
+
+            bpath : "1/4th G, 2(+1)/4th R, 3(+1)/17th R, 1/4th Y",
+            b_image : "'besweet_bass.png'",
+            bscore : "166416",
+
+            lpath : "2/1st RO, 1/1st RO, 1/NN, 1(+1)/1st O, 1/9th G, 1/8th RB, 1/NN",
+            l_image : "'besweet_lead.png'",
+            lscore : "146364",
+
+            mpath : "3(+1)/2nd R, 3(+1)/16th R, 1/5th B",
+            m_image : "'besweet_mbass.png'",
+            mscore : "154860",
+            } 
+        },
 { value : "Eyes Closed by Imagine Dragons", 
             data : {
             shortname : "betrayedaardvark",
