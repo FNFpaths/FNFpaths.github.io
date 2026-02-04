@@ -956,6 +956,35 @@ const songs = [
             mscore : "380808",
             } 
         },
+{ value : "BAILE INoLVIDABLE by Bad Bunny", 
+            data : {
+            shortname : "baileinolvidable",
+
+            dpath : "1/NN, 1/2nd R, 1/4th R, 3(+1)/12th Y, 1/NN, 1/NN, 1/3rd O, 1/2nd B, 1(+1)/9th Y, 2/9th Y, 1/1st B, 1/8th O, 1/6th O, 1/9th O, 1/1st B",
+            d_image : "'baileinolvidable_drums.png'",
+            dscore : "238464",
+
+            vpath : "1/2 beats after 5th G, 1/5th G, 1/NN, 1/2nd G, 1/NN, 1/4th Y, 1/1st G, 3/1st B, 1/11th Y, 1/1st B, 1/2nd Y, 1/NN, 1/3rd B, 1/7th R, 1/3rd R",
+            v_image : "'baileinolvidable_vocals.png'",
+            vscore : "187338",
+
+            gpath : "1/6th Y, 1/5th Y, 1/4th Y, 1/2nd G, 1/7th Y, 1/9th R, 1/3rd G, 1/NN, 1/1st O, 1/8th Y, 1/1st O, 1/7th B, 1/6th R, 1/6th Y, 1/NN, 1/1st YO, 1/NN, 1/NN, 1/1st R, 1/9th Y, 2/1st RY, 1/NN, 1/1st RY, 1/2nd Y, 1/5th G, 1/4th G, 1/13th G",
+            g_image : "'baileinolvidable_guitar.png'",
+            gscore : "233444",
+
+            bpath : "1/1st R, 1/1st R, 1/NN, 1/1st O, 1/5th Y, 1/2nd B, 1/NN, 1/3rd G, 1/2nd G, 1/2nd R, 1/3rd R, 1/2nd R, 1/3rd Y, 1/4th R, 1/2nd R, 1/NN, 1/2nd O, 1/2nd R, 1/1st B, 1/3rd Y, 1/4th R, 1/2nd R, 1/5th Y, 1/2nd R, 1/3rd R",
+            b_image : "'baileinolvidable_bass.png'",
+            bscore : "233154",
+
+            lpath : "1/6th Y, 1/5th Y, 1/4th Y, 1/2nd G, 1/7th Y, 1/9th R, 1/4th R, 1/NN, 1/1st O, 1/8th Y, 1/1st O, 1/7th B, 1/6th R, 1/6th Y, 1/NN, 1/1st RY, 1/NN, 1/NN, 1/1st R, 1/9th Y, 2/1st RY, 1/NN, 1/1st RY, 1/2nd Y, 1/5th G, 1/4th G, 1/13th G",
+            l_image : "'baileinolvidable_lead.png'",
+            lscore : "229364",
+
+            mpath : "1/1st R, 1/1st R, 1/NN, 1/1st O, 1/5th Y, 1/2nd B, 1/NN, 1/3rd G, 1/2nd G, 1/2nd R, 1/3rd R, 1/2nd R, 1/3rd Y, 1/4th R, 1/2nd R, 1/NN, 1/2nd O, 1/2nd R, 1/1st B, 1/3rd Y, 1/4th R, 1/2nd R, 1/5th Y, 1/3rd R, 1/3rd R",
+            m_image : "'baileinolvidable_mbass.png'",
+            mscore : "233154",
+            } 
+        },
 { value : "Ballin' by Mustard ft. Roddy Ricch", 
             data : {
             shortname : "ballin",
@@ -10234,6 +10263,35 @@ const songs = [
             mpath : "1/2nd G, 1/5th R, 1/NN, 1/7th R, 1/NN, 1/NN, 1/12th R, 1/3rd O, 1/2nd O, 1/NN",
             m_image : "'nevergonnagiveyouup_mbass.png'",
             mscore : "227880",
+            } 
+        },
+{ value : "Never Meant by American Football", 
+            data : {
+            shortname : "nevermeant",
+
+            dpath : "1/11th Y, 1/7th Y, 1/9th Y, 1/1st GB, 1/13th GB, 1/1st GB, 1/4th GY, 2(+1)/1st GB, 1/NN, 1/1st GY, 1/9th B, 1/6th B, 3/1st R, 1/NN",
+            d_image : "'nevermeant_drums.png'",
+            dscore : "291888",
+
+            vpath : "3(+1)/2nd R, 1/NN, 1/2nd G, 1/4th G, 1/NN, 1/3rd G",
+            v_image : "'nevermeant_vocals.png'",
+            vscore : "59619",
+
+            gpath : "1/3rd O, 1/NN, 1/1st O, 1/NN, 1/1st O, 1/2nd O, 1/NN, 1/NN, 1/NN, 1/NN, 1/9th O, 4(+1)/3rd G, 1/1st O",
+            g_image : "'nevermeant_guitar.png'",
+            gscore : "191184",
+
+            bpath : "4(+1)/6.9 beats after 3rd G, 1/NN, 1/NN, 1/2nd Y, 1/NN, 1/1st R, 1/1st R, 1/3rd R, 1/3rd R, 1/2nd R",
+            b_image : "'nevermeant_bass.png'",
+            bscore : "86914",
+
+            lpath : "1/3rd O, 1/NN, 3(+2)/4th G, 1/NN, 1/NN, 1/NN, 1/NN, 4(+1)/3rd G, 1/2nd G",
+            l_image : "'nevermeant_lead.png'",
+            lscore : "173880",
+
+            mpath : "4(+1)/6.9 beats after 3rd G, 1/NN, 1/NN, 1/2nd Y, 1/NN, 1/1st R, 1/1st R, 1/3rd R, 1/3rd R, 1/2nd R",
+            m_image : "'nevermeant_mbass.png'",
+            mscore : "86914",
             } 
         },
 { value : "New Woman by LISA ft. ROSALÍA", 
