@@ -3421,6 +3421,35 @@ const songs = [
             mscore : "119646",
             } 
         },
+{ value : "Clappiness by Mic Drop", 
+            data : {
+            shortname : "clappiness",
+
+            dpath : "1/3rd GO, 1/2nd GY, 1/2nd GO, 1/1st GO, 1/NN, 2/6th GY, 1/1st GY, 1/7th GY",
+            d_image : "'clappiness_drums.png'",
+            dscore : "170496",
+
+            vpath : "3/4th R, 1/NN, 2(+1)/1st O, 1/5th R, 1/1st G, 1/4th R",
+            v_image : "'clappiness_vocals.png'",
+            vscore : "112797",
+
+            gpath : "2/2nd YO, 1/3rd B, 2(+1)/1st GB, 1/2nd G, 1/NN, 1/NN, 1/6th R",
+            g_image : "'clappiness_guitar.png'",
+            gscore : "59826",
+
+            bpath : "1/2nd B, 1/NN, 1/NN, 1/1st G, 1/NN, 1/NN, 1/NN, 1/NN",
+            b_image : "'clappiness_bass.png'",
+            bscore : "160488",
+
+            lpath : "2/2nd RO, 1/3rd B, 2(+1)/1st GY, 1/2nd G, 1/NN, 1/NN, 1/6th R",
+            l_image : "'clappiness_lead.png'",
+            lscore : "59826",
+
+            mpath : "1/2nd O, 1/NN, 1/NN, 1/1st G, 1/NN, 1/NN, 1/NN, 1/NN",
+            m_image : "'clappiness_mbass.png'",
+            mscore : "160488",
+            } 
+        },
 { value : "Clint Eastwood by Gorillaz", 
             data : {
             shortname : "clinteastwood",
@@ -3970,6 +3999,35 @@ const songs = [
             mpath : "2(+1)/5th R, 1/5th Y, 1/NN, 1/NN",
             m_image : "'dashstar_mbass.png'",
             mscore : "74337",
+            } 
+        },
+{ value : "Dawn of a New Age by Jay Anderson, Mikhail Galkin", 
+            data : {
+            shortname : "dawnofanewage",
+
+            dpath : "1/NN, 1/NN, 1/1st GY, 1/1st GO, 1/NN, 1/NN, 1/NN, 1/1st RO, 1/4th O",
+            d_image : "'dawnofanewage_drums.png'",
+            dscore : "132336",
+
+            vpath : "1/4th Y, 1/2nd R, 1/4th G, 1/1st B, 1/NN, 1/2nd Y, 1/NN",
+            v_image : "'dawnofanewage_vocals.png'",
+            vscore : "57108",
+
+            gpath : "1/6th RY, 2/4th YB, 1/6th R, 1/17th GY, 1/3rd G, 1/6th R, 4/NN",
+            g_image : "'dawnofanewage_guitar.png'",
+            gscore : "198174",
+
+            bpath : "1/7th B, 1/8th Y, 1/3rd Y, 1/10th Y, 1/NN, 1/NN, 3/13th B",
+            b_image : "'dawnofanewage_bass.png'",
+            bscore : "161739",
+
+            lpath : "3/NN, 1/5th R, 1/17th RY, 1/4th G, 4(+1)/1st G",
+            l_image : "'dawnofanewage_lead.png'",
+            lscore : "191310",
+
+            mpath : "1/7th B, 1/12th B, 1/3rd R, 1/10th Y, 1/NN, 1/NN, 3/13th B",
+            m_image : "'dawnofanewage_mbass.png'",
+            mscore : "161163",
             } 
         },
 { value : "Day 'N' Nite by Kid Cudi", 
@@ -7313,7 +7371,7 @@ const songs = [
 
             dpath : "1/16th Y, 1/1st GY, 1/29th Y, 1/7th Y, 1/3rd GY, 1/NN, 1/NN, 2/12th Y, 1/12th G",
             d_image : "'illegal_drums.png'",
-            dscore : "131760",
+            dscore : "131904",
 
             vpath : "1/13th Y, 1/1st O, 1/2nd R, 1/4th B, 1/2nd O, 1/9th R, 1/4th G",
             v_image : "'illegal_vocals.png'",
@@ -9540,6 +9598,35 @@ const songs = [
             mscore : "648720",
             } 
         },
+{ value : "Meet Me in the Middle by L1", 
+            data : {
+            shortname : "meetmeinthemiddle",
+
+            dpath : "1/1st GY, 1(+1)/6th RY, 1/NN, 1/2nd GY, 1/NN, 1/2nd RY, 1/2nd RY, 1/4th RY, 1/9th RY",
+            d_image : "'meetmeinthemiddle_drums.png'",
+            dscore : "165888",
+
+            vpath : "2(+1)/3rd O, 1/7th G, 3(+1)/2nd O, 1/7th G, 1/8th G, 1/1st G",
+            v_image : "'meetmeinthemiddle_vocals.png'",
+            vscore : "113542",
+
+            gpath : "1/6th Y, 1/3rd B, 1/3rd R, 1/NN, 1/NN, 1/NN, 1/3rd R, 1(+1)/5th R, 1/5th B, 1/5th Y, 1/3rd Y",
+            g_image : "'meetmeinthemiddle_guitar.png'",
+            gscore : "78384",
+
+            bpath : "2(+1)/9th Y, 1/NN, 1/NN, 1/NN, 1(+1)/9th Y, 1/NN, 1/NN, 1/NN",
+            b_image : "'meetmeinthemiddle_bass.png'",
+            bscore : "100572",
+
+            lpath : "1/6th Y, 1/3rd B, 1/3rd R, 1/NN, 1/NN, 1/NN, 1/3rd R, 1(+1)/5th R, 1/NN, 1/3rd Y, 1/1st Y",
+            l_image : "'meetmeinthemiddle_lead.png'",
+            lscore : "73824",
+
+            mpath : "2(+1)/9th Y, 1/NN, 1/NN, 1/NN, 1(+1)/9th Y, 1/NN, 1/NN, 1/NN",
+            m_image : "'meetmeinthemiddle_mbass.png'",
+            mscore : "100572",
+            } 
+        },
 { value : "Melt by ryo (supercell) ft. Hatsune Miku", 
             data : {
             shortname : "melt",
@@ -9799,6 +9886,35 @@ const songs = [
             mpath : "1/6th R, 1/9th Y, 1/1st G, 1/11th Y, 1/6th R, 1/9th Y, 1/1st G, 3(+1)/15th R, 1/NN, 1/11th Y",
             m_image : "'miserybusiness_mbass.png'",
             mscore : "203238",
+            } 
+        },
+{ value : "Mona Lisa by Mic Drop", 
+            data : {
+            shortname : "monalisa",
+
+            dpath : "2/3rd O, 1/1st Y, 1/NN, 3/NN, 1/3rd G",
+            d_image : "'monalisa_drums.png'",
+            dscore : "87984",
+
+            vpath : "2/7th Y, 1/NN, 1/NN, 1/4th Y, 1/3rd R, 1/NN, 1/2nd G",
+            v_image : "'monalisa_vocals.png'",
+            vscore : "160011",
+
+            gpath : "2(+1)/7th RB, 3/1st RB, 2/6th YBO",
+            g_image : "'monalisa_guitar.png'",
+            gscore : "124410",
+
+            bpath : "1(+1)/8th G, 1/1st O, 1/1st O, 1/1st G, 1/NN, 1/1st O",
+            b_image : "'monalisa_bass.png'",
+            bscore : "102150",
+
+            lpath : "2(+1)/7th RB, 3/1st RB, 1/NN, 1/12th RB",
+            l_image : "'monalisa_lead.png'",
+            lscore : "116166",
+
+            mpath : "1(+1)/8th G, 1/1st O, 1/1st O, 1/1st G, 1/NN, 1/1st O",
+            m_image : "'monalisa_mbass.png'",
+            mscore : "102150",
             } 
         },
 { value : "The Monorail Song by The Simpsons", 
@@ -11280,6 +11396,35 @@ const songs = [
             mscore : "113760",
             } 
         },
+{ value : "parents by YUNGBLUD", 
+            data : {
+            shortname : "parents",
+
+            dpath : "3/NN, 1/NN, 1/4th RY, 3/NN, 1/NN, 1/9th GY, 1/1st R, 1/NN",
+            d_image : "'parents_drums.png'",
+            dscore : "130032",
+
+            vpath : "1/11th Y, 3(+1)/7th O, 1/1st G, 1/NN, 1/1st Y, 1/NN, 1/3rd O, 2/7th R",
+            v_image : "'parents_vocals.png'",
+            vscore : "153891",
+
+            gpath : "1/3rd GY, 1/1st GY, 2(+1)/1st G, 1/NN, 1/1st GY, 2(+1)/1st G, 1/NN, 1/2nd G",
+            g_image : "'parents_guitar.png'",
+            gscore : "83478",
+
+            bpath : "2(+1)/1st B, 1/NN, 1/4th G, 1/4th G, 1/4th R, 1/NN, 1/NN, 1/6th G, 1/3rd R, 1/6th G",
+            b_image : "'parents_bass.png'",
+            bscore : "98628",
+
+            lpath : "1/3rd GY, 1/1st GY, 2(+1)/1st G, 1/NN, 1/1st GY, 2(+1)/1st G, 1/NN, 1/2nd G",
+            l_image : "'parents_lead.png'",
+            lscore : "81804",
+
+            mpath : "2(+1)/1st B, 1/NN, 1/4th G, 1/4th G, 1/4th R, 1/NN, 1/NN, 1/6th G, 1/3rd R, 1/6th G",
+            m_image : "'parents_mbass.png'",
+            mscore : "98088",
+            } 
+        },
 { value : "Party Like A Rock Star by Shop Boyz", 
             data : {
             shortname : "partylikearockstar",
@@ -11394,6 +11539,35 @@ const songs = [
             mpath : "2/2nd Y, 1/NN, 1/10th Y, 1/4th Y, 1/2nd Y, 1/NN, 1/6th Y, 1/4th Y",
             m_image : "'pickitup_mbass.png'",
             mscore : "77586",
+            } 
+        },
+{ value : "Pink Pony Club by Chappell Roan", 
+            data : {
+            shortname : "pinkponyclub",
+
+            dpath : "1/NN, 1/NN, 1/4th RY, 1/1st GO, 1/4th RY, 1/NN, 1/NN",
+            d_image : "'pinkponyclub_drums.png'",
+            dscore : "259056",
+
+            vpath : "1/4th G, 1/4th B, 1/NN, 1/4th B, 1/6th R, 1/4th B, 1/NN, 1/1st B, 1/4th B, 1/21st O",
+            v_image : "'pinkponyclub_vocals.png'",
+            vscore : "151024",
+
+            gpath : "1(+1)/1st YB, 1/2nd RB, 1/NN, 2/2nd BO, 2/2nd B, 4/15th B",
+            g_image : "'pinkponyclub_guitar.png'",
+            gscore : "173444",
+
+            bpath : "3(+1)/4th G, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            b_image : "'pinkponyclub_bass.png'",
+            bscore : "39960",
+
+            lpath : "1(+1)/2nd GB, 1/4th RY, 1/NN, 2/3rd RO, 2/2nd B, 4/8th B",
+            l_image : "'pinkponyclub_lead.png'",
+            lscore : "167480",
+
+            mpath : "3(+1)/4th G, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            m_image : "'pinkponyclub_mbass.png'",
+            mscore : "39960",
             } 
         },
 { value : "PLAYERS by YOASOBI", 
@@ -13861,6 +14035,35 @@ const songs = [
             mscore : "78207",
             } 
         },
+{ value : "Starman by David Bowie", 
+            data : {
+            shortname : "starman",
+
+            dpath : "1/7th GY, 1/11th GY, 1/5th GY, 1/13th GY, 1/1st GO, 1/NN, 1/5th RY, 1/5th GY, 1/NN, 1/2nd GB",
+            d_image : "'starman_drums.png'",
+            dscore : "216576",
+
+            vpath : "1/6th R, 1/3rd Y, 1/6th R, 1/4th R, 1/3rd B, 1/NN, 1/NN, 1/NN, 1/NN",
+            v_image : "'starman_vocals.png'",
+            vscore : "127947",
+
+            gpath : "1/NN, 1/9th GY, 2(+1)/3rd RO, 1/NN, 1/3rd G, 1(+1)/2nd GB, 1/11th B, 1/9th Y",
+            g_image : "'starman_guitar.png'",
+            gscore : "199548",
+
+            bpath : "2/1st B, 1/2nd Y, 2/8th B, 1/NN, 1/2nd O, 1/1st O, 1/2nd G, 1/1st O, 1/1st O",
+            b_image : "'starman_bass.png'",
+            bscore : "152826",
+
+            lpath : "1/NN, 1/2nd GY, 2(+1)/4th RB, 1/NN, 1/NN, 1/1st RO, 3/1st B",
+            l_image : "'starman_lead.png'",
+            lscore : "171672",
+
+            mpath : "2/1st B, 1/2nd Y, 2/7th B, 1/NN, 1/2nd O, 1/1st O, 1/2nd G, 1/1st O, 1/15th B",
+            m_image : "'starman_mbass.png'",
+            mscore : "148431",
+            } 
+        },
 { value : "Starships by Nicki Minaj", 
             data : {
             shortname : "starships",
@@ -14410,6 +14613,35 @@ const songs = [
             mpath : "1/22nd G, 1/25th R, 1/NN, 1/2nd B, 1/NN, 4/NN, 1/3rd G, 1/4th B, 1/4th G, 1/18th G, 1/NN, 1/NN",
             m_image : "'survivethenight_mbass.png'",
             mscore : "171564",
+            } 
+        },
+{ value : "Sweet But Psycho by Ava Max", 
+            data : {
+            shortname : "sweetbutpsycho",
+
+            dpath : "2/1st RY, 1/NN, 1/NN, 1(+1)/15th RY, 1/9th GY, 1/7th RY, 1/NN, 1/NN",
+            d_image : "'sweetbutpsycho_drums.png'",
+            dscore : "150336",
+
+            vpath : "1/7th B, 1/8th Y, 1/6th R, 1/2nd R, 1/NN, 1/2nd Y, 1/7th R, 1/5th R, 1(+1)/2.5 beats after 8th B, 1/14th Y",
+            v_image : "'sweetbutpsycho_vocals.png'",
+            vscore : "167256",
+
+            gpath : "4(+1)/1st RY, 3(+1)/1st GO, 1/4th O",
+            g_image : "'sweetbutpsycho_guitar.png'",
+            gscore : "103056",
+
+            bpath : "2/5th B, 1/NN, 1(+1)/5th B, 1/NN, 3/1.5 beats after 1st Y, 1/1st B",
+            b_image : "'sweetbutpsycho_bass.png'",
+            bscore : "73074",
+
+            lpath : "2(+1)/1st GY, 1/1st GY, 4(+1)/4th GB, 1/3rd O",
+            l_image : "'sweetbutpsycho_lead.png'",
+            lscore : "92328",
+
+            mpath : "2/4th Y, 1/NN, 1/1st Y, 1/NN, 1/NN, 3/1.5 beats after 1st Y, 1/1st Y",
+            m_image : "'sweetbutpsycho_mbass.png'",
+            mscore : "67941",
             } 
         },
 { value : "Sweet Child O' Mine by Guns N' Roses", 
