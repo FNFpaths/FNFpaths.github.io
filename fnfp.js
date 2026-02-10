@@ -8206,6 +8206,35 @@ const songs = [
             mscore : "118314",
             } 
         },
+{ value : "Just Pretend by Bad Omens", 
+            data : {
+            shortname : "justpretend",
+
+            dpath : "1/NN, 1/2nd GO, 2/2nd R, 1/2nd GO, 1/2nd RY, 1/1st RO, 1/6th RO, 1/2nd GO, 1/8th O",
+            d_image : "'justpretend_drums.png'",
+            dscore : "148320",
+
+            vpath : "1/4th R, 1/2nd O, 1/NN, 1/3rd B, 1/1st O, 1/3rd Y, 1/5th G, 1/3rd O, 1/NN, 1/3rd R, 1/7th G",
+            v_image : "'justpretend_vocals.png'",
+            vscore : "122352",
+
+            gpath : "1/2nd YO, 2/1st RB, 1/NN, 1/NN, 3(+1)/1st RB, 1/4th R",
+            g_image : "'justpretend_guitar.png'",
+            gscore : "155721",
+
+            bpath : "2/9th R, 3(+1)/9th R, 2/1st O, 2/3rd R, 1/NN",
+            b_image : "'justpretend_bass.png'",
+            bscore : "138153",
+
+            lpath : "1/2nd RO, 2/1st RB, 1/NN, 1/NN, 3(+1)/1st RB, 1/4th R",
+            l_image : "'justpretend_lead.png'",
+            lscore : "155721",
+
+            mpath : "2/9th R, 3(+1)/9th R, 2/1st O, 2/3rd R, 1/NN",
+            m_image : "'justpretend_mbass.png'",
+            mscore : "138153",
+            } 
+        },
 { value : "Keep Poppin by Epic Games", 
             data : {
             shortname : "keeppoppin",
