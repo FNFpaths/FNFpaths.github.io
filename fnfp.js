@@ -1217,6 +1217,35 @@ const songs = [
             mscore : "330048",
             } 
         },
+{ value : "Beanie by Chezile", 
+            data : {
+            shortname : "beanie",
+
+            dpath : "1/2nd RY, 1/NN, 1/NN, 2/2nd Y, 1/NN, 1/NN, 1/NN",
+            d_image : "'beanie_drums.png'",
+            dscore : "58320",
+
+            vpath : "2/NN, 1/1.1 beats after 4th B, 1/2nd Y, 1/1st Y, 1(+1)/3rd G",
+            v_image : "'beanie_vocals.png'",
+            vscore : "49839",
+
+            gpath : "1/NN, 1/NN, 1/NN, 2(+1)/1st O, 1/NN, 1/NN, 2/1st O",
+            g_image : "'beanie_guitar.png'",
+            gscore : "91200",
+
+            bpath : "4(+1)/3rd R, 1/2nd G, 2/1st R, 1/2nd B, 1/2nd B",
+            b_image : "'beanie_bass.png'",
+            bscore : "44607",
+
+            lpath : "1/NN, 1/NN, 1/NN, 2(+1)/1st O, 1/NN, 1/NN, 2/1st O",
+            l_image : "'beanie_lead.png'",
+            lscore : "91200",
+
+            mpath : "4(+1)/3rd R, 1/2nd G, 2/1st R, 1/2nd B, 1/2nd B",
+            m_image : "'beanie_mbass.png'",
+            mscore : "44607",
+            } 
+        },
 { value : "Beautiful by Snoop Dogg ft. Pharrell & Uncle Charlie Wilson", 
             data : {
             shortname : "beautiful",
@@ -3796,6 +3825,35 @@ const songs = [
             mpath : "2/10th R, 1/NN, 1/1st R, 1/NN, 1/NN, 3(+1)/0.5 beats after 8th R, 1/1st O, 1/NN",
             m_image : "'crownjam_mbass.png'",
             mscore : "192333",
+            } 
+        },
+{ value : "CRUISING TO SELF SOOTHE by Ecca Vandal", 
+            data : {
+            shortname : "cruisingtoselfsoothe",
+
+            dpath : "1/2nd GO, 1/1st GO, 1/NN, 1/NN, 1/26th O, 1/17th O, 1/15th O, 1/16th O, 1/NN, 1/6th O, 1/6th O, 1/6th O",
+            d_image : "'cruisingtoselfsoothe_drums.png'",
+            dscore : "144720",
+
+            vpath : "1/1st O, 1/1st O, 1/1st B, 1/4th Y, 1/1st O, 1/1st O, 1/NN, 1/1st O, 1/NN, 1/NN",
+            v_image : "'cruisingtoselfsoothe_vocals.png'",
+            vscore : "97434",
+
+            gpath : "1/NN, 1/NN, 2(+1)/5th RB, 1/6th RB, 1/1st YB, 1/NN, 1/11th RB",
+            g_image : "'cruisingtoselfsoothe_guitar.png'",
+            gscore : "188604",
+
+            bpath : "1/NN, 1/NN, 1/NN, 1/2nd G, 1/6th Y, 1/6th Y, 1/10th G, 1/5th Y, 1/6th Y, 1/6th Y, 1/6th Y",
+            b_image : "'cruisingtoselfsoothe_bass.png'",
+            bscore : "202698",
+
+            lpath : "1/NN, 1/NN, 2(+1)/5th GB, 1/6th GB, 1/1st GO, 1/NN, 1/11th GB",
+            l_image : "'cruisingtoselfsoothe_lead.png'",
+            lscore : "188340",
+
+            mpath : "1/5th Y, 1/NN, 1/NN, 1/2nd G, 1/6th Y, 1/6th Y, 1/3rd G, 1/5th Y, 1/6th Y, 1/6th Y, 1/6th Y",
+            m_image : "'cruisingtoselfsoothe_mbass.png'",
+            mscore : "198846",
             } 
         },
 { value : "Daisy 2.0 by Ashnikko ft. Hatsune Miku", 
