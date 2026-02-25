@@ -9192,6 +9192,35 @@ const songs = [
             mscore : "87201",
             } 
         },
+{ value : "Love Me Not by Ravyn Lenae", 
+            data : {
+            shortname : "lovemenot",
+
+            dpath : "1/1st GY, 1/NN, 1/NN, 1/13th RY, 1/NN, 1/NN, 1/NN, 1/NN, 2/1st GY",
+            d_image : "'lovemenot_drums.png'",
+            dscore : "189072",
+
+            vpath : "2(+1)/11th R, 1/1st O, 1/NN, 1(+1)/9th R, 1/4th B, 1/NN, 1/6th R",
+            v_image : "'lovemenot_vocals.png'",
+            vscore : "158007",
+
+            gpath : "2(+1)/6th R, 1(+1)/5th R, 1/3rd R, 1/6th O, 1/NN",
+            g_image : "'lovemenot_guitar.png'",
+            gscore : "82554",
+
+            bpath : "1/5th B, 1/5th G, 1/1st O, 1/2nd B, 1/NN, 1/3rd Y, 1/4th Y",
+            b_image : "'lovemenot_bass.png'",
+            bscore : "81237",
+
+            lpath : "2(+1)/6th R, 1(+1)/5th R, 2/6th O, 1/NN",
+            l_image : "'lovemenot_lead.png'",
+            lscore : "80754",
+
+            mpath : "1/6th O, 1/5th G, 1/1st O, 1/1st G, 1/NN, 1/4th R, 1/5th R",
+            m_image : "'lovemenot_mbass.png'",
+            mscore : "73212",
+            } 
+        },
 { value : "Lovin On Me by Jack Harlow", 
             data : {
             shortname : "lovinonme",
@@ -13743,6 +13772,35 @@ const songs = [
             mpath : "1/13th B, 2/2nd O, 1/2nd G, 2/3rd G, 1/3rd R, 1/NN, 1/NN, 4(+1)/1st G",
             m_image : "'snowmix_mbass.png'",
             mscore : "216864",
+            } 
+        },
+{ value : "So Far So Fake by Pierce The Veil", 
+            data : {
+            shortname : "sofarsofake",
+
+            dpath : "1/NN, 1/NN, 1/14th RY, 1/4th Y, 1/8th R, 1/2nd GY, 1/NN, 1/NN, 1/9th Y, 1/6th GB, 1/7th Y",
+            d_image : "'sofarsofake_drums.png'",
+            dscore : "236880",
+
+            vpath : "2/2nd B, 1/3rd Y, 1/1st R, 1/5th Y, 1/4th Y, 1/10th B, 1/0.75 beats after 11th B, 1/NN, 1/1st G",
+            v_image : "'sofarsofake_vocals.png'",
+            vscore : "122151",
+
+            gpath : "2/1st RO, 1/NN, 2/1st RO, 1/9th RY, 1/2nd R, 3/14th G, 1/6th R, 1/NN, 1/NN",
+            g_image : "'sofarsofake_guitar.png'",
+            gscore : "289280",
+
+            bpath : "1/NN, 2/NN, 1/9th B, 1/NN, 3(+1)/6th B, 1/32nd B",
+            b_image : "'sofarsofake_bass.png'",
+            bscore : "189576",
+
+            lpath : "2/1st RO, 1/NN, 2/1st RO, 1/NN, 1/2nd R, 3/14th G, 1/10th R, 1/NN, 1/NN",
+            l_image : "'sofarsofake_lead.png'",
+            lscore : "274524",
+
+            mpath : "1/NN, 2/NN, 1/12th G, 1/NN, 3(+1)/6th B, 1/32nd B",
+            m_image : "'sofarsofake_mbass.png'",
+            mscore : "187200",
             } 
         },
 { value : "Somebody That I Used To Know by Gotye ft. Kimbra", 
