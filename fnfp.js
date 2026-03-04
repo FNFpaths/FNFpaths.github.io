@@ -13455,6 +13455,35 @@ const songs = [
             mscore : "104442",
             } 
         },
+{ value : "Shy Girl by Haute & Freddy", 
+            data : {
+            shortname : "shygirl",
+
+            dpath : "2/3rd GY, 1/3rd GY, 1/NN, 2/1st GY, 1/3rd GY",
+            d_image : "'shygirl_drums.png'",
+            dscore : "210528",
+
+            vpath : "1/2nd O, 1/9th R, 1/5th B, 3/2nd R, 1/5th B, 1/8th Y, 1/NN, 1/1st B",
+            v_image : "'shygirl_vocals.png'",
+            vscore : "98913",
+
+            gpath : "2(+1)/3rd Y, 1/2nd YB, 2(+1)/3rd Y, 1/2nd YB, 1/7th G",
+            g_image : "'shygirl_guitar.png'",
+            gscore : "113403",
+
+            bpath : "2(+1)/15th R, 1/NN, 1/NN, 1(+1)/15th R, 1/NN, 1/NN",
+            b_image : "'shygirl_bass.png'",
+            bscore : "190296",
+
+            lpath : "3/After 0.5 beats, 1/2nd GB, 3/After 0.5 beats, 1/2nd GB, 1/7th G",
+            l_image : "'shygirl_lead.png'",
+            lscore : "111263",
+
+            mpath : "2(+1)/15th R, 1/NN, 1/NN, 1(+1)/15th R, 1/NN, 1/NN",
+            m_image : "'shygirl_mbass.png'",
+            mscore : "190296",
+            } 
+        },
 { value : "Side To Side by Ariana Grande ft. Nicki Minaj", 
             data : {
             shortname : "sidetoside",
@@ -16324,6 +16353,35 @@ const songs = [
             mpath : "1/1st G, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/1st Y, 1/NN, 1/NN, 1/NN",
             m_image : "'transparentsoul_mbass.png'",
             mscore : "158976",
+            } 
+        },
+{ value : "Tribute by Tenacious D", 
+            data : {
+            shortname : "tribute",
+
+            dpath : "2/6th RB, 1/5th RB, 1/1st GB, 2/11th Y",
+            d_image : "'tribute_drums.png'",
+            dscore : "163008",
+
+            vpath : "2/10th R, 1/NN, 1/6th O, 1/1st O, 1/10th B, 1/NN",
+            v_image : "'tribute_vocals.png'",
+            vscore : "135718",
+
+            gpath : "1/1st YB, 1/14th YB, 1/NN, 1/32nd YB, 1/6th YB, 1/1st R, 1/2nd G, 2/18th R",
+            g_image : "'tribute_guitar.png'",
+            gscore : "281808",
+
+            bpath : "2(+1)/1st Y, 1/8th G, 2/18th R",
+            b_image : "'tribute_bass.png'",
+            bscore : "135843",
+
+            lpath : "1/1st RB, 1/13th RB, 1/NN, 2/7th RB, 1/NN, 1/2nd G, 2/19th Y",
+            l_image : "'tribute_lead.png'",
+            lscore : "264856",
+
+            mpath : "2(+1)/1st Y, 1/8th G, 2/15th R",
+            m_image : "'tribute_mbass.png'",
+            mscore : "133161",
             } 
         },
 { value : "Tropical Heat by Epic Games", 
