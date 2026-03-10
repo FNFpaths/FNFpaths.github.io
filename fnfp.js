@@ -1710,6 +1710,35 @@ const songs = [
             mscore : "348516",
             } 
         },
+{ value : "BIBBIDIBA by Hoshimachi Suisei", 
+            data : {
+            shortname : "bibbidiba",
+
+            dpath : "1/9th RY, 1/17th R, 2(+1)/1st B, 1/1st R, 1/5th GY, 1/7th Y",
+            d_image : "'bibbidiba_drums.png'",
+            dscore : "147600",
+
+            vpath : "1/6th G, 1/7th G, 1/2nd O, 1/13th R, 1/20th B, 1/3rd G, 2/20th R",
+            v_image : "'bibbidiba_vocals.png'",
+            vscore : "187002",
+
+            gpath : "1/8th R, 1/7th O, 1/1st GY, 1/NN, 2(+1)/8th B, 1/4th RB",
+            g_image : "'bibbidiba_guitar.png'",
+            gscore : "126704",
+
+            bpath : "3/NN, 1/6th Y, 2/9th Y, 1/14th Y, 1/NN",
+            b_image : "'bibbidiba_bass.png'",
+            bscore : "175824",
+
+            lpath : "1/8th G, 1/7th O, 1/1st GY, 1/NN, 2(+1)/5th B, 1/10th RB",
+            l_image : "'bibbidiba_lead.png'",
+            lscore : "124548",
+
+            mpath : "3/NN, 3/10th R, 1/15th R, 1/1st G",
+            m_image : "'bibbidiba_mbass.png'",
+            mscore : "168365",
+            } 
+        },
 { value : "Big Dawgs by Hanumankind ft. Kalmi", 
             data : {
             shortname : "bigdawgs",
@@ -14294,6 +14323,35 @@ const songs = [
             mpath : "2(+1)/14th Y, 3/1st B, 1/1st Y, 1/NN, 1/2nd R, 3/4th Y, 1/4th Y",
             m_image : "'stayalta_mbass.png'",
             mscore : "107418",
+            } 
+        },
+{ value : "Stellar Stellar by Hoshimachi Suisei", 
+            data : {
+            shortname : "stellarstellar",
+
+            dpath : "1/5th B, 1/25th Y, 1/9th Y, 1/NN, 1/5th Y, 1/10th O, 1/3rd B, 1/3rd O, 1/NN, 1/1st RB, 1/4th RY, 1/7th O, 2/1st GB, 1/NN, 1/NN, 1/1st GO, 4(+1)/13th Y",
+            d_image : "'stellarstellar_drums.png'",
+            dscore : "374346",
+
+            vpath : "2/3rd G, 1/1st G, 1/4th G, 1/NN, 1/2nd Y, 3/NN, 1/NN, 1/2nd Y, 1/NN, 1/2nd O, 2/NN, 1/NN, 1/2nd Y, 1/NN",
+            v_image : "'stellarstellar_vocals.png'",
+            vscore : "182062",
+
+            gpath : "1/8th Y, 3(+1)/4th Y, 2/3rd G, 1/3rd G, 3/1st G, 1/NN, 3(+1)/8th G, 3(+1)/3rd G, 1/16th O",
+            g_image : "'stellarstellar_guitar.png'",
+            gscore : "338724",
+
+            bpath : "2/4th Y, 1/NN, 1/1 beats after 7th B, 1/3rd R, 1/4th B, 1/1st G, 2(+1)/6th R, 1/NN, 1/2nd R, 1/2nd R, 1/3rd B, 1/NN, 1/NN",
+            b_image : "'stellarstellar_bass.png'",
+            bscore : "162321",
+
+            lpath : "1/6th B, 3(+1)/14th Y, 2/3rd G, 1/3rd G, 3/1st Y, 1/NN, 3(+1)/13th G, 3(+1)/3rd Y, 1/35th R",
+            l_image : "'stellarstellar_lead.png'",
+            lscore : "329450",
+
+            mpath : "2/2nd R, 1/NN, 1/4th B, 1/3rd R, 1/4th B, 1/NN, 2(+1)/6th R, 1/NN, 1/2nd R, 1/2nd R, 1/3rd B, 1/NN, 1/NN",
+            m_image : "'stellarstellar_mbass.png'",
+            mscore : "153122",
             } 
         },
 { value : "Stick Season by Noah Kahan", 
