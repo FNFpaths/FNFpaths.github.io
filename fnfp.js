@@ -10236,6 +10236,35 @@ const songs = [
             mscore : "116454",
             } 
         },
+{ value : "Move (Adapted) by 1K Phew, Lecrae", 
+            data : {
+            shortname : "moveadapted",
+
+            dpath : "1/9th GY, 1/10th GY, 1/6th RY, 1/4th GY, 1/1st R, 1/8th GY, 1/7th RY",
+            d_image : "'moveadapted_drums.png'",
+            dscore : "124272",
+
+            vpath : "1/16th R, 1/15th O, 1/NN, 1/2nd O, 1/NN, 1/8th B, 1/1st B",
+            v_image : "'moveadapted_vocals.png'",
+            vscore : "151104",
+
+            gpath : "1/NN, 1/2nd GB, 1/2nd GB, 1/2nd GB",
+            g_image : "'moveadapted_guitar.png'",
+            gscore : "22056",
+
+            bpath : "3/14th G, 1/NN, 1/NN, 1/1st G, 1/14th G",
+            b_image : "'moveadapted_bass.png'",
+            bscore : "51234",
+
+            lpath : "1/NN, 1/2nd GO, 1/2nd GO, 1/2nd GO",
+            l_image : "'moveadapted_lead.png'",
+            lscore : "22056",
+
+            mpath : "3/14th G, 1/NN, 1/NN, 1/1st G, 1/14th G",
+            m_image : "'moveadapted_mbass.png'",
+            mscore : "51234",
+            } 
+        },
 { value : "Move Like the Mist by Epic Games", 
             data : {
             shortname : "movelikethemist",
@@ -16556,6 +16585,35 @@ const songs = [
             mpath : "1/7th B, 1/1st G, 1/1st G, 1/1st G, 1/1st G, 1/NN, 1/1st G",
             m_image : "'tusa_mbass.png'",
             mscore : "84891",
+            } 
+        },
+{ value : "TV Off by Kendrick Lamar ft. Lefty Gunplay", 
+            data : {
+            shortname : "tvoff",
+
+            dpath : "1/5th GY, 1/NN, 1/1st GY, 1/NN, 1/NN, 1/3rd GY, 1/2nd GY, 1/2nd GB, 1/3rd GB",
+            d_image : "'tvoff_drums.png'",
+            dscore : "142128",
+
+            vpath : "1/5th O, 1/18th R, 2/1st G, 1/11th B, 3(+1)/18th G, 1/NN",
+            v_image : "'tvoff_vocals.png'",
+            vscore : "266490",
+
+            gpath : "1/6th RY, 1/12th RY, 1/4th RY, 1/0.5 beats after 4th B, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            g_image : "'tvoff_guitar.png'",
+            gscore : "88555",
+
+            bpath : "2/3rd R, 1/3rd R, 1/NN, 1/1st R, 1/1st G, 1/1st G, 1/11th Y, 1/NN",
+            b_image : "'tvoff_bass.png'",
+            bscore : "85992",
+
+            lpath : "1/6th RY, 1/12th RY, 1/4th RY, 1/0.5 beats after 4th B, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            l_image : "'tvoff_lead.png'",
+            lscore : "88555",
+
+            mpath : "2/7th Y, 1/3rd Y, 1/NN, 1/5th Y, 1/1st G, 1/1st G, 1/11th R, 1/NN",
+            m_image : "'tvoff_mbass.png'",
+            mscore : "85992",
             } 
         },
 { value : "2055 by Sleepy Hallow", 
