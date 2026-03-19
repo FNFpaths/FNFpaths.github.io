@@ -434,6 +434,35 @@ const songs = [
             mscore : "124869",
             } 
         },
+{ value : "All Hail the King by Epic Games", 
+            data : {
+            shortname : "allhailtheking",
+
+            dpath : "2(+1)/6th RB, 3/2nd GY, 1/4th RY, 1/7th R, 1/5th GY, 1/4th GB",
+            d_image : "'allhailtheking_drums.png'",
+            dscore : "163860",
+
+            vpath : "1/5th G, 1/1st GB, 4/1st RB",
+            v_image : "'allhailtheking_vocals.png'",
+            vscore : "34290",
+
+            gpath : "1/7th Y, 1/30th Y, 1/2nd O, 2/1st GY, 1/2nd GY, 2(+1)/10th RY, 1/1st GY",
+            g_image : "'allhailtheking_guitar.png'",
+            gscore : "136110",
+
+            bpath : "2(+1)/1st B, 4/NN, 1/NN, 1/6th R, 1/17th G",
+            b_image : "'allhailtheking_bass.png'",
+            bscore : "137529",
+
+            lpath : "1/7th Y, 1/27th Y, 1/2nd O, 2/1st RY, 1/2nd RY, 2(+1)/10th GB, 1/1st GB",
+            l_image : "'allhailtheking_lead.png'",
+            lscore : "136110",
+
+            mpath : "2(+1)/1st B, 4/NN, 1/NN, 1/6th R, 1/17th G",
+            m_image : "'allhailtheking_mbass.png'",
+            mscore : "137529",
+            } 
+        },
 { value : "All I Do Is Win by DJ Khaled ft. T-Pain, Ludacris, Snoop Dogg & Rick Ross", 
             data : {
             shortname : "allidoiswin",
@@ -8786,6 +8815,35 @@ const songs = [
             mscore : "46482",
             } 
         },
+{ value : "Let the Cold Take Over by Epic Games", 
+            data : {
+            shortname : "letthecoldtakeover",
+
+            dpath : "2/4th R, 1/1st B, 1/NN, 3/6th R, 1/NN, 1/1st B, 1/NN, 1/NN",
+            d_image : "'letthecoldtakeover_drums.png'",
+            dscore : "183585",
+
+            vpath : "1/5th G, 1/10th Y, 1/NN, 2/2nd B, 1/NN, 1/4th Y, 1/NN, 1/14th Y, 1/NN, 1/NN, 1/NN",
+            v_image : "'letthecoldtakeover_vocals.png'",
+            vscore : "141333",
+
+            gpath : "1/1st GR, 1/NN, 1(+1)/82nd G, 1/1st GB, 1/NN, 1/NN, 1/NN, 1/34th G, 1/NN, 1/NN, 1/2nd B",
+            g_image : "'letthecoldtakeover_guitar.png'",
+            gscore : "229287",
+
+            bpath : "1/7th B, 3/1st G, 1/NN, 1/NN, 1/1st G, 1/NN, 1/NN, 1/NN, 1/3rd G",
+            b_image : "'letthecoldtakeover_bass.png'",
+            bscore : "86193",
+
+            lpath : "1/4th B, 1/NN, 1(+1)/82nd G, 1/1st GY, 1/NN, 1/NN, 1/NN, 1/34th G, 1/NN, 1/NN, 1/2nd B",
+            l_image : "'letthecoldtakeover_lead.png'",
+            lscore : "228999",
+
+            mpath : "1/7th B, 3/1st G, 1/NN, 1/NN, 1/1st G, 1/NN, 1/NN, 1/NN, 1/3rd G",
+            m_image : "'letthecoldtakeover_mbass.png'",
+            mscore : "85329",
+            } 
+        },
 { value : "When I Let the Music Play by Epic Games", 
             data : {
             shortname : "letthemusicplay",
@@ -9538,6 +9596,35 @@ const songs = [
             mpath : "3/1st G, 1/1st Y, 4(+1)/1st G",
             m_image : "'makethecrowdroar_mbass.png'",
             mscore : "102558",
+            } 
+        },
+{ value : "Make the Fishstick Pay by Epic Games", 
+            data : {
+            shortname : "makethefishstickpay",
+
+            dpath : "1/3rd GY, 1/3rd RB, 3/2nd O, 1/8th RO, 1/1st RB, 1/1st RB, 1/29th G, 1/NN, 1/3rd O",
+            d_image : "'makethefishstickpay_drums.png'",
+            dscore : "200352",
+
+            vpath : "1/2nd G, 1/NN, 3/3rd G, 1/14th B, 1/NN, 1/NN, 1/2nd B, 1/1st GO, 1/13th Y",
+            v_image : "'makethefishstickpay_vocals.png'",
+            vscore : "186585",
+
+            gpath : "2/1st RY, 1/1st GB, 1/2nd GB, 2(+1)/5th G, 1/3rd G, 1/NN, 1/6th O, 1/NN, 1/9th R",
+            g_image : "'makethefishstickpay_guitar.png'",
+            gscore : "224492",
+
+            bpath : "1/5th B, 1/2nd B, 1/NN, 1/After 0.082 beats, 1/NN, 1/5th B, 1/NN, 2(+1)/5th B",
+            b_image : "'makethefishstickpay_bass.png'",
+            bscore : "99959",
+
+            lpath : "2/1st RY, 1/1st GY, 1/2nd GY, 2/11th R, 1/NN, 1/5th G, 1/NN, 1/6th O, 1/NN, 1/10th Y",
+            l_image : "'makethefishstickpay_lead.png'",
+            lscore : "208212",
+
+            mpath : "2(+1)/2nd B, 1/After 0.082 beats, 1/NN, 1/4th B, 1/NN, 2(+1)/7th B",
+            m_image : "'makethefishstickpay_mbass.png'",
+            mscore : "96781",
             } 
         },
 { value : "Make You Mine by Madison Beer", 
