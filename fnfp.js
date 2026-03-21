@@ -9606,9 +9606,9 @@ const songs = [
             d_image : "'makethefishstickpay_drums.png'",
             dscore : "200352",
 
-            vpath : "1/2nd G, 1/NN, 3/3rd G, 1/14th B, 1/NN, 1/NN, 1/2nd B, 1/1st GO, 1/13th Y",
+            vpath : "1/2nd G, 1/NN, 1/1st B, 1/13th Y, 2/NN, 1/NN, 1/NN, 1/2nd B, 1/1st GO, 1/13th Y",
             v_image : "'makethefishstickpay_vocals.png'",
-            vscore : "186585",
+            vscore : "187251",
 
             gpath : "2/1st RY, 1/1st GB, 1/2nd GB, 2(+1)/5th G, 1/3rd G, 1/NN, 1/6th O, 1/NN, 1/9th R",
             g_image : "'makethefishstickpay_guitar.png'",
