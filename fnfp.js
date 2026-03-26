@@ -3972,6 +3972,35 @@ const songs = [
             mscore : "27042",
             } 
         },
+{ value : "Dance Macabre by Ghost", 
+            data : {
+            shortname : "dancemacabre",
+
+            dpath : "1/8th GY, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/1st RB, 1/5th GO, 1/7th RB, 1/1st RY, 1/NN",
+            d_image : "'dancemacabre_drums.png'",
+            dscore : "214992",
+
+            vpath : "1/5th R, 1/1st G, 1/3rd Y, 1/1st O, 1/1st G, 1/7th O, 1/4 beats after 12th O",
+            v_image : "'dancemacabre_vocals.png'",
+            vscore : "81021",
+
+            gpath : "1/0.5 beats after 3rd RY, 1/1st RY, 1/1st RBO, 1/1st GR, 1/1st RY, 1/1st RYO, 1/2.2 beats after 4th Y, 1/1st RY, 1/NN, 1/After 1.5 beats, 1/2nd R, 1/1st RY",
+            g_image : "'dancemacabre_guitar.png'",
+            gscore : "151692",
+
+            bpath : "1/8th B, 1/NN, 1/NN, 1/NN, 1/6th B, 1/7th B, 2/1st R, 1(+1)/2nd G, 1/4th O",
+            b_image : "'dancemacabre_bass.png'",
+            bscore : "194004",
+
+            lpath : "1/0.5 beats after 3rd GB, 1/1st GB, 2(+1)/1st GB, 2(+1)/1st GB, 1/NN, 1/After 1.5 beats, 1/4th GB, 1/1st GB",
+            l_image : "'dancemacabre_lead.png'",
+            lscore : "143972",
+
+            mpath : "1/8th B, 1/NN, 1/NN, 1/NN, 1/6th B, 1/7th Y, 2/1st R, 1(+1)/2nd G, 1/4th O",
+            m_image : "'dancemacabre_mbass.png'",
+            mscore : "193374",
+            } 
+        },
 { value : "Dance Therapy by Epic Games", 
             data : {
             shortname : "dancetherapy",
