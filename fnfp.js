@@ -8206,6 +8206,35 @@ const songs = [
             mscore : "228564",
             } 
         },
+{ value : "I Won't Say (I'm In Love) by Hercules Cast", 
+            data : {
+            shortname : "iwontsay",
+
+            dpath : "1/18th GY, 1/2nd GO, 2/10th GY, 1/2nd GO, 1/NN",
+            d_image : "'iwontsay_drums.png'",
+            dscore : "99648",
+
+            vpath : "1/9th Y, 1/2nd G, 1/10th R, 1/NN, 1/2nd B, 1/4th O",
+            v_image : "'iwontsay_vocals.png'",
+            vscore : "84921",
+
+            gpath : "1/6th RY, 3/2nd Y, 1/2nd YB, 1/2nd G",
+            g_image : "'iwontsay_guitar.png'",
+            gscore : "100246",
+
+            bpath : "1/2nd G, 1/4th Y, 1/3rd R, 1/3rd R, 1/1st R, 1/1st G",
+            b_image : "'iwontsay_bass.png'",
+            bscore : "62838",
+
+            lpath : "1/6th RB, 1/2nd RY, 2/5th G, 1/2nd RY, 1/5th G",
+            l_image : "'iwontsay_lead.png'",
+            lscore : "97282",
+
+            mpath : "1/2nd G, 1/4th Y, 1/3rd R, 1/3rd R, 1/1st R, 1/1st G",
+            m_image : "'iwontsay_mbass.png'",
+            mscore : "62508",
+            } 
+        },
 { value : "I Write Sins Not Tragedies by Panic! At The Disco", 
             data : {
             shortname : "iwritesins",
@@ -18238,6 +18267,35 @@ const songs = [
             mpath : "1/4th O, 1/1st O, 1/1st R, 1/NN, 1/1st O, 1/1st O, 1/1st R, 1/NN, 1/2nd R, 1/NN, 1/NN",
             m_image : "'youruniverse_mbass.png'",
             mscore : "94584",
+            } 
+        },
+{ value : "Zero to Hero by Hercules Cast", 
+            data : {
+            shortname : "zerotohero",
+
+            dpath : "1/1st GB, 1/NN, 1/5th GY, 1/1st GB, 1/NN, 1/3rd GO, 1/5th R, 1/NN, 1/6th GO",
+            d_image : "'zerotohero_drums.png'",
+            dscore : "151776",
+
+            vpath : "1/2nd R, 3/1st Y, 2(+1)/6th Y, 1/2nd B",
+            v_image : "'zerotohero_vocals.png'",
+            vscore : "127251",
+
+            gpath : "1/3rd RB, 1/1st RB, 1/1st G, 1/2nd YB, 1/NN, 1/5th R, 1/NN, 1/3rd RY",
+            g_image : "'zerotohero_guitar.png'",
+            gscore : "131147",
+
+            bpath : "1/3rd R, 1/2nd Y, 1/1st G, 3(+1)/6th B, 1/10th Y",
+            b_image : "'zerotohero_bass.png'",
+            bscore : "128088",
+
+            lpath : "1/3rd RB, 1/1st GB, 1/2nd Y, 1/2nd GO, 1/2nd GB, 1/5th R, 1/3rd R, 1/2nd RY",
+            l_image : "'zerotohero_lead.png'",
+            lscore : "124993",
+
+            mpath : "1/3rd R, 1/2nd Y, 1/1st G, 3(+1)/8th B, 1/10th Y",
+            m_image : "'zerotohero_mbass.png'",
+            mscore : "127296",
             } 
         },
 { value : "Zombie by The Cranberries", 
