@@ -16442,6 +16442,35 @@ const songs = [
             mscore : "74691",
             } 
         },
+{ value : "Today is Gonna be a Great Day  by Bowling For Soup", 
+            data : {
+            shortname : "todayisgonnabe",
+
+            dpath : "1/5th GY, 1/3rd GY, 1(+1)/1st RY, 1/3rd RY, 1/8th GY, 1/15th O, 1/5th GO, 1/19th O, 3/1st RY, 1/6th O",
+            d_image : "'todayisgonnabe_drums.png'",
+            dscore : "175392",
+
+            vpath : "1/9th B, 1/3rd Y, 1/9th R, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 3/NN, 1/14th R, 1/5th B",
+            v_image : "'todayisgonnabe_vocals.png'",
+            vscore : "170004",
+
+            gpath : "1/NN, 1/8th GR, 1/9th RB, 1/21st YO, 1/1st RB, 1/2nd GR, 1/2nd RY, 1/2nd RB, 1/14th YO, 1/NN, 1/1st RB, 1/1st YO, 1/NN",
+            g_image : "'todayisgonnabe_guitar.png'",
+            gscore : "250704",
+
+            bpath : "1/1st G, 1/3rd G, 1/9th B, 1/15th R, 1/NN, 1/2nd G, 2(+1)/20th G, 1/NN, 1/NN, 1/NN, 1/1st G",
+            b_image : "'todayisgonnabe_bass.png'",
+            bscore : "211974",
+
+            lpath : "1/NN, 1/8th GY, 1/9th RY, 1/21st GO, 1/1st RY, 1/2nd GY, 1/2nd GB, 1/2nd RY, 1/14th GO, 1/NN, 1/1st RY, 1/1st GO, 1/NN",
+            l_image : "'todayisgonnabe_lead.png'",
+            lscore : "250080",
+
+            mpath : "1/1st G, 1/3rd G, 1/9th B, 1/15th R, 1/NN, 1/2nd G, 2(+1)/20th G, 1/NN, 1/NN, 1/NN, 1/1st G",
+            m_image : "'todayisgonnabe_mbass.png'",
+            mscore : "210894",
+            } 
+        },
 { value : "Too Sweet by Hozier", 
             data : {
             shortname : "toosweet",
