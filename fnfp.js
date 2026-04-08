@@ -6089,6 +6089,35 @@ const songs = [
             mscore : "65346",
             } 
         },
+{ value : "Gabriela by KATSEYE", 
+            data : {
+            shortname : "gabriela",
+
+            dpath : "1/1st RY, 1/3rd RY, 1/1st RY, 1/3rd RY, 1/1st RY, 1/NN, 1/3rd RY, 1/4th RY, 1/4th RY",
+            d_image : "'gabriela_drums.png'",
+            dscore : "156816",
+
+            vpath : "1/11th Y, 1/NN, 1/8th Y, 1/5th Y, 1/7th Y, 1/10th Y, 1/3rd Y, 1/6th R, 1/4th R, 1/4th Y, 1/NN, 1/9th Y",
+            v_image : "'gabriela_vocals.png'",
+            vscore : "149478",
+
+            gpath : "2(+1)/1st YB, 1/1st YB, 1/1st YB, 1/1st YB, 1/1st YB, 3/1st YB, 1/1st YB",
+            g_image : "'gabriela_guitar.png'",
+            gscore : "150021",
+
+            bpath : "2/3rd G, 1/5th R, 1/8th B, 1/3rd R, 1/3rd R, 1/4th O, 1/4th O, 1/6th R",
+            b_image : "'gabriela_bass.png'",
+            bscore : "102783",
+
+            lpath : "2(+1)/1st GB, 1/6th RO, 1/1st GB, 1/1st GB, 1/1st GB, 3/1st GB, 1/1st GB",
+            l_image : "'gabriela_lead.png'",
+            lscore : "138717",
+
+            mpath : "2/3rd G, 1/NN, 1/7th O, 1/3rd R, 1/3rd R, 1/4th O, 1/4th O, 1/6th R",
+            m_image : "'gabriela_mbass.png'",
+            mscore : "102954",
+            } 
+        },
 { value : "Gangnam Style by PSY", 
             data : {
             shortname : "gangnamstyle",
