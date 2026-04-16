@@ -260,6 +260,35 @@ const songs = [
             mscore : "174753",
             } 
         },
+{ value : "After Dark by Selectracks", 
+            data : {
+            shortname : "afterdark",
+
+            dpath : "1/2nd RB, 1/1st RO, 2/1st GB, 1/1st GB, 1/6th B, 1/NN, 1/4th GB",
+            d_image : "'afterdark_drums.png'",
+            dscore : "121248",
+
+            vpath : "1/0.33 beats after 1st O, 1/5th O, 1/11th B, 1/3rd G, 1/1st O, 1/3rd G",
+            v_image : "'afterdark_vocals.png'",
+            vscore : "53050",
+
+            gpath : "1/3rd R, 1/1st GRY, 1/1st GR, 1/1st RYO, 1/1st R, 1(+1)/1st YB, 1/8th Y",
+            g_image : "'afterdark_guitar.png'",
+            gscore : "85728",
+
+            bpath : "2/4th O, 1/2nd B, 1/1st O, 1/2nd O, 1/2nd O, 1(+1)/7th R",
+            b_image : "'afterdark_bass.png'",
+            bscore : "99416",
+
+            lpath : "1/3rd R, 1/3rd R, 1/1st GY, 1/2nd RY, 1/1st R, 2/1st GO, 1/6th Y",
+            l_image : "'afterdark_lead.png'",
+            lscore : "75788",
+
+            mpath : "2/4th O, 1/2nd B, 1/1st O, 1/2nd O, 1/2nd O, 1(+1)/6th R",
+            m_image : "'afterdark_mbass.png'",
+            mscore : "99416",
+            } 
+        },
 { value : "AAAHH MEN! by Doja Cat", 
             data : {
             shortname : "ahhhmen",
@@ -898,6 +927,35 @@ const songs = [
             mscore : "54249",
             } 
         },
+{ value : "A Thousand Miles by Vanessa Carlton", 
+            data : {
+            shortname : "athousandmiles",
+
+            dpath : "1/NN, 1/1st GO, 1/1st RY, 1/2nd RY, 1/2nd RY, 2/NN, 1/1st GY, 1/1st GY",
+            d_image : "'athousandmiles_drums.png'",
+            dscore : "207648",
+
+            vpath : "1/14th R, 1/5th R, 1/NN, 1/3rd R, 1/1st O, 1/NN, 1(+1)/11th R",
+            v_image : "'athousandmiles_vocals.png'",
+            vscore : "110250",
+
+            gpath : "1/1st O, 2/3.7 beats after 3rd Y, 1/NN, 2/1st G, 1/3rd O, 1/NN, 2/1st G",
+            g_image : "'athousandmiles_guitar.png'",
+            gscore : "150151",
+
+            bpath : "1/1 beats after 6th B, 1/2nd B, 2/2nd G, 1/9th B, 3/6th R",
+            b_image : "'athousandmiles_bass.png'",
+            bscore : "97690",
+
+            lpath : "1/1st O, 2/3.7 beats after 3rd Y, 1/NN, 2/1st G, 1/3rd O, 1/NN, 2/1st G",
+            l_image : "'athousandmiles_lead.png'",
+            lscore : "149683",
+
+            mpath : "1/0.75 beats after 4th B, 1/4th R, 2/2nd G, 1/9th B, 3/5th R",
+            m_image : "'athousandmiles_mbass.png'",
+            mscore : "91123",
+            } 
+        },
 { value : "Everybody (Backstreet's Back) by Backstreet Boys", 
             data : {
             shortname : "backstreetsback",
@@ -925,6 +983,64 @@ const songs = [
             mpath : "1/4th B, 1/NN, 1(+1)/6th R, 1(+1)/8th O, 1/NN, 1/NN",
             m_image : "'backstreetsback_mbass.png'",
             mscore : "103020",
+            } 
+        },
+{ value : "Back to Black by Amy Winehouse", 
+            data : {
+            shortname : "backtoblack",
+
+            dpath : "3(+1)/1st RB, 4(+1)/5th RB, 3(+1)/1st GY",
+            d_image : "'backtoblack_drums.png'",
+            dscore : "134640",
+
+            vpath : "1/8th Y, 1/1st Y, 1/1st G, 1/3rd B, 1/3rd B, 1/2.2 beats after 7th Y, 1/2nd B, 1/NN, 1/3rd B, 2/1st R, 1/10th B",
+            v_image : "'backtoblack_vocals.png'",
+            vscore : "102252",
+
+            gpath : "1/6th GB, 1/NN, 1/NN, 1/1st GB, 1/3rd R, 1/NN, 4(+1)/1st G, 1/4th B",
+            g_image : "'backtoblack_guitar.png'",
+            gscore : "105352",
+
+            bpath : "2(+1)/3rd Y, 1/1st B, 1/NN, 1/NN, 1/NN, 1/NN, 1(+1)/4th R, 1/12th R",
+            b_image : "'backtoblack_bass.png'",
+            bscore : "89078",
+
+            lpath : "1/6th GB, 1/NN, 1/NN, 1/1st GB, 1/3rd R, 1/2nd R, 4(+1)/1st G, 1/4th B",
+            l_image : "'backtoblack_lead.png'",
+            lscore : "102876",
+
+            mpath : "2(+1)/3rd Y, 1/1st B, 1/NN, 1/NN, 1/NN, 1/NN, 1(+1)/4th R, 1/12th R",
+            m_image : "'backtoblack_mbass.png'",
+            mscore : "88904",
+            } 
+        },
+{ value : "back to friends by sombr", 
+            data : {
+            shortname : "backtofriends",
+
+            dpath : "1/NN, 1/NN, 1/3rd G, 1/44th Y, 1/3rd G, 1/3rd G, 1/3rd G, 1/6th Y",
+            d_image : "'backtofriends_drums.png'",
+            dscore : "166320",
+
+            vpath : "1/15th G, 1/NN, 1/3rd O, 1/4th B, 1/2nd O, 1/1st O, 1/NN",
+            v_image : "'backtofriends_vocals.png'",
+            vscore : "73020",
+
+            gpath : "1/8th BO, 1/NN, 1/19th G, 4(+1)/2nd B",
+            g_image : "'backtofriends_guitar.png'",
+            gscore : "161728",
+
+            bpath : "1/2nd Y, 4/3 beats after 1st G, 1/1st Y, 1/NN, 1/1st G",
+            b_image : "'backtofriends_bass.png'",
+            bscore : "40373",
+
+            lpath : "1/8th RO, 1/NN, 1/19th G, 4(+1)/2nd B",
+            l_image : "'backtofriends_lead.png'",
+            lscore : "145344",
+
+            mpath : "1/2nd Y, 4/2.5 beats after 1st G, 1/1st Y, 1/NN, 1/1st G",
+            m_image : "'backtofriends_mbass.png'",
+            mscore : "40259",
             } 
         },
 { value : "bad guy by Billie Eilish", 
@@ -2172,6 +2288,35 @@ const songs = [
             mpath : "1/9th Y, 1/2nd R, 1/1st Y, 1/2nd R, 1/NN",
             m_image : "'blueberryfaygo_mbass.png'",
             mscore : "65985",
+            } 
+        },
+{ value : "Blue English by Vittorio Iannucci, Federica Capretti", 
+            data : {
+            shortname : "blueenglish",
+
+            dpath : "2/NN, 1/6th RB, 1/12th RB, 1/14th RB, 1/6th RB, 1/NN, 1/NN, 1/NN",
+            d_image : "'blueenglish_drums.png'",
+            dscore : "163440",
+
+            vpath : "1/2nd G, 1/5th Y, 1/1st Y, 1/3rd R, 1/NN, 1/4th Y, 1/3rd Y",
+            v_image : "'blueenglish_vocals.png'",
+            vscore : "53751",
+
+            gpath : "1/NN, 1/NN, 1/NN, 1/5th R, 1/1st B, 1/3rd Y, 1/8th B, 1/5th Y, 1/NN, 1/1st YBO",
+            g_image : "'blueenglish_guitar.png'",
+            gscore : "90824",
+
+            bpath : "2(+1)/3rd G, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            b_image : "'blueenglish_bass.png'",
+            bscore : "64572",
+
+            lpath : "1/NN, 1/NN, 1/NN, 1/5th R, 1/1st B, 1/7th R, 1/4th B, 1/5th Y, 1/NN, 1/5th G",
+            l_image : "'blueenglish_lead.png'",
+            lscore : "85096",
+
+            mpath : "2(+1)/3rd G, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            m_image : "'blueenglish_mbass.png'",
+            mscore : "64572",
             } 
         },
 { value : "Bonde Do Brunão by Bruno Mars", 
@@ -3680,6 +3825,35 @@ const songs = [
             mpath : "4(+2)/5th B, 4(+1)/1st R",
             m_image : "'comeandgo_mbass.png'",
             mscore : "85830",
+            } 
+        },
+{ value : "Coral Chorus (Remix) by Epic Games", 
+            data : {
+            shortname : "coralchorusremix",
+
+            dpath : "1/1st R, 3/2nd O, 1/9th G, 1/19th Y, 1/1st GO, 1/NN, 1/2nd RB, 1/NN",
+            d_image : "'coralchorusremix_drums.png'",
+            dscore : "148608",
+
+            vpath : "1/6th G, 1/2nd G, 1/1st B, 1/4th B, 1/1st G, 1/2nd G, 1/NN, 1/6th B, 1/2nd B, 1/3rd G, 1/NN",
+            v_image : "'coralchorusremix_vocals.png'",
+            vscore : "101586",
+
+            gpath : "1/2nd GY, 1/NN, 2(+1)/19th BO, 1(+1)/11th RO, 3/1st YO, 1/3rd Y, 1/1st RY",
+            g_image : "'coralchorusremix_guitar.png'",
+            gscore : "171366",
+
+            bpath : "2/4th R, 1(+1)/2nd G, 1/NN, 1/5th B, 2/NN, 1/4th R",
+            b_image : "'coralchorusremix_bass.png'",
+            bscore : "86970",
+
+            lpath : "1/2nd GY, 1/NN, 2(+1)/19th RO, 1(+1)/11th RO, 3/1st RO, 1/3rd B, 1/1st RY",
+            l_image : "'coralchorusremix_lead.png'",
+            lscore : "170934",
+
+            mpath : "2/1st Y, 1(+1)/2nd G, 1/NN, 1/5th B, 2/NN, 1/4th R",
+            m_image : "'coralchorusremix_mbass.png'",
+            mscore : "86040",
             } 
         },
 { value : "Counting Stars by OneRepublic", 
@@ -5944,6 +6118,35 @@ const songs = [
             mscore : "289212",
             } 
         },
+{ value : "From the Start by Laufey", 
+            data : {
+            shortname : "fromthestart",
+
+            dpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/1st GY, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            d_image : "'fromthestart_drums.png'",
+            dscore : "201024",
+
+            vpath : "1(+1)/6th B, 1/1st R, 1/NN, 1/3rd B, 1/1st G, 1/1st O, 1/4th R, 1/2nd R, 1/1st R, 1/NN",
+            v_image : "'fromthestart_vocals.png'",
+            vscore : "92400",
+
+            gpath : "1/1st YB, 1/1st RB, 1/2nd RB, 1/NN, 2/2nd RB, 1/5th YB, 1/1st YB, 1/1st YB, 1/NN, 1/1st RB",
+            g_image : "'fromthestart_guitar.png'",
+            gscore : "150656",
+
+            bpath : "1/3rd R, 1/1st R, 1/3rd R, 1/1st R, 1/NN, 1/2nd R, 1/NN, 1/NN, 1/4th R, 1/7th R",
+            b_image : "'fromthestart_bass.png'",
+            bscore : "67578",
+
+            lpath : "1/4th RY, 1/1st RY, 1/2nd RY, 1/NN, 2/2nd RY, 1/0.5 beats after 4th G, 1/2nd RY, 1/1st RB, 1/NN, 1/1st RB",
+            l_image : "'fromthestart_lead.png'",
+            lscore : "140424",
+
+            mpath : "1/3rd R, 1/1st R, 1/3rd R, 1/1st R, 1/NN, 1/2nd R, 1/NN, 1/NN, 1/4th R, 1/6th R",
+            m_image : "'fromthestart_mbass.png'",
+            mscore : "67038",
+            } 
+        },
 { value : "FTCU by Nicki Minaj", 
             data : {
             shortname : "ftcu",
@@ -7423,6 +7626,35 @@ const songs = [
             mscore : "165633",
             } 
         },
+{ value : "I Believe in a Thing Called Love by The Darkness", 
+            data : {
+            shortname : "ibelieveinathing",
+
+            dpath : "1/5th GY, 1/1st RB, 2/8th GY, 1/1st RB, 1/2nd RO, 2/2nd GY, 1/10th RY, 1/10th RO, 1/12th RO",
+            d_image : "'ibelieveinathing_drums.png'",
+            dscore : "236304",
+
+            vpath : "1/5th O, 1/3rd Y, 2/1st O, 2/2nd B",
+            v_image : "'ibelieveinathing_vocals.png'",
+            vscore : "85902",
+
+            gpath : "1/9th YB, 1/2nd GB, 1/4th YB, 1/1st GR, 1/2nd GB, 1/6th YB, 2/2nd B, 1/9th YO, 1/3rd O",
+            g_image : "'ibelieveinathing_guitar.png'",
+            gscore : "199034",
+
+            bpath : "1/8th B, 1/2nd Y, 1/9th Y, 1/NN, 1/2nd Y, 2/3rd Y, 1/NN, 1/2nd B, 1/26th Y",
+            b_image : "'ibelieveinathing_bass.png'",
+            bscore : "174435",
+
+            lpath : "1/9th RB, 1/2nd GB, 1/3rd RB, 1/1st GY, 1/2nd GB, 1/5th RB, 2/2nd B, 1/2nd GB, 1/3rd O",
+            l_image : "'ibelieveinathing_lead.png'",
+            lscore : "188366",
+
+            mpath : "1/8th B, 1/2nd Y, 1/9th Y, 1/NN, 1/2nd Y, 2/3rd Y, 1/NN, 1/2nd B, 1/26th Y",
+            m_image : "'ibelieveinathing_mbass.png'",
+            mscore : "174435",
+            } 
+        },
 { value : "IDOL by YOASOBI", 
             data : {
             shortname : "idol",
@@ -8641,6 +8873,35 @@ const songs = [
             mscore : "168840",
             } 
         },
+{ value : "L'amour Caché by Gijs Knol", 
+            data : {
+            shortname : "lamourcache",
+
+            dpath : "1/12th RB, 1/6th B, 1/1st RB, 1/10th RB, 1/9th RB, 1/NN, 1/1st O, 1/3rd GB",
+            d_image : "'lamourcache_drums.png'",
+            dscore : "168336",
+
+            vpath : "1/7th O, 1/3.2 beats after NN, 2/2nd B, 1/4th Y, 1/5th G",
+            v_image : "'lamourcache_vocals.png'",
+            vscore : "60147",
+
+            gpath : "1/4th R, 1/1st Y, 1/NN, 1/7th B, 2(+1)/5th R, 1/15th Y",
+            g_image : "'lamourcache_guitar.png'",
+            gscore : "83328",
+
+            bpath : "1/7th B, 1/4th R, 1/7th Y, 1/4th G, 1/10th B, 1/NN, 1/5th Y, 1/2nd Y",
+            b_image : "'lamourcache_bass.png'",
+            bscore : "88560",
+
+            lpath : "1/2nd Y, 1/1st Y, 1/NN, 1/4th R, 2(+1)/7th R, 1/12th B",
+            l_image : "'lamourcache_lead.png'",
+            lscore : "78540",
+
+            mpath : "1/7th B, 1/5th R, 1/6th Y, 1/4th G, 1/3rd G, 1/NN, 1/4th Y, 1/2nd Y",
+            m_image : "'lamourcache_mbass.png'",
+            mscore : "88284",
+            } 
+        },
 { value : "Lapti Nek (Jabba's Palace) by John Williams & The London Symphony Orchestra", 
             data : {
             shortname : "laptinek",
@@ -9395,6 +9656,64 @@ const songs = [
             mscore : "73212",
             } 
         },
+{ value : "Lover Girl by Laufey", 
+            data : {
+            shortname : "lovergirl",
+
+            dpath : "1/1st RO, 1/3rd RO, 2/1st RY, 1/3rd RO, 1/1st RO, 1/1st RO, 1/3rd RO, 4/1st RY",
+            d_image : "'lovergirl_drums.png'",
+            dscore : "140544",
+
+            vpath : "2/5th Y, 1/5th R, 1/1st O, 1/4th O, 1/1st B, 1/3rd R, 1/NN, 1/1st O, 1/1st B, 1/7th R",
+            v_image : "'lovergirl_vocals.png'",
+            vscore : "92772",
+
+            gpath : "1/3rd Y, 1/2nd RB, 1/1st GB, 1/2nd G, 1/10th GB, 1/NN, 1/6th BO, 2(+1)/4th B, 1/NN, 1/NN",
+            g_image : "'lovergirl_guitar.png'",
+            gscore : "148272",
+
+            bpath : "1(+1)/2nd B, 1/1st G, 1/1st G, 1/2nd R, 1/NN, 1/NN, 1/NN, 1/4th O, 1/1st O, 1/1st B, 1/1st Y",
+            b_image : "'lovergirl_bass.png'",
+            bscore : "110856",
+
+            lpath : "1/3rd RY, 1/1st RO, 1/1st GB, 1/1st G, 1/8th RY, 1/NN, 1/1 beats after 2nd R, 2(+1)/4th B, 1/1st GY, 1/NN",
+            l_image : "'lovergirl_lead.png'",
+            lscore : "132268",
+
+            mpath : "1(+1)/2nd B, 1/1st G, 1/1st G, 1/NN, 1/NN, 1/NN, 1/NN, 1/1st R, 1/1st O, 1/1st B, 1/1st Y",
+            m_image : "'lovergirl_mbass.png'",
+            mscore : "108264",
+            } 
+        },
+{ value : "Loves Like a Lady by Anthony Harrison", 
+            data : {
+            shortname : "loveslikealady",
+
+            dpath : "1/2nd GY, 1/5th GY, 1/NN, 1/2nd GB, 1/4th GY, 1/2nd GY, 1/NN",
+            d_image : "'loveslikealady_drums.png'",
+            dscore : "132912",
+
+            vpath : "1/7th R, 1/3rd G, 1/NN, 1/NN, 1/2nd B",
+            v_image : "'loveslikealady_vocals.png'",
+            vscore : "58284",
+
+            gpath : "1/3rd GY, 1/1st GY, 1/2nd RO, 1/1st B, 1/3rd R, 1/1st RYO, 1/NN",
+            g_image : "'loveslikealady_guitar.png'",
+            gscore : "92567",
+
+            bpath : "1/10th R, 2/2nd G, 1(+1)/4th G, 1/NN, 1/1st G",
+            b_image : "'loveslikealady_bass.png'",
+            bscore : "83214",
+
+            lpath : "1(+1)/3rd RB, 1/1st B, 1/1st B, 1/3rd R, 1/3rd RB, 1/NN",
+            l_image : "'loveslikealady_lead.png'",
+            lscore : "75770",
+
+            mpath : "1/10th R, 2/2nd G, 1(+1)/4th G, 1/NN, 1/1st G",
+            m_image : "'loveslikealady_mbass.png'",
+            mscore : "83214",
+            } 
+        },
 { value : "Lovin On Me by Jack Harlow", 
             data : {
             shortname : "lovinonme",
@@ -9509,6 +9828,35 @@ const songs = [
             mpath : "2/21st R, 1/NN, 1/30th R, 1/2nd G, 1/NN, 1(+1)/22nd R, 1/11th R, 1/NN",
             m_image : "'luxaeterna_mbass.png'",
             mscore : "301236",
+            } 
+        },
+{ value : "Madwoman by Laufey", 
+            data : {
+            shortname : "madwoman",
+
+            dpath : "1/1st GO, 1/3rd RO, 1/NN, 1/2nd O, 1/NN, 1/1st G, 1/11th RO, 1/1st GO, 1/1st RB, 1/1st G, 1/8th RO, 1/1st G, 1/1st GO, 1/1st GO, 1/1st RO",
+            d_image : "'madwoman_drums.png'",
+            dscore : "211104",
+
+            vpath : "2/5th Y, 1/1st G, 1/NN, 1/3rd Y, 1/NN, 1/7th Y, 1/2nd Y, 1/NN, 1/2nd G, 1/4th Y, 1/NN, 1/1st R",
+            v_image : "'madwoman_vocals.png'",
+            vscore : "112632",
+
+            gpath : "2(+1)/1st RO, 2(+1)/1st RO, 1/10th B, 1/2nd YB, 1/NN, 1/3rd R, 2/11th B, 1/5th Y",
+            g_image : "'madwoman_guitar.png'",
+            gscore : "153024",
+
+            bpath : "1/3rd B, 1/1st B, 1/NN, 1/NN, 1/1st O, 1/NN, 1/1st R, 1/NN, 1/NN, 1/NN, 1/4th R, 1/5th R, 1/5th Y, 1/NN",
+            b_image : "'madwoman_bass.png'",
+            bscore : "170712",
+
+            lpath : "2(+1)/2nd RO, 2(+1)/2nd RO, 1/4th Y, 1/3rd GB, 1/NN, 1/3rd Y, 2/11th B, 1/5th R",
+            l_image : "'madwoman_lead.png'",
+            lscore : "145536",
+
+            mpath : "1/3rd B, 1/1st B, 1/NN, 1/NN, 1/1st O, 1/NN, 1/1st R, 1/NN, 1/NN, 1/NN, 1/4th R, 1/5th R, 1/5th Y, 1/NN",
+            m_image : "'madwoman_mbass.png'",
+            mscore : "170712",
             } 
         },
 { value : "Magenta Ride by Epic Games", 
@@ -9799,6 +10147,35 @@ const songs = [
             mpath : "2/NN, 1/39th R, 1/NN, 1/14th R, 1/27th R, 2/1st R, 1/NN, 1/17th R",
             m_image : "'manchild_mbass.png'",
             mscore : "218484",
+            } 
+        },
+{ value : "Man I Need by Olivia Dean", 
+            data : {
+            shortname : "manineed",
+
+            dpath : "1/NN, 1/1st RB, 1/9th GY, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            d_image : "'manineed_drums.png'",
+            dscore : "241632",
+
+            vpath : "1/7th R, 1/2nd G, 1/3rd G, 1/13th R, 1/NN, 1/1st G, 1/NN, 1/9th R, 1/NN, 1/3rd O",
+            v_image : "'manineed_vocals.png'",
+            vscore : "136477",
+
+            gpath : "3/1st BO, 1/1st GYB, 1/NN, 2(+1)/1st GYB, 1/NN",
+            g_image : "'manineed_guitar.png'",
+            gscore : "104656",
+
+            bpath : "1/2nd R, 1/1st YB, 1/2nd G, 1/1st YB, 2/5th R, 1/1st YO, 1/1st YB",
+            b_image : "'manineed_bass.png'",
+            bscore : "128298",
+
+            lpath : "1/6th GY, 1/2nd RY, 1/NN, 1/1st GY, 1/NN, 1/NN, 1/NN, 1(+1)/3rd Y",
+            l_image : "'manineed_lead.png'",
+            lscore : "92088",
+
+            mpath : "1/1st Y, 1/1st RB, 1/2nd G, 1/1st RB, 2/5th Y, 1/1st RO, 1/1st RB",
+            m_image : "'manineed_mbass.png'",
+            mscore : "128298",
             } 
         },
 { value : "Maps by Maroon 5", 
@@ -10756,6 +11133,35 @@ const songs = [
             mpath : "4(+1)/6.9 beats after 3rd G, 1/NN, 1/NN, 1/2nd Y, 1/NN, 1/1st R, 1/1st R, 1/3rd R, 1/3rd R, 1/2nd R",
             m_image : "'nevermeant_mbass.png'",
             mscore : "86914",
+            } 
+        },
+{ value : "New Heart by Crash Adams", 
+            data : {
+            shortname : "newheart",
+
+            dpath : "2(+1)/4th RY, 1/1st GO, 1/7th RY, 1/NN, 1/NN, 1/4th RY, 1/21st RY",
+            d_image : "'newheart_drums.png'",
+            dscore : "142317",
+
+            vpath : "1/4th B, 1/3rd O, 1/2nd O, 1/8th Y, 3/NN, 1/4th Y, 1/4th G, 1/7th O",
+            v_image : "'newheart_vocals.png'",
+            vscore : "130929",
+
+            gpath : "2(+1)/3rd O, 3/3rd O, 3(+1)/NN",
+            g_image : "'newheart_guitar.png'",
+            gscore : "164403",
+
+            bpath : "2/4th B, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            b_image : "'newheart_bass.png'",
+            bscore : "61740",
+
+            lpath : "2(+1)/3rd O, 3/3rd O, 3(+1)/NN",
+            l_image : "'newheart_lead.png'",
+            lscore : "130734",
+
+            mpath : "2/4th B, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            m_image : "'newheart_mbass.png'",
+            mscore : "60624",
             } 
         },
 { value : "New Woman by LISA ft. ROSALÍA", 
@@ -13745,6 +14151,35 @@ const songs = [
             mscore : "118263",
             } 
         },
+{ value : "Silent Treatment by Freya Skye", 
+            data : {
+            shortname : "silenttreatment",
+
+            dpath : "1/3rd GY, 1/NN, 1/8th GY, 1/NN, 1/2nd GY",
+            d_image : "'silenttreatment_drums.png'",
+            dscore : "101664",
+
+            vpath : "1/5th G, 1/1st Y, 1/6th G, 1/NN, 1/3rd G, 1/NN",
+            v_image : "'silenttreatment_vocals.png'",
+            vscore : "118692",
+
+            gpath : "1/1st RB, 1/1st GB, 1(+1)/3rd RY, 1(+1)/1st RB",
+            g_image : "'silenttreatment_guitar.png'",
+            gscore : "79992",
+
+            bpath : "1/2nd Y, 1/NN, 1/10th Y, 1/9th Y, 1/8th B",
+            b_image : "'silenttreatment_bass.png'",
+            bscore : "88476",
+
+            lpath : "1/4th RB, 1/1st GY, 1(+1)/3rd RY, 1(+1)/1st RB",
+            l_image : "'silenttreatment_lead.png'",
+            lscore : "78828",
+
+            mpath : "1/2nd Y, 1/1st G, 1/NN, 1/9th Y, 1/2nd R",
+            m_image : "'silenttreatment_mbass.png'",
+            mscore : "84834",
+            } 
+        },
 { value : "Silly Bros by Epic Games", 
             data : {
             shortname : "sillybros",
@@ -14381,6 +14816,35 @@ const songs = [
             mpath : "1/2nd G, 1/NN, 1/9th O, 1/NN, 1/NN, 1/8th O, 1/12th B, 1/NN",
             m_image : "'stacysmom_mbass.png'",
             mscore : "155772",
+            } 
+        },
+{ value : "Stand and Fight (Remix) by Epic Games", 
+            data : {
+            shortname : "standandfight",
+
+            dpath : "1/14th O, 1/15th O, 1/7th R, 1/NN, 1/NN, 1/5th GB, 1/1st GO, 1/5th R",
+            d_image : "'standandfight_drums.png'",
+            dscore : "133632",
+
+            vpath : "2/1st B, 1/NN, 1/2nd R, 1/1st R, 1/2nd R",
+            v_image : "'standandfight_vocals.png'",
+            vscore : "53289",
+
+            gpath : "1/NN, 1/18th G, 1/3rd G, 1/14th G, 1/0.96 beats after 2nd YO, 1/1st R, 1/8th Y",
+            g_image : "'standandfight_guitar.png'",
+            gscore : "144352",
+
+            bpath : "1/16th G, 1/6th G, 2/2nd G, 1/NN, 1/5th R, 1/4th BO, 1/1st O",
+            b_image : "'standandfight_bass.png'",
+            bscore : "150444",
+
+            lpath : "1/NN, 1/14th G, 1/3rd G, 1/10th G, 1/0.96 beats after 2nd GO, 1/7th R, 1/9th R",
+            l_image : "'standandfight_lead.png'",
+            lscore : "143716",
+
+            mpath : "1/20th G, 1/8th G, 2/2nd G, 1/NN, 1/7th R, 1/4th RB, 1/1st O",
+            m_image : "'standandfight_mbass.png'",
+            mscore : "150444",
             } 
         },
 { value : "Starboy by The Weeknd ft. Daft Punk", 
@@ -16556,6 +17020,35 @@ const songs = [
             mpath : "1/4th Y, 1/NN, 1/2nd R, 1/6th R, 1/2nd Y, 1/1st R, 2/1st G",
             m_image : "'touchthesun_mbass.png'",
             mscore : "110619",
+            } 
+        },
+{ value : "Tough Luck by Laufey", 
+            data : {
+            shortname : "toughluck",
+
+            dpath : "2/1st GO, 1/17th GO, 1/NN, 1/NN, 1/NN",
+            d_image : "'toughluck_drums.png'",
+            dscore : "100944",
+
+            vpath : "2/NN, 1/1st Y, 1/9th Y, 3(+1)/2nd G, 1/3rd R, 1/2nd R",
+            v_image : "'toughluck_vocals.png'",
+            vscore : "109638",
+
+            gpath : "2/1st YO, 1/1st GR, 1/1st R, 1/7th O, 1/1st YO, 1/1st BO, 1/NN, 1/NN, 1/1st RYO",
+            g_image : "'toughluck_guitar.png'",
+            gscore : "123927",
+
+            bpath : "4(+1)/9th R, 1/NN, 1/9th R, 1/1st G",
+            b_image : "'toughluck_bass.png'",
+            bscore : "119226",
+
+            lpath : "2/1st RO, 1/NN, 1/1st R, 1/7th O, 1/1st RO, 1/1st RB, 1/NN, 1/NN, 1/1st RO",
+            l_image : "'toughluck_lead.png'",
+            lscore : "118533",
+
+            mpath : "4/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            m_image : "'toughluck_mbass.png'",
+            mscore : "112767",
             } 
         },
 { value : "Toxic by Britney Spears", 
