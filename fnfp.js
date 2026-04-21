@@ -8235,6 +8235,35 @@ const songs = [
             mscore : "186066",
             } 
         },
+{ value : "Into Oblivion by Lamb of God", 
+            data : {
+            shortname : "intooblivion",
+
+            dpath : "2/1st G, 1/NN, 2/5th Y, 1/35th O, 1/4th GO, 1/2nd RO, 1/NN, 1/8th B, 2/5th RB",
+            d_image : "'intooblivion_drums.png'",
+            dscore : "271008",
+
+            vpath : "2/NN, 1/2nd R, 1/3rd B, 1/1st R, 1/1.5 beats after 3rd G, 1/5th O, 1/2nd Y",
+            v_image : "'intooblivion_vocals.png'",
+            vscore : "83721",
+
+            gpath : "1/NN, 1/NN, 1/NN, 1/1st Y, 1/2nd O, 1/3rd O, 1/1st Y, 1/NN, 1/1st B, 2/21st G, 1/73rd O",
+            g_image : "'intooblivion_guitar.png'",
+            gscore : "302616",
+
+            bpath : "2/5th G, 1/31st G, 2/13th G, 1/23rd G, 1/NN, 3(+1)/12th G, 1/32nd G",
+            b_image : "'intooblivion_bass.png'",
+            bscore : "310353",
+
+            lpath : "1/NN, 1/NN, 1/NN, 1/1st R, 1/2nd O, 1/3rd O, 1/1st R, 1/NN, 1/1st B, 2/21st G, 1/73rd O",
+            l_image : "'intooblivion_lead.png'",
+            lscore : "302184",
+
+            mpath : "2/5th G, 1/32nd G, 2/13th G, 1/24th G, 1/NN, 3(+1)/12th G, 1/32nd G",
+            m_image : "'intooblivion_mbass.png'",
+            mscore : "310353",
+            } 
+        },
 { value : "Into You by Ariana Grande", 
             data : {
             shortname : "intoyou",
