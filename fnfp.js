@@ -11077,6 +11077,35 @@ const songs = [
             mscore : "65076",
             } 
         },
+{ value : "NEVER ENOUGH by Turnstile", 
+            data : {
+            shortname : "neverenough",
+
+            dpath : "1/6th GY, 1/4th RY, 1/1st RB, 1/6th GY, 1/5th RY, 3/3rd G, 1/NN",
+            d_image : "'neverenough_drums.png'",
+            dscore : "136944",
+
+            vpath : "1/1st R, 1/NN, 1/5th O, 1/NN, 1/1st B, 1/NN, 1/1st G, 1/NN, 1/1st G",
+            v_image : "'neverenough_vocals.png'",
+            vscore : "63300",
+
+            gpath : "1/2nd RBO, 4(+1)/1st GY, 1/NN, 1/NN, 1/NN, 1/NN, 2/NN, 1/14th GY, 1/NN, 1/NN, 1/NN, 1/1st RYO, 1/1st YBO",
+            g_image : "'neverenough_guitar.png'",
+            gscore : "283130",
+
+            bpath : "3(+1)/7th O, 1/NN, 1/NN, 1/NN, 1/NN, 1/9th R, 1/NN, 1/NN, 1/5th G, 1/NN",
+            b_image : "'neverenough_bass.png'",
+            bscore : "186837",
+
+            lpath : "1/2nd RB, 4(+1)/1st GY, 1/NN, 1/NN, 1/NN, 1/NN, 2/NN, 1/14th GY, 1/NN, 1/NN, 1/NN, 1/1st RY, 1/1st GB",
+            l_image : "'neverenough_lead.png'",
+            lscore : "249774",
+
+            mpath : "3(+1)/8th O, 1/NN, 1/NN, 1/NN, 1/NN, 1/9th R, 1/NN, 1/NN, 1/5th G, 1/NN",
+            m_image : "'neverenough_mbass.png'",
+            mscore : "185649",
+            } 
+        },
 { value : "Never Back Down by NickEh30", 
             data : {
             shortname : "nevergiveup",
@@ -18673,6 +18702,35 @@ const songs = [
             mpath : "1/6th O, 1/1st Y, 1/NN, 1/2nd R, 1/1st Y, 1/1st Y, 1/8th Y, 3(+1)/15th Y, 1/8th R",
             m_image : "'youdontknowwhatyouvegot_mbass.png'",
             mscore : "165720",
+            } 
+        },
+{ value : "Young Black & Rich by Melly Mike", 
+            data : {
+            shortname : "youngblackandrich",
+
+            dpath : "1/3rd RY, 1/1st RY, 1/4th RY, 1/1st RY, 1/2nd RY, 1/2nd RY, 1/4th RY",
+            d_image : "'youngblackandrich_drums.png'",
+            dscore : "132624",
+
+            vpath : "1(+1)/4th R, 1/8th Y, 1/3rd Y, 2(+1)/13th Y, 1/2nd O",
+            v_image : "'youngblackandrich_vocals.png'",
+            vscore : "125358",
+
+            gpath : "1/2nd O, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            g_image : "'youngblackandrich_guitar.png'",
+            gscore : "56199",
+
+            bpath : "2/3rd Y, 1/NN, 1/1st B, 1/1st B, 1/1st B, 1/1st B",
+            b_image : "'youngblackandrich_bass.png'",
+            bscore : "50043",
+
+            lpath : "1/2nd O, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            l_image : "'youngblackandrich_lead.png'",
+            lscore : "56199",
+
+            mpath : "2/3rd Y, 1/NN, 1/1st B, 1/1st B, 1/1st B, 1/1st B",
+            m_image : "'youngblackandrich_mbass.png'",
+            mscore : "50043",
             } 
         },
 { value : "Youngblood by 5 Seconds Of Summer", 
