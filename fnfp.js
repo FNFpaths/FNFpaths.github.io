@@ -15920,6 +15920,35 @@ const songs = [
             mscore : "66879",
             } 
         },
+{ value : "Taxes by Geese", 
+            data : {
+            shortname : "taxes",
+
+            dpath : "1/NN, 1/6th Y, 1/51st Y, 1/8th Y, 1/21st R, 1/35th R, 1/10th R, 1/18th O",
+            d_image : "'taxes_drums.png'",
+            dscore : "207072",
+
+            vpath : "2/3rd O, 1/2nd G, 1/8th O, 1/8.6 beats after 2nd G, 1/NN",
+            v_image : "'taxes_vocals.png'",
+            vscore : "50780",
+
+            gpath : "2(+1)/1st GYB, 1/NN, 1/NN, 1/NN, 1/1st RB, 1/1st GB",
+            g_image : "'taxes_guitar.png'",
+            gscore : "310752",
+
+            bpath : "4(+1)/3.2 beats after 1st Y, 1/1st O, 1/7th R, 1/NN",
+            b_image : "'taxes_bass.png'",
+            bscore : "122526",
+
+            lpath : "2(+1)/1st GB, 1/NN, 1/NN, 1/NN, 1/1st RB, 1/1st GO",
+            l_image : "'taxes_lead.png'",
+            lscore : "243216",
+
+            mpath : "1/NN, 4(+1)/7th O, 1/1st G, 1/6th G",
+            m_image : "'taxes_mbass.png'",
+            mscore : "120096",
+            } 
+        },
 { value : "That's What I Like by Bruno Mars", 
             data : {
             shortname : "thatswhatilike",
