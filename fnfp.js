@@ -7916,6 +7916,35 @@ const songs = [
             mscore : "202788",
             } 
         },
+{ value : "I'm So ATL by Bankroll Ni", 
+            data : {
+            shortname : "imsoatl",
+
+            dpath : "2/1st GY, 1/NN, 1/NN, 1/2nd R, 1/NN, 1/NN, 1/4th R, 1/NN",
+            d_image : "'imsoatl_drums.png'",
+            dscore : "137232",
+
+            vpath : "1/8th G, 1/2nd Y, 1/12th Y, 1(+1)/4th Y, 1/6th Y, 1/5th Y, 1/3rd B",
+            v_image : "'imsoatl_vocals.png'",
+            vscore : "122493",
+
+            gpath : "1/3rd Y, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            g_image : "'imsoatl_guitar.png'",
+            gscore : "60012",
+
+            bpath : "1/8th Y, 1/7th Y, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            b_image : "'imsoatl_bass.png'",
+            bscore : "66519",
+
+            lpath : "1/2nd Y, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            l_image : "'imsoatl_lead.png'",
+            lscore : "60228",
+
+            mpath : "1/7th Y, 1/7th Y, 1/5th Y, 1/5th Y, 1/5th Y, 1/5th Y, 1/5th Y, 1/5th Y",
+            m_image : "'imsoatl_mbass.png'",
+            mscore : "64884",
+            } 
+        },
 { value : "I'm the Visual by Epic Games", 
             data : {
             shortname : "imthevisual",
