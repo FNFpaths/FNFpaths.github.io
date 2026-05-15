@@ -3363,6 +3363,35 @@ const songs = [
             mscore : "129420",
             } 
         },
+{ value : "Century by EsDeeKid", 
+            data : {
+            shortname : "century",
+
+            dpath : "1/1st RY, 1/1st RY, 1/1st RY, 1/1st G, 1/4th G",
+            d_image : "'century_drums.png'",
+            dscore : "118368",
+
+            vpath : "1/NN, 1(+1)/8th O, 1/5th B, 1/1st Y",
+            v_image : "'century_vocals.png'",
+            vscore : "96282",
+
+            gpath : "2/1st GYB, 1/NN, 1/1st GYB, 1/NN, 1/1st GYB, 1/NN",
+            g_image : "'century_guitar.png'",
+            gscore : "59589",
+
+            bpath : "3/1st O, 1/NN, 1/NN",
+            b_image : "'century_bass.png'",
+            bscore : "35397",
+
+            lpath : "1/5th Y, 1/2nd O, 1/1st O, 1/2nd O, 1/1st O, 1/2nd O, 1/1st O",
+            l_image : "'century_lead.png'",
+            lscore : "46260",
+
+            mpath : "3/1st O, 1/NN, 1/NN",
+            m_image : "'century_mbass.png'",
+            mscore : "35397",
+            } 
+        },
 { value : "Champion by Fall Out Boy", 
             data : {
             shortname : "champion",
@@ -6000,6 +6029,35 @@ const songs = [
             mpath : "1(+1)/17th Y, 1/11th Y, 1/5th G, 1/6th G, 1/11th G, 1/NN, 1/1st G, 1/5th G, 3(+1)/15th R, 1/1st RB, 1/NN",
             m_image : "'forwhomthebelltolls_mbass.png'",
             mscore : "252282",
+            } 
+        },
+{ value : "4 Raws by EsDeeKid", 
+            data : {
+            shortname : "fourraws",
+
+            dpath : "1/NN, 1/NN, 1/NN, 1/9th GB, 1/1st GB, 1/6th GB, 1/NN, 1/5th GB",
+            d_image : "'fourraws_drums.png'",
+            dscore : "148608",
+
+            vpath : "1(+1)/10th O, 1/5th O, 1/NN, 1/3rd G, 1/4th B, 1/4th O",
+            v_image : "'fourraws_vocals.png'",
+            vscore : "144531",
+
+            gpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            g_image : "'fourraws_guitar.png'",
+            gscore : "119040",
+
+            bpath : "2/1st Y, 1/NN, 1/NN, 1/2.7 beats after 3rd Y, 1/NN, 1/NN, 1/2nd R",
+            b_image : "'fourraws_bass.png'",
+            bscore : "63576",
+
+            lpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            l_image : "'fourraws_lead.png'",
+            lscore : "119040",
+
+            mpath : "2/1st Y, 1/NN, 1/NN, 1/2.7 beats after 3rd Y, 1/NN, 1/NN, 1/2nd R",
+            m_image : "'fourraws_mbass.png'",
+            mscore : "63576",
             } 
         },
 { value : "Free Bird by Lynyrd Skynyrd", 
@@ -13366,6 +13424,35 @@ const songs = [
             mpath : "1/8th R, 1/4th R, 1/NN, 1/4th R, 1/NN, 1/NN, 1/NN, 1/8th R, 1/NN",
             m_image : "'roses_mbass.png'",
             mscore : "116208",
+            } 
+        },
+{ value : "Rottweiler by EsDeeKid", 
+            data : {
+            shortname : "rottweiler",
+
+            dpath : "1/4th GY, 1/2nd GY, 1/2nd GY, 1/1st GY, 1/1st GY",
+            d_image : "'rottweiler_drums.png'",
+            dscore : "110736",
+
+            vpath : "1/2nd G, 2(+1)/15th Y",
+            v_image : "'rottweiler_vocals.png'",
+            vscore : "79002",
+
+            gpath : "1/4th G, 1/NN, 1/NN, 1/NN, 1/NN",
+            g_image : "'rottweiler_guitar.png'",
+            gscore : "27507",
+
+            bpath : "2(+1)/6th G, 1/2nd G, 1/4th G",
+            b_image : "'rottweiler_bass.png'",
+            bscore : "27828",
+
+            lpath : "1/4th G, 1/NN, 1/NN, 1/NN, 1/NN",
+            l_image : "'rottweiler_lead.png'",
+            lscore : "27507",
+
+            mpath : "2(+1)/6th G, 1/2nd G, 1/4th G",
+            m_image : "'rottweiler_mbass.png'",
+            mscore : "27828",
             } 
         },
 { value : "Ruby Soho by Rancid", 
