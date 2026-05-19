@@ -5915,6 +5915,35 @@ const songs = [
             mscore : "69405",
             } 
         },
+{ value : "Folded by Kehlani", 
+            data : {
+            shortname : "folded",
+
+            dpath : "1/1st GY, 1/1st GY, 1/NN, 1/1st GY, 1/NN, 1/1st GY, 1/NN, 1/1st GY, 1/NN, 1/2nd GY, 1/1st GY, 1/NN",
+            d_image : "'folded_drums.png'",
+            dscore : "250416",
+
+            vpath : "1/12th R, 2(+1)/7th Y, 1/2nd O, 1/1st G, 1/3rd O, 1/4th Y, 1/6th B, 1(+1)/13th Y, 1/NN",
+            v_image : "'folded_vocals.png'",
+            vscore : "189570",
+
+            gpath : "1/3rd R, 1/NN, 1(+1)/4th G, 1/9th Y, 1/9th R, 1(+1)/3rd G, 1/4th Y, 1/12th Y, 1/9th Y, 1/9th Y",
+            g_image : "'folded_guitar.png'",
+            gscore : "143652",
+
+            bpath : "3(+1)/3rd Y, 1/NN, 1/1st G, 1/2nd Y, 1/1st B, 1/2nd B, 1/2nd R, 1/2nd B, 1/4th G",
+            b_image : "'folded_bass.png'",
+            bscore : "88956",
+
+            lpath : "1/3rd R, 1/NN, 1(+1)/4th G, 1/4th B, 1/10th R, 1(+1)/3rd G, 1/NN, 1/7th B, 1/4th B, 1/4th B",
+            l_image : "'folded_lead.png'",
+            lscore : "139482",
+
+            mpath : "3(+1)/3rd Y, 1/NN, 1/1st G, 1/2nd Y, 1/1st B, 1/2nd B, 1/2nd R, 1/2nd B, 1/4th G",
+            m_image : "'folded_mbass.png'",
+            mscore : "88956",
+            } 
+        },
 { value : "For Latveria by Epic Games", 
             data : {
             shortname : "forlatveria",
@@ -7827,6 +7856,35 @@ const songs = [
             mpath : "1/8th B, 1/NN, 1/4th Y, 1/NN, 1/10th Y, 1/4th Y, 1/NN, 1/3rd Y, 1/5th B",
             m_image : "'ihadsomehelp_mbass.png'",
             mscore : "164988",
+            } 
+        },
+{ value : "I'll Believe in Anything  by Wolf Parade ", 
+            data : {
+            shortname : "illbelieveinanything",
+
+            dpath : "2/3rd RB, 2/2nd RB, 1/1st RO, 1(+1)/1st RO, 1/1st B, 1/2nd B, 1/1st B, 1/1st B, 1/1st B, 1/1st B, 1/NN, 1/NN, 2(+1)/1st GY, 1/NN, 1/14th R, 1/2nd RB, 1/2nd RB",
+            d_image : "'illbelieveinanything_drums.png'",
+            dscore : "198288",
+
+            vpath : "2/1st O, 2/NN, 1/1st Y, 1/4th B, 1/NN, 1/3rd R, 3(+1)/8th G, 1/3rd R, 1/3rd G, 1/7th G, 1/NN",
+            v_image : "'illbelieveinanything_vocals.png'",
+            vscore : "164619",
+
+            gpath : "1/1st R, 1/2nd G, 1/2nd G, 1/3rd G, 1/NN, 1/NN, 1/1st Y, 1/NN, 1/1st Y, 3(+2)/2nd GB, 1/3rd GYB, 1/4th Y, 1/1st Y, 1/3rd Y, 1/3rd GB, 3/3rd B, 1/5th B, 1/NN",
+            g_image : "'illbelieveinanything_guitar.png'",
+            gscore : "197343",
+
+            bpath : "2(+1)/15th O, 1/NN, 1/NN, 1/NN, 4(+2)/1st GR, 1/NN, 1/NN, 4(+1)/3rd Y, 1/NN, 1/NN",
+            b_image : "'illbelieveinanything_bass.png'",
+            bscore : "227358",
+
+            lpath : "1/1st R, 1/2nd G, 1/2nd G, 1/3rd G, 1/NN, 2(+1)/4th R, 1/1st R, 3(+2)/4th Y, 1/2 beats after 5th GO, 1/2nd Y, 1/1st Y, 1/1st Y, 1/3rd GB, 3/5th R, 1/8th R, 1/NN",
+            l_image : "'illbelieveinanything_lead.png'",
+            lscore : "180155",
+
+            mpath : "2(+1)/15th O, 1/NN, 1/NN, 1/NN, 4(+2)/1st RY, 1/NN, 1/NN, 4(+1)/9th R, 1/NN, 1/NN",
+            m_image : "'illbelieveinanything_mbass.png'",
+            mscore : "217638",
             } 
         },
 { value : "Illegal by PinkPantheress", 
