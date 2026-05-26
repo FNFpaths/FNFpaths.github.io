@@ -5828,6 +5828,35 @@ const songs = [
             mscore : "75825",
             } 
         },
+{ value : "Flammable by Swae Lee", 
+            data : {
+            shortname : "flammable",
+
+            dpath : "1/NN, 1/NN, 1/1st GO, 1/NN, 1/1st GO, 1/1st GO, 1/NN, 1/1st RY, 1/1st GY, 1/NN, 1/1st GO, 1/1st GO",
+            d_image : "'flammable_drums.png'",
+            dscore : "243216",
+
+            vpath : "2/20th Y, 1/NN, 1/15th Y, 1/16th Y, 1/7th Y, 1/20th Y, 1/4th Y, 1/1st B, 1/12th Y, 1/5th G, 1/2nd GO",
+            v_image : "'flammable_vocals.png'",
+            vscore : "172593",
+
+            gpath : "2(+1)/1st GY, 1/NN, 1/1st RB, 2/1st GY, 1/NN, 1/NN, 3/NN, 1/NN",
+            g_image : "'flammable_guitar.png'",
+            gscore : "116628",
+
+            bpath : "1/4th Y, 1/NN, 1/5th R, 1/5th R, 1/2nd R, 1/NN, 1/1st R, 1/1st R, 1/3rd R, 1/NN, 1/3rd R, 1/NN",
+            b_image : "'flammable_bass.png'",
+            bscore : "121344",
+
+            lpath : "2(+1)/1st GY, 1/NN, 1/1st RB, 2/1st GY, 1/NN, 1/NN, 3/NN, 1/NN",
+            l_image : "'flammable_lead.png'",
+            lscore : "116628",
+
+            mpath : "1/4th Y, 1/NN, 1/5th R, 1/5th R, 1/2nd R, 1/NN, 1/1st R, 1/1st R, 1/3rd R, 1/NN, 1/3rd R, 1/NN",
+            m_image : "'flammable_mbass.png'",
+            mscore : "121344",
+            } 
+        },
 { value : "Flickering Flame by Epic Games", 
             data : {
             shortname : "flickeringflame",
@@ -14700,6 +14729,35 @@ const songs = [
             mpath : "1/13th B, 2/2nd O, 1/2nd G, 2/3rd G, 1/3rd R, 1/NN, 1/NN, 4(+1)/1st G",
             m_image : "'snowmix_mbass.png'",
             mscore : "216864",
+            } 
+        },
+{ value : "Snow On The Bluff by Evening Elephants", 
+            data : {
+            shortname : "snowonthebluff",
+
+            dpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/2nd RY, 1/2nd RY",
+            d_image : "'snowonthebluff_drums.png'",
+            dscore : "249840",
+
+            vpath : "1/5th Y, 2/2nd Y, 1/9th Y, 2/4th R",
+            v_image : "'snowonthebluff_vocals.png'",
+            vscore : "97209",
+
+            gpath : "1/NN, 1/NN, 3(+1)/1st RO, 1/3rd O",
+            g_image : "'snowonthebluff_guitar.png'",
+            gscore : "61084",
+
+            bpath : "1(+1)/5th G, 1/NN, 1/NN, 1/NN",
+            b_image : "'snowonthebluff_bass.png'",
+            bscore : "30435",
+
+            lpath : "1/NN, 1/NN, 3(+1)/1st GO, 1/3rd O",
+            l_image : "'snowonthebluff_lead.png'",
+            lscore : "61084",
+
+            mpath : "1(+1)/5th G, 1/NN, 1/NN, 1/NN",
+            m_image : "'snowonthebluff_mbass.png'",
+            mscore : "30435",
             } 
         },
 { value : "So Far So Fake by Pierce The Veil", 
