@@ -5828,7 +5828,7 @@ const songs = [
             mscore : "75825",
             } 
         },
-{ value : "Flammable by Swae Lee", 
+{ value : "FLAMMABLE by Swae Lee", 
             data : {
             shortname : "flammable",
 
@@ -7887,7 +7887,7 @@ const songs = [
             mscore : "164988",
             } 
         },
-{ value : "I'll Believe in Anything  by Wolf Parade ", 
+{ value : "I'll Believe in Anything by Wolf Parade", 
             data : {
             shortname : "illbelieveinanything",
 
@@ -14731,7 +14731,7 @@ const songs = [
             mscore : "216864",
             } 
         },
-{ value : "Snow On The Bluff by Evening Elephants", 
+{ value : "Snow on The Bluff by Evening Elephants", 
             data : {
             shortname : "snowonthebluff",
 
