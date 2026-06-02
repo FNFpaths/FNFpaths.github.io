@@ -7601,9 +7601,9 @@ const songs = [
             data : {
             shortname : "hotinherre",
 
-            dpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/8th R, 1/NN, 1/NN",
+            dpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/2nd O, 1/NN, 1/NN",
             d_image : "'hotinherre_drums.png'",
-            dscore : "198000",
+            dscore : "198576",
 
             vpath : "1/4th B, 2/2nd O, 1/NN, 1/NN, 1/5th Y, 1/19th R, 2/5th Y",
             v_image : "'hotinherre_vocals.png'",
