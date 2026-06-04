@@ -4755,6 +4755,35 @@ const songs = [
             mscore : "274137",
             } 
         },
+{ value : "Dracula by Tame Impala", 
+            data : {
+            shortname : "dracula",
+
+            dpath : "1/5th GY, 1/1st RY, 1/3rd GY, 1/NN, 1/NN, 1/NN, 1/1st GY, 1/3rd GY, 1/3rd RO",
+            d_image : "'dracula_drums.png'",
+            dscore : "156264",
+
+            vpath : "2/NN, 1/NN, 1/NN, 1/NN, 1/1st B, 1/7th R, 1(+1)/8th B, 1/2nd B",
+            v_image : "'dracula_vocals.png'",
+            vscore : "127500",
+
+            gpath : "2/2nd RYB, 1(+1)/1st GR, 1(+1)/3rd RB, 4/3rd G",
+            g_image : "'dracula_guitar.png'",
+            gscore : "99558",
+
+            bpath : "3/1st R, 1/1st Y, 1(+1)/3rd R, 1/1st R, 2/14th R",
+            b_image : "'dracula_bass.png'",
+            bscore : "97515",
+
+            lpath : "2/2nd GB, 1(+1)/2nd GY, 1(+1)/3rd RB, 4/3rd G",
+            l_image : "'dracula_lead.png'",
+            lscore : "93882",
+
+            mpath : "3/1st R, 1/1st Y, 1(+1)/2nd G, 1/1st R, 1/5th R, 1/7th G",
+            m_image : "'dracula_mbass.png'",
+            mscore : "95337",
+            } 
+        },
 { value : "Dragula by Rob Zombie", 
             data : {
             shortname : "dragula",
@@ -18354,6 +18383,35 @@ const songs = [
             mpath : "1/NN, 1/NN, 1/1st R, 1/21st G, 1/21st G, 1/1st G, 1/1st G",
             m_image : "'whenicomearound_mbass.png'",
             mscore : "196524",
+            } 
+        },
+{ value : "WHERE IS MY HUSBAND! by RAYE", 
+            data : {
+            shortname : "whereismyhusband",
+
+            dpath : "1/3rd RB, 1/NN, 1/8th RB, 1/NN, 1/1st GO, 1/2nd RB, 1/1st GO, 1/NN, 1/2nd GO",
+            d_image : "'whereismyhusband_drums.png'",
+            dscore : "202461",
+
+            vpath : "1/3rd B, 1/11th R, 1/9th B, 1/5th Y, 2(+1)/36th R, 1/2nd R, 1/10th B",
+            v_image : "'whereismyhusband_vocals.png'",
+            vscore : "224586",
+
+            gpath : "1(+1)/12th B, 2/2nd RB, 1/NN, 2/NN, 2/2nd B",
+            g_image : "'whereismyhusband_guitar.png'",
+            gscore : "147234",
+
+            bpath : "2/2nd B, 2(+1)/5th R, 1/1.2 beats after 2nd Y, 2/2nd R",
+            b_image : "'whereismyhusband_bass.png'",
+            bscore : "69540",
+
+            lpath : "1(+1)/12th B, 2/2nd GO, 1/NN, 2/NN, 1/1st RB, 1/3.7 beats after 1st RY",
+            l_image : "'whereismyhusband_lead.png'",
+            lscore : "140966",
+
+            mpath : "2/2nd B, 2(+1)/4th R, 1/3rd B, 2/2nd B",
+            m_image : "'whereismyhusband_mbass.png'",
+            mscore : "63042",
             } 
         },
 { value : "Where My Wookiees At? by Epic Games", 
