@@ -740,7 +740,7 @@ const songs = [
             g_image : "'anotherlife_guitar.png'",
             gscore : "219312",
 
-            bpath : "1/7th R, 4(+1)/9th B, 1/6th R, 1/6th R, 1/3rd R, 1/5th B, 1/5th B",
+            bpath : "1/6th R, 4(+1)/9th B, 1/6th R, 1/6th R, 1/3rd R, 1/6th B, 1/6th B",
             b_image : "'anotherlife_bass.png'",
             bscore : "132009",
 
@@ -748,7 +748,7 @@ const songs = [
             l_image : "'anotherlife_lead.png'",
             lscore : "214896",
 
-            mpath : "1/7th R, 4(+1)/9th B, 1/6th R, 1/6th R, 1/3rd R, 1/5th B, 1/5th B",
+            mpath : "1/6th R, 4(+1)/9th B, 1/6th R, 1/6th R, 1/3rd R, 1/6th B, 1/6th B",
             m_image : "'anotherlife_mbass.png'",
             mscore : "131019",
             } 
@@ -5451,6 +5451,35 @@ const songs = [
             mscore : "112545",
             } 
         },
+{ value : "Fallen Stars by Epic Games", 
+            data : {
+            shortname : "fallenstars",
+
+            dpath : "3/2nd GY, 3(+1)/1st GY, 1/3rd R, 1/6th R, 1/1st Y, 1/1st RO, 1/22nd O",
+            d_image : "'fallenstars_drums.png'",
+            dscore : "199872",
+
+            vpath : "1/2nd G, 1/NN, 1(+1)/12th R, 1/4th G, 1/2nd R, 1/4th G, 1/7th R, 2/0.75 beats after 12th R",
+            v_image : "'fallenstars_vocals.png'",
+            vscore : "145401",
+
+            gpath : "1/4th G, 2/NN, 1/7th R, 1/4th G, 2/1st GY, 1/2nd YB, 1/5th YO, 4/7th YO",
+            g_image : "'fallenstars_guitar.png'",
+            gscore : "205968",
+
+            bpath : "2/2nd R, 1/9th R, 1/1st B, 2/2nd R, 3/5th G, 1/NN, 1/6th R, 1/2nd R",
+            b_image : "'fallenstars_bass.png'",
+            bscore : "159546",
+
+            lpath : "1/4th G, 2/NN, 1/5th G, 1/4th G, 2/1st GY, 1/2nd RB, 1/5th RO, 4/7th RO",
+            l_image : "'fallenstars_lead.png'",
+            lscore : "197778",
+
+            mpath : "2/5th R, 1/9th R, 1/1st B, 2/2nd R, 3/5th G, 1/NN, 1/6th R, 1/2nd R",
+            m_image : "'fallenstars_mbass.png'",
+            mscore : "159006",
+            } 
+        },
 { value : "Everybody Falls (Chill Mix) by Epic Games", 
             data : {
             shortname : "fallguys",
@@ -10002,6 +10031,35 @@ const songs = [
             mpath : "1/1st B, 1/3rd Y, 1/4th G, 1/NN, 1/4th G, 1/1st Y, 1/NN, 1/3rd Y, 1/NN",
             m_image : "'luciddreams_mbass.png'",
             mscore : "80160",
+            } 
+        },
+{ value : "Lucky Duck by Epic Games", 
+            data : {
+            shortname : "luckyduck",
+
+            dpath : "1/2nd Y, 1/15th O, 1/33rd O, 1/7th O, 1/7th O, 1/1st RY, 1/24th O, 1/5th O",
+            d_image : "'luckyduck_drums.png'",
+            dscore : "133200",
+
+            vpath : "1/18th Y, 1/NN, 1/18th B, 2/1st B, 1/4th B, 1/18th B, 1/NN",
+            v_image : "'luckyduck_vocals.png'",
+            vscore : "204828",
+
+            gpath : "1/8th Y, 1/4th RB, 1/12th G, 2(+1)/5th Y, 1/1st RO, 1/1st RY",
+            g_image : "'luckyduck_guitar.png'",
+            gscore : "136834",
+
+            bpath : "1/2nd B, 2(+1)/1st O, 1/NN, 1/1st O",
+            b_image : "'luckyduck_bass.png'",
+            bscore : "96942",
+
+            lpath : "1/2nd Y, 1/4th RB, 1/2nd Y, 2(+1)/4th Y, 1/1st RO, 1/1st RY",
+            l_image : "'luckyduck_lead.png'",
+            lscore : "126048",
+
+            mpath : "1/2nd B, 2(+1)/1st O, 1/NN, 1/1st O",
+            m_image : "'luckyduck_mbass.png'",
+            mscore : "96942",
             } 
         },
 { value : "LUNCH by Billie Eilish", 
@@ -16991,6 +17049,35 @@ const songs = [
             mpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/7th B, 1/8th B, 1/NN, 1/NN",
             m_image : "'thespins_mbass.png'",
             mscore : "214056",
+            } 
+        },
+{ value : "The Spirit Realm by Epic Games", 
+            data : {
+            shortname : "thespiritrealm",
+
+            dpath : "1/11th RY, 3/1st O, 1/NN, 1/2nd Y, 1/1st R, 1/5th O, 1/NN, 1/6th Y, 1/4th RY",
+            d_image : "'thespiritrealm_drums.png'",
+            dscore : "163968",
+
+            vpath : "3/3rd Y, 1/NN, 1/NN, 1/6th G, 1/14th B",
+            v_image : "'thespiritrealm_vocals.png'",
+            vscore : "91215",
+
+            gpath : "1(+1)/5th Y, 1/3rd R, 1/9th R, 2/2nd G, 1/8th Y, 1/1st Y, 1/32nd B",
+            g_image : "'thespiritrealm_guitar.png'",
+            gscore : "142809",
+
+            bpath : "1/1st B, 1/NN, 2/1st B, 1/NN, 1/2nd O, 1/1st B, 1/1st Y, 1/13th G",
+            b_image : "'thespiritrealm_bass.png'",
+            bscore : "123582",
+
+            lpath : "1(+1)/8th R, 1/3rd R, 1/13th R, 2/5th Y, 1/5th Y, 1/1st Y, 1/36th R",
+            l_image : "'thespiritrealm_lead.png'",
+            lscore : "141513",
+
+            mpath : "1/1st B, 1/NN, 2/1st B, 1/NN, 1/2nd O, 1/1st B, 1/1st Y, 1/13th G",
+            m_image : "'thespiritrealm_mbass.png'",
+            mscore : "123390",
             } 
         },
 { value : "The Unforgiven by Metallica", 
