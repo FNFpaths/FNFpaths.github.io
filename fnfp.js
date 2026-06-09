@@ -4117,6 +4117,35 @@ const songs = [
             mscore : "198846",
             } 
         },
+{ value : "DAISIES by Justin Bieber", 
+            data : {
+            shortname : "daisies",
+
+            dpath : "2/2nd RB, 1/5th RO, 1/NN, 1/1st RO, 1/2nd GY",
+            d_image : "'daisies_drums.png'",
+            dscore : "84816",
+
+            vpath : "1/6th R, 1/7th Y, 1/2nd G, 1/2nd R, 1/3rd G, 1/11th R",
+            v_image : "'daisies_vocals.png'",
+            vscore : "108065",
+
+            gpath : "3/3rd B, 1/1st GRB, 1/11th GR, 2(+1)/2nd GRB, 1/5th Y",
+            g_image : "'daisies_guitar.png'",
+            gscore : "155154",
+
+            bpath : "2/2nd O, 1/9th B, 1/1st R, 1/19th G",
+            b_image : "'daisies_bass.png'",
+            bscore : "70280",
+
+            lpath : "3/3rd B, 1/1st GO, 1/11th GY, 2(+1)/2nd GO, 1/3rd G",
+            l_image : "'daisies_lead.png'",
+            lscore : "136638",
+
+            mpath : "2/2nd O, 1/7th B, 1/1st R, 1/19th G",
+            m_image : "'daisies_mbass.png'",
+            mscore : "68552",
+            } 
+        },
 { value : "Daisy 2.0 by Ashnikko ft. Hatsune Miku", 
             data : {
             shortname : "daisy",
