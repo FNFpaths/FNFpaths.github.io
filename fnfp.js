@@ -7394,6 +7394,35 @@ const songs = [
             mscore : "164754",
             } 
         },
+{ value : "He Gets Me So High by beabadoobee", 
+            data : {
+            shortname : "hegetmesohigh",
+
+            dpath : "1/NN, 1/13th GY, 1/14th GY, 1/NN, 1/NN, 1/NN, 1/3rd GY, 1/NN, 1/NN",
+            d_image : "'hegetmesohigh_drums.png'",
+            dscore : "195840",
+
+            vpath : "4(+1)/3rd B, 1/2nd R, 1/NN, 1/1st B",
+            v_image : "'hegetmesohigh_vocals.png'",
+            vscore : "64584",
+
+            gpath : "1/6th GY, 1/NN, 3(+1)/8th G, 1/NN, 1/4th G, 1/11th Y",
+            g_image : "'hegetmesohigh_guitar.png'",
+            gscore : "115782",
+
+            bpath : "1/2nd O, 1/4th R, 1/NN, 1/NN, 1/4th Y, 1/2nd G, 1/NN, 1/NN, 1/NN",
+            b_image : "'hegetmesohigh_bass.png'",
+            bscore : "135171",
+
+            lpath : "1/6th GY, 1/NN, 1/2nd G, 2(+1)/9th R, 1/NN, 1/4th G, 1/11th Y",
+            l_image : "'hegetmesohigh_lead.png'",
+            lscore : "106602",
+
+            mpath : "1/2nd O, 1/4th Y, 1/NN, 1/NN, 1/4th Y, 1/2nd G, 1/NN, 1/NN, 1/NN",
+            m_image : "'hegetmesohigh_mbass.png'",
+            mscore : "135225",
+            } 
+        },
 { value : "Hello, Morning by Kizuna AI", 
             data : {
             shortname : "hellomorning",
@@ -8088,6 +8117,35 @@ const songs = [
             mpath : "3(+1)/2nd R, 1/7.2 beats after 2nd G, 1/4th GB, 1/3rd G, 1/NN, 1(+1)/2nd G, 1/4th G",
             m_image : "'imawinner_mbass.png'",
             mscore : "87420",
+            } 
+        },
+{ value : "I miss you, I'm sorry by Gracie Abrams", 
+            data : {
+            shortname : "imissyouimsorry",
+
+            dpath : "3/5th GO, 1/2nd RY, 1/NN",
+            d_image : "'imissyouimsorry_drums.png'",
+            dscore : "59136",
+
+            vpath : "1/9th G, 1/1st Y, 1/NN, 1/4th Y, 1/3rd R, 1/1st R, 1/NN, 1/1st R",
+            v_image : "'imissyouimsorry_vocals.png'",
+            vscore : "96201",
+
+            gpath : "3(+1)/3rd Y, 1/NN, 1/NN, 1/NN, 1/1st B",
+            g_image : "'imissyouimsorry_guitar.png'",
+            gscore : "88236",
+
+            bpath : "3/NN, 3/2nd B",
+            b_image : "'imissyouimsorry_bass.png'",
+            bscore : "18852",
+
+            lpath : "3(+1)/2nd R, 1/NN, 1/NN, 1/NN, 1/1st B",
+            l_image : "'imissyouimsorry_lead.png'",
+            lscore : "87078",
+
+            mpath : "3/NN, 3/2nd B",
+            m_image : "'imissyouimsorry_mbass.png'",
+            mscore : "18852",
             } 
         },
 { value : "I'm Not Okay (I Promise) by My Chemical Romance", 
