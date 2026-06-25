@@ -4465,6 +4465,35 @@ const songs = [
             mscore : "161751",
             } 
         },
+{ value : "deja vu by Olivia Rodrigo", 
+            data : {
+            shortname : "dejavu",
+
+            dpath : "3/2nd RY, 1/3rd RY, 1/8th RY",
+            d_image : "'dejavu_drums.png'",
+            dscore : "100368",
+
+            vpath : "1/2nd Y, 1/5th Y, 1/NN, 1/14th R, 1/NN, 1/8th O, 1/10th Y, 1/3rd G",
+            v_image : "'dejavu_vocals.png'",
+            vscore : "120333",
+
+            gpath : "1/NN, 1/NN, 1/NN, 1(+1)/1st YO, 1(+1)/1st Y, 1/NN, 1/NN",
+            g_image : "'dejavu_guitar.png'",
+            gscore : "142524",
+
+            bpath : "3(+2)/13th Y, 1/NN",
+            b_image : "'dejavu_bass.png'",
+            bscore : "59832",
+
+            lpath : "1/NN, 1/NN, 1/NN, 1(+1)/1st RO, 1(+1)/5th O, 1/NN, 1/NN",
+            l_image : "'dejavu_lead.png'",
+            lscore : "142164",
+
+            mpath : "3(+2)/13th Y, 1/NN",
+            m_image : "'dejavu_mbass.png'",
+            mscore : "59832",
+            } 
+        },
 { value : "Demons by Imagine Dragons", 
             data : {
             shortname : "demons",
@@ -4898,6 +4927,35 @@ const songs = [
             mpath : "4/2nd Y, 1/2nd O, 1/1st G, 1/2nd G, 1/2nd R, 1/1st Y, 1/3rd B, 1/2nd R, 1(+1)/7th O, 1/2nd B, 1/2nd B, 1/2nd R",
             m_image : "'dreamon_mbass.png'",
             mscore : "122133",
+            } 
+        },
+{ value : "drop dead by Olivia Rodrigo", 
+            data : {
+            shortname : "dropdead",
+
+            dpath : "1/3rd GB, 1/NN, 1/NN, 2/9th GB, 1/14th RO, 1/1st RB, 1/NN, 1/1st GO",
+            d_image : "'dropdead_drums.png'",
+            dscore : "174240",
+
+            vpath : "4(+1)/4th Y, 1/7th G, 1/NN, 1/NN, 2/1st G, 1/2nd G",
+            v_image : "'dropdead_vocals.png'",
+            vscore : "153686",
+
+            gpath : "1/NN, 1/NN, 1/NN, 3(+1)/1st GB, 1/1st RY, 1/NN, 1/2nd R, 1/1st Y, 1/NN",
+            g_image : "'dropdead_guitar.png'",
+            gscore : "169200",
+
+            bpath : "4/3 beats after NN, 1/NN, 2(+1)/9th R, 1/15th R, 1/NN, 1/1st R, 1/2nd R, 1/8th O",
+            b_image : "'dropdead_bass.png'",
+            bscore : "189402",
+
+            lpath : "1/NN, 1/NN, 1/NN, 3(+1)/1st GB, 1/NN, 1/NN, 1/2nd R, 1/1st Y, 1/NN",
+            l_image : "'dropdead_lead.png'",
+            lscore : "168024",
+
+            mpath : "4/3 beats after NN, 1/NN, 2(+1)/9th R, 1/15th R, 1/NN, 1/1st R, 1/2nd R, 1/8th O",
+            m_image : "'dropdead_mbass.png'",
+            mscore : "189078",
             } 
         },
 { value : "Drop It Like It's Hot by Snoop Dogg ft. Pharrell", 
@@ -12380,6 +12438,35 @@ const songs = [
             mpath : "1/5th R, 1/1st B, 1/1st B, 3(+1)/1st R, 1/1st B",
             m_image : "'orbitaloverload_mbass.png'",
             mscore : "58542",
+            } 
+        },
+{ value : "maggots for brains by Olivia Rodrigo", 
+            data : {
+            shortname : "ornew",
+
+            dpath : "1/1st RY, 1/NN, 1/NN, 1/8th GY, 1/5th GY, 1/2nd GY, 1/5th GY, 1/2nd GY, 1/8th GY, 1/1st RY, 1/NN, 1/10th GY, 1/3rd GO, 1/12th GO",
+            d_image : "'ornew_drums.png'",
+            dscore : "269856",
+
+            vpath : "1/NN, 1/4th R, 1/NN, 1/1st B, 1/4th R, 1/1st Y, 1/4th R, 1/NN, 1/1st O, 3/2nd R, 1/NN, 1/NN",
+            v_image : "'ornew_vocals.png'",
+            vscore : "127971",
+
+            gpath : "2(+1)/1st GY, 1/1st GY, 3(+2)/1st GY, 3(+1)/6th B, 1/8th Y, 1/1st GR, 1/1st GR, 1/1st GR",
+            g_image : "'ornew_guitar.png'",
+            gscore : "195867",
+
+            bpath : "1/16th R, 1/NN, 1/NN, 2(+1)/14th Y, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/2nd Y, 1/2nd Y",
+            b_image : "'ornew_bass.png'",
+            bscore : "216630",
+
+            lpath : "2(+1)/1st GB, 1/1st GB, 3(+2)/1st GB, 1/3rd Y, 3/1st B, 1/8th R, 1/1st GY, 1/1st GY, 1/1st GY",
+            l_image : "'ornew_lead.png'",
+            lscore : "193851",
+
+            mpath : "1/16th R, 1/NN, 1/NN, 2(+1)/14th Y, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            m_image : "'ornew_mbass.png'",
+            mscore : "215046",
             } 
         },
 { value : "Overcompensate by Twenty One Pilots", 
