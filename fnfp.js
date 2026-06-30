@@ -1362,6 +1362,35 @@ const songs = [
             mscore : "330048",
             } 
         },
+{ value : "Bazooka by Miami XO", 
+            data : {
+            shortname : "bazooka",
+
+            dpath : "1/2nd GY, 1/2nd GY, 1/2nd GY, 1/10th Y, 1/2nd GY, 1/2nd GY",
+            d_image : "'bazooka_drums.png'",
+            dscore : "95328",
+
+            vpath : "3/5th R, 1/19th Y, 1/NN, 1/7th B",
+            v_image : "'bazooka_vocals.png'",
+            vscore : "78822",
+
+            gpath : "4(+1)/1st GY, 1(+1)/1st YO",
+            g_image : "'bazooka_guitar.png'",
+            gscore : "38538",
+
+            bpath : "3/NN, 1/NN, 1/NN, 1/NN",
+            b_image : "'bazooka_bass.png'",
+            bscore : "40620",
+
+            lpath : "4(+1)/1st GY, 1(+1)/1st GO",
+            l_image : "'bazooka_lead.png'",
+            lscore : "38538",
+
+            mpath : "3/NN, 1/NN, 1/NN, 1/NN",
+            m_image : "'bazooka_mbass.png'",
+            mscore : "40620",
+            } 
+        },
 { value : "Beanie by Chezile", 
             data : {
             shortname : "beanie",
@@ -5074,6 +5103,35 @@ const songs = [
             mscore : "65907",
             } 
         },
+{ value : "Earrings by Malcolm Todd", 
+            data : {
+            shortname : "earrings",
+
+            dpath : "2/1st GY, 1/1st GB, 1/1st RY, 1/NN, 2/1st GY, 1/1st GB",
+            d_image : "'earrings_drums.png'",
+            dscore : "94464",
+
+            vpath : "1/10th R, 1/1st R, 1/1st R, 4(+1)/5th G, 1/2nd G, 1/5th G",
+            v_image : "'earrings_vocals.png'",
+            vscore : "103158",
+
+            gpath : "1/6th GB, 2(+1)/3rd B, 1/NN, 1/1st RY, 4/1.7 beats after 1st G",
+            g_image : "'earrings_guitar.png'",
+            gscore : "125202",
+
+            bpath : "1/3rd G, 1/1st R, 1/1st Y, 1/4th R, 1/2nd Y, 2/2nd Y, 1/NN, 1/3rd Y",
+            b_image : "'earrings_bass.png'",
+            bscore : "90399",
+
+            lpath : "1/13th RB, 2/1st RY, 1/NN, 1/2nd B, 1/1st RY, 4/1.7 beats after 1st G",
+            l_image : "'earrings_lead.png'",
+            lscore : "114914",
+
+            mpath : "1/3rd G, 1/1st R, 1/1st Y, 1/4th R, 1/2nd Y, 2/2nd Y, 1/NN, 1/3rd Y",
+            m_image : "'earrings_mbass.png'",
+            mscore : "90399",
+            } 
+        },
 { value : "The Edge of Glory by Lady Gaga", 
             data : {
             shortname : "edgeofglory",
@@ -8117,6 +8175,35 @@ const songs = [
             mpath : "1/3rd B, 1/1st G, 1/3rd B, 1(+1)/1st O, 1/3rd B, 1/4th B",
             m_image : "'illegal_mbass.png'",
             mscore : "71559",
+            } 
+        },
+{ value : "iloveitiloveitiloveit by Bella Kay", 
+            data : {
+            shortname : "iloveit",
+
+            dpath : "2(+1)/1st GO, 1/14th B",
+            d_image : "'iloveit_drums.png'",
+            dscore : "37872",
+
+            vpath : "1/2nd B, 1(+1)/5th Y, 1/8th R, 1/NN, 1/6th Y, 1/3rd Y, 1/4th Y, 1/NN, 2/4th O",
+            v_image : "'iloveit_vocals.png'",
+            vscore : "140271",
+
+            gpath : "1/1st RO, 1/NN, 1/NN, 1/6th BO, 1/1st GO, 3(+1)/3rd G, 1/1st GB, 1/4th YO",
+            g_image : "'iloveit_guitar.png'",
+            gscore : "184368",
+
+            bpath : "1/11th G, 1/1st B, 1/NN, 1/NN, 1/NN, 1/NN",
+            b_image : "'iloveit_bass.png'",
+            bscore : "94548",
+
+            lpath : "1/1st GO, 1/NN, 1/NN, 1/6th RO, 1/1st GY, 3(+1)/4th G, 1/1st GB, 1/4th RO",
+            l_image : "'iloveit_lead.png'",
+            lscore : "183388",
+
+            mpath : "1/11th G, 1/1st B, 1/NN, 1/NN, 1/NN, 1/NN",
+            m_image : "'iloveit_mbass.png'",
+            mscore : "94548",
             } 
         },
 { value : "I Love Rock N Roll by Joan Jett & The Blackhearts", 
@@ -18151,6 +18238,35 @@ const songs = [
             mpath : "2/13th Y, 1/NN, 1/NN, 1/NN, 1/1st R, 1/1st R, 1/1st B, 1/NN, 1/10th G",
             m_image : "'vampire_mbass.png'",
             mscore : "158277",
+            } 
+        },
+{ value : "Waka Waka (This Time For Africa) by Shakira ft. Freshlyground", 
+            data : {
+            shortname : "wakawaka",
+
+            dpath : "1(+1)/1st GY, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/21st O",
+            d_image : "'wakawaka_drums.png'",
+            dscore : "138816",
+
+            vpath : "1/1st R, 1/9th R, 1/7th R, 1/12th R, 1(+1)/8th B, 1/6th R, 1/10th R, 1/5th Y",
+            v_image : "'wakawaka_vocals.png'",
+            vscore : "155445",
+
+            gpath : "3/1st RB, 1/NN, 4(+1)/1st BO",
+            g_image : "'wakawaka_guitar.png'",
+            gscore : "99690",
+
+            bpath : "1/6th Y, 1/1st BO, 1/1st GY, 1/NN, 1/4th Y, 1/3rd RY",
+            b_image : "'wakawaka_bass.png'",
+            bscore : "125052",
+
+            lpath : "3/1st RB, 1/NN, 4(+1)/1st GO",
+            l_image : "'wakawaka_lead.png'",
+            lscore : "98394",
+
+            mpath : "1(+1)/7th Y, 1/NN, 1/NN, 1/1st RB, 1/1st RB",
+            m_image : "'wakawaka_mbass.png'",
+            mscore : "102234",
             } 
         },
 { value : "Walk Em Down by NLE Choppa ft. Roddy Ricch", 
