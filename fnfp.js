@@ -1971,6 +1971,35 @@ const songs = [
             mscore : "51804",
             } 
         },
+{ value : "Big Feeling by BKtherula", 
+            data : {
+            shortname : "bigfeeling",
+
+            dpath : "1/1st GY, 1/2nd GB",
+            d_image : "'bigfeeling_drums.png'",
+            dscore : "45504",
+
+            vpath : "2/NN, 1/4th O, 1/3rd O, 1/15th Y",
+            v_image : "'bigfeeling_vocals.png'",
+            vscore : "67101",
+
+            gpath : "1/7th BO, 3/NN, 2/1st YO, 1/NN",
+            g_image : "'bigfeeling_guitar.png'",
+            gscore : "63725",
+
+            bpath : "2/2nd B, 4(+1)/5th Y",
+            b_image : "'bigfeeling_bass.png'",
+            bscore : "72411",
+
+            lpath : "1/7th RO, 3/NN, 2/1st GO, 1/NN",
+            l_image : "'bigfeeling_lead.png'",
+            lscore : "61845",
+
+            mpath : "2/2nd B, 4(+1)/2nd R",
+            m_image : "'bigfeeling_mbass.png'",
+            mscore : "72411",
+            } 
+        },
 { value : "Big Poppa by The Notorious B.I.G.", 
             data : {
             shortname : "bigpoppa",
@@ -12817,6 +12846,35 @@ const songs = [
             mscore : "157248",
             } 
         },
+{ value : "PASSO BEM SOLTO - Slowed by ATLXS", 
+            data : {
+            shortname : "passobemsolto",
+
+            dpath : "1/2nd RO, 1/1st RO, 2/1st RO, 1/2nd RO",
+            d_image : "'passobemsolto_drums.png'",
+            dscore : "59040",
+
+            vpath : "1/2nd O, 1/NN, 1/7th Y, 1/1st Y, 1/NN, 1/NN",
+            v_image : "'passobemsolto_vocals.png'",
+            vscore : "91674",
+
+            gpath : "1/3rd Y, 1/NN, 1/NN, 1/NN, 1/NN",
+            g_image : "'passobemsolto_guitar.png'",
+            gscore : "38871",
+
+            bpath : "1/13th Y, 1/NN, 1/3rd G, 1/NN, 1/NN",
+            b_image : "'passobemsolto_bass.png'",
+            bscore : "62649",
+
+            lpath : "1/3rd Y, 1/NN, 1/NN, 1/NN, 1/NN",
+            l_image : "'passobemsolto_lead.png'",
+            lscore : "38871",
+
+            mpath : "1/13th O, 1/NN, 1/3rd R, 1/NN, 1/NN",
+            m_image : "'passobemsolto_mbass.png'",
+            mscore : "62649",
+            } 
+        },
 { value : "Pea Like Me by Epic Games", 
             data : {
             shortname : "pealikeme",
@@ -18499,6 +18557,35 @@ const songs = [
             mpath : "2/5th B, 1/NN, 1/NN, 1/NN, 1/NN, 1/3rd G, 1/NN, 2(+1)/1st G, 1/NN",
             m_image : "'weliketoparty_mbass.png'",
             mscore : "97433",
+            } 
+        },
+{ value : "Well, Whatever It Was by Joyce Manor", 
+            data : {
+            shortname : "wellwhateveritwas",
+
+            dpath : "1/1st GO, 1/NN, 1(+1)/1st GO, 1/NN",
+            d_image : "'wellwhateveritwas_drums.png'",
+            dscore : "98784",
+
+            vpath : "2/NN, 2/NN",
+            v_image : "'wellwhateveritwas_vocals.png'",
+            vscore : "95385",
+
+            gpath : "1/NN, 1/8th GY, 1/NN, 1/16th GY, 1/NN",
+            g_image : "'wellwhateveritwas_guitar.png'",
+            gscore : "132900",
+
+            bpath : "1/8th G, 1/9th Y, 1/NN, 1(+1)/16th Y",
+            b_image : "'wellwhateveritwas_bass.png'",
+            bscore : "105192",
+
+            lpath : "1/NN, 2/NN, 1/NN, 1/NN",
+            l_image : "'wellwhateveritwas_lead.png'",
+            lscore : "126564",
+
+            mpath : "1/8th G, 1/9th Y, 1/NN, 1(+1)/16th Y",
+            m_image : "'wellwhateveritwas_mbass.png'",
+            mscore : "105192",
             } 
         },
 { value : "What Are You Waiting For by d4vd", 
