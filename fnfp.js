@@ -12817,6 +12817,35 @@ const songs = [
             mscore : "157212",
             } 
         },
+{ value : "PARTY OF YOUR LIFETIME by On-lyne", 
+            data : {
+            shortname : "partyofyourlifetime",
+
+            dpath : "1/NN, 1/3rd GY, 1/5th O, 1/NN, 1/NN, 1/9th GY, 1/NN, 1/NN, 1/1st GO, 1/NN",
+            d_image : "'partyofyourlifetime_drums.png'",
+            dscore : "228384",
+
+            vpath : "1/3rd B, 1/1st G, 1/8th B, 1/6th Y, 1/1st G, 1/NN, 1/NN, 1/17th Y, 1/2nd O, 1/8th Y",
+            v_image : "'partyofyourlifetime_vocals.png'",
+            vscore : "144471",
+
+            gpath : "1/1st B, 1/2nd YO, 2/1st R, 1/1st YO, 1/1st GO, 1/1st GY, 1/4th GR, 2/4th R",
+            g_image : "'partyofyourlifetime_guitar.png'",
+            gscore : "107604",
+
+            bpath : "1/4th R, 1/1st Y, 1/9th G, 1/4th Y, 1/2nd Y, 1/3rd R, 1/NN, 1/NN, 1/12th Y",
+            b_image : "'partyofyourlifetime_bass.png'",
+            bscore : "96558",
+
+            lpath : "1/1st B, 1/2nd RO, 2/3rd R, 1/1st RO, 1/1st GO, 1/1st GY, 1/4th GY, 2/12th Y",
+            l_image : "'partyofyourlifetime_lead.png'",
+            lscore : "102708",
+
+            mpath : "1/4th R, 1/1st Y, 1/9th G, 1/4th Y, 1/2nd Y, 1/3rd R, 1/NN, 1/NN, 1/12th Y",
+            m_image : "'partyofyourlifetime_mbass.png'",
+            mscore : "96558",
+            } 
+        },
 { value : "Party Rock Anthem by LMFAO ft. Lauren Bennett & GoonRock", 
             data : {
             shortname : "partyrockanthem",
