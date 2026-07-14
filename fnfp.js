@@ -8815,6 +8815,35 @@ const songs = [
             mscore : "138240",
             } 
         },
+{ value : "I Run by HAVEN., Kaitlin Aragon", 
+            data : {
+            shortname : "irun",
+
+            dpath : "1/NN, 1/8th GY, 1/NN, 1/5th GY, 1/8th GY, 1/16th GY",
+            d_image : "'irun_drums.png'",
+            dscore : "151200",
+
+            vpath : "1/6th Y, 1/7th Y, 1/5th Y, 1/2nd G, 1/4th Y, 1/5th Y, 1/NN, 1/4th Y",
+            v_image : "'irun_vocals.png'",
+            vscore : "102828",
+
+            gpath : "1/2nd GY, 1/NN, 1/1st RO, 1/NN, 1/2nd BO, 1/2nd YO, 1/NN",
+            g_image : "'irun_guitar.png'",
+            gscore : "67032",
+
+            bpath : "2(+1)/6th Y, 2/NN, 1/1st Y",
+            b_image : "'irun_bass.png'",
+            bscore : "51069",
+
+            lpath : "1/2nd GY, 1/NN, 1/1st RB, 1/NN, 1/3rd RO, 1/2nd GO, 1/NN",
+            l_image : "'irun_lead.png'",
+            lscore : "65448",
+
+            mpath : "2(+1)/6th Y, 2/NN, 1/1st Y",
+            m_image : "'irun_mbass.png'",
+            mscore : "51069",
+            } 
+        },
 { value : "I Still Haven't Found What I'm Looking For by U2", 
             data : {
             shortname : "istillhaventfound",
@@ -12177,6 +12206,35 @@ const songs = [
             mpath : "1/2nd R, 4(+1)/2nd G, 1/9th G, 1/7th Y",
             m_image : "'notwithoutafight_mbass.png'",
             mscore : "79332",
+            } 
+        },
+{ value : "NOW OR NEVER by Tkandz, CXSPER", 
+            data : {
+            shortname : "nowornever",
+
+            dpath : "1/2nd RB, 1/1st RB, 1/2nd RB, 1/4th RB, 1/2nd RB",
+            d_image : "'nowornever_drums.png'",
+            dscore : "70848",
+
+            vpath : "1/7th O, 1/8th R, 1/3rd Y, 1/11th R, 1/9th O, 1/6th R, 1/1st R",
+            v_image : "'nowornever_vocals.png'",
+            vscore : "147384",
+
+            gpath : "1/2nd Y, 1/NN, 1/3rd R, 1/NN, 1/3rd R, 1/2nd R, 1/NN, 1/2nd R",
+            g_image : "'nowornever_guitar.png'",
+            gscore : "50568",
+
+            bpath : "4(+1)/2nd B, 1/2nd B, 1/2nd B, 1/NN",
+            b_image : "'nowornever_bass.png'",
+            bscore : "49941",
+
+            lpath : "2/2nd Y, 1/3rd R, 1/NN, 1/3rd R, 1/2nd R, 1/NN, 1/2nd R",
+            l_image : "'nowornever_lead.png'",
+            lscore : "43071",
+
+            mpath : "4(+1)/2nd B, 1/2nd B, 1/2nd B, 1/NN",
+            m_image : "'nowornever_mbass.png'",
+            mscore : "49941",
             } 
         },
 { value : "Numb by Linkin Park", 
