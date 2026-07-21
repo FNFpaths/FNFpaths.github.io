@@ -6350,6 +6350,35 @@ const songs = [
             mscore : "63576",
             } 
         },
+{ value : "Freakin' Out by Dexter and the Moonrocks", 
+            data : {
+            shortname : "freakinout",
+
+            dpath : "1/4th GY, 1/10th GY, 1/6th Y, 1/NN, 1/1st RY, 1/2nd O, 1/1st R",
+            d_image : "'freakinout_drums.png'",
+            dscore : "125424",
+
+            vpath : "2/2nd R, 3(+1)/4th B, 1/3rd B, 1/8th B",
+            v_image : "'freakinout_vocals.png'",
+            vscore : "74108",
+
+            gpath : "1/NN, 3/2nd B, 2(+1)/3rd YBO, 3/NN, 1/2nd GY",
+            g_image : "'freakinout_guitar.png'",
+            gscore : "189380",
+
+            bpath : "1/1st B, 1/11th Y, 1/9th R, 1/NN, 1/NN, 1/2nd R, 1/4th R",
+            b_image : "'freakinout_bass.png'",
+            bscore : "118026",
+
+            lpath : "3(+1)/8th R, 1/NN, 1/9th G, 1/NN, 3/4th RB, 1/2nd GY",
+            l_image : "'freakinout_lead.png'",
+            lscore : "160644",
+
+            mpath : "1/6th R, 1/NN, 1/9th R, 1/NN, 1/NN, 1/2nd R, 1/4th R",
+            m_image : "'freakinout_mbass.png'",
+            mscore : "116964",
+            } 
+        },
 { value : "Free Bird by Lynyrd Skynyrd", 
             data : {
             shortname : "freebird",
