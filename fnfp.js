@@ -2000,6 +2000,35 @@ const songs = [
             mscore : "72411",
             } 
         },
+{ value : "Big Guy (from "The SpongeBob Movie: Search for SquarePants”) by Ice Spice", 
+            data : {
+            shortname : "bigguy",
+
+            dpath : "2/1st GY, 1/5th RY, 1/NN, 1/NN, 1/11th GO, 1/5th RY",
+            d_image : "'bigguy_drums.png'",
+            dscore : "160704",
+
+            vpath : "2/4th R, 1/11th Y, 1/6th B, 2/1st O, 1/6th Y",
+            v_image : "'bigguy_vocals.png'",
+            vscore : "109944",
+
+            gpath : "1/NN, 1/4th RB, 1/1st GY, 1/NN, 1/4th RB, 1/1st GY, 1/NN, 1/4th RB",
+            g_image : "'bigguy_guitar.png'",
+            gscore : "93636",
+
+            bpath : "1/19th Y, 1/NN, 1/3rd Y, 1/NN, 1/3rd Y, 1/NN, 1/3rd Y",
+            b_image : "'bigguy_bass.png'",
+            bscore : "83808",
+
+            lpath : "1/NN, 1/4th RB, 1/1st GY, 1/NN, 1/4th RB, 1/1st GY, 1/NN, 1/4th RB",
+            l_image : "'bigguy_lead.png'",
+            lscore : "93636",
+
+            mpath : "1/19th Y, 1/NN, 1/3rd Y, 1/NN, 1/3rd Y, 1/NN, 1/3rd Y",
+            m_image : "'bigguy_mbass.png'",
+            mscore : "83808",
+            } 
+        },
 { value : "Big Poppa by The Notorious B.I.G.", 
             data : {
             shortname : "bigpoppa",
