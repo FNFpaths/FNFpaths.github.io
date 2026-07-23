@@ -20,8 +20,8 @@ for dir in "$parent_directory"/*/; do
         echo "Processing directory: $dir"
 
         # Extract title and artist from song.yml
-        title=$(awk '/^ *title:/{gsub(/^ *title: /, ""); print}' "$dir/song.yml")
-        artist=$(awk '/^ *artist:/{gsub(/^ *artist: /, ""); print}' "$dir/song.yml")
+        title=$(awk '/^ *title:/{gsub(/^ *title: /, ""); print}' "$dir/song.yml" | sed 's/["“”]//g')
+        artist=$(awk '/^ *artist:/{gsub(/^ *artist: /, ""); print}' "$dir/song.yml" | sed 's/["“”]//g')
 
         shortname=$(basename "$dir")
 
