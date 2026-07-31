@@ -4436,6 +4436,35 @@ const songs = [
             mscore : "119466",
             } 
         },
+{ value : "Dark Thoughts by Lil Tecca", 
+            data : {
+            shortname : "darkthoughts",
+
+            dpath : "1/5th GY, 1/6th GY, 1/6th RY, 1/5th GY, 1/5th GY, 1/3rd GY",
+            d_image : "'darkthoughts_drums.png'",
+            dscore : "111600",
+
+            vpath : "1(+1)/8th G, 1/14th R, 1/6th Y, 1/7th G, 1/10th R",
+            v_image : "'darkthoughts_vocals.png'",
+            vscore : "130461",
+
+            gpath : "1/1st RYB, 1/NN, 2/1st RYB, 1/NN, 1/1st RY",
+            g_image : "'darkthoughts_guitar.png'",
+            gscore : "107889",
+
+            bpath : "2/6th G, 1/6th Y, 1/4th Y, 1/2nd Y, 1/6th Y",
+            b_image : "'darkthoughts_bass.png'",
+            bscore : "37707",
+
+            lpath : "1/2nd R, 1/2nd GO, 1/NN, 1/2nd R, 1/2nd GO, 1/NN",
+            l_image : "'darkthoughts_lead.png'",
+            lscore : "80175",
+
+            mpath : "2/6th G, 1/6th Y, 1/4th Y, 1/2nd Y, 1/6th Y",
+            m_image : "'darkthoughts_mbass.png'",
+            mscore : "37707",
+            } 
+        },
 { value : "dashstar* VIP by Knock2", 
             data : {
             shortname : "dashstar",
@@ -4871,6 +4900,35 @@ const songs = [
             mscore : "101160",
             } 
         },
+{ value : "Doot Doot (6 7) by Skrilla", 
+            data : {
+            shortname : "dootdoot",
+
+            dpath : "1/3rd R, 1/4th R, 1/3rd R, 3(+1)/1st GY",
+            d_image : "'dootdoot_drums.png'",
+            dscore : "47700",
+
+            vpath : "1/5th O, 1/4th O, 1/NN, 1/NN, 1/4th Y, 1/8th Y, 1/4th O",
+            v_image : "'dootdoot_vocals.png'",
+            vscore : "108534",
+
+            gpath : "2/3rd GY, 2/2nd GY",
+            g_image : "'dootdoot_guitar.png'",
+            gscore : "28668",
+
+            bpath : "1/2nd Y, 1/4th Y, 1/1st G, 1/NN, 1/10th Y",
+            b_image : "'dootdoot_bass.png'",
+            bscore : "17472",
+
+            lpath : "2/3rd GY, 2/2nd GY",
+            l_image : "'dootdoot_lead.png'",
+            lscore : "28668",
+
+            mpath : "1/2nd Y, 1/4th Y, 1/1st G, 1/NN, 1/10th Y",
+            m_image : "'dootdoot_mbass.png'",
+            mscore : "17472",
+            } 
+        },
 { value : "Down with the Sickness by Disturbed", 
             data : {
             shortname : "downwiththesickness",
@@ -5014,6 +5072,35 @@ const songs = [
             mpath : "4/2nd Y, 1/2nd O, 1/1st G, 1/2nd G, 1/2nd R, 1/1st Y, 1/3rd B, 1/2nd R, 1(+1)/7th O, 1/2nd B, 1/2nd B, 1/2nd R",
             m_image : "'dreamon_mbass.png'",
             mscore : "122133",
+            } 
+        },
+{ value : "Drill Dark by Alt-Life Music", 
+            data : {
+            shortname : "drilldark",
+
+            dpath : "1/6th GY, 2/2nd RY, 1/2nd GY, 1/11th Y, 1/NN, 1/3rd GY",
+            d_image : "'drilldark_drums.png'",
+            dscore : "129888",
+
+            vpath : "1/8th Y, 1/NN, 2(+1)/4th O, 1/NN, 1/NN, 1/NN",
+            v_image : "'drilldark_vocals.png'",
+            vscore : "140580",
+
+            gpath : "1/NN, 1/NN, 1/4th R, 1/NN, 1/NN, 1/NN, 1/4th R, 1/NN",
+            g_image : "'drilldark_guitar.png'",
+            gscore : "101808",
+
+            bpath : "3/2nd B, 1/2nd R, 1/2nd R, 1/1st B",
+            b_image : "'drilldark_bass.png'",
+            bscore : "46080",
+
+            lpath : "1/NN, 1/NN, 1/4th R, 1/NN, 1/NN, 1/NN, 1/4th R, 1/NN",
+            l_image : "'drilldark_lead.png'",
+            lscore : "101808",
+
+            mpath : "3/2nd Y, 1/3rd R, 1/2nd R, 1/2nd O",
+            m_image : "'drilldark_mbass.png'",
+            mscore : "42789",
             } 
         },
 { value : "drop dead by Olivia Rodrigo", 
@@ -5712,6 +5799,35 @@ const songs = [
             mscore : "95019",
             } 
         },
+{ value : "Fancy by Bigger Story Music", 
+            data : {
+            shortname : "fancy",
+
+            dpath : "1/3rd GY, 1(+1)/8th RY, 1/9th Y, 1/4th GY, 1/32nd Y, 1/15th Y",
+            d_image : "'fancy_drums.png'",
+            dscore : "126432",
+
+            vpath : "1/24th Y, 1/12th B, 1/5th Y, 1/6th B, 2/3rd B",
+            v_image : "'fancy_vocals.png'",
+            vscore : "92184",
+
+            gpath : "1/3rd Y, 1/2nd Y, 1/5th Y, 1/NN, 2/5th G, 1/2nd Y, 1/NN",
+            g_image : "'fancy_guitar.png'",
+            gscore : "130752",
+
+            bpath : "3/5th Y, 1/1st R, 3/2nd O",
+            b_image : "'fancy_bass.png'",
+            bscore : "48762",
+
+            lpath : "1/2nd B, 1/2nd B, 1/5th B, 1/NN, 2/8th G, 1/2nd B, 1/NN",
+            l_image : "'fancy_lead.png'",
+            lscore : "130320",
+
+            mpath : "3/5th Y, 1/1st R, 3/2nd O",
+            m_image : "'fancy_mbass.png'",
+            mscore : "48780",
+            } 
+        },
 { value : "Fancy Feet (Remix) by Epic Games", 
             data : {
             shortname : "fancyfeet",
@@ -6087,6 +6203,35 @@ const songs = [
             mpath : "1/19th R, 1/7th R, 3(+1)/6th R, 1/1 beats after 1st B",
             m_image : "'firstperson_mbass.png'",
             mscore : "75825",
+            } 
+        },
+{ value : "500lbs by Lil Tecca", 
+            data : {
+            shortname : "fivehundredlbs",
+
+            dpath : "1/2nd GY, 1/1st GY, 1/1st GY, 1/2nd GY, 1/4th GY, 1/1st GY, 1/1st GY",
+            d_image : "'fivehundredlbs_drums.png'",
+            dscore : "137376",
+
+            vpath : "1/9th G, 1/6th Y, 1/1st Y, 1/1st G, 1/2nd G, 1/7th Y, 1/NN",
+            v_image : "'fivehundredlbs_vocals.png'",
+            vscore : "151326",
+
+            gpath : "1/NN, 1/1st RBO, 1/2nd RBO, 1/NN, 1/2nd G, 1/NN, 1/1st RBO",
+            g_image : "'fivehundredlbs_guitar.png'",
+            gscore : "82974",
+
+            bpath : "2/5th G, 1(+1)/4th Y, 1/3rd Y, 1/2nd Y, 1/NN",
+            b_image : "'fivehundredlbs_bass.png'",
+            bscore : "59163",
+
+            lpath : "1/NN, 1/1st RO, 3/5th O, 1/NN, 1/3rd RO",
+            l_image : "'fivehundredlbs_lead.png'",
+            lscore : "71814",
+
+            mpath : "2/5th G, 1(+1)/4th O, 1/3rd O, 1/2nd O, 1/NN",
+            m_image : "'fivehundredlbs_mbass.png'",
+            mscore : "59163",
             } 
         },
 { value : "FLAMMABLE by Swae Lee", 
@@ -8989,6 +9134,35 @@ const songs = [
             mscore : "21924",
             } 
         },
+{ value : "i walk this earth all by myself by EKKSTACY", 
+            data : {
+            shortname : "iwalkthisearth",
+
+            dpath : "1/8th O, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            d_image : "'iwalkthisearth_drums.png'",
+            dscore : "78336",
+
+            vpath : "4(+1)/2nd B, 1/2nd B, 1/3rd Y",
+            v_image : "'iwalkthisearth_vocals.png'",
+            vscore : "48126",
+
+            gpath : "3/NN, 1/NN, 2(+1)/2nd Y, 1/NN, 1/2nd RY",
+            g_image : "'iwalkthisearth_guitar.png'",
+            gscore : "89877",
+
+            bpath : "1(+1)/15th O, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            b_image : "'iwalkthisearth_bass.png'",
+            bscore : "180257",
+
+            lpath : "3/NN, 1/NN, 2(+1)/2nd R, 1/NN, 1/2nd RY",
+            l_image : "'iwalkthisearth_lead.png'",
+            lscore : "88770",
+
+            mpath : "1(+1)/17th R, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            m_image : "'iwalkthisearth_mbass.png'",
+            mscore : "179829",
+            } 
+        },
 { value : "I Wanna Get Better by Bleachers", 
             data : {
             shortname : "iwannagetbetter",
@@ -10120,6 +10294,35 @@ const songs = [
             mscore : "220365",
             } 
         },
+{ value : "lonely by speaker knockerz", 
+            data : {
+            shortname : "lonely",
+
+            dpath : "1/NN, 1/2nd RY, 1/1st RY, 1/NN, 1/3rd RY, 1/4th RY, 1/1st GY, 1/1st RY, 1/3rd RY, 1/NN",
+            d_image : "'lonely_drums.png'",
+            dscore : "139536",
+
+            vpath : "1(+1)/6th O, 1/1st G, 1/1st O, 1/10th R, 3(+1)/13th B, 1/1st Y",
+            v_image : "'lonely_vocals.png'",
+            vscore : "139923",
+
+            gpath : "2/1st GR, 1/1st Y, 1/NN, 1/NN, 1/NN, 1/NN, 1/1st Y, 1/1st Y, 1(+1)/1st GR, 1/NN",
+            g_image : "'lonely_guitar.png'",
+            gscore : "66420",
+
+            bpath : "1/1st G, 1/1st R, 1/NN, 1/1st R, 1/1st R, 1/1st R, 1/1st R, 1/2nd G",
+            b_image : "'lonely_bass.png'",
+            bscore : "27585",
+
+            lpath : "2/1st GY, 1/1st Y, 1/NN, 1/NN, 1/NN, 1/NN, 1/1st Y, 1/1st Y, 1(+1)/1st GY, 1/NN",
+            l_image : "'lonely_lead.png'",
+            lscore : "64824",
+
+            mpath : "4(+1)/1st R, 1/1st R, 1/1st R, 1/2nd G",
+            m_image : "'lonely_mbass.png'",
+            mscore : "27228",
+            } 
+        },
 { value : "Lonely Boy by The Black Keys", 
             data : {
             shortname : "lonelyboy",
@@ -10234,6 +10437,35 @@ const songs = [
             mpath : "2/7th R, 1/2nd O, 2(+2)/0.5 beats after 10th Y, 1/NN, 1/NN",
             m_image : "'lovedontcostathing_mbass.png'",
             mscore : "87201",
+            } 
+        },
+{ value : "Love Me by Lil Tecca", 
+            data : {
+            shortname : "loveme",
+
+            dpath : "1/7th Y, 1/6th R, 1/2nd Y, 1/2nd GY",
+            d_image : "'loveme_drums.png'",
+            dscore : "42624",
+
+            vpath : "1/4th R, 1/3rd Y, 1/6th B, 1/6th Y, 1/14th B",
+            v_image : "'loveme_vocals.png'",
+            vscore : "131517",
+
+            gpath : "1/2nd GO, 1/NN, 1/NN, 1/NN, 1/NN",
+            g_image : "'loveme_guitar.png'",
+            gscore : "58608",
+
+            bpath : "1/1st G, 1/After 0.082 beats, 1/1st G, 1/NN",
+            b_image : "'loveme_bass.png'",
+            bscore : "6255",
+
+            lpath : "1/2nd GO, 1/NN, 1/NN, 1/NN, 1/NN",
+            l_image : "'loveme_lead.png'",
+            lscore : "58608",
+
+            mpath : "1/1st G, 1/After 0.082 beats, 1/1st G, 1/NN",
+            m_image : "'loveme_mbass.png'",
+            mscore : "6255",
             } 
         },
 { value : "Love Me Not by Ravyn Lenae", 
@@ -11222,6 +11454,35 @@ const songs = [
             mscore : "203238",
             } 
         },
+{ value : "Mister Papi by Bigger Story Music", 
+            data : {
+            shortname : "misterpapi",
+
+            dpath : "1(+1)/1st GO, 1/1st GO, 1(+1)/1st GO, 1/4th GY, 1/1st GO",
+            d_image : "'misterpapi_drums.png'",
+            dscore : "88848",
+
+            vpath : "2/6th O, 1/1st G, 1/NN, 1/8th B, 1/NN, 1/NN",
+            v_image : "'misterpapi_vocals.png'",
+            vscore : "114660",
+
+            gpath : "1/NN, 1/NN, 1/NN, 1/2nd G, 1/NN, 1/3rd G, 1/2nd RB",
+            g_image : "'misterpapi_guitar.png'",
+            gscore : "75596",
+
+            bpath : "1/6th Y, 1/After 0.5 beats, 1/3rd G, 1/NN, 1/NN",
+            b_image : "'misterpapi_bass.png'",
+            bscore : "31392",
+
+            lpath : "1/NN, 1/NN, 1/NN, 1/2nd G, 1/NN, 1/4th G, 1/2nd RY",
+            l_image : "'misterpapi_lead.png'",
+            lscore : "72572",
+
+            mpath : "3(+1)/8th Y, 1/5th G",
+            m_image : "'misterpapi_mbass.png'",
+            mscore : "30696",
+            } 
+        },
 { value : "Mona Lisa by Mic Drop", 
             data : {
             shortname : "monalisa",
@@ -11684,6 +11945,35 @@ const songs = [
             mpath : "2/2nd Y, 1/NN, 1/1st B, 1/NN, 1/3rd Y, 1/NN",
             m_image : "'myohmy_mbass.png'",
             mscore : "65076",
+            } 
+        },
+{ value : "My Sound by Almost Tomorrow", 
+            data : {
+            shortname : "mysound",
+
+            dpath : "1/2nd RY, 1/6th RY, 1/1st RY, 1/NN, 1/5th RY, 1/4th RY, 2/11th GY, 1/1st RY",
+            d_image : "'mysound_drums.png'",
+            dscore : "138384",
+
+            vpath : "1/5th Y, 1/25th Y, 4/2nd Y, 1/4th Y, 1/6th Y, 1/9th Y",
+            v_image : "'mysound_vocals.png'",
+            vscore : "134082",
+
+            gpath : "1/NN, 1/1st GRY, 1/NN, 1/1st GRY, 1/NN, 1/NN, 1/NN, 1/3rd GRY, 1/NN",
+            g_image : "'mysound_guitar.png'",
+            gscore : "117114",
+
+            bpath : "4/2nd R",
+            b_image : "'mysound_bass.png'",
+            bscore : "15933",
+
+            lpath : "1/NN, 1/1st GY, 1/NN, 1/1st GY, 1/NN, 1/NN, 1/NN, 1/3rd GY, 1/NN",
+            l_image : "'mysound_lead.png'",
+            lscore : "89904",
+
+            mpath : "4/2nd R",
+            m_image : "'mysound_mbass.png'",
+            mscore : "15933",
             } 
         },
 { value : "NEVER ENOUGH by Turnstile", 
@@ -13598,6 +13888,35 @@ const songs = [
             mpath : "2/1st B, 3(+1)/9th B, 1/4th B, 1/4th B",
             m_image : "'rainonme_mbass.png'",
             mscore : "99135",
+            } 
+        },
+{ value : "Ransom by Lil Tecca", 
+            data : {
+            shortname : "ransom",
+
+            dpath : "1/10th RY, 1/12th RY, 1(+1)/15th RY",
+            d_image : "'ransom_drums.png'",
+            dscore : "124704",
+
+            vpath : "1(+1)/29th Y, 1/NN, 1/NN, 1/8th Y",
+            v_image : "'ransom_vocals.png'",
+            vscore : "122261",
+
+            gpath : "1/2nd RY, 1/NN, 1/1st GR, 1/NN, 1/1st GR",
+            g_image : "'ransom_guitar.png'",
+            gscore : "42876",
+
+            bpath : "2/2nd B, 1/NN",
+            b_image : "'ransom_bass.png'",
+            bscore : "28887",
+
+            lpath : "1/2nd RY, 1/NN, 1/1st GY, 1/NN, 1/1st GY",
+            l_image : "'ransom_lead.png'",
+            lscore : "42876",
+
+            mpath : "2/2nd O, 1/NN",
+            m_image : "'ransom_mbass.png'",
+            mscore : "28887",
             } 
         },
 { value : "Ready For It by Epic Games", 
