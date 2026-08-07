@@ -4668,6 +4668,35 @@ const songs = [
             mscore : "64566",
             } 
         },
+{ value : "Diet Pepsi by Addison Rae", 
+            data : {
+            shortname : "dietpepsi",
+
+            dpath : "1/NN, 1/10th O, 1/1st GY, 1/1st GY, 1/9th Y, 1/1st GY, 1/1st GY, 1/1st GY, 1/NN, 1/NN",
+            d_image : "'dietpepsi_drums.png'",
+            dscore : "134496",
+
+            vpath : "2/1st B, 1/3rd R, 1/5th Y, 1/7th Y, 1/3rd R, 1/3rd R, 2/NN, 1/2nd R, 1/3rd R",
+            v_image : "'dietpepsi_vocals.png'",
+            vscore : "138690",
+
+            gpath : "4(+1)/1st YO, 1/NN, 1/2nd O, 1/NN, 1/4.1 beats after NN, 1/1st G, 1/2nd O",
+            g_image : "'dietpepsi_guitar.png'",
+            gscore : "62158",
+
+            bpath : "3(+1)/4th Y, 1/NN, 1/NN",
+            b_image : "'dietpepsi_bass.png'",
+            bscore : "38530",
+
+            lpath : "4(+1)/1st RB, 1/NN, 1/2nd O, 1/NN, 1/4.1 beats after NN, 1/1st G, 1/2nd O",
+            l_image : "'dietpepsi_lead.png'",
+            lscore : "62158",
+
+            mpath : "1/2nd O, 4(+1)/2nd R",
+            m_image : "'dietpepsi_mbass.png'",
+            mscore : "20037",
+            } 
+        },
 { value : "Die With A Smile by Lady Gaga, Bruno Mars", 
             data : {
             shortname : "diewithasmile",
@@ -5797,6 +5826,35 @@ const songs = [
             mpath : "4(+1)/13th R, 1/6th R, 1/NN, 1/NN, 1/NN",
             m_image : "'fallguys_mbass.png'",
             mscore : "95019",
+            } 
+        },
+{ value : "Fame is a Gun by Addison Rae", 
+            data : {
+            shortname : "fameisagun",
+
+            dpath : "1/3rd RO, 1/1st RO, 1/1st RO, 1/1st GO, 4(+1)/14th RY",
+            d_image : "'fameisagun_drums.png'",
+            dscore : "146160",
+
+            vpath : "1/6th B, 1/1st G, 1(+1)/9th Y, 1/1st B, 1/NN, 1/3rd B, 3/15th R",
+            v_image : "'fameisagun_vocals.png'",
+            vscore : "128973",
+
+            gpath : "1/NN, 1/NN, 2/NN, 1/11th R, 1/NN, 1/8th R, 1/NN, 3/0.75 beats after 2nd G",
+            g_image : "'fameisagun_guitar.png'",
+            gscore : "96748",
+
+            bpath : "2/9th Y, 1/NN, 1/NN, 1/1st R, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            b_image : "'fameisagun_bass.png'",
+            bscore : "125613",
+
+            lpath : "1/NN, 1/NN, 2/NN, 1/11th R, 1/NN, 1/8th R, 1/NN, 3/0.75 beats after 2nd G",
+            l_image : "'fameisagun_lead.png'",
+            lscore : "96748",
+
+            mpath : "2/9th Y, 1/NN, 1/NN, 1/1st R, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            m_image : "'fameisagun_mbass.png'",
+            mscore : "125613",
             } 
         },
 { value : "Fancy by Bigger Story Music", 
