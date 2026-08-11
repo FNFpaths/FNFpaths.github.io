@@ -3711,6 +3711,35 @@ const songs = [
             mscore : "228442",
             } 
         },
+{ value : "Choosin' Texas by Ella Langley", 
+            data : {
+            shortname : "choosintexas",
+
+            dpath : "2(+1)/4th RY, 1/2nd RB, 2/1st GO, 1/2nd RY, 1/1st GO, 1/7th RY, 1/2nd GO",
+            d_image : "'choosintexas_drums.png'",
+            dscore : "175536",
+
+            vpath : "1/3rd G, 1/1st G, 1/NN, 1/NN, 1/NN, 1/5th G, 1/8th B, 1/7th R, 1/2nd G, 1/9th Y",
+            v_image : "'choosintexas_vocals.png'",
+            vscore : "128997",
+
+            gpath : "1/3rd YB, 1/1st YB, 1/1st YO, 1/2nd YO, 1/4th Y, 1/3rd YO, 1/3rd Y, 1/9th R, 2/1st R, 1/1st RB",
+            g_image : "'choosintexas_guitar.png'",
+            gscore : "171827",
+
+            bpath : "3/2nd Y, 1/NN, 1/4th Y, 1/7th Y, 1/2nd R, 1(+1)/7th B, 1/5th B",
+            b_image : "'choosintexas_bass.png'",
+            bscore : "111090",
+
+            lpath : "1/2nd RB, 1/1st RB, 1/1st GO, 1/NN, 1/4th Y, 1/3rd GO, 1/3rd Y, 1/9th R, 2/1st R, 1/1st GO",
+            l_image : "'choosintexas_lead.png'",
+            lscore : "164170",
+
+            mpath : "3/2nd Y, 1/NN, 1/4th Y, 1/6th Y, 1/2nd G, 1(+1)/5th B, 1/5th B",
+            m_image : "'choosintexas_mbass.png'",
+            mscore : "107589",
+            } 
+        },
 { value : "Chyld of Dawn by Epic Games", 
             data : {
             shortname : "chyldofdawn",
@@ -8641,6 +8670,35 @@ const songs = [
             mscore : "202788",
             } 
         },
+{ value : "Imposter Syndrome by Sidney Gish", 
+            data : {
+            shortname : "impostersyndrome",
+
+            dpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 2/1st GY, 1/NN, 1/NN, 1/NN, 1/NN",
+            d_image : "'impostersyndrome_drums.png'",
+            dscore : "250560",
+
+            vpath : "1/8th Y, 1/4th G, 1/4th R, 1/3rd O, 1/1st O, 1/3rd G, 1/4th R, 1/2nd B, 1/3rd O, 1/NN, 1/4th R, 1/NN, 1/2nd G",
+            v_image : "'impostersyndrome_vocals.png'",
+            vscore : "166989",
+
+            gpath : "1/3rd RY, 1/1st RB, 1/9th Y, 1/3rd RY, 1/3rd RY, 1/1st RO, 1/1st GR, 3/3rd RY, 1/1st YB, 1/3rd BO, 1/3rd RY, 1/3rd RB",
+            g_image : "'impostersyndrome_guitar.png'",
+            gscore : "246880",
+
+            bpath : "1/8th G, 1(+1)/1st B, 1/10th Y, 1/NN, 1/NN, 1/NN",
+            b_image : "'impostersyndrome_bass.png'",
+            bscore : "91035",
+
+            lpath : "1/3rd RY, 1/4th GY, 1/7th Y, 1/8th RY, 1/3rd GB, 1/1st GO, 1/1st GY, 3/4th RY, 1/3rd GB, 1/1st GY, 1/2nd RY, 1/1st RO",
+            l_image : "'impostersyndrome_lead.png'",
+            lscore : "228826",
+
+            mpath : "1/8th G, 1(+1)/1st B, 1/10th Y, 1/NN, 1/NN, 1/NN",
+            m_image : "'impostersyndrome_mbass.png'",
+            mscore : "91035",
+            } 
+        },
 { value : "I'm So ATL by Bankroll Ni", 
             data : {
             shortname : "imsoatl",
@@ -12902,6 +12960,35 @@ const songs = [
             mpath : "1/7th B, 1/14th B, 1/3rd B, 1/10th B, 1/7th B, 1/4th Y, 1/2nd G, 1/3rd R, 3(+1)/10th G, 2/59th G, 3/5th Y, 1/NN, 1/NN",
             m_image : "'one_mbass.png'",
             mscore : "500124",
+            } 
+        },
+{ value : "One Last Breath (ATLiens Remix) by ATLiens", 
+            data : {
+            shortname : "onelastbreath",
+
+            dpath : "1/1st Y, 1/1st GY, 1/3rd RB, 2/1st RB",
+            d_image : "'onelastbreath_drums.png'",
+            dscore : "75312",
+
+            vpath : "1/1st G, 1/8th Y, 1/2nd G, 1/NN, 1/NN, 1/1st O",
+            v_image : "'onelastbreath_vocals.png'",
+            vscore : "67500",
+
+            gpath : "1/1st RB, 1/1st RB, 1/1st RB, 1/10th Y, 1/1st RB, 1/NN",
+            g_image : "'onelastbreath_guitar.png'",
+            gscore : "98748",
+
+            bpath : "4/3 beats after 1st O, 1/NN, 1/2nd Y, 1/1st R",
+            b_image : "'onelastbreath_bass.png'",
+            bscore : "46083",
+
+            lpath : "1/11th Y, 1/9th Y, 1/2nd B, 1/11th Y, 1/1st B, 1/NN",
+            l_image : "'onelastbreath_lead.png'",
+            lscore : "94164",
+
+            mpath : "4/3 beats after 1st O, 1/NN, 1/2nd Y, 1/1st R",
+            m_image : "'onelastbreath_mbass.png'",
+            mscore : "45219",
             } 
         },
 { value : "One More Time by Daft Punk", 
