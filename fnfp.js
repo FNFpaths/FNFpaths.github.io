@@ -12966,9 +12966,9 @@ const songs = [
             data : {
             shortname : "onelastbreath",
 
-            dpath : "1/1st Y, 1/1st GY, 1/3rd RB, 2/1st RB",
+            dpath : "1/1st Y, 1/1st GY, 1/2nd GY, 2/1st RB",
             d_image : "'onelastbreath_drums.png'",
-            dscore : "75312",
+            dscore : "75456",
 
             vpath : "1/1st G, 1/8th Y, 1/2nd G, 1/NN, 1/NN, 1/1st O",
             v_image : "'onelastbreath_vocals.png'",
