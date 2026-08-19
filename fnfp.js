@@ -5741,6 +5741,35 @@ const songs = [
             mscore : "70887",
             } 
         },
+{ value : "Fabienk by Angine de Poitrine", 
+            data : {
+            shortname : "fabienk",
+
+            dpath : "2/2nd Y, 4(+1)/1st GY, 2/1st RY, 1/3rd RY, 1/NN, 1/1st G, 4(+1)/7th GY, 2/4th RY, 1/3rd RY, 1/2nd RY, 1/4th RB, 1/NN, 1/NN, 1/5th Y, 1/NN",
+            d_image : "'fabienk_drums.png'",
+            dscore : "473616",
+
+            vpath : "2/5th R",
+            v_image : "'fabienk_vocals.png'",
+            vscore : "4710",
+
+            gpath : "1(+1)/5th O, 1/2nd Y, 1/2nd Y, 1/2nd Y, 1/12th Y, 1/NN, 2/6th G, 1/NN, 2/6th G, 1/1st YBO, 1/7th B, 1/1st R, 1/1st Y, 1/3rd O, 1/4th R, 1/NN, 1/7th B, 1/NN, 1/NN, 1/3rd O, 1/4th R",
+            g_image : "'fabienk_guitar.png'",
+            gscore : "316728",
+
+            bpath : "2(+1)/5th G, 2/NN, 1/2nd O, 1/2nd O, 1/2nd O, 1/2nd O, 1/2nd O, 1/2nd O, 1/2nd O, 1/4th B, 1/4th B, 1/4th B, 1/4th B, 1/4th B, 1/4th B, 1/4th B, 1/4th B, 1/4th B, 1/4th B, 1/4th B, 1/4th B, 1/4th B, 1/4th B",
+            b_image : "'fabienk_bass.png'",
+            bscore : "501660",
+
+            lpath : "1(+1)/5th O, 1/2nd Y, 1/2nd Y, 1/2nd Y, 1/12th Y, 1/NN, 2/5th G, 1/NN, 2/5th G, 1/1st RO, 1/4th R, 1/4th R, 2/3rd O, 1/4th R, 1/6th Y, 1/9th Y, 1/8th Y, 1/1st Y, 1/11th R, 1/4th R",
+            l_image : "'fabienk_lead.png'",
+            lscore : "308628",
+
+            mpath : "2(+1)/5th G, 2/NN, 1/2nd O, 1/2nd O, 1/2nd O, 1/2nd O, 1/2nd O, 1/2nd O, 1/2nd O, 1/3rd R, 1/3rd R, 1/3rd R, 1/3rd R, 1/3rd R, 1/3rd R, 1/3rd R, 1/3rd R, 1/3rd R, 1/3rd R, 1/3rd R, 1/3rd R, 1/3rd R, 1/3rd R",
+            m_image : "'fabienk_mbass.png'",
+            mscore : "501660",
+            } 
+        },
 { value : "Fade to Black by Metallica", 
             data : {
             shortname : "fadetoblack",
@@ -15077,6 +15106,35 @@ const songs = [
             mpath : "1/2nd B, 1/NN, 1/NN, 1/5th B, 1/1st G, 3(+1)/6th B, 1/NN, 1/NN, 1/NN, 1/1st G, 1/2nd G, 1/NN, 1(+1)/9th G, 2(+1)/46th G, 1/18th G, 1/2nd G, 1/NN, 1/NN, 1/NN",
             m_image : "'seekanddestroy_mbass.png'",
             mscore : "474507",
+            } 
+        },
+{ value : "Self Aware by Temper City", 
+            data : {
+            shortname : "selfaware",
+
+            dpath : "1/NN, 4(+2)/6th RB, 1/1st GB, 1/NN, 1/5th GB, 1/NN, 1/1st GB",
+            d_image : "'selfaware_drums.png'",
+            dscore : "157824",
+
+            vpath : "1/1st O, 1/1st O, 3/1st R, 1(+1)/3rd O, 1(+1)/3rd G, 2/2nd O, 1/3rd G",
+            v_image : "'selfaware_vocals.png'",
+            vscore : "115680",
+
+            gpath : "1/2nd Y, 4(+1)/3 beats after 2nd B, 1/0.5 beats after 1st R, 3/1st YO, 1/1st GY, 1/NN",
+            g_image : "'selfaware_guitar.png'",
+            gscore : "64280",
+
+            bpath : "1/3rd B, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/3rd R, 1/NN, 1/NN",
+            b_image : "'selfaware_bass.png'",
+            bscore : "85644",
+
+            lpath : "1/2nd Y, 4(+1)/3 beats after 2nd B, 1/0.5 beats after 1st R, 3/1st RO, 1/NN, 1/NN",
+            l_image : "'selfaware_lead.png'",
+            lscore : "62660",
+
+            mpath : "1/3rd B, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/3rd R, 1/NN, 1/NN",
+            m_image : "'selfaware_mbass.png'",
+            mscore : "85644",
             } 
         },
 { value : "September by Earth, Wind & Fire", 
