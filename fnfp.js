@@ -2870,6 +2870,35 @@ const songs = [
             mscore : "160920",
             } 
         },
+{ value : "Build It! by Epic Games", 
+            data : {
+            shortname : "buildit",
+
+            dpath : "1(+1)/5th GY, 1/2nd R, 2/1st RY, 1/NN, 1/11th R, 1/1st GB, 1/9th Y",
+            d_image : "'buildit_drums.png'",
+            dscore : "144912",
+
+            vpath : "3/3rd B, 1/2nd G, 3/6th R, 1/3rd RY, 1/6th G",
+            v_image : "'buildit_vocals.png'",
+            vscore : "145152",
+
+            gpath : "2/10th RB, 1/2nd R, 3(+1)/4th YB, 1/5th R, 1(+1)/1st YB",
+            g_image : "'buildit_guitar.png'",
+            gscore : "182880",
+
+            bpath : "1(+1)/7th B, 1/5th R, 1/4th G, 1/1st Y, 1/NN, 1/4th R, 1/3rd R, 1/1st Y",
+            b_image : "'buildit_bass.png'",
+            bscore : "84447",
+
+            lpath : "2/10th RB, 1/2nd R, 3(+1)/4th GB, 1/5th R, 1(+1)/1st GB",
+            l_image : "'buildit_lead.png'",
+            lscore : "180828",
+
+            mpath : "1(+1)/7th B, 1/4th R, 1/4th G, 1/1st Y, 1/NN, 1/4th R, 1/3rd R, 1/1st Y",
+            m_image : "'buildit_mbass.png'",
+            mscore : "83007",
+            } 
+        },
 { value : "Built Together by Epic Games", 
             data : {
             shortname : "builttogether",
@@ -7452,6 +7481,35 @@ const songs = [
             mscore : "250560",
             } 
         },
+{ value : "Going Faster by Epic Games", 
+            data : {
+            shortname : "goingfaster",
+
+            dpath : "1/3rd GO, 1/NN, 1/6th GY, 1/15th Y, 1/1st O, 2/3rd R, 1/8th GY, 1/20th Y, 1/9th G, 1/1st O, 1/17th B, 1/9th G, 1/1st O",
+            d_image : "'goingfaster_drums.png'",
+            dscore : "243936",
+
+            vpath : "1/1.5 beats after 5th B, 1/2nd G, 1/NN, 1/NN, 1/2nd O, 1/NN, 1/1st R, 3(+1)/1st G, 1/4th G, 1/3rd O",
+            v_image : "'goingfaster_vocals.png'",
+            vscore : "135158",
+
+            gpath : "2/1st GRB, 1/3rd R, 4(+1)/5th RB, 1/2nd R, 1/1st Y, 2/2 beats after 1st O, 2/6th RB",
+            g_image : "'goingfaster_guitar.png'",
+            gscore : "146287",
+
+            bpath : "1/1st G, 1/1st O, 1/1st G, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1(+1)/5th G, 1/9th G",
+            b_image : "'goingfaster_bass.png'",
+            bscore : "243162",
+
+            lpath : "2/2nd GB, 1/3rd R, 4(+1)/5th RB, 1/2nd R, 1/1st Y, 2/2 beats after 1st O, 2/6th RB",
+            l_image : "'goingfaster_lead.png'",
+            lscore : "144376",
+
+            mpath : "1/1st G, 1/1st O, 1/1st G, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1(+1)/6th G, 1/5th G",
+            m_image : "'goingfaster_mbass.png'",
+            mscore : "242028",
+            } 
+        },
 { value : "good 4 u by Olivia Rodrigo", 
             data : {
             shortname : "good4u",
@@ -9132,6 +9190,35 @@ const songs = [
             mpath : "1/2nd B, 1/NN, 1/12th Y, 1/1st B, 1/NN, 1/15th Y, 1/2nd B, 1/6th Y",
             m_image : "'intoyou_mbass.png'",
             mscore : "112965",
+            } 
+        },
+{ value : "Invincible by Epic Games", 
+            data : {
+            shortname : "invincible",
+
+            dpath : "1/11th G, 1/11th G, 1/4th GO, 1/NN, 1/NN, 1/1st GO, 1/3rd G, 3/1st Y",
+            d_image : "'invincible_drums.png'",
+            dscore : "135792",
+
+            vpath : "2/1st O, 1/NN, 1/6th R, 1/NN, 1/4th G, 1/6th O, 1/NN",
+            v_image : "'invincible_vocals.png'",
+            vscore : "90863",
+
+            gpath : "1/2nd Y, 1/NN, 1/NN, 1/NN, 1(+1)/15th G, 1/5th R, 3/1st RB",
+            g_image : "'invincible_guitar.png'",
+            gscore : "121178",
+
+            bpath : "1/4th G, 1/NN, 1/3rd G, 1/7th O, 1/11th G, 1/4th Y, 2/9th R, 1/8th G, 1/6th Y",
+            b_image : "'invincible_bass.png'",
+            bscore : "252276",
+
+            lpath : "1/1st B, 1/NN, 1/NN, 1/NN, 1(+1)/15th G, 1/4th R, 3/1st GB",
+            l_image : "'invincible_lead.png'",
+            lscore : "114725",
+
+            mpath : "1/4th R, 1/NN, 1/3rd R, 1/6th O, 1/13th G, 1/2nd B, 2/8th R, 1/8th G, 1/6th Y",
+            m_image : "'invincible_mbass.png'",
+            mscore : "252222",
             } 
         },
 { value : "Iris Out by Kenshi Yonezu", 
