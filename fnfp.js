@@ -10327,7 +10327,7 @@ const songs = [
             data : {
             shortname : "lightscameraaction",
 
-            dpath : "1/3rd GY, 2/1st RB, 1/11th RO, 1/NN, 2/3rd RO",
+            dpath : "1/3rd GY, 2/1st RB, 1/12th RO, 1/NN, 2/3rd RO",
             d_image : "'lightscameraaction_drums.png'",
             dscore : "144720",
 
