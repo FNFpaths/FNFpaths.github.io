@@ -8235,6 +8235,35 @@ const songs = [
             mscore : "24960",
             } 
         },
+{ value : "Hot Blooded by New Constellations", 
+            data : {
+            shortname : "hotblooded",
+
+            dpath : "1/1st GY, 1/NN, 1/1st GY, 1/1st GY, 1/NN, 1/1st GY, 1/1st GY, 1/1st GY, 1/1st GY, 1/1st GY, 1/1st GY",
+            d_image : "'hotblooded_drums.png'",
+            dscore : "199440",
+
+            vpath : "1/4th B, 1/6th B, 1/2nd B, 1/4th B, 1/1st B, 1/7th B, 1/2nd O, 1/NN",
+            v_image : "'hotblooded_vocals.png'",
+            vscore : "100918",
+
+            gpath : "1/1st GY, 1/1st GY, 1/1st GY, 1/1st GY, 1/1st GY, 1/NN, 1/1st GY, 1/1st GY",
+            g_image : "'hotblooded_guitar.png'",
+            gscore : "55908",
+
+            bpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            b_image : "'hotblooded_bass.png'",
+            bscore : "411480",
+
+            lpath : "1/1st GY, 1/1st GY, 1/1st GY, 1/1st GY, 1/1st GY, 1/NN, 1/1st GY, 1/1st GY",
+            l_image : "'hotblooded_lead.png'",
+            lscore : "55908",
+
+            mpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            m_image : "'hotblooded_mbass.png'",
+            mscore : "411480",
+            } 
+        },
 { value : "Hot In Herre by Nelly", 
             data : {
             shortname : "hotinherre",
@@ -9538,6 +9567,35 @@ const songs = [
             mpath : "2(+1)/9th R, 2/NN, 2/3rd G, 1/NN, 1/NN, 1/9th G, 1/NN",
             m_image : "'iwritesins_mbass.png'",
             mscore : "160464",
+            } 
+        },
+{ value : "Jane! by The Long Faces", 
+            data : {
+            shortname : "jane",
+
+            dpath : "1/2nd Y, 1/NN, 1/NN, 1/26th O, 1/1st RY, 1(+1)/22nd G, 1/3rd O, 1/NN, 1/20th O, 1/4th O, 1/12th O",
+            d_image : "'jane_drums.png'",
+            dscore : "163872",
+
+            vpath : "1/3rd G, 1/7th R, 1/2nd B, 1/NN, 1/NN, 1/NN, 1/NN, 1/1st B, 1/8th G",
+            v_image : "'jane_vocals.png'",
+            vscore : "84870",
+
+            gpath : "1/10th GB, 1/NN, 3/1st RBO, 1/1st YBO, 1/NN, 1/NN, 1/2nd G, 1/1st G, 1/3rd G, 1/1st YB",
+            g_image : "'jane_guitar.png'",
+            gscore : "163071",
+
+            bpath : "2/4th G, 1/10th Y, 1/5th B, 1/NN, 1(+1)/12th R, 2/6th Y, 1/1st G, 1/5th B",
+            b_image : "'jane_bass.png'",
+            bscore : "144108",
+
+            lpath : "1/1st GY, 1/NN, 3(+1)/1st RO, 1/NN, 1/NN, 1/2nd G, 1/1st G, 1/3rd G, 1/1st RB",
+            l_image : "'jane_lead.png'",
+            lscore : "146448",
+
+            mpath : "2/2nd R, 1/10th Y, 1/5th Y, 1/NN, 1(+1)/12th R, 2/6th Y, 1/1 beats after 2nd R, 1/15th R",
+            m_image : "'jane_mbass.png'",
+            mscore : "141027",
             } 
         },
 { value : "Juicy by The Notorious B.I.G.", 
@@ -16179,6 +16237,35 @@ const songs = [
             mpath : "1/7th Y, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1(+1)/21st G, 1/NN, 1/12th Y",
             m_image : "'sowhat_mbass.png'",
             mscore : "163953",
+            } 
+        },
+{ value : "Spend Dat by Yung Miami", 
+            data : {
+            shortname : "spenddat",
+
+            dpath : "1/1st RY, 1/1st GY, 1/4th RY, 1/1st RY, 1/1st RY, 1/1st RY, 1/1st GY",
+            d_image : "'spenddat_drums.png'",
+            dscore : "139680",
+
+            vpath : "2/6th Y, 1/NN, 2/NN, 1/8th R, 1/3rd O",
+            v_image : "'spenddat_vocals.png'",
+            vscore : "132717",
+
+            gpath : "1/2nd B, 1/3rd RY, 1/2nd B, 1/1st Y, 1/3rd RY, 1/7th Y, 1/3rd YO",
+            g_image : "'spenddat_guitar.png'",
+            gscore : "67536",
+
+            bpath : "2/2nd G, 1/2nd Y, 1/6th R, 1/6th R, 1/8th R, 1/6th R",
+            b_image : "'spenddat_bass.png'",
+            bscore : "57888",
+
+            lpath : "1/1st RY, 1/3rd RY, 1/1st O, 1/NN, 1/3rd RY, 1/5th R, 1/3rd RB",
+            l_image : "'spenddat_lead.png'",
+            lscore : "61881",
+
+            mpath : "2/2nd G, 1/2nd Y, 1/6th R, 1/6th R, 1/8th R, 1/6th R",
+            m_image : "'spenddat_mbass.png'",
+            mscore : "57888",
             } 
         },
 { value : "Spies! (Marshmello Remix) by Epic Games ft. Marshmello", 
