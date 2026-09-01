@@ -2493,6 +2493,35 @@ const songs = [
             mscore : "236349",
             } 
         },
+{ value : "Boston by STELLA LEFTY", 
+            data : {
+            shortname : "boston",
+
+            dpath : "1/1st GY, 1/NN, 1/NN, 1/1st GO, 1/NN, 1/NN",
+            d_image : "'boston_drums.png'",
+            dscore : "114192",
+
+            vpath : "1/2nd R, 2/3rd B, 1/NN, 1/0.75 beats after 1st B, 1/10th B, 1/1st B, 1/13th B",
+            v_image : "'boston_vocals.png'",
+            vscore : "115026",
+
+            gpath : "1/7th R, 1/7th R, 1/NN, 1/1st R, 1/9th B, 1/NN, 1/1st GB, 1/1st GB, 1/1st RB",
+            g_image : "'boston_guitar.png'",
+            gscore : "96798",
+
+            bpath : "2/3rd O, 1/NN, 1/2nd B, 1/3rd O, 1/6th G",
+            b_image : "'boston_bass.png'",
+            bscore : "46983",
+
+            lpath : "1/7th R, 1/7th R, 1/NN, 1/1st R, 1/5th R, 1/NN, 1/1st GB, 1/1st GB, 1/1st RO",
+            l_image : "'boston_lead.png'",
+            lscore : "95190",
+
+            mpath : "2/3rd O, 1/NN, 1/2nd B, 1/3rd O, 1/6th G",
+            m_image : "'boston_mbass.png'",
+            mscore : "46659",
+            } 
+        },
 { value : "Boulevard of Broken Dreams by Green Day", 
             data : {
             shortname : "boulevardofbrokendreams",
