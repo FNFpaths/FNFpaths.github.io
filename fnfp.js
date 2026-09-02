@@ -3392,6 +3392,35 @@ const songs = [
             mscore : "144072",
             } 
         },
+{ value : "Can You Feel My Heart by Bring Me The Horizon", 
+            data : {
+            shortname : "canyoufeelmyheart",
+
+            dpath : "2/1st GY, 1(+1)/3rd GY, 1/3rd GY, 2(+1)/31st Y, 1/NN, 1/NN, 1/13th RO",
+            d_image : "'canyoufeelmyheart_drums.png'",
+            dscore : "236160",
+
+            vpath : "1/7th Y, 1/NN, 1/NN, 1/3rd R, 1/14th Y, 1/14th Y, 1(+1)/1st G, 1/23rd Y, 1/4th R, 1/1st B",
+            v_image : "'canyoufeelmyheart_vocals.png'",
+            vscore : "152172",
+
+            gpath : "1/2nd GY, 2/2nd GY, 3/2nd GY, 1/1st RBO, 1/NN, 3(+1)/1st O",
+            g_image : "'canyoufeelmyheart_guitar.png'",
+            gscore : "185398",
+
+            bpath : "1(+1)/1st R, 2/1st R, 1/NN, 1/1st R, 1/NN, 1/NN",
+            b_image : "'canyoufeelmyheart_bass.png'",
+            bscore : "122256",
+
+            lpath : "1/5th RB, 2/2nd GB, 3/2nd GB, 1/13th GY, 1/NN, 3(+1)/1st O",
+            l_image : "'canyoufeelmyheart_lead.png'",
+            lscore : "172314",
+
+            mpath : "1(+1)/1st R, 2/1st R, 1/NN, 1/1st R, 1/NN, 1/NN",
+            m_image : "'canyoufeelmyheart_mbass.png'",
+            mscore : "122256",
+            } 
+        },
 { value : "Carry on Wayward Son by Kansas", 
             data : {
             shortname : "carryonwaywardson",
