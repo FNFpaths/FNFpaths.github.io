@@ -5567,6 +5567,35 @@ const songs = [
             mscore : "75204",
             } 
         },
+{ value : "El Sonidito by Hechizeros Band", 
+            data : {
+            shortname : "elsonidito",
+
+            dpath : "1/3rd GY, 1/NN, 1(+1)/1st RY, 1/NN, 2/1st GO, 1/1st RY, 1/NN, 1/1st GO, 1/9th GY, 2/2nd GO",
+            d_image : "'elsonidito_drums.png'",
+            dscore : "314496",
+
+            vpath : "1/1st R, 1/4th R, 1/5th Y, 1/5th RB, 1/5th RB",
+            v_image : "'elsonidito_vocals.png'",
+            vscore : "56468",
+
+            gpath : "1(+1)/50th O, 2(+1)/57th O, 2(+1)/50th O, 2(+1)/57th O, 1/NN",
+            g_image : "'elsonidito_guitar.png'",
+            gscore : "142704",
+
+            bpath : "1(+1)/13th G, 1/4th G, 1/10th G, 1/NN, 1/12th G, 1/4th G, 1/NN, 1/4th G, 1/10th G, 1/NN, 1/4th G",
+            b_image : "'elsonidito_bass.png'",
+            bscore : "176652",
+
+            lpath : "1(+1)/50th O, 2(+1)/57th O, 2(+1)/50th O, 2(+1)/57th O, 1/NN",
+            l_image : "'elsonidito_lead.png'",
+            lscore : "142704",
+
+            mpath : "1(+1)/13th G, 1/4th G, 1/10th G, 1/NN, 1/12th G, 1/4th G, 1/NN, 1/4th G, 1/10th G, 1/NN, 1/4th G",
+            m_image : "'elsonidito_mbass.png'",
+            mscore : "176652",
+            } 
+        },
 { value : "emo girl by mgk ft. WILLOW", 
             data : {
             shortname : "emogirl",
@@ -7624,6 +7653,35 @@ const songs = [
             mpath : "2/3rd O, 1/NN, 2/16th O, 1/NN, 2(+1)/23rd O, 1/NN",
             m_image : "'goodluckbabe_mbass.png'",
             mscore : "170748",
+            } 
+        },
+{ value : "Good Morning U.S.A. (Main Title Theme) by American Dad! Cast", 
+            data : {
+            shortname : "goodmorningusa",
+
+            dpath : "2/8th Y, 1/25th O, 1/1st Y, 2/14th O",
+            d_image : "'goodmorningusa_drums.png'",
+            dscore : "93204",
+
+            vpath : "1/3rd B, 2/After 2 beats, 1/2nd G",
+            v_image : "'goodmorningusa_vocals.png'",
+            vscore : "34800",
+
+            gpath : "1/2nd YB, 1/NN, 1/11th Y, 1(+1)/9th R, 1/2nd YB",
+            g_image : "'goodmorningusa_guitar.png'",
+            gscore : "82371",
+
+            bpath : "1(+1)/5th G, 1/6th G, 1/NN, 2/5th G",
+            b_image : "'goodmorningusa_bass.png'",
+            bscore : "73242",
+
+            lpath : "1/2nd GB, 1/NN, 1/12th Y, 1/9th B, 2/2nd GB",
+            l_image : "'goodmorningusa_lead.png'",
+            lscore : "79059",
+
+            mpath : "1(+1)/5th G, 1/6th G, 1/NN, 2/5th G",
+            m_image : "'goodmorningusa_mbass.png'",
+            mscore : "73080",
             } 
         },
 { value : "Gorgeous by Doja Cat", 
