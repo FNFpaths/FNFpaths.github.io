@@ -4697,6 +4697,35 @@ const songs = [
             mscore : "70392",
             } 
         },
+{ value : "Dearly Beloved by Yoko Shimomura", 
+            data : {
+            shortname : "dearlybeloved",
+
+            dpath : "2/1st G",
+            d_image : "'dearlybeloved_drums.png'",
+            dscore : "1320",
+
+            vpath : "3(+1)/6th R, 1/1st B, 1/1st GY, 1/1st R, 1/NN, 1/1st B, 1/1st B, 1/1st B, 1/NN",
+            v_image : "'dearlybeloved_vocals.png'",
+            vscore : "80175",
+
+            gpath : "1/3rd Y, 3(+1)/1st GB, 1/NN, 4(+1)/1st GB, 1/NN",
+            g_image : "'dearlybeloved_guitar.png'",
+            gscore : "56952",
+
+            bpath : "2/3rd B, 1/2nd G, 1/2nd G, 2/1st G, 1/2nd G, 1/2nd G, 2(+1)/3rd R",
+            b_image : "'dearlybeloved_bass.png'",
+            bscore : "89934",
+
+            lpath : "1/4th Y, 3(+1)/1st GB, 1/NN, 4(+1)/1st GB, 1/NN",
+            l_image : "'dearlybeloved_lead.png'",
+            lscore : "56952",
+
+            mpath : "2/3rd B, 1/2nd G, 1/2nd G, 2/1st G, 1/2nd G, 1/2nd G, 2(+1)/3rd R",
+            m_image : "'dearlybeloved_mbass.png'",
+            mscore : "90006",
+            } 
+        },
 { value : "Decade by Dixie Flatline ft. Hatsune Miku", 
             data : {
             shortname : "decade",
@@ -18238,6 +18267,35 @@ const songs = [
             mpath : "2/12th R, 2(+1)/2nd Y",
             m_image : "'thenights_mbass.png'",
             mscore : "53280",
+            } 
+        },
+{ value : "The Other Promise by Yoko Shimomura", 
+            data : {
+            shortname : "theotherpromise",
+
+            dpath : "1/NN, 1/2nd O",
+            d_image : "'theotherpromise_drums.png'",
+            dscore : "576",
+
+            vpath : "4(+1)/3rd G, 1/1st RO, 1/NN, 1/1st RY, 1/1st GB, 1/2nd R, 1(+1)/3rd G, 1/3rd Y, 1/1st GO, 1/NN, 1/1st GB",
+            v_image : "'theotherpromise_vocals.png'",
+            vscore : "139239",
+
+            gpath : "1/1st B, 1/NN, 1/1st YB, 1/1st R, 1/1st YO, 1/NN, 2/1st B, 1/NN, 1/10th O, 1/1st GY, 2/NN, 2/5th B, 1/NN",
+            g_image : "'theotherpromise_guitar.png'",
+            gscore : "200016",
+
+            bpath : "1/2nd G, 1/3rd Y, 1/NN, 1/1st R, 1/4th G, 1/1st G, 1/2nd Y, 1/1st Y, 1/1st Y, 1/NN, 1/5th G",
+            b_image : "'theotherpromise_bass.png'",
+            bscore : "82725",
+
+            lpath : "1/1st B, 1/NN, 1/1st GO, 1/1st R, 1/2nd RO, 1/NN, 2/1st B, 1/NN, 1/10th O, 1/1st GY, 2/NN, 2/5th B, 1/NN",
+            l_image : "'theotherpromise_lead.png'",
+            lscore : "198864",
+
+            mpath : "1/2nd G, 1/3rd Y, 1/NN, 1/1st Y, 1/4th G, 1/1st G, 1/2nd Y, 1/1st Y, 1/1st Y, 1/NN, 1/5th G",
+            m_image : "'theotherpromise_mbass.png'",
+            mscore : "82725",
             } 
         },
 { value : "The Power Of Love by Huey Lewis & The News", 
