@@ -4349,6 +4349,35 @@ const songs = [
             mscore : "198846",
             } 
         },
+{ value : "Cry For Me (Wa Wa Wa) by Ironmouse, Shirobeats, HalaCG ft. Bubi", 
+            data : {
+            shortname : "cryforme",
+
+            dpath : "1/1st RY, 1/1st RY, 1/1st RY, 2/1st GB, 1/2nd GO, 1/1st RY",
+            d_image : "'cryforme_drums.png'",
+            dscore : "169200",
+
+            vpath : "1/2nd Y, 1/2nd Y, 3/NN, 1/NN, 1/4th R, 1/4th R",
+            v_image : "'cryforme_vocals.png'",
+            vscore : "111450",
+
+            gpath : "2/1st YB, 4(+1)/6th YO",
+            g_image : "'cryforme_guitar.png'",
+            gscore : "108990",
+
+            bpath : "1/NN, 1(+1)/3rd G, 1/29th G, 2/1st G, 1(+1)/2nd G",
+            b_image : "'cryforme_bass.png'",
+            bscore : "136008",
+
+            lpath : "2/1st RB, 4(+1)/6th RO",
+            l_image : "'cryforme_lead.png'",
+            lscore : "108990",
+
+            mpath : "1/NN, 1(+1)/4th G, 1/29th G, 2/1st G, 1(+1)/1st G",
+            m_image : "'cryforme_mbass.png'",
+            mscore : "133362",
+            } 
+        },
 { value : "DAISIES by Justin Bieber", 
             data : {
             shortname : "daisies",
@@ -8119,6 +8148,35 @@ const songs = [
             mscore : "135225",
             } 
         },
+{ value : "Hell Again by Ironmouse, Shirobeats, HalaCG", 
+            data : {
+            shortname : "hellagain",
+
+            dpath : "1/7th G, 2/8th G, 1/1st RO, 1/NN, 1/NN",
+            d_image : "'hellagain_drums.png'",
+            dscore : "69120",
+
+            vpath : "1/1st B, 4(+2)/3rd R",
+            v_image : "'hellagain_vocals.png'",
+            vscore : "102012",
+
+            gpath : "1/4th R, 2/NN, 2(+1)/1st R, 1/NN, 1/13th R",
+            g_image : "'hellagain_guitar.png'",
+            gscore : "109656",
+
+            bpath : "2/5th Y, 1/NN, 1/NN, 1/2nd Y, 1/1st Y, 1/NN, 1/NN",
+            b_image : "'hellagain_bass.png'",
+            bscore : "82227",
+
+            lpath : "1/4th Y, 2/NN, 2(+1)/1st Y, 1/NN, 1/13th Y",
+            l_image : "'hellagain_lead.png'",
+            lscore : "109656",
+
+            mpath : "2/5th Y, 1/NN, 1/NN, 1/2nd Y, 1/1st Y, 1/NN, 1/NN",
+            m_image : "'hellagain_mbass.png'",
+            mscore : "82227",
+            } 
+        },
 { value : "Hello, Morning by Kizuna AI", 
             data : {
             shortname : "hellomorning",
@@ -11742,6 +11800,35 @@ const songs = [
             mpath : "1/2nd O, 1/6th B, 1/8th G, 1/4th B, 1/4th G, 1/4th B, 1/NN",
             m_image : "'memories_mbass.png'",
             mscore : "98676",
+            } 
+        },
+{ value : "Meow by Ironmouse, Sleeping Forest, HalaCG", 
+            data : {
+            shortname : "meow",
+
+            dpath : "1/1st RO, 4/2nd RY, 1/NN, 1/1st RO",
+            d_image : "'meow_drums.png'",
+            dscore : "119088",
+
+            vpath : "1(+1)/0.75 beats after 12th Y, 1/5th R, 1/NN, 1/NN, 1/1st Y, 1/2nd B",
+            v_image : "'meow_vocals.png'",
+            vscore : "118233",
+
+            gpath : "1/1st G, 1/NN, 1/NN, 1/10th R, 1/1st RYB, 1/1.2 beats after 3rd B, 1/3rd R, 1/NN",
+            g_image : "'meow_guitar.png'",
+            gscore : "97430",
+
+            bpath : "1/0.5 beats after 1st G, 1/NN, 1/1st R, 2/3rd R, 1/1st R, 1/NN",
+            b_image : "'meow_bass.png'",
+            bscore : "103061",
+
+            lpath : "1/1st G, 1/NN, 1(+1)/8th R, 2/2nd Y, 1/3rd Y, 1/NN",
+            l_image : "'meow_lead.png'",
+            lscore : "91438",
+
+            mpath : "1/0.5 beats after 1st G, 1/NN, 1/1st R, 2/3rd R, 1/1st R, 1/NN",
+            m_image : "'meow_mbass.png'",
+            mscore : "103061",
             } 
         },
 { value : "Me Too by Meghan Trainor", 
