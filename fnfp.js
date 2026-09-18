@@ -9482,6 +9482,35 @@ const songs = [
             mscore : "252222",
             } 
         },
+{ value : "I Really Want To Stay At Your House by Rosa Walton", 
+            data : {
+            shortname : "ireallywanttostay",
+
+            dpath : "1/1st RO, 1/1st Y, 3/4th RO, 1/1st O, 1/NN, 2/2nd RO, 1/NN",
+            d_image : "'ireallywanttostay_drums.png'",
+            dscore : "137376",
+
+            vpath : "1/3rd R, 1/7th R, 1/10th Y, 1/3rd Y, 1/1st G, 1/2nd B, 1/8th Y, 1/3rd Y, 1/1st G, 1/3rd R, 1/2nd R, 1/8th Y, 1/3rd Y",
+            v_image : "'ireallywanttostay_vocals.png'",
+            vscore : "161339",
+
+            gpath : "2/1st GY, 1/NN, 1/NN, 1/NN, 4(+1)/1st GY, 1/NN, 1/0.5 beats after 4th R",
+            g_image : "'ireallywanttostay_guitar.png'",
+            gscore : "192384",
+
+            bpath : "1/11th Y, 1/NN, 2/NN, 3/NN, 1/NN, 1/NN, 1/NN",
+            b_image : "'ireallywanttostay_bass.png'",
+            bscore : "182019",
+
+            lpath : "2/1st GB, 1/NN, 1/NN, 1/NN, 4(+1)/1st GB, 1/NN, 1/0.5 beats after 4th Y",
+            l_image : "'ireallywanttostay_lead.png'",
+            lscore : "189816",
+
+            mpath : "1/11th Y, 1/NN, 2/NN, 3/NN, 1/NN, 1/NN, 1/NN",
+            m_image : "'ireallywanttostay_mbass.png'",
+            mscore : "182019",
+            } 
+        },
 { value : "Iris Out by Kenshi Yonezu", 
             data : {
             shortname : "irisout",
