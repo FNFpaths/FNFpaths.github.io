@@ -19284,6 +19284,35 @@ const songs = [
             mscore : "7779",
             } 
         },
+{ value : "2LOUD by Rei Ami", 
+            data : {
+            shortname : "twoloud",
+
+            dpath : "1/5th GY, 1/NN, 1/3rd GY, 1/NN, 1/NN, 1/5th GY, 1/1st GO",
+            d_image : "'twoloud_drums.png'",
+            dscore : "135648",
+
+            vpath : "1/1st R, 3(+1)/4th R, 1/3rd R, 1/3rd B",
+            v_image : "'twoloud_vocals.png'",
+            vscore : "133248",
+
+            gpath : "3/13th R, 1/NN, 2/3rd RB",
+            g_image : "'twoloud_guitar.png'",
+            gscore : "71703",
+
+            bpath : "1/3rd O, 1/2nd B, 1/6th R, 1/6th B, 1/NN, 1/NN, 1/2nd R",
+            b_image : "'twoloud_bass.png'",
+            bscore : "99447",
+
+            lpath : "3/6th RB, 3/6th RB",
+            l_image : "'twoloud_lead.png'",
+            lscore : "69567",
+
+            mpath : "1/3rd O, 1/2nd B, 1/6th G, 1/NN, 1/NN, 1/NN, 1/2nd G",
+            m_image : "'twoloud_mbass.png'",
+            mscore : "98079",
+            } 
+        },
 { value : "Undone - The Sweater Song by Weezer", 
             data : {
             shortname : "undone",
