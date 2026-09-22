@@ -7829,6 +7829,35 @@ const songs = [
             mscore : "237510",
             } 
         },
+{ value : "Green Hill Zone: Act 2 - Normal by SEGA SOUND TEAM, Jun Senoue", 
+            data : {
+            shortname : "greenhillzone",
+
+            dpath : "1/4th GY, 1/4th GY, 1/4th G, 1/8th RY, 1/NN, 1/1st RY, 1/3rd RO, 1/5th GB, 1/4th RY",
+            d_image : "'greenhillzone_drums.png'",
+            dscore : "180144",
+
+            vpath : "1/6th B, 1/1 beats after 3rd G, 1(+1)/3rd B, 1/3rd Y, 4/NN",
+            v_image : "'greenhillzone_vocals.png'",
+            vscore : "102576",
+
+            gpath : "2(+1)/1st GO, 2/3rd GY, 3/3rd GY, 1/NN",
+            g_image : "'greenhillzone_guitar.png'",
+            gscore : "170352",
+
+            bpath : "1/NN, 1/NN, 1/2nd O, 1/10th B, 1/NN, 2/3rd R, 2/NN",
+            b_image : "'greenhillzone_bass.png'",
+            bscore : "161928",
+
+            lpath : "2(+1)/10th RB, 2/3rd GY, 3/3rd GY, 1/NN",
+            l_image : "'greenhillzone_lead.png'",
+            lscore : "169680",
+
+            mpath : "1/NN, 1/NN, 1/2nd O, 1/10th B, 1/NN, 2/3rd R, 2/NN",
+            m_image : "'greenhillzone_mbass.png'",
+            mscore : "161730",
+            } 
+        },
 { value : "Gwenpool's Multiverse by Epic Games", 
             data : {
             shortname : "gwenpoolsmultiverse",
