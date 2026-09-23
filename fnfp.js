@@ -2116,6 +2116,35 @@ const songs = [
             mscore : "176661",
             } 
         },
+{ value : "bittersweet by Madison Beer", 
+            data : {
+            shortname : "bittersweet",
+
+            dpath : "2(+1)/1st GO, 1/NN, 1/1st GO, 1/NN, 1/NN, 1/1st GO",
+            d_image : "'bittersweet_drums.png'",
+            dscore : "121392",
+
+            vpath : "1/6th B, 1/2nd G, 1/2nd Y, 1/0.67 beats after 8th R, 1/7th G, 1/2nd G, 1/3rd G, 1/11th G, 1/1.7 beats after 14th Y",
+            v_image : "'bittersweet_vocals.png'",
+            vscore : "134562",
+
+            gpath : "1/NN, 1/9th G, 2(+1)/2nd R, 1/5th G, 1/1st YO, 1/2nd R, 1/1st YO",
+            g_image : "'bittersweet_guitar.png'",
+            gscore : "148560",
+
+            bpath : "1/2nd B, 1/NN, 2/1st G, 1/NN, 2(+1)/3rd G",
+            b_image : "'bittersweet_bass.png'",
+            bscore : "129324",
+
+            lpath : "1/NN, 1/13th G, 2(+1)/2nd R, 1/5th G, 1/1st RO, 1/2nd R, 1/1st RO",
+            l_image : "'bittersweet_lead.png'",
+            lscore : "148560",
+
+            mpath : "1/2nd B, 1/NN, 2/1st G, 1/NN, 2(+1)/2nd G",
+            m_image : "'bittersweet_mbass.png'",
+            mscore : "128196",
+            } 
+        },
 { value : "Black Beatles by Rae Sremmurd ft. Gucci Mane", 
             data : {
             shortname : "blackbeatles",
@@ -4086,6 +4115,35 @@ const songs = [
             mpath : "4(+2)/5th B, 4(+1)/1st R",
             m_image : "'comeandgo_mbass.png'",
             mscore : "85830",
+            } 
+        },
+{ value : "complexity by Madison Beer", 
+            data : {
+            shortname : "complexity",
+
+            dpath : "4(+1)/16th GY, 1/NN, 1/22nd GY",
+            d_image : "'complexity_drums.png'",
+            dscore : "114192",
+
+            vpath : "1/5th O, 1/2nd Y, 1/1st Y, 1/NN, 1/2nd G, 1/1st Y, 2/3rd G",
+            v_image : "'complexity_vocals.png'",
+            vscore : "86158",
+
+            gpath : "1/3rd O, 1/3rd G, 1/5th Y, 1/1st RY, 1/4th B, 1/3rd GB, 1/3rd G, 1/3rd G, 1/3rd G, 1/10th G",
+            g_image : "'complexity_guitar.png'",
+            gscore : "121224",
+
+            bpath : "2/1st G, 1/1st G, 1/1st G, 1/NN, 1/NN, 1/2nd Y",
+            b_image : "'complexity_bass.png'",
+            bscore : "73257",
+
+            lpath : "1/3rd O, 1/3rd G, 1/4th Y, 1/1st RY, 1/4th B, 1/3rd GO, 1/3rd G, 1/3rd G, 1/3rd G, 1/10th G",
+            l_image : "'complexity_lead.png'",
+            lscore : "121224",
+
+            mpath : "2/1st G, 1/1st G, 1/1st G, 1/NN, 1/NN, 1/5th R",
+            m_image : "'complexity_mbass.png'",
+            mscore : "73257",
             } 
         },
 { value : "Coral Chorus (Remix) by Epic Games", 
@@ -20703,6 +20761,35 @@ const songs = [
             mpath : "1/1st B, 1/NN, 1/6th G, 1/NN, 1/NN, 1/9th Y, 1/NN, 1/2nd R",
             m_image : "'yesand_mbass.png'",
             mscore : "104364",
+            } 
+        },
+{ value : "yes baby by Madison Beer", 
+            data : {
+            shortname : "yesbaby",
+
+            dpath : "2/1st RY, 1/1st GO, 1/10th G, 2/9th R, 1/NN, 1/10th Y, 1/NN",
+            d_image : "'yesbaby_drums.png'",
+            dscore : "114192",
+
+            vpath : "2(+1)/1st GY, 1/3rd R, 3/5th G, 2/NN",
+            v_image : "'yesbaby_vocals.png'",
+            vscore : "142071",
+
+            gpath : "1/42nd G, 1/NN, 2/31st G, 1/NN, 1/NN, 1/NN",
+            g_image : "'yesbaby_guitar.png'",
+            gscore : "170832",
+
+            bpath : "1/NN, 3(+1)/1st Y, 1/NN, 1/2nd G, 1(+1)/2nd Y, 1/2nd O",
+            b_image : "'yesbaby_bass.png'",
+            bscore : "167868",
+
+            lpath : "1/42nd G, 1/NN, 2/31st G, 1/NN, 1/NN, 1/NN",
+            l_image : "'yesbaby_lead.png'",
+            lscore : "170568",
+
+            mpath : "1/NN, 3(+1)/1st R, 1/NN, 1/2nd G, 1(+1)/2nd R, 1/2nd O",
+            m_image : "'yesbaby_mbass.png'",
+            mscore : "167868",
             } 
         },
 { value : "You Don't Know Me by Epic Games", 
