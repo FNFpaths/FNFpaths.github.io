@@ -10700,6 +10700,35 @@ const songs = [
             mscore : "8856",
             } 
         },
+{ value : "Life Will Change by Lyn, ATLUS Sound Team, ATLUS GAME MUSIC", 
+            data : {
+            shortname : "lifewillchange",
+
+            dpath : "1/NN, 1/NN, 3/4th R, 1/NN, 1/NN, 1/4th GY, 1/NN, 1/4th GY, 3/4th R, 1/NN, 1/NN, 1/4th GY",
+            d_image : "'lifewillchange_drums.png'",
+            dscore : "321552",
+
+            vpath : "2/2nd B, 1/NN, 1/5th R, 1/4th R, 1/NN, 1/2nd B, 1/4th R, 1/7th Y",
+            v_image : "'lifewillchange_vocals.png'",
+            vscore : "74835",
+
+            gpath : "1/1st GB, 1/NN, 3/1st RO, 1/NN, 2/1st G, 1/3rd G, 1/1st RY, 3/1st RO, 2/5th G",
+            g_image : "'lifewillchange_guitar.png'",
+            gscore : "227112",
+
+            bpath : "1/NN, 1/11th Y, 1/11th Y, 2/11th R, 1/11th Y, 1/11th Y, 1/11th Y, 1/NN, 1/11th Y, 1/11th Y, 2/11th R, 1/11th Y",
+            b_image : "'lifewillchange_bass.png'",
+            bscore : "351432",
+
+            lpath : "1/1st GB, 1/NN, 3/1st RO, 1/4th B, 2/1st GB, 1/1st RY, 1/1st RY, 3/1st RO, 2/3rd GB",
+            l_image : "'lifewillchange_lead.png'",
+            lscore : "214848",
+
+            mpath : "1/NN, 1/11th B, 1/11th B, 2/11th G, 1/11th B, 1/11th B, 1/11th B, 1/NN, 1/11th B, 1/11th B, 2/11th G, 1/11th B",
+            m_image : "'lifewillchange_mbass.png'",
+            mscore : "349056",
+            } 
+        },
 { value : "My Songs Know What You Did In The Dark (Light Em Up) by Fall Out Boy", 
             data : {
             shortname : "lightemup",
