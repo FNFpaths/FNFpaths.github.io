@@ -289,6 +289,35 @@ const songs = [
             mscore : "99416",
             } 
         },
+{ value : "A Grave Mistake by Ice Nine Kills", 
+            data : {
+            shortname : "agravemistake",
+
+            dpath : "2/1st GY, 1/15th G, 1/1st RY, 1/3rd G, 1/8th Y, 1/3rd GO",
+            d_image : "'agravemistake_drums.png'",
+            dscore : "173232",
+
+            vpath : "1/5th G, 1/7th G, 1(+1)/6th O, 1/3rd O, 1/5th Y, 1/7th G, 1/1st O",
+            v_image : "'agravemistake_vocals.png'",
+            vscore : "91626",
+
+            gpath : "1/NN, 1/NN, 1/NN, 1/11th RY, 1/4th GB, 1(+1)/1st RY, 1/3rd RY",
+            g_image : "'agravemistake_guitar.png'",
+            gscore : "199628",
+
+            bpath : "1(+1)/19th G, 1/5th R, 1/7th G, 1/NN, 1/6th R, 1/10th O",
+            b_image : "'agravemistake_bass.png'",
+            bscore : "139956",
+
+            lpath : "1/NN, 1/NN, 1/NN, 1/3rd RY, 1/4th GB, 1(+1)/1st GB, 1/3rd GB",
+            l_image : "'agravemistake_lead.png'",
+            lscore : "193344",
+
+            mpath : "1(+1)/19th G, 1/5th R, 1/7th G, 1/NN, 1/6th R, 1/10th O",
+            m_image : "'agravemistake_mbass.png'",
+            mscore : "139956",
+            } 
+        },
 { value : "AAAHH MEN! by Doja Cat", 
             data : {
             shortname : "ahhhmen",
@@ -13018,6 +13047,35 @@ const songs = [
             mpath : "3(+1)/2nd R, 1/NN, 1/3rd G, 3(+1)/4th R, 1/NN",
             m_image : "'nightrosessong_mbass.png'",
             mscore : "145980",
+            } 
+        },
+{ value : "Night Terror by Dream Theater", 
+            data : {
+            shortname : "nightterror",
+
+            dpath : "1/11th RO, 1/6th Y, 1/12th Y, 1/NN, 2/1st B, 1/12th Y, 1/NN, 1/33rd O, 1/NN, 1/1st Y, 1/6th O, 3(+1)/5th GO, 2(+1)/3rd B, 1/1st RB, 1/5th G, 1/NN, 1/6th GY, 1/8th O, 4/26th Y",
+            d_image : "'nightterror_drums.png'",
+            dscore : "656955",
+
+            vpath : "1/9th B, 1/6th O, 1/2nd B, 1/5th Y, 1/1st R, 1/1st B, 2/1st Y, 1/5th B",
+            v_image : "'nightterror_vocals.png'",
+            vscore : "77496",
+
+            gpath : "3(+1)/1st Y, 1/NN, 2/7th Y, 1/15th Y, 2(+1)/1st YBO, 1/5th Y, 1/9th Y, 1/7th R, 1/NN, 1/1st BO, 1/5th Y, 4(+1)/6th B, 1/NN, 1/7th O, 1/19th Y, 3(+1)/12th G",
+            g_image : "'nightterror_guitar.png'",
+            gscore : "621257",
+
+            bpath : "3/NN, 1/NN, 2/7th Y, 1/18th G, 3/NN, 1/5th Y, 1/NN, 1/26th R, 1(+1)/5th O, 1/0.5 beats after 6th Y, 1/1.5 beats after 3rd G, 1/13th G, 1/1.5 beats after 8th G, 1/3rd Y, 1/7th G, 3/7th R, 4/10th O",
+            b_image : "'nightterror_bass.png'",
+            bscore : "588486",
+
+            lpath : "3(+1)/1st Y, 1/NN, 2/7th Y, 1/14th Y, 2(+1)/3rd RO, 1/5th Y, 1/9th Y, 1/9th Y, 1/NN, 1/3rd RB, 1/6th R, 4(+1)/7th B, 1/NN, 1/8th B, 1/15th Y, 4/5th Y",
+            l_image : "'nightterror_lead.png'",
+            lscore : "607513",
+
+            mpath : "3/NN, 1/NN, 2/7th Y, 1/19th G, 3/NN, 1/5th Y, 1/NN, 1/28th Y, 1(+1)/5th O, 1/0.5 beats after 5th B, 1/1.5 beats after 4th G, 1/13th G, 1/1.5 beats after 9th G, 1/2nd R, 1/7th G, 3/7th R, 4/10th O",
+            m_image : "'nightterror_mbass.png'",
+            mscore : "584034",
             } 
         },
 { value : "No Broke Boys by Disco Lines & Tinashe", 
