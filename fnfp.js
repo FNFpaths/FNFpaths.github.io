@@ -13571,6 +13571,35 @@ const songs = [
             mscore : "43902",
             } 
         },
+{ value : "OMG by The Neighbourhood", 
+            data : {
+            shortname : "omg",
+
+            dpath : "1/4th R, 4/1st Y, 1/NN, 1/NN, 1/4th R",
+            d_image : "'omg_drums.png'",
+            dscore : "148608",
+
+            vpath : "1/7th B, 1/4th B, 1/2nd B, 1/2nd Y, 1/1st O, 1/NN, 1/NN, 1/2nd B",
+            v_image : "'omg_vocals.png'",
+            vscore : "89312",
+
+            gpath : "1/NN, 1/NN, 2(+1)/1st YBO, 1/7th YBO, 2/4th GY",
+            g_image : "'omg_guitar.png'",
+            gscore : "264672",
+
+            bpath : "1/3rd O, 1/1st R, 2/6th Y, 1/6th O, 1/2nd Y, 1/3rd Y, 1/NN",
+            b_image : "'omg_bass.png'",
+            bscore : "134469",
+
+            lpath : "1/NN, 1/NN, 2(+1)/16th RY, 1/7th RO, 1/1st RO, 1/14th RY",
+            l_image : "'omg_lead.png'",
+            lscore : "204030",
+
+            mpath : "1/3rd O, 1/1st R, 2/1st R, 1/NN, 1/2nd Y, 1/3rd Y, 1/NN",
+            m_image : "'omg_mbass.png'",
+            mscore : "131499",
+            } 
+        },
 { value : "On and On (Remix) by Epic Games", 
             data : {
             shortname : "onandonremix",
@@ -20210,6 +20239,35 @@ const songs = [
             mpath : "3(+1)/1st Y, 1/NN, 1/NN, 2/3rd O",
             m_image : "'whatspoppin_mbass.png'",
             mscore : "30888",
+            } 
+        },
+{ value : "What's Up? by 4 Non Blondes", 
+            data : {
+            shortname : "whatsup",
+
+            dpath : "1/NN, 1/1st RY, 3/1st O, 1/3rd RB, 1/3rd RY, 1/3rd RY, 1/2nd RY, 1/4th RY, 1/3rd B, 1/5th RB, 1/NN, 1/11th GB, 1/NN",
+            d_image : "'whatsup_drums.png'",
+            dscore : "245232",
+
+            vpath : "1(+1)/8th Y, 1/2nd O, 1/NN, 1/1st O, 1/3rd B, 1/3rd O, 1/1st G, 1(+1)/7th Y, 1/2nd R, 1/2nd R, 1(+1)/3rd O, 1/3rd Y",
+            v_image : "'whatsup_vocals.png'",
+            vscore : "146565",
+
+            gpath : "2/1st RYO, 1/1st RYO, 2(+1)/1st GRB, 1/1st RYO, 2/1st RYO, 1/1st YBO, 2(+1)/1st RYO, 1/5th GRB, 1/1st GRB, 1/1st RYO, 1/1st RYO",
+            g_image : "'whatsup_guitar.png'",
+            gscore : "392995",
+
+            bpath : "2/3rd Y, 1/3rd R, 1/4th B, 1/2nd B, 1/NN, 1/3rd R, 1/NN, 1(+1)/9th R, 1/NN, 1(+1)/5th R, 1/2nd G, 1/NN",
+            b_image : "'whatsup_bass.png'",
+            bscore : "159765",
+
+            lpath : "2/1st RB, 1/1st RB, 2(+1)/1st GB, 1/1st RB, 2/1st RB, 1/11th GB, 2(+1)/1st GB, 1/5th GB, 1/1st GB, 1/1st RB, 1/1st RB",
+            l_image : "'whatsup_lead.png'",
+            lscore : "277034",
+
+            mpath : "2/3rd Y, 1/3rd R, 1/4th B, 1/2nd B, 1/NN, 1/3rd R, 1/NN, 1(+1)/9th R, 1/NN, 1(+1)/6th R, 1/2nd G, 1/NN",
+            m_image : "'whatsup_mbass.png'",
+            mscore : "159132",
             } 
         },
 { value : "Whenever, Wherever by Shakira", 
