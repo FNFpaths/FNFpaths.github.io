@@ -7365,6 +7365,35 @@ const songs = [
             mscore : "95472",
             } 
         },
+{ value : "Gët Busy by Yeat", 
+            data : {
+            shortname : "getbusy2",
+
+            dpath : "1/4th RY, 1/3rd RY, 1/7th RY, 1/7th RY, 1/4th RY, 1/4th RY, 1/1st RY, 1/5th RY",
+            d_image : "'getbusy2_drums.png'",
+            dscore : "166320",
+
+            vpath : "1/13th R, 1/7th R, 1/1st R, 1/NN, 1/1st B, 1/3rd O, 1/20th R",
+            v_image : "'getbusy2_vocals.png'",
+            vscore : "110660",
+
+            gpath : "1/2nd Y, 1/NN, 1/NN, 1/NN, 1/6th Y, 1/4th Y, 1/4th Y, 1/2nd O, 1/1st O",
+            g_image : "'getbusy2_guitar.png'",
+            gscore : "75018",
+
+            bpath : "3/NN, 1/NN, 1/5th R, 1/5th R, 1/NN, 1/NN",
+            b_image : "'getbusy2_bass.png'",
+            bscore : "48462",
+
+            lpath : "1/2nd Y, 1/NN, 1/NN, 1/NN, 1/6th Y, 1/4th Y, 1/4th Y, 1/2nd O, 1/1st O",
+            l_image : "'getbusy2_lead.png'",
+            lscore : "75018",
+
+            mpath : "3/NN, 1/NN, 1/5th R, 1/5th R, 1/NN, 1/NN",
+            m_image : "'getbusy2_mbass.png'",
+            mscore : "48246",
+            } 
+        },
 { value : "get him back! by Olivia Rodrigo", 
             data : {
             shortname : "gethimback",
@@ -8264,6 +8293,35 @@ const songs = [
             mscore : "135225",
             } 
         },
+{ value : "HeliMan by Yeat", 
+            data : {
+            shortname : "heliman",
+
+            dpath : "1/1st GY, 1/5th RY, 1/1st GY, 1/1st GY, 1/2nd RY, 1/2nd RY, 1/2nd RY, 1/1st GY, 1/5th RY, 1/1st GY, 1/1st GY, 1/2nd RY",
+            d_image : "'heliman_drums.png'",
+            dscore : "201168",
+
+            vpath : "2/4th B, 2/3rd G, 1/6th Y, 3(+1)/8th B, 2/5th R, 1/NN",
+            v_image : "'heliman_vocals.png'",
+            vscore : "193941",
+
+            gpath : "2/2 beats after NN, 2/NN, 2(+1)/1st RB, 1(+1)/1st RB",
+            g_image : "'heliman_guitar.png'",
+            gscore : "54162",
+
+            bpath : "1/12th R, 1/6th R, 1/3rd R, 1/3rd R, 1/2nd R, 1/3rd R, 1/NN, 1/NN, 1/6th R, 1/3rd R, 1/3rd R, 1/2nd R",
+            b_image : "'heliman_bass.png'",
+            bscore : "81342",
+
+            lpath : "2/2 beats after NN, 2/NN, 2(+1)/1st RB, 1(+1)/1st RB",
+            l_image : "'heliman_lead.png'",
+            lscore : "54162",
+
+            mpath : "1/12th R, 1/6th R, 1/3rd R, 1/3rd R, 1/2nd R, 1/3rd R, 1/NN, 1/NN, 1/6th R, 1/3rd R, 1/3rd R, 1/2nd R",
+            m_image : "'heliman_mbass.png'",
+            mscore : "81342",
+            } 
+        },
 { value : "Hell Again by Ironmouse, Shirobeats, HalaCG", 
             data : {
             shortname : "hellagain",
@@ -8871,6 +8929,35 @@ const songs = [
             mpath : "1/2nd Y, 4(+1)/1.5 beats after 2nd Y",
             m_image : "'ifuthinkimpretty_mbass.png'",
             mscore : "20120",
+            } 
+        },
+{ value : "If We Being Rëal by Yeat", 
+            data : {
+            shortname : "ifwebeingreal",
+
+            dpath : "1/7th GY, 1/NN, 1/NN, 1/NN",
+            d_image : "'ifwebeingreal_drums.png'",
+            dscore : "78768",
+
+            vpath : "1/14th B, 1(+1)/6th O, 1/9th R, 1/NN, 1(+1)/19th B, 1/6th R",
+            v_image : "'ifwebeingreal_vocals.png'",
+            vscore : "136134",
+
+            gpath : "1(+1)/5th B, 1/1st B, 1/1st B, 1/1st B, 1/1st RY, 1/1.5 beats after 2nd G, 1/2nd G, 1/NN",
+            g_image : "'ifwebeingreal_guitar.png'",
+            gscore : "55655",
+
+            bpath : "3(+1)/2nd R, 3(+1)/1st G",
+            b_image : "'ifwebeingreal_bass.png'",
+            bscore : "21027",
+
+            lpath : "1(+1)/5th B, 1/1st B, 1/1st B, 1/1st B, 1/1st RY, 1/1.5 beats after 2nd G, 1/2nd G, 1/NN",
+            l_image : "'ifwebeingreal_lead.png'",
+            lscore : "55375",
+
+            mpath : "3(+1)/2nd Y, 3(+1)/1st G",
+            m_image : "'ifwebeingreal_mbass.png'",
+            mscore : "21027",
             } 
         },
 { value : "I Had Some Help by Post Malone ft. Morgan Wallen", 
@@ -12264,6 +12351,35 @@ const songs = [
             mpath : "1(+1)/8th G, 1/1st O, 1/1st O, 1/1st G, 1/NN, 1/1st O",
             m_image : "'monalisa_mbass.png'",
             mscore : "102150",
+            } 
+        },
+{ value : "Monëy so big by Yeat", 
+            data : {
+            shortname : "moneysobig",
+
+            dpath : "1/3rd RY, 1/10th RY, 1/1st RY, 1/6th RY, 1/1st RY, 1/1st GY, 1/1st RY, 1(+1)/1st RY",
+            d_image : "'moneysobig_drums.png'",
+            dscore : "152064",
+
+            vpath : "1/NN, 1/5th B, 1/12th Y, 1/12th Y, 1/17th R, 1/5th O, 1/8th B, 1/7th B",
+            v_image : "'moneysobig_vocals.png'",
+            vscore : "191334",
+
+            gpath : "1/3rd G, 3(+1)/1st G, 1/7th G, 1/11th G, 1/11th G",
+            g_image : "'moneysobig_guitar.png'",
+            gscore : "124264",
+
+            bpath : "2/3rd B, 1/NN, 1/NN, 1/NN, 3(+1)/9th Y",
+            b_image : "'moneysobig_bass.png'",
+            bscore : "65340",
+
+            lpath : "1/3rd G, 3(+1)/4th G, 1/7th G, 1/11th G, 1/11th G",
+            l_image : "'moneysobig_lead.png'",
+            lscore : "122928",
+
+            mpath : "2/3rd B, 1/NN, 1/NN, 1/NN, 3(+1)/1st Y",
+            m_image : "'moneysobig_mbass.png'",
+            mscore : "65340",
             } 
         },
 { value : "The Monorail Song by The Simpsons", 
