@@ -8119,6 +8119,35 @@ const songs = [
             mscore : "228420",
             } 
         },
+{ value : "Happy Day in Hell by Hazbin Hotel", 
+            data : {
+            shortname : "happydayinhell",
+
+            dpath : "2/1st RY, 2/1st G, 1/19th R, 1/16th R, 1/NN, 1/2nd Y",
+            d_image : "'happydayinhell_drums.png'",
+            dscore : "64968",
+
+            vpath : "1/5th O, 1/1st Y, 1/NN, 1/2nd G, 1/After 3 beats, 1/7th B, 1/4th R, 1/NN, 1/7th R, 1/NN",
+            v_image : "'happydayinhell_vocals.png'",
+            vscore : "125301",
+
+            gpath : "1/2nd B, 1/1st RO, 1/2nd O, 1/3rd O, 1/1st RB, 1/3rd YB, 1/7th R, 1/3rd Y, 1/1st RY, 1/2nd B, 1/2nd B",
+            g_image : "'happydayinhell_guitar.png'",
+            gscore : "150603",
+
+            bpath : "1(+1)/14th R, 2/4th B, 2(+1)/6th R, 1/1st G, 1/2nd O",
+            b_image : "'happydayinhell_bass.png'",
+            bscore : "86178",
+
+            lpath : "1/2nd B, 1/2nd RO, 1/2nd O, 1/3rd O, 1/1st RB, 1/4th RB, 1/5th Y, 1/1st Y, 3/2nd R",
+            l_image : "'happydayinhell_lead.png'",
+            lscore : "145783",
+
+            mpath : "1(+1)/14th R, 2/4th B, 2(+1)/4th R, 1/1st G, 1/2nd O",
+            m_image : "'happydayinhell_mbass.png'",
+            mscore : "86016",
+            } 
+        },
 { value : "Head Shot / Gas In The Truck by iShowSpeed", 
             data : {
             shortname : "headshot",
@@ -8378,6 +8407,35 @@ const songs = [
             mpath : "3(+1)/3rd R, 1/NN, 4(+1)/4th Y, 1/NN, 1/1st B, 1/1st B, 1/4th O",
             m_image : "'hellomorning_mbass.png'",
             mscore : "129306",
+            } 
+        },
+{ value : "Hell's Greatest Dad by Hazbin Hotel", 
+            data : {
+            shortname : "hellsgreatestdad",
+
+            dpath : "1/NN, 1/11th B, 1/NN, 1/NN, 1/NN, 1/5th O",
+            d_image : "'hellsgreatestdad_drums.png'",
+            dscore : "89784",
+
+            vpath : "1/2nd B, 1/3rd B, 3/6th B, 1/NN",
+            v_image : "'hellsgreatestdad_vocals.png'",
+            vscore : "107664",
+
+            gpath : "2/1st BO, 1(+1)/1st RY, 1/1st RB, 1/1st BO, 1/1st B",
+            g_image : "'hellsgreatestdad_guitar.png'",
+            gscore : "125924",
+
+            bpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/4th R, 1/NN, 1/NN",
+            b_image : "'hellsgreatestdad_bass.png'",
+            bscore : "106956",
+
+            lpath : "2/1st RO, 1(+1)/2nd RY, 1/1st GO, 1/1st RO, 1/1st B",
+            l_image : "'hellsgreatestdad_lead.png'",
+            lscore : "121508",
+
+            mpath : "1/NN, 1/NN, 1/NN, 1/NN, 1/4th B, 1/NN, 1/2nd B",
+            m_image : "'hellsgreatestdad_mbass.png'",
+            mscore : "106488",
             } 
         },
 { value : "Hey Brother by Avicii", 
