@@ -10439,6 +10439,35 @@ const songs = [
             mscore : "121374",
             } 
         },
+{ value : "Kryptonite by Ken Carson", 
+            data : {
+            shortname : "kryptonite2",
+
+            dpath : "1/1st GB, 1/6th GB, 1/3rd GB, 1/1st GB, 1/7th RB, 1/4th GB, 1/7th GB, 1/4th GB, 1/6th GB, 1/1st GB, 1/6th GB",
+            d_image : "'kryptonite2_drums.png'",
+            dscore : "339120",
+
+            vpath : "2/5th R, 1/8th G, 1/NN, 1/8th B, 1/3rd R, 1/NN, 1/20th G, 1(+1)/27th R",
+            v_image : "'kryptonite2_vocals.png'",
+            vscore : "147246",
+
+            gpath : "1/4th R, 1/3rd R, 1/NN, 1/3rd R, 1/1st R, 1/1st R, 2/NN, 1/3rd R, 1/3rd R, 1/4th R",
+            g_image : "'kryptonite2_guitar.png'",
+            gscore : "78096",
+
+            bpath : "3/NN, 1/2nd R, 1/2nd G, 1/1st R, 1/1st R, 1/NN, 1/2nd R, 1/1st R",
+            b_image : "'kryptonite2_bass.png'",
+            bscore : "85401",
+
+            lpath : "1/4th R, 1/3rd R, 1/NN, 1/3rd R, 1/1st R, 1/1st R, 2/NN, 1/3rd R, 1/3rd R, 1/4th R",
+            l_image : "'kryptonite2_lead.png'",
+            lscore : "78096",
+
+            mpath : "3/NN, 1/2nd R, 1/2nd G, 1/1st R, 1/1st R, 1/NN, 1/2nd R, 1/1st R",
+            m_image : "'kryptonite2_mbass.png'",
+            mscore : "85401",
+            } 
+        },
 { value : "LA CHONA by LOS TUCANES DE TIJUANA", 
             data : {
             shortname : "lachona",
@@ -17542,6 +17571,35 @@ const songs = [
             mpath : "1/1st Y, 1/NN, 3(+1)/18th Y, 1/NN, 3(+1)/18th Y, 1(+1)/18th Y",
             m_image : "'stupidlove_mbass.png'",
             mscore : "284868",
+            } 
+        },
+{ value : "Suavemente by Elvis Crespo", 
+            data : {
+            shortname : "suavemente",
+
+            dpath : "1/7th Y, 1/NN, 1/2nd R, 1/26th R, 1/NN, 1/6th G, 1/16th R, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/29th Y",
+            d_image : "'suavemente_drums.png'",
+            dscore : "211680",
+
+            vpath : "1/1st RB, 1/6th O, 2/10th R, 1/NN, 1/10th R, 1/5th O, 1/13th R, 1/2nd O, 1/NN",
+            v_image : "'suavemente_vocals.png'",
+            vscore : "166959",
+
+            gpath : "2/8th B, 1/NN, 1/3rd YO, 1/NN, 1/3rd YO, 1/1st YB, 1(+1)/1st BO, 1/1st BO, 1/NN, 1/4th R, 1/4th R",
+            g_image : "'suavemente_guitar.png'",
+            gscore : "231681",
+
+            bpath : "1/24th G, 1/3rd R, 1/19th G, 2(+1)/3rd Y, 1/4th R, 1/2nd BO, 1(+1)/21st G, 1/19th G, 1/1st B, 1/NN",
+            b_image : "'suavemente_bass.png'",
+            bscore : "175227",
+
+            lpath : "1/NN, 1/3rd RB, 1/NN, 1/3rd RB, 1/NN, 1/3rd RB, 1/NN, 1(+1)/1st RO, 1/3rd RB, 1/NN, 1/4th Y, 1/4th Y",
+            l_image : "'suavemente_lead.png'",
+            lscore : "226569",
+
+            mpath : "1/7th R, 1/3rd R, 1/19th G, 2/1st O, 1/NN, 1(+1)/29th G, 1(+1)/21st G, 1/19th G, 1/1st R, 1/NN",
+            m_image : "'suavemente_mbass.png'",
+            mscore : "165471",
             } 
         },
 { value : "Sucker by Jonas Brothers", 
