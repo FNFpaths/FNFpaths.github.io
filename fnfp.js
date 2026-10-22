@@ -6640,6 +6640,35 @@ const songs = [
             mscore : "59163",
             } 
         },
+{ value : "Five Nights At Freddy's by The Living Tombstone", 
+            data : {
+            shortname : "fivenightsatfreddys",
+
+            dpath : "3(+1)/1st GO, 1/2nd GY, 1/1st GO",
+            d_image : "'fivenightsatfreddys_drums.png'",
+            dscore : "130608",
+
+            vpath : "2/7th Y, 3(+1)/6th B",
+            v_image : "'fivenightsatfreddys_vocals.png'",
+            vscore : "119175",
+
+            gpath : "2(+1)/2nd YB, 3(+1)/1st YB",
+            g_image : "'fivenightsatfreddys_guitar.png'",
+            gscore : "67524",
+
+            bpath : "3/1st Y, 4/0.5 beats after 2nd G",
+            b_image : "'fivenightsatfreddys_bass.png'",
+            bscore : "119724",
+
+            lpath : "2(+1)/4th RB, 3(+1)/2nd RB",
+            l_image : "'fivenightsatfreddys_lead.png'",
+            lscore : "67524",
+
+            mpath : "3/1st Y, 4/0.5 beats after 2nd G",
+            m_image : "'fivenightsatfreddys_mbass.png'",
+            mscore : "119724",
+            } 
+        },
 { value : "FLAMMABLE by Swae Lee", 
             data : {
             shortname : "flammable",
@@ -8030,6 +8059,35 @@ const songs = [
             mpath : "1/8th B, 3/2nd B, 3/4th R, 1/2nd R, 1/NN, 2/4th G, 1/4th R",
             m_image : "'hailtotheking_mbass.png'",
             mscore : "193722",
+            } 
+        },
+{ value : "Halloweentown Theme by Mark Mothersbaugh", 
+            data : {
+            shortname : "halloweentown",
+
+            dpath : "1/NN, 1/NN, 1/NN",
+            d_image : "'halloweentown_drums.png'",
+            dscore : "8598",
+
+            vpath : "2/NN, 1/1st G, 1/NN",
+            v_image : "'halloweentown_vocals.png'",
+            vscore : "42147",
+
+            gpath : "3(+1)/8th Y, 1/NN",
+            g_image : "'halloweentown_guitar.png'",
+            gscore : "43956",
+
+            bpath : "4(+1)/4th R",
+            b_image : "'halloweentown_bass.png'",
+            bscore : "30627",
+
+            lpath : "3(+1)/8th Y, 1/NN",
+            l_image : "'halloweentown_lead.png'",
+            lscore : "43956",
+
+            mpath : "4(+1)/4th R",
+            m_image : "'halloweentown_mbass.png'",
+            mscore : "30627",
             } 
         },
 { value : "Happier Than Ever - Edit by Billie Eilish", 
@@ -10495,6 +10553,35 @@ const songs = [
             mpath : "1/5th Y, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/3rd B, 1/1st B, 1/NN",
             m_image : "'lachona_mbass.png'",
             mscore : "168840",
+            } 
+        },
+{ value : "Lachryma by Ghost", 
+            data : {
+            shortname : "lachryma",
+
+            dpath : "2/1st RB, 1/4th RY, 1/NN, 1/NN, 3/1st RO, 1/NN, 1/1st RY, 1/2nd RB, 2/1st RB",
+            d_image : "'lachryma_drums.png'",
+            dscore : "212400",
+
+            vpath : "1/6th O, 1/NN, 1/4th G, 1/19th Y, 1/NN, 1/NN, 1/1st G, 2/2nd R, 1/NN",
+            v_image : "'lachryma_vocals.png'",
+            vscore : "88275",
+
+            gpath : "1(+1)/1st RY, 1/1st RY, 1/NN, 1(+1)/1st RY, 1/1st GR, 1/17th G, 1/13th R, 1(+1)/9th G, 1/2nd G, 1/NN, 1/8th Y",
+            g_image : "'lachryma_guitar.png'",
+            gscore : "202440",
+
+            bpath : "1/5th GR, 3/After 1.7 beats, 1/2nd G, 2(+1)/6th B, 1/5th R, 1/9th Y, 1/2nd Y, 1/23rd G, 1/11th R",
+            b_image : "'lachryma_bass.png'",
+            bscore : "224412",
+
+            lpath : "1(+1)/1st RB, 1/2nd RB, 1/NN, 1(+1)/1st RB, 1/1st RB, 1/17th G, 1/1st RO, 1(+1)/8th G, 1/5th G, 1/NN, 1/13th R",
+            l_image : "'lachryma_lead.png'",
+            lscore : "198752",
+
+            mpath : "1/5th GB, 1/6th G, 1/12th G, 1/NN, 1/2nd Y, 1/10th G, 1/5th G, 1/7th Y, 1/5th R, 1/9th Y, 1/2nd Y, 1/7th Y, 1/11th R",
+            m_image : "'lachryma_mbass.png'",
+            mscore : "219564",
             } 
         },
 { value : "L'amour Caché by Gijs Knol", 
@@ -16761,6 +16848,35 @@ const songs = [
             mscore : "187200",
             } 
         },
+{ value : "Somebody's Watching Me (Urban Renewal Project Remix) by Rockwell", 
+            data : {
+            shortname : "somebodyswatchingme",
+
+            dpath : "1/2nd RY, 1/NN, 1/1st RY, 1/2nd RY, 1/10th RY, 1/NN, 1/NN, 1/2nd RY, 1/2nd RY, 1/1st RY, 1/NN, 1/2nd RY, 1/2nd RY",
+            d_image : "'somebodyswatchingme_drums.png'",
+            dscore : "254448",
+
+            vpath : "1/8th R, 1/3rd B, 1/5th G, 1/1st Y, 1/2nd O, 1/2nd B, 1/6th B, 1/NN, 1/7th R",
+            v_image : "'somebodyswatchingme_vocals.png'",
+            vscore : "127444",
+
+            gpath : "4(+1)/2nd RY, 2(+1)/2nd O, 1/NN, 1/NN, 1/NN",
+            g_image : "'somebodyswatchingme_guitar.png'",
+            gscore : "85656",
+
+            bpath : "1/5th R, 1/4th G, 1/3rd R, 1/4th Y, 1/2nd G, 1/NN, 2/NN, 1/13th Y",
+            b_image : "'somebodyswatchingme_bass.png'",
+            bscore : "129501",
+
+            lpath : "1(+1)/1st RB, 2/NN, 3(+1)/2nd O, 1/NN, 1/NN, 1/NN",
+            l_image : "'somebodyswatchingme_lead.png'",
+            lscore : "85336",
+
+            mpath : "1/5th R, 1/4th G, 1/3rd R, 1/4th Y, 1/2nd G, 1/NN, 2/NN, 1/13th Y",
+            m_image : "'somebodyswatchingme_mbass.png'",
+            mscore : "129501",
+            } 
+        },
 { value : "Somebody That I Used To Know by Gotye ft. Kimbra", 
             data : {
             shortname : "somebodythatiusedtoknow",
@@ -19197,6 +19313,35 @@ const songs = [
             mscore : "234171",
             } 
         },
+{ value : "This Is Halloween by Danny Elfman", 
+            data : {
+            shortname : "thisishalloween",
+
+            dpath : "1/4th Y, 1/2nd O, 1/NN, 3(+2)/3rd B, 2/7th B",
+            d_image : "'thisishalloween_drums.png'",
+            dscore : "48816",
+
+            vpath : "1/1st O, 1/4th R, 1/3rd GO, 1/1st O, 1/2nd B, 1/2nd R, 2/NN, 1/3rd O, 1/1st O, 1/3rd GO",
+            v_image : "'thisishalloween_vocals.png'",
+            vscore : "148698",
+
+            gpath : "1/1st O, 1/8th Y, 1/1st Y, 1/1st RB, 2/10th Y, 1/1st Y, 1/3rd O, 1/1 beats after 9th R, 1/11th Y, 1/1st O, 1/1st YO, 1/NN, 1/3rd B",
+            g_image : "'thisishalloween_guitar.png'",
+            gscore : "145228",
+
+            bpath : "1/6th G, 1/NN, 2/3rd O, 1/NN, 3/NN, 1/1st R, 1(+1)/8th B, 2/1st G",
+            b_image : "'thisishalloween_bass.png'",
+            bscore : "116622",
+
+            lpath : "1/5th Y, 1/7th Y, 1/1st B, 1/8th O, 2/10th Y, 1/1st B, 1/3rd O, 1/1 beats after 9th R, 1/12th Y, 1/6th R, 1/2nd Y, 1/NN, 1/3rd B",
+            l_image : "'thisishalloween_lead.png'",
+            lscore : "137770",
+
+            mpath : "1/6th G, 1/NN, 2/3rd O, 1/NN, 3/NN, 1/1st R, 1(+1)/8th B, 2/1st G",
+            m_image : "'thisishalloween_mbass.png'",
+            mscore : "116622",
+            } 
+        },
 { value : "This Is How We Do It by Montell Jordan", 
             data : {
             shortname : "thisishowwedoit",
@@ -20268,6 +20413,35 @@ const songs = [
             mpath : "1/8th G, 1/9th Y, 1/NN, 1(+1)/16th Y",
             m_image : "'wellwhateveritwas_mbass.png'",
             mscore : "105192",
+            } 
+        },
+{ value : "Werewolves of London by Warren Zevon", 
+            data : {
+            shortname : "werewolvesoflondon",
+
+            dpath : "1/NN, 1/NN, 1/7th RY, 1/3rd GY, 1/3rd RY, 1/8th GY, 1/1st GB, 1/NN, 1/4th B, 1/NN",
+            d_image : "'werewolvesoflondon_drums.png'",
+            dscore : "213408",
+
+            vpath : "2/4th Y, 1/10th Y, 1/1st R, 1/NN, 1/7th Y, 1/3rd G",
+            v_image : "'werewolvesoflondon_vocals.png'",
+            vscore : "76185",
+
+            gpath : "1(+1)/4th RO, 2/3rd RY, 1/1st GRB, 1/NN, 1/NN, 1/1st GR, 1/2nd GB, 1/7th R",
+            g_image : "'werewolvesoflondon_guitar.png'",
+            gscore : "184228",
+
+            bpath : "1/3rd B, 1/NN, 3/1st Y, 1/5th G, 1/NN, 2(+1)/13th R",
+            b_image : "'werewolvesoflondon_bass.png'",
+            bscore : "169236",
+
+            lpath : "1(+1)/4th RO, 1/1st GY, 1/NN, 1/1st GY, 1/NN, 1/NN, 1/1st GY, 1/2nd GB, 1/3rd B",
+            l_image : "'werewolvesoflondon_lead.png'",
+            lscore : "174844",
+
+            mpath : "1/3rd B, 1/NN, 3/1st R, 1/5th G, 1/NN, 2(+1)/17th R",
+            m_image : "'werewolvesoflondon_mbass.png'",
+            mscore : "169200",
             } 
         },
 { value : "What Are You Waiting For by d4vd", 
