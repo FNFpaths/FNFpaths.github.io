@@ -1217,6 +1217,35 @@ const songs = [
             mscore : "30000",
             } 
         },
+{ value : "Banana Boat (Day-O) by Harry Belafonte", 
+            data : {
+            shortname : "bananaboat",
+
+            dpath : "1/3rd O, 1/13th R, 1/4th Y, 1/NN, 1/10th R, 1/8th Y, 1/4th Y, 1/NN",
+            d_image : "'bananaboat_drums.png'",
+            dscore : "67224",
+
+            vpath : "1/1st GY, 1/1st G, 1/NN, 1/NN, 1/1st GY, 1/NN, 1/NN, 1/1st G, 1/3rd GY",
+            v_image : "'bananaboat_vocals.png'",
+            vscore : "158082",
+
+            gpath : "",
+            g_image : "'bananaboat_guitar.png'",
+            gscore : "",
+
+            bpath : "2/2nd G, 1/3rd G, 1/NN, 1/2nd B, 1/NN, 1/NN",
+            b_image : "'bananaboat_bass.png'",
+            bscore : "52536",
+
+            lpath : "",
+            l_image : "'bananaboat_lead.png'",
+            lscore : "",
+
+            mpath : "2/2nd G, 1/3rd G, 1/NN, 1/2nd O, 1/NN, 1/NN",
+            m_image : "'bananaboat_mbass.png'",
+            mscore : "52536",
+            } 
+        },
 { value : "Bandit by Don Toliver", 
             data : {
             shortname : "bandit",
@@ -10205,6 +10234,35 @@ const songs = [
             mpath : "1/3rd B, 1/NN, 1/NN, 1/3rd G, 1/1st G, 1/NN, 1/3rd G, 1/1st G, 1/3rd G",
             m_image : "'juicy_mbass.png'",
             mscore : "145179",
+            } 
+        },
+{ value : "Jump in the Line by Harry Belafonte", 
+            data : {
+            shortname : "jumpintheline",
+
+            dpath : "1/33rd Y, 1/NN, 1/48th Y, 2/5th R, 1/NN, 1/22nd R, 1/NN, 1/7th Y, 2/15th R",
+            d_image : "'jumpintheline_drums.png'",
+            dscore : "205776",
+
+            vpath : "1/5th G, 1/NN, 1/5th G, 1/6th B, 1/6th B, 1/NN, 2/6th B, 1/1st R",
+            v_image : "'jumpintheline_vocals.png'",
+            vscore : "156348",
+
+            gpath : "3/6th Y, 1(+1)/9th G, 1/5th Y, 1/3rd O, 1/8th Y, 1/2nd G, 1(+1)/1st G",
+            g_image : "'jumpintheline_guitar.png'",
+            gscore : "137520",
+
+            bpath : "1/3rd O, 1/4th R, 1/NN, 1/8th R, 1/NN, 1/NN, 1/NN, 1/NN, 1/2nd B, 1(+1)/3rd O",
+            b_image : "'jumpintheline_bass.png'",
+            bscore : "121608",
+
+            lpath : "3/6th Y, 1(+1)/9th G, 1/5th Y, 1/3rd O, 1/9th Y, 1/2nd G, 1(+1)/1st G",
+            l_image : "'jumpintheline_lead.png'",
+            lscore : "137376",
+
+            mpath : "1/3rd O, 1/4th R, 1/NN, 1/8th R, 1/NN, 1/NN, 1/NN, 1/NN, 1/2nd B, 1(+1)/3rd O",
+            m_image : "'jumpintheline_mbass.png'",
+            mscore : "121608",
             } 
         },
 { value : "Juno by Sabrina Carpenter", 
