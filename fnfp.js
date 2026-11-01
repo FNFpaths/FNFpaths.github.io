@@ -6930,6 +6930,35 @@ const songs = [
             mscore : "53595",
             } 
         },
+{ value : "Fortune's End by Epic Games", 
+            data : {
+            shortname : "fortunesend",
+
+            dpath : "2(+1)/23rd O, 2(+1)/23rd O, 1/1st GO, 1/NN",
+            d_image : "'fortunesend_drums.png'",
+            dscore : "102996",
+
+            vpath : "1/8th Y, 3/10th Y, 1/2nd R, 1(+1)/9th B, 1/8th R",
+            v_image : "'fortunesend_vocals.png'",
+            vscore : "125391",
+
+            gpath : "2(+1)/12th Y, 1/4th B, 1/5th Y, 1/13th Y, 1/NN, 1/NN",
+            g_image : "'fortunesend_guitar.png'",
+            gscore : "115170",
+
+            bpath : "1/25th RB, 1/NN, 1/NN, 1/NN, 1/7th R, 1/7th R, 1/3rd B",
+            b_image : "'fortunesend_bass.png'",
+            bscore : "103392",
+
+            lpath : "2(+1)/10th R, 1/NN, 1/5th R, 1/13th R, 1/NN, 1/NN",
+            l_image : "'fortunesend_lead.png'",
+            lscore : "114306",
+
+            mpath : "1/25th RB, 1/NN, 1/NN, 1/NN, 1/7th R, 1/7th R, 1/3rd B",
+            m_image : "'fortunesend_mbass.png'",
+            mscore : "103392",
+            } 
+        },
 { value : "For Whom The Bell Tolls by Metallica", 
             data : {
             shortname : "forwhomthebelltolls",
@@ -13658,6 +13687,35 @@ const songs = [
             mscore : "145842",
             } 
         },
+{ value : "NO TRESPASSING by A$AP Rocky", 
+            data : {
+            shortname : "notrespassing",
+
+            dpath : "2/2nd RO, 1/1st RO, 2/4th RO, 1/1st RO, 1/1st RO",
+            d_image : "'notrespassing_drums.png'",
+            dscore : "150624",
+
+            vpath : "1(+1)/18th B, 1/11th Y, 1/5th R, 3/2nd Y, 1/22nd B",
+            v_image : "'notrespassing_vocals.png'",
+            vscore : "192564",
+
+            gpath : "1/3rd R, 1/1st B, 1/NN, 1/1st B, 1/1st B, 1/NN, 1/1st B, 1/After 0.082 beats",
+            g_image : "'notrespassing_guitar.png'",
+            gscore : "30216",
+
+            bpath : "1/15th G, 1/12th G, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            b_image : "'notrespassing_bass.png'",
+            bscore : "120744",
+
+            lpath : "1/3rd R, 1/1st O, 1/NN, 1/1st O, 1/1st O, 1/NN, 1/1st O, 1/After 0.082 beats",
+            l_image : "'notrespassing_lead.png'",
+            lscore : "23968",
+
+            mpath : "1/15th G, 1/12th G, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            m_image : "'notrespassing_mbass.png'",
+            mscore : "120744",
+            } 
+        },
 { value : "Not Without a Fight by Epic Games", 
             data : {
             shortname : "notwithoutafight",
@@ -16904,6 +16962,35 @@ const songs = [
             mpath : "1/NN, 2/NN, 1/12th G, 1/NN, 3(+1)/6th B, 1/32nd B",
             m_image : "'sofarsofake_mbass.png'",
             mscore : "187200",
+            } 
+        },
+{ value : "So Long, I'm Leaving by The Home Of Happy", 
+            data : {
+            shortname : "solongimleaving",
+
+            dpath : "1/2nd RY, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            d_image : "'solongimleaving_drums.png'",
+            dscore : "141552",
+
+            vpath : "1/6th R, 1/NN, 1/5th R, 1/NN, 1/7th G, 1/After 0.082 beats, 1/1st R",
+            v_image : "'solongimleaving_vocals.png'",
+            vscore : "72792",
+
+            gpath : "1/NN, 1/9th R, 1/NN, 2/1st RY, 2/1st R, 1/NN, 3/13th R",
+            g_image : "'solongimleaving_guitar.png'",
+            gscore : "223476",
+
+            bpath : "1/8th Y, 1/2nd O, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/6th R",
+            b_image : "'solongimleaving_bass.png'",
+            bscore : "128007",
+
+            lpath : "1/NN, 1/3rd O, 2(+1)/6th R, 2/1st R, 1/NN, 2/6th O, 1/6th O",
+            l_image : "'solongimleaving_lead.png'",
+            lscore : "204464",
+
+            mpath : "1/8th Y, 1/2nd O, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/6th R",
+            m_image : "'solongimleaving_mbass.png'",
+            mscore : "128007",
             } 
         },
 { value : "Somebody's Watching Me (Urban Renewal Project Remix) by Rockwell", 
