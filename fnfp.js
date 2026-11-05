@@ -8061,6 +8061,35 @@ const songs = [
             mscore : "161730",
             } 
         },
+{ value : "GRIM FREESTYLE by A$AP Rocky", 
+            data : {
+            shortname : "grim",
+
+            dpath : "1/8th GY, 1/2nd GY, 1/NN, 1/1st GY, 1/1st GY, 1/7th GY, 1/NN, 1/2nd GY, 1/8th GY",
+            d_image : "'grim_drums.png'",
+            dscore : "159264",
+
+            vpath : "1/7th O, 1/NN, 1/NN, 1/NN, 4(+1)/8th G, 1/3rd B, 1/2nd R",
+            v_image : "'grim_vocals.png'",
+            vscore : "155121",
+
+            gpath : "4/3rd YB, 1/2nd YB, 1/NN, 2/1st RY, 1/2nd RY",
+            g_image : "'grim_guitar.png'",
+            gscore : "69606",
+
+            bpath : "2/NN, 2/2nd R, 1/4th B, 1/2nd B, 1/4th B, 1/2nd B, 1/NN",
+            b_image : "'grim_bass.png'",
+            bscore : "55635",
+
+            lpath : "4/3rd RB, 1/2nd RB, 1/NN, 2/1st GB, 1/2nd GB",
+            l_image : "'grim_lead.png'",
+            lscore : "69606",
+
+            mpath : "2/NN, 2/2nd R, 1/4th B, 1/2nd B, 1/4th B, 1/2nd B, 1/NN",
+            m_image : "'grim_mbass.png'",
+            mscore : "55635",
+            } 
+        },
 { value : "Gwenpool's Multiverse by Epic Games", 
             data : {
             shortname : "gwenpoolsmultiverse",
@@ -11452,6 +11481,35 @@ const songs = [
             mpath : "1/NN, 1/NN, 2/7th O, 1/4th G, 1(+1)/19th G, 2/6th G, 1/23rd R, 1/9th G",
             m_image : "'lordofthewasteland_mbass.png'",
             mscore : "264537",
+            } 
+        },
+{ value : "Lord Pretty Flacko Jodye 2 (LPFJ2) by A$AP Rocky", 
+            data : {
+            shortname : "lordprettyflacko",
+
+            dpath : "1/1st GY, 1/NN, 1/1st GY, 1/1st GY, 1/NN",
+            d_image : "'lordprettyflacko_drums.png'",
+            dscore : "48672",
+
+            vpath : "1/14th Y, 1/4th B, 1/2nd B, 1/13th G, 1/5th Y, 1/NN",
+            v_image : "'lordprettyflacko_vocals.png'",
+            vscore : "119502",
+
+            gpath : "1/1st O, 1/2nd R, 1/NN, 1/NN, 1/2nd R, 1/NN",
+            g_image : "'lordprettyflacko_guitar.png'",
+            gscore : "48636",
+
+            bpath : "1/1.7 beats after 11th R, 1/1st O, 1/3rd R, 1/6th R, 1/NN",
+            b_image : "'lordprettyflacko_bass.png'",
+            bscore : "56454",
+
+            lpath : "1/1st O, 1/2nd R, 1/NN, 1/NN, 1/2nd R, 1/NN",
+            l_image : "'lordprettyflacko_lead.png'",
+            lscore : "48516",
+
+            mpath : "1/1.7 beats after 11th R, 1/1st O, 1/3rd R, 1/6th R, 1/NN",
+            m_image : "'lordprettyflacko_mbass.png'",
+            mscore : "56256",
             } 
         },
 { value : "Lose Control by Teddy Swims", 
@@ -15483,6 +15541,35 @@ const songs = [
             mpath : "1/2nd O, 1/1.7 beats after 2nd Y, 1(+1)/8th G, 1/1.7 beats after 1st Y, 1/1st R, 1(+1)/4th R, 1/1st O, 1/7th G",
             m_image : "'ringringring_mbass.png'",
             mscore : "121194",
+            } 
+        },
+{ value : "RIOT (Rowdy Pipe’n) by A$AP Rocky", 
+            data : {
+            shortname : "riot",
+
+            dpath : "1/4th GY, 1/8th GY, 1(+1)/1st RY, 1/1st RY, 1/1st RY, 1/1st RY",
+            d_image : "'riot_drums.png'",
+            dscore : "127440",
+
+            vpath : "2(+1)/2nd Y, 3(+1)/15th B, 1/NN, 2/2nd Y",
+            v_image : "'riot_vocals.png'",
+            vscore : "174528",
+
+            gpath : "1/1st B, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            g_image : "'riot_guitar.png'",
+            gscore : "66642",
+
+            bpath : "2(+1)/13th Y, 1/NN, 1/NN, 2/12th Y",
+            b_image : "'riot_bass.png'",
+            bscore : "45921",
+
+            lpath : "1/1st O, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN, 1/NN",
+            l_image : "'riot_lead.png'",
+            lscore : "66654",
+
+            mpath : "2(+1)/13th Y, 1/NN, 1/NN, 2/12th Y",
+            m_image : "'riot_mbass.png'",
+            mscore : "45165",
             } 
         },
 { value : "Roar by Katy Perry", 
