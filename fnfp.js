@@ -11396,6 +11396,35 @@ const songs = [
             mscore : "34875",
             } 
         },
+{ value : "London by Lil Uzi Vert", 
+            data : {
+            shortname : "london",
+
+            dpath : "1/4th RY, 1/4th RY, 1/1st RY, 1/5th RY, 1/1st B, 1/7th RY, 1/1st RY, 1/NN, 1/4th RY, 1/5th RY",
+            d_image : "'london_drums.png'",
+            dscore : "218304",
+
+            vpath : "1/15th B, 1/10th B, 1/6th B, 1/NN, 1/1st R, 1/10th R, 1/6th B, 1/NN, 1/3rd O, 2/6th B, 1/6th B",
+            v_image : "'london_vocals.png'",
+            vscore : "171618",
+
+            gpath : "1/NN, 3(+1)/1st YO, 1/NN, 2/3rd B, 1/NN, 1/NN, 1/4th G",
+            g_image : "'london_guitar.png'",
+            gscore : "91332",
+
+            bpath : "2/4th R, 1/1st R, 1/1st G, 1/1st G",
+            b_image : "'london_bass.png'",
+            bscore : "29466",
+
+            lpath : "1/NN, 3(+1)/1st RB, 1/NN, 2/3rd B, 1/NN, 1/NN, 1/4th G",
+            l_image : "'london_lead.png'",
+            lscore : "91332",
+
+            mpath : "2/4th R, 1/1st R, 1/1st G, 1/1st G",
+            m_image : "'london_mbass.png'",
+            mscore : "29466",
+            } 
+        },
 { value : "lonely by speaker knockerz", 
             data : {
             shortname : "lonely",
