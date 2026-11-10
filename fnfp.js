@@ -11406,7 +11406,7 @@ const songs = [
 
             vpath : "1/15th B, 1/10th B, 1/6th B, 1/NN, 1/1st R, 1/10th R, 1/6th B, 1/NN, 1/3rd O, 2/6th B, 1/6th B",
             v_image : "'london_vocals.png'",
-            vscore : "171618",
+            vscore : "171186",
 
             gpath : "1/NN, 3(+1)/1st YO, 1/NN, 2/3rd B, 1/NN, 1/NN, 1/4th G",
             g_image : "'london_guitar.png'",
