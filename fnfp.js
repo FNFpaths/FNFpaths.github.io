@@ -2145,6 +2145,35 @@ const songs = [
             mscore : "84366",
             } 
         },
+{ value : "BIRDBRAIN by Jamie Paige, OK Glass ft. Kasane Teto", 
+            data : {
+            shortname : "birdbrain",
+
+            dpath : "3/3rd R, 1/7th RB, 1/NN, 1/9th R, 2(+1)/1st GB, 4/1st RO, 1/NN, 1/1st GB, 1/7th RB, 1/3rd GB, 1/7th RB, 1/8th RB",
+            d_image : "'birdbrain_drums.png'",
+            dscore : "238320",
+
+            vpath : "1/4th O, 1/5th B, 1/2nd O, 1/6th B, 1/NN, 1/8th R, 1/4th G, 1/8th O, 1/6th B, 1/NN, 1/7th Y, 1/NN, 1/1.2 beats after 1st GO, 1/2nd O, 1/6th B",
+            v_image : "'birdbrain_vocals.png'",
+            vscore : "216087",
+
+            gpath : "1/3rd RY, 1/1st RYO, 1/3rd YB, 1/NN, 1/2nd RY, 1/1st Y, 2/2nd YB, 1/1st GRB, 1/3rd Y, 1/1st GYB, 1/5th Y, 1/NN, 3(+1)/5th YB, 1/NN",
+            g_image : "'birdbrain_guitar.png'",
+            gscore : "239969",
+
+            bpath : "1/5th R, 1/5th O, 1/NN, 1/4th O, 1(+1)/2nd B, 2/5th G, 1/NN, 1/1st O, 2(+1)/4th O, 1/8th R, 1/4th O, 1/6th R, 1/4th O, 1/NN",
+            b_image : "'birdbrain_bass.png'",
+            bscore : "237702",
+
+            lpath : "1/3rd RB, 1/4th GB, 1/3rd RB, 1/NN, 1/2nd RB, 1/2nd R, 2/2nd RB, 1/2nd GB, 1/2nd Y, 1/2nd GB, 2/0.75 beats after 1st B, 1/1st G, 2/2nd RB, 1/2nd GB, 1/NN",
+            l_image : "'birdbrain_lead.png'",
+            lscore : "217158",
+
+            mpath : "1/5th R, 1/5th O, 1/NN, 1/4th O, 1(+1)/3rd O, 2/5th G, 1/NN, 1/1st O, 2(+1)/4th O, 1/8th R, 1/4th O, 1/6th R, 1/4th O, 1/NN",
+            m_image : "'birdbrain_mbass.png'",
+            mscore : "236838",
+            } 
+        },
 { value : "BIRDS OF A FEATHER by Billie Eilish", 
             data : {
             shortname : "birdsofafeather",
@@ -3941,6 +3970,35 @@ const songs = [
             mpath : "3/2nd Y, 1/NN, 1/4th Y, 1/6th Y, 1/2nd G, 1(+1)/5th B, 1/5th B",
             m_image : "'choosintexas_mbass.png'",
             mscore : "107589",
+            } 
+        },
+{ value : "Chronicles of Destiny by The Home Of Happy, James Corbin", 
+            data : {
+            shortname : "chroniclesofdestiny",
+
+            dpath : "1/NN, 1/NN, 1/1st GO, 1/1st GO, 1/NN, 1/1st GO, 1/19th O",
+            d_image : "'chroniclesofdestiny_drums.png'",
+            dscore : "114912",
+
+            vpath : "1/2nd GY, 1/1st GY, 1/1st GO, 1/1st RO, 1/1st GO, 1/1st RO",
+            v_image : "'chroniclesofdestiny_vocals.png'",
+            vscore : "85179",
+
+            gpath : "4(+1)/NN, 2/8th B",
+            g_image : "'chroniclesofdestiny_guitar.png'",
+            gscore : "160104",
+
+            bpath : "1/NN, 1/3rd O, 1/8th R, 1/NN, 1/10th B, 1/NN, 1/1st R",
+            b_image : "'chroniclesofdestiny_bass.png'",
+            bscore : "125451",
+
+            lpath : "4(+1)/NN, 2/8th B",
+            l_image : "'chroniclesofdestiny_lead.png'",
+            lscore : "156654",
+
+            mpath : "1/NN, 1/3rd B, 1/8th R, 1/NN, 1/NN, 1/NN, 1/1st R",
+            m_image : "'chroniclesofdestiny_mbass.png'",
+            mscore : "124587",
             } 
         },
 { value : "Chyld of Dawn by Epic Games", 
@@ -14934,6 +14992,35 @@ const songs = [
             mscore : "65685",
             } 
         },
+{ value : "Poured by Lil Uzi Vert", 
+            data : {
+            shortname : "poured",
+
+            dpath : "1/1st GY, 1/2nd GO, 1/2nd GO, 1/2nd GO, 1/4th R, 1/1st GO, 1/NN, 2/NN, 1/1st GO",
+            d_image : "'poured_drums.png'",
+            dscore : "211536",
+
+            vpath : "3(+1)/2nd B, 1/NN, 1/12th R, 1/6th R, 1/3rd O, 1/1st G, 1/12th R",
+            v_image : "'poured_vocals.png'",
+            vscore : "142317",
+
+            gpath : "1(+1)/12th B, 1/6th O, 1/NN, 1/NN, 1/NN, 2(+1)/6th B, 1/NN",
+            g_image : "'poured_guitar.png'",
+            gscore : "134208",
+
+            bpath : "1(+1)/32nd Y, 1/1st G, 1/NN, 1/NN, 1/16th Y, 1/3rd R, 1/1st G, 1/1st Y, 1/NN",
+            b_image : "'poured_bass.png'",
+            bscore : "108183",
+
+            lpath : "1(+1)/12th B, 1/6th O, 1/NN, 1/NN, 1/NN, 2(+1)/6th B, 1/NN",
+            l_image : "'poured_lead.png'",
+            lscore : "134208",
+
+            mpath : "1(+1)/32nd Y, 1/1st G, 1/NN, 1/NN, 1/16th Y, 1/3rd R, 1/1st G, 1/1st Y, 1/NN",
+            m_image : "'poured_mbass.png'",
+            mscore : "108183",
+            } 
+        },
 { value : "PPAP (Pen Pineapple Apple Pen) [Long Version] by Pikotaro", 
             data : {
             shortname : "ppap",
@@ -16065,6 +16152,35 @@ const songs = [
             mscore : "182118",
             } 
         },
+{ value : "Sa-Sen! by MONT, Risa, Musashi", 
+            data : {
+            shortname : "sasen",
+
+            dpath : "1/1st GO, 1/NN, 1/16th Y, 1/11th R, 1/1st GO, 1/11th Y, 1/8th R, 1/1st GO, 1/11th R, 1/11th R, 1/1st GO, 1/NN, 1/35th Y",
+            d_image : "'sasen_drums.png'",
+            dscore : "193824",
+
+            vpath : "2(+1)/17th Y, 1/3rd O, 1/1st O, 1/4th Y, 1/14th Y, 1/NN, 1/1st O, 2/NN",
+            v_image : "'sasen_vocals.png'",
+            vscore : "193779",
+
+            gpath : "1/5th RO, 2/1st GR, 1/0.5 beats after 6th G, 1/0.5 beats after 2nd G, 1/1st GRY, 1(+1)/1st GR, 2(+1)/3rd GO, 1/0.5 beats after 2nd G, 1/2nd RB",
+            g_image : "'sasen_guitar.png'",
+            gscore : "168821",
+
+            bpath : "1/14th R, 1/8th R, 1/8th Y, 1/NN, 1/NN, 1/9th R, 1/4th R, 1/5th Y, 1/NN, 1/2nd R, 1/NN, 1/NN",
+            b_image : "'sasen_bass.png'",
+            bscore : "180063",
+
+            lpath : "1/5th GO, 2/3rd GY, 1/0.5 beats after 6th G, 1/0.5 beats after 2nd G, 1/1st RB, 1(+1)/3rd GY, 2(+1)/3rd GO, 1/0.5 beats after 2nd G, 1/2nd RB",
+            l_image : "'sasen_lead.png'",
+            lscore : "157017",
+
+            mpath : "1/14th R, 1/8th R, 1/8th Y, 1/NN, 1/NN, 1/9th R, 1/4th R, 1/5th Y, 1/NN, 1/2nd R, 1/NN, 1/NN",
+            m_image : "'sasen_mbass.png'",
+            mscore : "180063",
+            } 
+        },
 { value : "Savage by Megan Thee Stallion", 
             data : {
             shortname : "savage",
@@ -16179,6 +16295,35 @@ const songs = [
             mpath : "1/5th R, 1(+1)/3rd G, 1/NN, 1(+1)/1st GB, 1(+1)/1st GB, 1/NN, 1/17th B",
             m_image : "'sayitproud_mbass.png'",
             mscore : "180189",
+            } 
+        },
+{ value : "Say It Was by Lil Uzi Vert", 
+            data : {
+            shortname : "sayitwas",
+
+            dpath : "1/4th RY, 1/2nd RY, 1/4th GY, 1/1st GB, 1/1st GY, 1/1st GY, 1/NN",
+            d_image : "'sayitwas_drums.png'",
+            dscore : "130608",
+
+            vpath : "1/11th Y, 4/4th B, 1/8th Y, 1/4th B, 1/4th O, 1/2nd B",
+            v_image : "'sayitwas_vocals.png'",
+            vscore : "166604",
+
+            gpath : "1/5th G, 2/NN, 1/NN, 2/5th Y, 1/5th R, 1/4th R, 1/NN",
+            g_image : "'sayitwas_guitar.png'",
+            gscore : "139008",
+
+            bpath : "3(+1)/2nd G, 1/1st B, 1/4th O, 1/2nd O, 1/NN",
+            b_image : "'sayitwas_bass.png'",
+            bscore : "56448",
+
+            lpath : "1/5th G, 2/NN, 1/NN, 2/5th R, 1/9th Y, 1/7th Y, 1/NN",
+            l_image : "'sayitwas_lead.png'",
+            lscore : "139008",
+
+            mpath : "3(+1)/2nd G, 1/1st B, 1/4th O, 1/2nd O, 1/NN",
+            m_image : "'sayitwas_mbass.png'",
+            mscore : "56448",
             } 
         },
 { value : "Say So by Doja Cat", 
@@ -16614,6 +16759,35 @@ const songs = [
             mpath : "1/3rd R, 1/5th Y, 1/3rd O, 1/2nd O, 1/NN, 1/NN, 1/NN, 1/NN, 1(+1)/2nd O, 1/5th O",
             m_image : "'showthemwhoweare_mbass.png'",
             mscore : "104442",
+            } 
+        },
+{ value : "Shut Up and Dance by WALK THE MOON", 
+            data : {
+            shortname : "shutupanddance",
+
+            dpath : "1/NN, 2/1st RB, 1/NN, 1/9th RB, 1/3rd RY, 1/7th B, 3/1st R, 1/3rd RY",
+            d_image : "'shutupanddance_drums.png'",
+            dscore : "216324",
+
+            vpath : "1/5th R, 1/1st B, 1/6th R, 1/1st B, 1/1st G, 1/4th B, 1/NN, 1/8th R, 1/1st G",
+            v_image : "'shutupanddance_vocals.png'",
+            vscore : "113292",
+
+            gpath : "1/8th B, 2/3rd BO, 1/10th R, 1(+1)/3rd BO, 1(+1)/1st GR, 2/1st YB, 1/23rd R",
+            g_image : "'shutupanddance_guitar.png'",
+            gscore : "215800",
+
+            bpath : "1/NN, 1/NN, 1/2nd O, 1/3rd Y, 1/6th Y, 1/1st O, 1/NN, 1(+1)/11th O, 1/NN, 1/1st O",
+            b_image : "'shutupanddance_bass.png'",
+            bscore : "179172",
+
+            lpath : "1/8th B, 2/3rd GO, 1/2nd Y, 1(+1)/3rd GO, 1(+1)/1st GY, 2/1st RB, 1/23rd G",
+            l_image : "'shutupanddance_lead.png'",
+            lscore : "215800",
+
+            mpath : "1/NN, 1/NN, 1/2nd O, 1/3rd Y, 1/6th Y, 1/1st O, 1/NN, 1(+1)/11th O, 1/NN, 1/1st O",
+            m_image : "'shutupanddance_mbass.png'",
+            mscore : "178092",
             } 
         },
 { value : "Shy Girl by Haute & Freddy", 
@@ -20935,6 +21109,35 @@ const songs = [
             mpath : "2/3rd Y, 1/3rd R, 1/4th B, 1/2nd B, 1/NN, 1/3rd R, 1/NN, 1(+1)/9th R, 1/NN, 1(+1)/6th R, 1/2nd G, 1/NN",
             m_image : "'whatsup_mbass.png'",
             mscore : "159132",
+            } 
+        },
+{ value : "What You Saying by Lil Uzi Vert", 
+            data : {
+            shortname : "whatyousaying",
+
+            dpath : "1/5th GO, 1/3rd GO, 1/2nd GO, 1/2nd GO, 1/1st GO, 1/1st GO, 1/2nd GO",
+            d_image : "'whatyousaying_drums.png'",
+            dscore : "76149",
+
+            vpath : "1/4th G, 1/2nd B, 1/NN, 1/11th Y, 1/6th B, 2/4th B",
+            v_image : "'whatyousaying_vocals.png'",
+            vscore : "106383",
+
+            gpath : "1/5th RB, 1/3rd RB, 1/1st RB, 1/NN, 1/NN, 1/NN, 1/NN, 1/2nd O",
+            g_image : "'whatyousaying_guitar.png'",
+            gscore : "83928",
+
+            bpath : "3(+1)/3rd B, 1/NN, 1/NN, 1/NN, 1/NN",
+            b_image : "'whatyousaying_bass.png'",
+            bscore : "52922",
+
+            lpath : "1/5th RB, 1/3rd RB, 1/1st RB, 1/NN, 1/NN, 1/NN, 1/NN, 1/2nd O",
+            l_image : "'whatyousaying_lead.png'",
+            lscore : "83928",
+
+            mpath : "3(+1)/3rd B, 1/NN, 1/NN, 1/NN, 1/NN",
+            m_image : "'whatyousaying_mbass.png'",
+            mscore : "52922",
             } 
         },
 { value : "Whenever, Wherever by Shakira", 
