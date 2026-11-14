@@ -4262,6 +4262,35 @@ const songs = [
             mscore : "73257",
             } 
         },
+{ value : "CONNECT:COMMUNE by FLAVOR FOLEY ft. Hatsune Miku", 
+            data : {
+            shortname : "connectcommune",
+
+            dpath : "3/1st RY, 1/NN, 4(+1)/1st RY, 1/NN, 1/7th G, 1/NN, 1/NN, 1/19th G",
+            d_image : "'connectcommune_drums.png'",
+            dscore : "259488",
+
+            vpath : "1/6th O, 2/5th Y, 1/7th R, 1/2nd O, 1/NN, 2/6th R, 1/NN, 1/2nd R, 1/6th Y, 1/3rd B, 1/NN, 1/5th B",
+            v_image : "'connectcommune_vocals.png'",
+            vscore : "165612",
+
+            gpath : "1(+1)/18th R, 2(+1)/18th R, 1(+1)/1st RYO, 1/1st G, 1/3rd R, 1/NN, 1/2nd Y, 1/5th G, 1/6th G, 1/NN, 1/3rd R",
+            g_image : "'connectcommune_guitar.png'",
+            gscore : "239553",
+
+            bpath : "1/12th Y, 1/1st O, 2(+1)/9th Y, 1/7th Y, 3/5th Y, 1/4th O, 2/5th Y, 1/11th B",
+            b_image : "'connectcommune_bass.png'",
+            bscore : "227505",
+
+            lpath : "4(+1)/NN, 4(+1)/5th Y, 1/3rd Y, 1/5th Y, 1/7th R, 1/NN, 1/3rd R",
+            l_image : "'connectcommune_lead.png'",
+            lscore : "230088",
+
+            mpath : "1/10th Y, 1/1st O, 2(+1)/9th Y, 1/5th G, 3/5th Y, 1/4th O, 2/5th Y, 1/5th B",
+            m_image : "'connectcommune_mbass.png'",
+            mscore : "227505",
+            } 
+        },
 { value : "Coral Chorus (Remix) by Epic Games", 
             data : {
             shortname : "coralchorusremix",
