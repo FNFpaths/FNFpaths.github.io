@@ -15079,6 +15079,35 @@ const songs = [
             mscore : "91764",
             } 
         },
+{ value : "PPPP by TAK ft. Hatsune Miku and Kasane Teto", 
+            data : {
+            shortname : "pppp",
+
+            dpath : "3/3rd RY, 1/1st GO, 4(+1)/5th GY",
+            d_image : "'pppp_drums.png'",
+            dscore : "169632",
+
+            vpath : "1/1st GO, 1/NN, 1/2nd Y, 1/NN, 1(+1)/5th O, 1/5th G, 1/1st O, 1/1st O",
+            v_image : "'pppp_vocals.png'",
+            vscore : "138684",
+
+            gpath : "2(+1)/2nd RB, 1/NN, 2/1st RB, 1/NN",
+            g_image : "'pppp_guitar.png'",
+            gscore : "95274",
+
+            bpath : "1/11th G, 3/1st B, 1/NN",
+            b_image : "'pppp_bass.png'",
+            bscore : "80898",
+
+            lpath : "2(+1)/2nd RB, 1/NN, 2/1st RB, 1/NN",
+            l_image : "'pppp_lead.png'",
+            lscore : "93258",
+
+            mpath : "1/20th G, 3/1st R, 1/NN",
+            m_image : "'pppp_mbass.png'",
+            mscore : "80898",
+            } 
+        },
 { value : "Into the Underworld by Epic Games", 
             data : {
             shortname : "predator",
