@@ -14760,6 +14760,35 @@ const songs = [
             mscore : "145455",
             } 
         },
+{ value : "Perfect Night by LE SSERAFIM", 
+            data : {
+            shortname : "perfectnight",
+
+            dpath : "1/3rd O, 1/19th O, 1/11th R, 1/7th O, 1/8th B, 1/NN, 1/13th B, 1/5th O",
+            d_image : "'perfectnight_drums.png'",
+            dscore : "85248",
+
+            vpath : "1/8th R, 1/2nd O, 1/1st RB, 1/2nd Y, 1/6th R, 1/2nd RB, 1/14th R, 1/1st O",
+            v_image : "'perfectnight_vocals.png'",
+            vscore : "121101",
+
+            gpath : "1/1st B, 1/1st B, 1/3rd B, 1/1st B, 1/1st B, 1/3rd B, 1/3rd B, 1/2nd B, 1/1st B",
+            g_image : "'perfectnight_guitar.png'",
+            gscore : "134550",
+
+            bpath : "3(+1)/2nd O, 1/After 0.082 beats, 1/3rd Y, 1/7th Y",
+            b_image : "'perfectnight_bass.png'",
+            bscore : "44862",
+
+            lpath : "1/2nd B, 1/1st RO, 1/1st RO, 1/1st RO, 1/1st RO, 1/1st RO, 1/2nd RO, 1/2nd RO, 1/1st B",
+            l_image : "'perfectnight_lead.png'",
+            lscore : "119076",
+
+            mpath : "3(+1)/2nd O, 1/After 0.082 beats, 1/3rd Y, 1/7th Y",
+            m_image : "'perfectnight_mbass.png'",
+            mscore : "44862",
+            } 
+        },
 { value : "Pick It Up (Remix) by Epic Games", 
             data : {
             shortname : "pickitup",
