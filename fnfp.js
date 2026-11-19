@@ -21836,6 +21836,35 @@ const songs = [
             mscore : "90708",
             } 
         },
+{ value : "Year of the Beast by Epic Games", 
+            data : {
+            shortname : "yearofthebeast",
+
+            dpath : "1/2nd GY, 1/2nd GO, 1/36th Y, 1/2nd GY, 1/26th Y, 1/18th Y, 1/1st GY, 1/8th Y",
+            d_image : "'yearofthebeast_drums.png'",
+            dscore : "148434",
+
+            vpath : "1/8th B, 1/8th O, 2/8th B, 1/12th Y, 1/1st R, 1/NN, 1/NN",
+            v_image : "'yearofthebeast_vocals.png'",
+            vscore : "166635",
+
+            gpath : "2/7th B, 1/6th O, 2/1st GR, 1/3rd O, 2/7th O",
+            g_image : "'yearofthebeast_guitar.png'",
+            gscore : "163212",
+
+            bpath : "1/1 beats after 2nd G, 1/3rd B, 1/3rd B, 1/7th G, 2(+1)/5th O",
+            b_image : "'yearofthebeast_bass.png'",
+            bscore : "100551",
+
+            lpath : "2/7th B, 1/6th O, 2/1st GY, 1/4th O, 2/7th O",
+            l_image : "'yearofthebeast_lead.png'",
+            lscore : "144168",
+
+            mpath : "1/1 beats after 2nd G, 1/3rd B, 1/0.75 beats after 1st O, 1/7th G, 2(+1)/5th O",
+            m_image : "'yearofthebeast_mbass.png'",
+            mscore : "98244",
+            } 
+        },
 { value : "yes, and? by Ariana Grande", 
             data : {
             shortname : "yesand",
